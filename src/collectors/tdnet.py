@@ -45,8 +45,14 @@ def fetch_tdnet():
         }
     )
     list_response.raise_for_status()
-
-    list_soup = BeautifulSoup(list_response.text, "html.parser")
+    
+    # TDnetはShift_JIS系の文字コードを使用
+    list_response.encoding = "shift_jis"
+    
+    list_soup = BeautifulSoup(
+        list_response.text,
+        "html.parser"
+    )
 
     print(f"Disclosure page status: {list_response.status_code}")
 
