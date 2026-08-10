@@ -1,7 +1,7 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-
 
 TDNET_URL = "https://www.release.tdnet.info/inbs/I_main_00.html"
 
@@ -55,7 +55,6 @@ def fetch_tdnet():
 
     print(f"Disclosure page status: {list_response.status_code}")
 
-    # HTML内のテーブルを取得
     tables = list_soup.find_all("table")
 
     print(f"Found {len(tables)} table(s)")
@@ -67,24 +66,22 @@ def fetch_tdnet():
         rows = table.find_all("tr")
 
         for row in rows:
-            cells = row.find_all(["td", "th"])
+            cells = row.find_all("td")
 
-            if not cells:
+            if len(cells) < 4:
                 continue
 
             texts = [
                 cell.get_text(" ", strip=True)
                 for cell in cells
             ]
-            if len(texts) < 4:
-                continue
 
             time = texts[0]
             code = texts[1]
             company = texts[2]
             title = texts[3]
 
-            if not time or ":" not in time:
+            if not re.fullmatch(r"\d{2}:\d{2}", time):
                 continue
 
             if not code:
@@ -110,12 +107,28 @@ def fetch_tdnet():
 
             disclosures.append(disclosure)
 
-    print(f"Structured disclosures: {len(disclosures)}")
+    unique_disclosures = []
+    seen = set()
 
-    for disclosure in disclosures[:10]:
+    for disclosure in disclosures:
+        key = (
+            disclosure["time"],
+            disclosure["code"],
+            disclosure["title"],
+            disclosure["url"],
+        )
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+        unique_disclosures.append(disclosure)
+
+    print(f"Structured disclosures: {len(unique_disclosures)}")
+
+    for disclosure in unique_disclosures[:10]:
         print(disclosure)
 
 
 if __name__ == "__main__":
     fetch_tdnet()
-
