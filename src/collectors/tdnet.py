@@ -21,14 +21,41 @@ def fetch_tdnet():
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
 
-    iframes = soup.find_all("iframe")
+    # 開示一覧のiframeを探す
+    list_iframe = None
 
-    print(f"Found {len(iframes)} iframe(s)")
-
-    for iframe in iframes:
+    for iframe in soup.find_all("iframe"):
         src = iframe.get("src")
-        if src:
-            print(f"iframe: {urljoin(TDNET_URL, src)}")
+
+        if src and "I_list_001_" in src:
+            list_iframe = urljoin(TDNET_URL, src)
+            break
+
+    if not list_iframe:
+        raise RuntimeError("TDnet disclosure list iframe was not found.")
+
+    print(f"Disclosure list: {list_iframe}")
+
+    # 開示一覧を取得
+    list_response = requests.get(
+        list_iframe,
+        timeout=30,
+        headers={
+            "User-Agent": "Mozilla/5.0"
+        }
+    )
+    list_response.raise_for_status()
+
+    list_soup = BeautifulSoup(list_response.text, "html.parser")
+
+    print(f"Disclosure page status: {list_response.status_code}")
+
+    # 表を確認
+    tables = list_soup.find_all("table")
+    print(f"Found {len(tables)} table(s)")
+
+    for table in tables:
+        print(table.get_text(" ", strip=True)[:1000])
 
 
 if __name__ == "__main__":
