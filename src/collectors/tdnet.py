@@ -15,14 +15,14 @@ def fetch_tdnet():
         }
     )
     response.raise_for_status()
-    response.encoding = "shift_jis"
+    list_response.encoding = "utf-8"
 
     soup = BeautifulSoup(response.text, "html.parser")
 
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
 
-    # 開示一覧のiframeを探す
+    # 最新のiframeのファイル名を取得
     list_iframe = None
 
     for iframe in soup.find_all("iframe"):
@@ -37,7 +37,7 @@ def fetch_tdnet():
 
     print(f"Disclosure list: {list_iframe}")
 
-    # 開示一覧を取得
+    # 開示データ取得
     list_response = requests.get(
         list_iframe,
         timeout=30,
@@ -47,8 +47,7 @@ def fetch_tdnet():
     )
     list_response.raise_for_status()
     
-    # TDnetはShift_JIS系の文字コードを使用
-    list_response.encoding = "shift_jis"
+    list_response.encoding = "utf-8"
     
     list_soup = BeautifulSoup(
         list_response.text,
@@ -57,7 +56,7 @@ def fetch_tdnet():
 
     print(f"Disclosure page status: {list_response.status_code}")
 
-    # 表を確認
+    # 結果表示
     tables = list_soup.find_all("table")
     print(f"Found {len(tables)} table(s)")
 
