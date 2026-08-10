@@ -31,6 +31,9 @@ def fetch_tdnet():
             list_iframe = urljoin(TDNET_URL, src)
             break
 
+    # テスト用 ----
+    list_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260810.html"
+    # -----------
     if not list_iframe:
         raise RuntimeError("TDnet disclosure list iframe was not found.")
 
