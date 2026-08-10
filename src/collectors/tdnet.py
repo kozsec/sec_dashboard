@@ -1,3 +1,4 @@
+```python
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -9,6 +10,25 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+TEST_DATE = "20260810"
+
+SECURITY_KEYWORDS = [
+    "セキュリティ",
+    "サイバー攻撃",
+    "不正アクセス",
+    "ランサムウェア",
+    "マルウェア",
+    "情報漏えい",
+    "情報流出",
+    "個人情報",
+    "データ流出",
+    "不正侵入",
+    "フィッシング",
+    "脆弱性",
+    "インシデント",
+    "システム障害",
+]
+
 
 def fetch_tdnet():
     response = requests.get(
@@ -16,6 +36,7 @@ def fetch_tdnet():
         timeout=30,
         headers=HEADERS
     )
+
     response.raise_for_status()
     response.encoding = "utf-8"
 
@@ -24,29 +45,21 @@ def fetch_tdnet():
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
 
-    list_iframe = None
-
-    for iframe in soup.find_all("iframe"):
-        src = iframe.get("src")
-
-        if src and "I_list_001_" in src:
-            list_iframe = urljoin(TDNET_URL, src)
-            break
-
-    # テスト用
-    list_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260810.html"
-    
-    if not list_iframe:
-        raise RuntimeError("TDnet disclosure list iframe was not found.")
+    list_iframe = (
+        "https://www.release.tdnet.info/inbs/"
+        f"I_list_001_{TEST_DATE}.html"
+    )
 
     print(f"Disclosure list: {list_iframe}")
 
-    first_page = get_page_number(list_iframe)
-
     disclosures = []
+    page = 1
 
-    for page in range(first_page, 9):
-        page_url = build_page_url(list_iframe, page)
+    while True:
+        page_url = build_page_url(
+            list_iframe,
+            page
+        )
 
         print(f"Processing page: {page}")
         print(f"Page URL: {page_url}")
@@ -55,24 +68,30 @@ def fetch_tdnet():
 
         print(f"Page disclosures: {len(page_disclosures)}")
 
+        if len(page_disclosures) == 0:
+            break
+
         disclosures.extend(page_disclosures)
 
         print(f"Total disclosures: {len(disclosures)}")
 
-        if len(page_disclosures) == 0:
-            break
-
-        if len(disclosures) >= 752:
-            break
-
-    disclosures = disclosures[:752]
+        page += 1
 
     print(f"Structured disclosures: {len(disclosures)}")
 
-    for disclosure in disclosures[:10]:
+    security_disclosures = filter_security_disclosures(
+        disclosures
+    )
+
+    print(
+        f"Security-related disclosures: "
+        f"{len(security_disclosures)}"
+    )
+
+    for disclosure in security_disclosures:
         print(disclosure)
 
-    return disclosures
+    return security_disclosures
 
 
 def fetch_page(page_url):
@@ -81,12 +100,19 @@ def fetch_page(page_url):
         timeout=30,
         headers=HEADERS
     )
+
     response.raise_for_status()
     response.encoding = "utf-8"
 
-    print(f"Disclosure page status: {response.status_code}")
+    print(
+        f"Disclosure page status: "
+        f"{response.status_code}"
+    )
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
+    )
 
     disclosures = []
 
@@ -114,7 +140,10 @@ def fetch_page(page_url):
         url = None
 
         if link:
-            url = urljoin(page_url, link["href"])
+            url = urljoin(
+                page_url,
+                link["href"]
+            )
 
         disclosure = {
             "time": time,
@@ -161,33 +190,44 @@ def is_disclosure_row(texts):
     return True
 
 
-def get_page_number(url):
-    name = url.split("/")[-1]
+def filter_security_disclosures(disclosures):
+    results = []
 
-    if "I_list_001_" not in name:
-        raise RuntimeError("Unexpected TDnet list URL.")
+    for disclosure in disclosures:
+        text = (
+            disclosure["company"]
+            + " "
+            + disclosure["title"]
+        )
 
-    try:
-        date_part = name.split("_")[-1].replace(".html", "")
-        datetime.strptime(date_part, "%Y%m%d")
-    except ValueError:
-        raise RuntimeError("Could not determine TDnet date.")
+        matched_keywords = [
+            keyword
+            for keyword in SECURITY_KEYWORDS
+            if keyword in text
+        ]
 
-    return 1
+        if matched_keywords:
+            disclosure["matched_keywords"] = matched_keywords
+            results.append(disclosure)
+
+    return results
 
 
 def build_page_url(first_page_url, page):
-    if page == 1:
-        return first_page_url
-
     name = first_page_url.split("/")[-1]
-    date_part = name.replace("I_list_001_", "").replace(".html", "")
+
+    date_part = (
+        name
+        .replace("I_list_001_", "")
+        .replace(".html", "")
+    )
 
     return (
-        f"https://www.release.tdnet.info/inbs/"
-        f"I_list_00{page}_{date_part}.html"
+        "https://www.release.tdnet.info/inbs/"
+        f"I_list_{page:03d}_{date_part}.html"
     )
 
 
 if __name__ == "__main__":
     fetch_tdnet()
+```
