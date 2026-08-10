@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime
 
+
 TDNET_URL = "https://www.release.tdnet.info/inbs/I_main_00.html"
 
 HEADERS = {
@@ -39,7 +40,10 @@ def fetch_tdnet():
     response.raise_for_status()
     response.encoding = "utf-8"
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
+    )
 
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
@@ -63,20 +67,31 @@ def fetch_tdnet():
         print(f"Processing page: {page}")
         print(f"Page URL: {page_url}")
 
-        page_disclosures = fetch_page(page_url)
+        page_disclosures, next_page_exists = fetch_page(
+            page_url
+        )
 
-        print(f"Page disclosures: {len(page_disclosures)}")
-
-        if len(page_disclosures) == 0:
-            break
+        print(
+            f"Page disclosures: "
+            f"{len(page_disclosures)}"
+        )
 
         disclosures.extend(page_disclosures)
 
-        print(f"Total disclosures: {len(disclosures)}")
+        print(
+            f"Total disclosures: "
+            f"{len(disclosures)}"
+        )
+
+        if not next_page_exists:
+            break
 
         page += 1
 
-    print(f"Structured disclosures: {len(disclosures)}")
+    print(
+        f"Structured disclosures: "
+        f"{len(disclosures)}"
+    )
 
     security_disclosures = filter_security_disclosures(
         disclosures
@@ -144,17 +159,24 @@ def fetch_page(page_url):
                 link["href"]
             )
 
-        disclosure = {
+        disclosures.append({
             "time": time,
             "code": code,
             "company": company,
             "title": title,
             "url": url,
-        }
+        })
 
-        disclosures.append(disclosure)
+    next_page_exists = False
 
-    return disclosures
+    for link in soup.find_all("a", href=True):
+        text = link.get_text(" ", strip=True)
+
+        if "次へ" in text:
+            next_page_exists = True
+            break
+
+    return disclosures, next_page_exists
 
 
 def is_disclosure_row(texts):
@@ -173,7 +195,10 @@ def is_disclosure_row(texts):
         return False
 
     try:
-        datetime.strptime(time, "%H:%M")
+        datetime.strptime(
+            time,
+            "%H:%M"
+        )
     except ValueError:
         return False
 
@@ -206,7 +231,10 @@ def filter_security_disclosures(disclosures):
         ]
 
         if matched_keywords:
-            disclosure["matched_keywords"] = matched_keywords
+            disclosure["matched_keywords"] = (
+                matched_keywords
+            )
+
             results.append(disclosure)
 
     return results
@@ -217,8 +245,14 @@ def build_page_url(first_page_url, page):
 
     date_part = (
         name
-        .replace("I_list_001_", "")
-        .replace(".html", "")
+        .replace(
+            "I_list_001_",
+            ""
+        )
+        .replace(
+            ".html",
+            ""
+        )
     )
 
     return (
