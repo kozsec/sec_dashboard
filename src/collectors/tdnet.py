@@ -1,4 +1,3 @@
-import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -37,12 +36,12 @@ def fetch_tdnet():
 
     print(f"Disclosure list: {list_iframe}")
 
-    disclosures = []
+    # 開示データをゲット
     current_url = list_iframe
     page_number = 1
+    disclosures = []
 
     while current_url:
-        # 開示データをゲット
         list_response = requests.get(
             current_url,
             timeout=30,
@@ -69,9 +68,9 @@ def fetch_tdnet():
             rows = table.find_all("tr")
 
             for row in rows:
-                cells = row.find_all("td")
+                cells = row.find_all(["td", "th"])
 
-                if len(cells) < 4:
+                if not cells:
                     continue
 
                 texts = [
@@ -79,12 +78,15 @@ def fetch_tdnet():
                     for cell in cells
                 ]
 
+                if len(texts) < 4:
+                    continue
+
                 time = texts[0]
                 code = texts[1]
                 company = texts[2]
                 title = texts[3]
 
-                if not re.fullmatch(r"\d{2}:\d{2}", time):
+                if not time or ":" not in time:
                     continue
 
                 if not code:
@@ -110,61 +112,30 @@ def fetch_tdnet():
 
                 page_disclosures.append(disclosure)
 
-        page_unique = []
-        seen = set()
+        disclosures.extend(page_disclosures)
 
-        for disclosure in page_disclosures:
-            key = (
-                disclosure["time"],
-                disclosure["code"],
-                disclosure["title"],
-                disclosure["url"],
-            )
-
-            if key in seen:
-                continue
-
-            seen.add(key)
-            page_unique.append(disclosure)
-
-        disclosures.extend(page_unique)
-
-        print(f"Page disclosures: {len(page_unique)}")
+        print(f"Page disclosures: {len(page_disclosures)}")
         print(f"Total disclosures: {len(disclosures)}")
 
-        # 次ページのURLをゲット
+        # 次のページのURLをゲット
         next_url = None
-        
-        for link in list_soup.find_all("a"):
+
+        for link in list_soup.find_all("a", href=True):
             text = link.get_text(" ", strip=True)
-        
-            if "次へ" in text:
-                print(f"Next link: {link}")
+
+            if "次" in text:
+                next_url = urljoin(
+                    current_url,
+                    link["href"]
+                )
+                break
 
         current_url = next_url
         page_number += 1
 
-    # 全体の重複を削除
-    unique_disclosures = []
-    seen = set()
+    print(f"Structured disclosures: {len(disclosures)}")
 
-    for disclosure in disclosures:
-        key = (
-            disclosure["time"],
-            disclosure["code"],
-            disclosure["title"],
-            disclosure["url"],
-        )
-
-        if key in seen:
-            continue
-
-        seen.add(key)
-        unique_disclosures.append(disclosure)
-
-    print(f"Structured disclosures: {len(unique_disclosures)}")
-
-    for disclosure in unique_disclosures[:10]:
+    for disclosure in disclosures[:10]:
         print(disclosure)
 
 
