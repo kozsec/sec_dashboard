@@ -55,9 +55,54 @@ def fetch_tdnet():
 
     print(f"Disclosure page status: {list_response.status_code}")
 
-    # 表でアウトプット
-    tables = list_soup.find_all("table")
-    print(f"Found {len(tables)} table(s)")
+    # データを構造化
+    disclosures = []
+
+    for table in tables:
+        rows = table.find_all("tr")
+
+        for row in rows:
+            cells = row.find_all(["td", "th"])
+
+            if not cells:
+                continue
+
+            texts = [cell.get_text(" ", strip=True) for cell in cells]
+
+            if len(texts) < 4:
+                continue
+
+            time = texts[0]
+            code = texts[1]
+            company = texts[2]
+            title = texts[3]
+
+            if not time or ":" not in time:
+                continue
+
+            if not code:
+                continue
+
+            link = row.find("a", href=True)
+
+            url = None
+            if link:
+                url = urljoin(list_iframe, link["href"])
+
+            disclosure = {
+                "time": time,
+                "code": code,
+                "company": company,
+                "title": title,
+                "url": url,
+            }
+
+            disclosures.append(disclosure)
+
+    print(f"Structured disclosures: {len(disclosures)}")
+
+    for disclosure in disclosures[:10]:
+        print(disclosure)
 
     for table in tables:
         print(table.get_text(" ", strip=True)[:1000])
