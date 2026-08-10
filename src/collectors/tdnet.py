@@ -1,3 +1,4 @@
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -21,7 +22,6 @@ def fetch_tdnet():
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
 
-    # iframeのURLゲット
     list_iframe = None
 
     for iframe in soup.find_all("iframe"):
@@ -31,22 +31,34 @@ def fetch_tdnet():
             list_iframe = urljoin(TDNET_URL, src)
             break
 
-    # テスト用 ----
-    list_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260810.html"
-    # -----------
     if not list_iframe:
         raise RuntimeError("TDnet disclosure list iframe was not found.")
 
     print(f"Disclosure list: {list_iframe}")
 
-    # 開示データをゲット
-    current_url = list_iframe
-    page_number = 1
     disclosures = []
 
-    while current_url:
+    match = re.search(
+        r"I_list_001_(\d{8})\.html",
+        list_iframe
+    )
+
+    if not match:
+        raise RuntimeError("Disclosure date was not found.")
+
+    date = match.group(1)
+
+    for page in range(1, 9):
+        if page == 1:
+            page_url = f"https://www.release.tdnet.info/inbs/I_list_001_{date}.html"
+        else:
+            page_url = f"https://www.release.tdnet.info/inbs/I_list_00{page}_{date}.html"
+
+        print(f"Processing page: {page}")
+        print(f"Page URL: {page_url}")
+
         list_response = requests.get(
-            current_url,
+            page_url,
             timeout=30,
             headers={
                 "User-Agent": "Mozilla/5.0"
@@ -60,20 +72,20 @@ def fetch_tdnet():
             "html.parser"
         )
 
-        print(f"Disclosure page status: {list_response.status_code}")
-        print(f"Processing page: {page_number}")
-
-        tables = list_soup.find_all("table")
+        if page == 1:
+            print(f"Disclosure page status: {list_response.status_code}")
 
         page_disclosures = []
+
+        tables = list_soup.find_all("table")
 
         for table in tables:
             rows = table.find_all("tr")
 
             for row in rows:
-                cells = row.find_all(["td", "th"])
+                cells = row.find_all("td")
 
-                if not cells:
+                if len(cells) < 4:
                     continue
 
                 texts = [
@@ -81,15 +93,12 @@ def fetch_tdnet():
                     for cell in cells
                 ]
 
-                if len(texts) < 4:
-                    continue
-
                 time = texts[0]
                 code = texts[1]
                 company = texts[2]
                 title = texts[3]
 
-                if not time or ":" not in time:
+                if not re.fullmatch(r"\d{2}:\d{2}", time):
                     continue
 
                 if not code:
@@ -101,7 +110,7 @@ def fetch_tdnet():
 
                 if link:
                     url = urljoin(
-                        current_url,
+                        page_url,
                         link["href"]
                     )
 
@@ -115,26 +124,14 @@ def fetch_tdnet():
 
                 page_disclosures.append(disclosure)
 
+        print(f"Page disclosures: {len(page_disclosures)}")
+
         disclosures.extend(page_disclosures)
 
-        print(f"Page disclosures: {len(page_disclosures)}")
         print(f"Total disclosures: {len(disclosures)}")
 
-        # 次のページのURLをゲット
-        next_url = None
-
-        for link in list_soup.find_all("a", href=True):
-            text = link.get_text(" ", strip=True)
-
-            if "次" in text:
-                next_url = urljoin(
-                    current_url,
-                    link["href"]
-                )
-                break
-
-        current_url = next_url
-        page_number += 1
+        if len(page_disclosures) == 0:
+            break
 
     print(f"Structured disclosures: {len(disclosures)}")
 
