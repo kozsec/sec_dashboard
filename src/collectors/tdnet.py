@@ -229,4 +229,3 @@ def build_page_url(first_page_url, page):
 
 if __name__ == "__main__":
     fetch_tdnet()
-```
