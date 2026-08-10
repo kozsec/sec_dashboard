@@ -134,16 +134,12 @@ def fetch_tdnet():
 
         # 次ページのURLをゲット
         next_url = None
-
-        for link in list_soup.find_all("a", href=True):
+        
+        for link in list_soup.find_all("a"):
             text = link.get_text(" ", strip=True)
-
-            if text == "次へ":
-                next_url = urljoin(
-                    current_url,
-                    link["href"]
-                )
-                break
+        
+            if "次へ" in text:
+                print(f"Next link: {link}")
 
         current_url = next_url
         page_number += 1
