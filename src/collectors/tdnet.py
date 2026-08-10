@@ -15,6 +15,7 @@ def fetch_tdnet():
         }
     )
     response.raise_for_status()
+    response.encoding = "shift_jis"
 
     soup = BeautifulSoup(response.text, "html.parser")
 
