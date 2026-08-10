@@ -15,14 +15,14 @@ def fetch_tdnet():
         }
     )
     response.raise_for_status()
-    list_response.encoding = "utf-8"
+    response.encoding = "utf-8"
 
     soup = BeautifulSoup(response.text, "html.parser")
 
     print(f"TDnet status: {response.status_code}")
     print(f"Page title: {soup.title.get_text(strip=True)}")
 
-    # 最新のiframeのファイル名を取得
+    # iframeのURLゲット
     list_iframe = None
 
     for iframe in soup.find_all("iframe"):
@@ -37,7 +37,7 @@ def fetch_tdnet():
 
     print(f"Disclosure list: {list_iframe}")
 
-    # 開示データ取得
+    # 開示データをゲット
     list_response = requests.get(
         list_iframe,
         timeout=30,
@@ -46,9 +46,8 @@ def fetch_tdnet():
         }
     )
     list_response.raise_for_status()
-    
     list_response.encoding = "utf-8"
-    
+
     list_soup = BeautifulSoup(
         list_response.text,
         "html.parser"
@@ -56,7 +55,7 @@ def fetch_tdnet():
 
     print(f"Disclosure page status: {list_response.status_code}")
 
-    # 結果表示
+    # 表でアウトプット
     tables = list_soup.find_all("table")
     print(f"Found {len(tables)} table(s)")
 
