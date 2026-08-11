@@ -833,10 +833,10 @@ function renderDisclosures() {
                 </div>
 
                 <div class="time" align="center">
-                    ${escapeHtml(item.date)}<br>${item.time ? ` ${escapeHtml(item.time)}` : ""}
+                    ${escapeHtml(item.date)} ${item.time ? ` ${escapeHtml(item.time)}` : ""}
                 </div>
 
-                <div class="company" align="center">
+                <div class="company">
                     ${safeOrganization}<br>
                     <span class="code">
                         ${safeIdentifier}
