@@ -69,6 +69,8 @@ def fetch_cisa_kev():
         f"{len(vulnerabilities)}"
     )
 
+    save_json(vulnerabilities)
+
     return vulnerabilities
 
 
@@ -100,14 +102,6 @@ def save_json(data):
             indent=2
         )
 
-    print(
-        f"Vulnerabilities: "
-        f"{len(data)}"
-    )
-    print(f"Saved: {filename}")
-
-
 # -- Main
 if __name__ == "__main__":
     vulnerabilities = fetch_cisa_kev()
-    save_json(vulnerabilities)
