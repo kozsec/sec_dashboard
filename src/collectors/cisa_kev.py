@@ -101,6 +101,7 @@ def save_json(data):
             ensure_ascii=False,
             indent=2
         )
+    print(f"Saved: {filename}")
 
 # -- Main
 if __name__ == "__main__":
