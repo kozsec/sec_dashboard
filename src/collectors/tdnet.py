@@ -5,6 +5,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime
 
+
+# -- Test
+testflg = False
+if testflg == True:
+    test_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260807.html"
+
 # -- Variable
 TDNET_URL = "https://www.release.tdnet.info/inbs/I_main_00.html"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
@@ -14,7 +20,10 @@ SECURITY_KEYWORDS = [
     "不正アクセス",
     "ランサムウェア",
     "マルウェア",
+    "情報漏洩",
+    "情報の漏洩",
     "情報漏えい",
+    "情報の漏えい",
     "情報流出",
     "個人情報",
     "データ流出",
@@ -24,9 +33,6 @@ SECURITY_KEYWORDS = [
     "インシデント",
     "システム障害"
 ]
-
-# -- Test
-#test_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260805.html"
 
 # -- Get TDnet data
 def fetch_tdnet():
@@ -46,10 +52,10 @@ def fetch_tdnet():
         if src and "I_list_001_" in src:
             list_iframe = urljoin(TDNET_URL, src)
             break
-
+    
     # == TEST ==
-    #list_iframe = test_iframe
-    # ==========
+    if testflg == True:
+        list_iframe = test_iframe
 
     if not list_iframe:
         raise RuntimeError(
@@ -122,6 +128,8 @@ def fetch_page(page_url, disclosure_date):
 
         time = texts[0]
         code = texts[1]
+        if len(code) == 5 and code.endswith("0"):
+            code = code[:-1]
         company = texts[2]
         title = texts[3]
 
@@ -136,10 +144,11 @@ def fetch_page(page_url, disclosure_date):
             )
 
         disclosure = {
+            "source": "適時開示",
             "date": disclosure_date,
             "time": time,
-            "code": code,
-            "company": company,
+            "organization": company,
+            "identifier": code,
             "title": title,
             "url": url,
         }
@@ -255,7 +264,7 @@ def filter_security_disclosures(disclosures):
 
     for disclosure in disclosures:
         text = (
-            disclosure["company"]
+            disclosure["organization"]
             + " "
             + disclosure["title"]
         )
