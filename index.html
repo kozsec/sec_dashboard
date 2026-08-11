@@ -214,17 +214,6 @@
                 box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.06);
             }
 
-            .sort {
-                height: 44px;
-                border: 1px solid #e1e6ee;
-                border-radius: 12px;
-                padding: 0 14px;
-                background: white;
-                color: #566176;
-                font-size: 13px;
-                cursor: pointer;
-            }
-
             .feed {
                 background: white;
                 border: 1px solid #e6eaf0;
@@ -547,11 +536,6 @@
                         placeholder="企業名・タイトルを検索..."
                     >
                 </div>
-
-                <select class="sort" id="sort">
-                    <option value="desc">新しい順</option>
-                    <option value="asc">古い順</option>
-                </select>
 
             </section>
 
@@ -914,13 +898,6 @@
         .getElementById("search")
         .addEventListener(
             "input",
-            renderDisclosures
-        );
-
-    document
-        .getElementById("sort")
-        .addEventListener(
-            "change",
             renderDisclosures
         );
 
