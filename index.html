@@ -613,7 +613,7 @@
                                 }
                                 return response.json();
                             })
-                            .catch(() => [])
+                            .catch(() => []),
                         
                         fetch(ipaFilename)
                             .then(response => {
@@ -791,7 +791,6 @@
                     `${item.title}\n` +
                     `${item.date}\n` +
                     `${item.url || ""}`;
-                .}
             }
 
             const postUrl =
