@@ -1,301 +1,435 @@
-=    <!DOCTYPE html>
-    <html lang="ja">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <title>Security Watch by koz</title>
+    <title>Security Watch by koz</title>
 
-        <style>
-            * {
-                box-sizing: border-box;
-            }
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-            body {
-                margin: 0;
-                background: #f6f8fb;
-                color: #172033;
-                font-family:
-                    -apple-system,
-                    BlinkMacSystemFont,
-                    "Segoe UI",
-                    "Hiragino Kaku Gothic ProN",
-                    "Yu Gothic",
-                    Meiryo,
-                    sans-serif;
-            }
+        body {
+            margin: 0;
+            background: #f6f8fb;
+            color: #172033;
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                "Hiragino Kaku Gothic ProN",
+                "Yu Gothic",
+                Meiryo,
+                sans-serif;
+        }
 
-            a {
-                color: inherit;
-                text-decoration: none;
-            }
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
 
+        .container {
+            width: min(1400px, calc(100% - 48px));
+            margin: 0 auto;
+        }
+
+        header {
+            background: rgba(255, 255, 255, 0.94);
+            border-bottom: 1px solid #e7ebf2;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+        }
+
+        .header-inner {
+            height: 72px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-mark {
+            width: 38px;
+            height: 38px;
+            border-radius: 11px;
+            background: #111827;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 16px;
+            box-shadow: 0 6px 16px rgba(17, 24, 39, 0.16);
+        }
+
+        .brand-text {
+            line-height: 1.1;
+        }
+
+        .brand-title {
+            font-size: 16px;
+            font-weight: 750;
+            letter-spacing: 0.02em;
+        }
+
+        .brand-subtitle {
+            margin-top: 4px;
+            font-size: 11px;
+            color: #8a94a6;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .display-info {
+            font-size: 12px;
+            color: #8a94a6;
+        }
+
+        .display-info select {
+            margin-left: 6px;
+            height: 32px;
+            padding: 0 28px 0 10px;
+            border: 1px solid #e1e6ee;
+            border-radius: 8px;
+            background: white;
+            color: #172033;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        main {
+            padding: 42px 0 80px;
+        }
+
+        .hero {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .hero h1 {
+            margin: 0;
+            font-size: clamp(30px, 4vw, 46px);
+            line-height: 1.1;
+            letter-spacing: -0.04em;
+            font-weight: 800;
+        }
+
+        .hero p {
+            margin: 12px 0 0;
+            color: #7a8495;
+            font-size: 14px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-bottom: 28px;
+        }
+
+        .stat-card {
+            background: white;
+            border: 1px solid #e6eaf0;
+            border-radius: 18px;
+            padding: 22px;
+            box-shadow: 0 8px 30px rgba(30, 41, 59, 0.04);
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #8a94a6;
+            font-weight: 650;
+            letter-spacing: 0.04em;
+        }
+
+        .stat-value {
+            margin-top: 10px;
+            font-size: 30px;
+            font-weight: 800;
+            letter-spacing: -0.04em;
+        }
+
+        .stat-description {
+            margin-top: 6px;
+            font-size: 12px;
+            color: #9aa3b2;
+        }
+
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 16px;
+        }
+
+        .search {
+            flex: 1;
+            max-width: 480px;
+            position: relative;
+        }
+
+        .search input {
+            width: 100%;
+            height: 44px;
+            padding: 0 16px;
+            border: 1px solid #e1e6ee;
+            border-radius: 12px;
+            background: white;
+            outline: none;
+            font-size: 13px;
+            color: #172033;
+            transition: 0.2s;
+        }
+
+        .search input:focus {
+            border-color: #aeb8c8;
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.06);
+        }
+
+        .feed {
+            background: white;
+            border: 1px solid #e6eaf0;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+        }
+
+        .feed-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px 22px;
+            border-bottom: 1px solid #edf0f4;
+        }
+
+        .feed-columns {
+            display: grid;
+            grid-template-columns: 70px 90px 120px 1fr auto;
+            gap: 18px;
+            padding: 10px 22px;
+            text-align: center;
+            background: #fafbfd;
+            border-bottom: 1px solid #edf0f4;
+            font-size: 11px;
+            font-weight: 700;
+            color: #8a94a6;
+            letter-spacing: 0.04em;
+        }
+
+        .feed-column-title {
+            text-align: left;
+            padding-left: 56px;
+        }
+
+        .feed-title {
+            font-size: 14px;
+            font-weight: 750;
+        }
+
+        .feed-count {
+            font-size: 12px;
+            color: #8a94a6;
+        }
+
+        .item {
+            display: grid;
+            grid-template-columns: 70px 90px 120px 1fr auto;
+            gap: 18px;
+            padding: 12px 22px;
+            border-bottom: 1px solid #edf0f4;
+            transition: background 0.15s ease;
+        }
+
+        .item:last-child {
+            border-bottom: none;
+        }
+
+        .item:hover {
+            background: #fafbfd;
+        }
+
+        .time {
+            font-size: 13px;
+            color: #8993a4;
+            font-variant-numeric: tabular-nums;
+            padding-top: 3px;
+        }
+
+        .company {
+            font-size: 13px;
+            font-weight: 700;
+            color: #4f5b70;
+            margin: 0;
+            display: inline;
+        }
+
+        .title {
+            font-size: 15px;
+            line-height: 1.6;
+            font-weight: 650;
+            color: #172033;
+            display: inline;
+            margin-left: 12px;
+        }
+
+        .code {
+            display: inline-block;
+            margin-left: 8px;
+            padding: 2px 7px;
+            border-radius: 6px;
+            background: #f0f2f6;
+            color: #7c8798;
+            font-size: 10px;
+            font-weight: 700;
+            vertical-align: middle;
+        }
+
+        .link {
+            align-self: center;
+            width: 34px;
+            height: 34px;
+            border: 1px solid #e5e9f0;
+            border-radius: 9px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #687386;
+            transition: 0.15s;
+        }
+
+        .link:hover {
+            background: #172033;
+            color: white;
+            border-color: #172033;
+        }
+
+        .empty {
+            padding: 70px 20px;
+            text-align: center;
+            color: #8a94a6;
+            font-size: 13px;
+        }
+
+        .loading {
+            padding: 70px 20px;
+            text-align: center;
+            color: #8a94a6;
+            font-size: 13px;
+        }
+
+        .error {
+            margin-top: 20px;
+            padding: 16px;
+            border-radius: 12px;
+            background: #fff5f5;
+            border: 1px solid #f3d3d3;
+            color: #a33a3a;
+            font-size: 13px;
+        }
+
+        footer {
+            padding: 30px 0;
+            color: #a0a8b6;
+            font-size: 11px;
+            text-align: center;
+        }
+
+        .actions {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+
+        @media (max-width: 800px) {
             .container {
-                width: min(1400px, calc(100% - 48px));
-                margin: 0 auto;
-            }
-
-            header {
-                background: rgba(255, 255, 255, 0.94);
-                border-bottom: 1px solid #e7ebf2;
-                position: sticky;
-                top: 0;
-                z-index: 100;
-                backdrop-filter: blur(12px);
-            }
-
-            .header-inner {
-                height: 72px;
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-            }
-
-            .brand {
-                display: flex;
-                align-items: center;
-                gap: 12px;
-            }
-
-            .brand-mark {
-                width: 38px;
-                height: 38px;
-                border-radius: 11px;
-                background: #111827;
-                color: white;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-weight: 800;
-                font-size: 16px;
-                box-shadow: 0 6px 16px rgba(17, 24, 39, 0.16);
-            }
-
-            .brand-text {
-                line-height: 1.1;
-            }
-
-            .brand-title {
-                font-size: 16px;
-                font-weight: 750;
-                letter-spacing: 0.02em;
-            }
-
-            .brand-subtitle {
-                margin-top: 4px;
-                font-size: 11px;
-                color: #8a94a6;
-                letter-spacing: 0.08em;
-                text-transform: uppercase;
+                width: min(100% - 28px, 1400px);
             }
 
             .display-info {
-                font-size: 12px;
-                color: #8a94a6;
+                font-size: 0;
             }
 
             .display-info select {
-                margin-left: 6px;
-                height: 32px;
-                padding: 0 28px 0 10px;
-                border: 1px solid #e1e6ee;
-                border-radius: 8px;
-                background: white;
-                color: #172033;
-                font-size: 12px;
-                cursor: pointer;
+                margin-left: 0;
+                font-size: 11px;
             }
 
             main {
-                padding: 42px 0 80px;
+                padding-top: 28px;
             }
 
             .hero {
-                display: flex;
-                align-items: flex-end;
-                justify-content: space-between;
-                gap: 30px;
-                margin-bottom: 30px;
-            }
-
-            .hero h1 {
-                margin: 0;
-                font-size: clamp(30px, 4vw, 46px);
-                line-height: 1.1;
-                letter-spacing: -0.04em;
-                font-weight: 800;
-            }
-
-            .hero p {
-                margin: 12px 0 0;
-                color: #7a8495;
-                font-size: 14px;
+                align-items: flex-start;
+                flex-direction: column;
             }
 
             .stats {
-                display: grid;
-                grid-template-columns: repeat(3, 1fr);
-                gap: 16px;
-                margin-bottom: 28px;
-            }
-
-            .stat-card {
-                background: white;
-                border: 1px solid #e6eaf0;
-                border-radius: 18px;
-                padding: 22px;
-                box-shadow: 0 8px 30px rgba(30, 41, 59, 0.04);
-            }
-
-            .stat-label {
-                font-size: 12px;
-                color: #8a94a6;
-                font-weight: 650;
-                letter-spacing: 0.04em;
-            }
-
-            .stat-value {
-                margin-top: 10px;
-                font-size: 30px;
-                font-weight: 800;
-                letter-spacing: -0.04em;
-            }
-
-            .stat-description {
-                margin-top: 6px;
-                font-size: 12px;
-                color: #9aa3b2;
+                grid-template-columns: 1fr;
             }
 
             .toolbar {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                gap: 16px;
-                margin-bottom: 16px;
+                flex-direction: column;
+                align-items: stretch;
             }
 
             .search {
-                flex: 1;
-                max-width: 480px;
-                position: relative;
-            }
-
-            .search input {
-                width: 100%;
-                height: 44px;
-                padding: 0 16px;
-                border: 1px solid #e1e6ee;
-                border-radius: 12px;
-                background: white;
-                outline: none;
-                font-size: 13px;
-                color: #172033;
-                transition: 0.2s;
-            }
-
-            .search input:focus {
-                border-color: #aeb8c8;
-                box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.06);
-            }
-
-            .feed {
-                background: white;
-                border: 1px solid #e6eaf0;
-                border-radius: 20px;
-                overflow: hidden;
-                box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
-            }
-
-            .feed-header {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                padding: 18px 22px;
-                border-bottom: 1px solid #edf0f4;
-            }
-            .feed-columns {
-                display: grid;
-                grid-template-columns: 70px 90px 120px 1fr auto;
-                gap: 18px;
-                padding: 10px 22px;
-                text-align: center;
-                background: #fafbfd;
-                border-bottom: 1px solid #edf0f4;
-                font-size: 11px;
-                font-weight: 700;
-                color: #8a94a6;
-                letter-spacing: 0.04em;
-            }
-            .feed-column-title {
-                text-align: left;
-                padding-left: 56px;
-            }
-
-            .feed-title {
-                font-size: 14px;
-                font-weight: 750;
-            }
-
-            .feed-count {
-                font-size: 12px;
-                color: #8a94a6;
+                max-width: none;
             }
 
             .item {
-                display: grid;
-                grid-template-columns: 70px 90px 120px 1fr auto;
-                gap: 18px;
-                padding: 12px 22px;
-                border-bottom: 1px solid #edf0f4;
-                transition: background 0.15s ease;
+                grid-template-columns: 70px 1fr;
+                gap: 8px 12px;
+                padding: 12px 16px;
             }
 
-            .item:last-child {
-                border-bottom: none;
-            }
-
-            .item:hover {
-                background: #fafbfd;
+            .source {
+                grid-column: 1;
+                grid-row: 1;
             }
 
             .time {
-                font-size: 13px;
-                color: #8993a4;
-                font-variant-numeric: tabular-nums;
-                padding-top: 3px;
+                grid-column: 2;
+                grid-row: 1;
+                text-align: right;
             }
 
             .company {
-                font-size: 13px;
-                font-weight: 700;
-                color: #4f5b70;
-                margin: 0;
-                display: inline;
+                grid-column: 1 / -1;
+                grid-row: 2;
+                text-align: left;
             }
 
             .title {
-                font-size: 15px;
-                line-height: 1.6;
-                font-weight: 650;
-                color: #172033;
-                display: inline;
-                margin-left: 12px;
+                grid-column: 1 / -1;
+                grid-row: 3;
+                margin-left: 0;
+                line-height: 1.5;
             }
 
-            .code {
-                display: inline-block;
-                margin-left: 8px;
-                padding: 2px 7px;
-                border-radius: 6px;
-                background: #f0f2f6;
-                color: #7c8798;
-                font-size: 10px;
-                font-weight: 700;
-                vertical-align: middle;
+            .actions {
+                grid-column: 1 / -1;
+                grid-row: 4;
+                justify-content: flex-end;
             }
 
             .link {
+                display: flex;
+            }
+
+            .x-link {
                 align-self: center;
                 width: 34px;
                 height: 34px;
@@ -306,523 +440,524 @@
                 justify-content: center;
                 color: #687386;
                 transition: 0.15s;
+                font-size: 14px;
+                font-weight: 700;
             }
 
-            .link:hover {
+            .x-link:hover {
                 background: #172033;
                 color: white;
                 border-color: #172033;
             }
 
-            .empty {
-                padding: 70px 20px;
-                text-align: center;
-                color: #8a94a6;
-                font-size: 13px;
+            .feed-columns {
+                display: none;
             }
+        }
+    </style>
+</head>
 
-            .loading {
-                padding: 70px 20px;
-                text-align: center;
-                color: #8a94a6;
-                font-size: 13px;
-            }
+<body>
 
-            .error {
-                margin-top: 20px;
-                padding: 16px;
-                border-radius: 12px;
-                background: #fff5f5;
-                border: 1px solid #f3d3d3;
-                color: #a33a3a;
-                font-size: 13px;
-            }
+<header>
+    <div class="container header-inner">
+        <div class="brand">
+            <div class="brand-mark">S</div>
 
-            footer {
-                padding: 30px 0;
-                color: #a0a8b6;
-                font-size: 11px;
-                text-align: center;
-            }
-            
-            .actions {
-                display: flex;
-                gap: 8px;
-                align-items: center;
-            }
+            <div class="brand-text">
+                <div class="brand-title">
+                    Security Watch by koz
+                </div>
 
-            @media (max-width: 800px) {
-                .container {
-                    width: min(100% - 28px, 1400px);
-                }
-
-                .display-info {
-                    font-size: 0;
-                }
-
-                .display-info select {
-                    margin-left: 0;
-                    font-size: 11px;
-                }
-
-                main {
-                    padding-top: 28px;
-                }
-
-                .hero {
-                    align-items: flex-start;
-                    flex-direction: column;
-                }
-
-                .stats {
-                    grid-template-columns: 1fr;
-                }
-
-                .toolbar {
-                    flex-direction: column;
-                    align-items: stretch;
-                }
-
-                .search {
-                    max-width: none;
-                }
-                .item {
-                    grid-template-columns: 70px 1fr;
-                    gap: 8px 12px;
-                    padding: 12px 16px;
-                }
-
-                .source {
-                    grid-column: 1;
-                    grid-row: 1;
-                }
-
-                .time {
-                    grid-column: 2;
-                    grid-row: 1;
-                    text-align: right;
-                }
-
-                .company {
-                    grid-column: 1 / -1;
-                    grid-row: 2;
-                    text-align: left;
-                }
-
-                .title {
-                    grid-column: 1 / -1;
-                    grid-row: 3;
-                    margin-left: 0;
-                    line-height: 1.5;
-                }
-
-                .actions {
-                    grid-column: 1 / -1;
-                    grid-row: 4;
-                    justify-content: flex-end;
-                }
-
-                .link {
-                    display: flex;
-                }
-
-                .x-link {
-                    align-self: center;
-                    width: 34px;
-                    height: 34px;
-                    border: 1px solid #e5e9f0;
-                    border-radius: 9px;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    color: #687386;
-                    transition: 0.15s;
-                    font-size: 14px;
-                    font-weight: 700;
-                }
-
-                .x-link:hover {
-                    background: #172033;
-                    color: white;
-                    border-color: #172033;
-                }
-                .feed-columns {
-                    display: none;
-                }
-            }
-        </style>
-    </head>
-
-    <body>
-
-    <header>
-        <div class="container header-inner">
-            <div class="brand">
-                <div class="brand-mark">S</div>
-
-                <div class="brand-text">
-                    <div class="brand-title">Security Watch by koz</div>
-                    <div class="brand-subtitle">SECURITY INFORMATION DASHBOARD</div>
+                <div class="brand-subtitle">
+                    SECURITY INFORMATION DASHBOARD
                 </div>
             </div>
-            <div class="display-info">
-                Display:
-                <select id="days-select">
-                    <option value="7" selected>7 Days</option>
-                    <option value="30">30 Days</option>
-                    <option value="90">90 Days</option>
-                </select>
-            </div>
-
         </div>
-    </header>
 
-    <main>
-        <div class="container">
+        <div class="display-info">
+            Display:
 
-            <section class="hero">
-                <div>
-                    <h1>Security Updates</h1>
-                    <p>
-                        セキュリティ関連情報をあちこちから拾います。（全自動）
-                    </p>
+            <select id="days-select">
+                <option value="7" selected>7 Days</option>
+                <option value="30">30 Days</option>
+                <option value="90">90 Days</option>
+            </select>
+        </div>
+    </div>
+</header>
+
+<main>
+    <div class="container">
+
+        <section class="hero">
+            <div>
+                <h1>Security Updates</h1>
+
+                <p>
+                    セキュリティ関連情報をあちこちから拾います。（全自動）
+                </p>
+            </div>
+        </section>
+
+        <section class="stats">
+
+            <div class="stat-card">
+                <div class="stat-label">
+                    DISCLOSURES
                 </div>
 
-            </section>
+                <div class="stat-value" id="disclosure-count">
+                    —
+                </div>
 
-            <section class="stats">
-
-                <div class="stat-card">
-                <div class="stat-label">DISCLOSURES</div>
-                <div class="stat-value" id="disclosure-count">—</div>
                 <div class="stat-description">
                     適時開示情報の件数
                 </div>
             </div>
 
             <div class="stat-card">
-                <div class="stat-label">VULNERABILITIES</div>
-                <div class="stat-value" id="vulnerability-count">—</div>
+                <div class="stat-label">
+                    VULNERABILITIES
+                </div>
+
+                <div class="stat-value" id="vulnerability-count">
+                    —
+                </div>
+
                 <div class="stat-description">
                     CISA KEVの件数
                 </div>
             </div>
 
-                
+        </section>
 
-            </section>
+        <section class="toolbar">
 
-            <section class="toolbar">
+            <div class="search">
+                <input
+                    type="text"
+                    id="search"
+                    placeholder="企業名・タイトルを検索..."
+                >
+            </div>
 
-                <div class="search">
-                    <input
-                        type="text"
-                        id="search"
-                        placeholder="企業名・タイトルを検索..."
-                    >
+        </section>
+
+        <section class="feed">
+
+            <div class="feed-header">
+
+                <div class="feed-title">
+                    Security Feed
                 </div>
 
-            </section>
-
-            <section class="feed">
-
-                <div class="feed-header">
-                    <div class="feed-title">
-                        Security Feed
-                    </div>
-
-                    <div class="feed-count" id="feed-count">
-                        —
-                    </div>
+                <div class="feed-count" id="feed-count">
+                    —
                 </div>
 
-                <div class="feed-columns">
-                    <div>Source</div>
-                    <div>Date</div>
-                    <div>Organization</div>
-                    <div class="feed-column-title">Title</div>
-                    <div></div>
+            </div>
+
+            <div class="feed-columns">
+                <div>Source</div>
+                <div>Date</div>
+                <div>Organization</div>
+                <div class="feed-column-title">
+                    Title
+                </div>
+                <div></div>
+            </div>
+
+            <div id="disclosures">
+
+                <div class="loading">
+                    データを読み込んでいます...
                 </div>
 
-                <div id="disclosures">
-                    <div class="loading">
-                        データを読み込んでいます...
-                    </div>
-                </div>
+            </div>
 
-            </section>
+        </section>
 
-            <footer>
-                Security Watch by koz / セキュリティを、もっと身近に
-            </footer>
+        <footer>
+            Security Watch by koz / セキュリティを、もっと身近に
+        </footer>
 
-        </div>
-    </main>
+    </div>
+</main>
 
-    <script>
+<script>
 
-    const DATA_DIR = "data";
+const DATA_DIR = "data";
 
-    let disclosures = [];
+let disclosures = [];
 
-    async function loadData() {
 
-        try {
+async function loadData() {
 
-            const today = new Date();
-            const requests = [];
+    try {
 
-            const days =
-                Number(document.getElementById("days-select").value);
+        const today = new Date();
 
-            for (let i = 0; i < days; i++) {
+        const requests = [];
 
-                const date = new Date(today);
+        const days =
+            Number(
+                document.getElementById("days-select").value
+            );
 
-                date.setDate(
-                    today.getDate() - i
-                );
 
-                const dateString =
-                    formatDate(date);
+        for (let i = 0; i < days; i++) {
 
-                const filename =
-                    `${DATA_DIR}/security_disclosures_${dateString}.json`;
+            const date = new Date(today);
 
-                const vulnerabilityFilename =
-                    `${DATA_DIR}/vulnerabilities_${dateString}.json`;
-                    
-                const ipaFilename =
-                    `${=ATA_DIR}/ipa_${dateString}.json`;
+            date.setDate(
+                today.getDate() - i
+            );
 
-                requests.push(
-                    Promise.all([
-                        fetch(filename)
-                            .then(response => {
-                                if (!response.ok) {
-                                    return [];
-                                }
-                                return response.json();
-                            })
-                            .catch(() => []),
+            const dateString =
+                formatDate(date);
 
-                        fetch(vulnerabilityFilename)
-                            .then(response => {
-                                if (!response.ok) {
-                                    return [];
-                                }
-                                return response.json();
-                            })
-                            .catch(() => []),
-                        
-                        fetch(ipaFilename)
-                            .then(response => {
-                                if (!response.ok) {
-                                    return [];
-                                }
-                                return response.json();
-                            })
-                            .catch(() => [])
-                                ])
-                            );
-                        }
 
-            const results =
-                await Promise.all(requests);
+            const filename =
+                `${DATA_DIR}/security_disclosures_${dateString}.json`;
 
-            disclosures =
-                results.flat(2);
 
-            disclosures.sort((a, b) => {
+            const vulnerabilityFilename =
+                `${DATA_DIR}/vulnerabilities_${dateString}.json`;
 
-                const dateA =
-                    `${a.date} ${a.time}`;
 
-                const dateB =
-                    `${b.date} ${b.time}`;
+            const ipaFilename =
+                `${DATA_DIR}/ipa_${dateString}.json`;
 
-                return dateB.localeCompare(dateA);
-            });
 
-            initializeDashboard();
+            requests.push(
+                Promise.all([
 
-        } catch (error) {
+                    fetch(filename)
+                        .then(response => {
 
-            console.error(error);
+                            if (!response.ok) {
+                                return [];
+                            }
 
-            document.getElementById("disclosures").innerHTML = `
-                <div class="error">
-                    データを読み込めませんでした。<br>
-                    ${error.message}
-                </div>
-            `;
+                            return response.json();
+
+                        })
+                        .catch(() => []),
+
+
+                    fetch(vulnerabilityFilename)
+                        .then(response => {
+
+                            if (!response.ok) {
+                                return [];
+                            }
+
+                            return response.json();
+
+                        })
+                        .catch(() => []),
+
+
+                    fetch(ipaFilename)
+                        .then(response => {
+
+                            if (!response.ok) {
+                                return [];
+                            }
+
+                            return response.json();
+
+                        })
+                        .catch(() => [])
+
+                ])
+            );
+
         }
-    }
 
-    function formatDate(date) {
 
-        const year =
-            date.getFullYear();
+        const results =
+            await Promise.all(requests);
 
-        const month =
-            String(date.getMonth() + 1)
-                .padStart(2, "0");
 
-        const day =
-            String(date.getDate())
-                .padStart(2, "0");
+        disclosures =
+            results.flat(2);
 
-        return `${year}${month}${day}`;
-    }
 
-    function initializeDashboard() {
-
-        updateStats();
-
-        renderDisclosures();
-
-    }
-
-    function updateStats() {
-
-        const disclosureCount =
-            disclosures.filter(
-                item => item.source === "適時開示"
-            ).length;
-
-        const vulnerabilityCount =
-            disclosures.filter(
-                item => item.source === "CISA KEV"
-            ).length;
-
-        document.getElementById(
-            "disclosure-count"
-        ).textContent =
-            disclosureCount.toLocaleString();
-
-        document.getElementById(
-            "vulnerability-count"
-        ).textContent =
-            vulnerabilityCount.toLocaleString();
-        
-    }
-
-    function renderDisclosures() {
-        
-        const container =
-            document.getElementById("disclosures");
-
-        const search =
-            document.getElementById("search")
-                .value
-                .toLowerCase()
-                .trim();
-
-        let filtered =
-            disclosures.filter(item => {
-
-                if (!search) {
-                    return true;
-                }
-
-                const text =
-                    `${item.organization || ""} ${item.identifier || ""} ${item.title || ""}`
-                        .toLowerCase();
-
-                return text.includes(search);
-            });
-
-        filtered.sort((a, b) => {
+        disclosures.sort((a, b) => {
 
             const dateA =
-                `${a.date} ${a.time}`;
+                `${a.date} ${a.time || ""}`;
 
             const dateB =
-                `${b.date} ${b.time}`;
+                `${b.date} ${b.time || ""}`;
+
+            return dateB.localeCompare(dateA);
 
         });
 
-        document.getElementById("feed-count").textContent =
-            `${filtered.length} items`;
 
-        if (filtered.length === 0) {
+        initializeDashboard();
 
-            container.innerHTML = `
-                <div class="empty">
-                    該当する情報がありません。
-                </div>
-            `;
 
-            return;
-        }
+    } catch (error) {
 
-        container.innerHTML =
-            filtered.map(item => {
+        console.error(error);
+
+        document.getElementById(
+            "disclosures"
+        ).innerHTML = `
+
+            <div class="error">
+
+                データを読み込めませんでした。<br>
+
+                ${error.message}
+
+            </div>
+
+        `;
+
+    }
+
+}
+
+
+function formatDate(date) {
+
+    const year =
+        date.getFullYear();
+
+    const month =
+        String(
+            date.getMonth() + 1
+        ).padStart(2, "0");
+
+    const day =
+        String(
+            date.getDate()
+        ).padStart(2, "0");
+
+    return `${year}${month}${day}`;
+
+}
+
+
+function initializeDashboard() {
+
+    updateStats();
+
+    renderDisclosures();
+
+}
+
+
+function updateStats() {
+
+    const disclosureCount =
+        disclosures.filter(
+            item =>
+                item.source === "適時開示"
+        ).length;
+
+
+    const vulnerabilityCount =
+        disclosures.filter(
+            item =>
+                item.source === "CISA KEV"
+        ).length;
+
+
+    document.getElementById(
+        "disclosure-count"
+    ).textContent =
+        disclosureCount.toLocaleString();
+
+
+    document.getElementById(
+        "vulnerability-count"
+    ).textContent =
+        vulnerabilityCount.toLocaleString();
+
+}
+
+
+function renderDisclosures() {
+
+    const container =
+        document.getElementById(
+            "disclosures"
+        );
+
+
+    const search =
+        document.getElementById(
+            "search"
+        )
+        .value
+        .toLowerCase()
+        .trim();
+
+
+    let filtered =
+        disclosures.filter(item => {
+
+            if (!search) {
+                return true;
+            }
+
+
+            const text =
+                `${item.organization || ""} ${item.identifier || ""} ${item.title || ""}`
+                    .toLowerCase();
+
+
+            return text.includes(search);
+
+        });
+
+
+    filtered.sort((a, b) => {
+
+        const dateA =
+            `${a.date} ${a.time || ""}`;
+
+        const dateB =
+            `${b.date} ${b.time || ""}`;
+
+        return dateB.localeCompare(dateA);
+
+    });
+
+
+    document.getElementById(
+        "feed-count"
+    ).textContent =
+        `${filtered.length} items`;
+
+
+    if (filtered.length === 0) {
+
+        container.innerHTML = `
+
+            <div class="empty">
+
+                該当する情報がありません。
+
+            </div>
+
+        `;
+
+        return;
+
+    }
+
+
+    container.innerHTML =
+        filtered.map(item => {
 
             const safeTitle =
                 escapeHtml(item.title);
 
+
             const safeOrganization =
                 escapeHtml(item.organization);
+
 
             const safeIdentifier =
                 escapeHtml(item.identifier);
 
+
             const safeSource =
                 escapeHtml(item.source);
 
+
             let postText = "";
+
+
             if (item.source === "適時開示") {
+
                 postText =
                     `[${item.organization}] ` +
                     `${item.title}\n` +
                     `${item.date}\n` +
                     `${item.url || ""}`;
 
-            } else if (item.source === "CISA KEV") {
+            }
+
+
+            else if (item.source === "CISA KEV") {
+
                 postText =
                     `[${item.identifier}] KEVC: ` +
                     `${item.title}\n` +
                     `${item.date}\n` +
                     `${item.url || ""}`;
-            } else if (item.source === "IPA") {
+
+            }
+
+
+            else if (item.source === "IPA") {
+
                 postText =
                     `[IPA] ` +
                     `${item.title}\n` +
                     `${item.date}\n` +
                     `${item.url || ""}`;
+
             }
+
 
             const postUrl =
                 `https://twitter.com/intent/tweet?text=${encodeURIComponent(postText)}`;
-                
+
+
             return `
+
                 <article class="item">
 
                     <div class="source">
                         ${safeSource}
                     </div>
 
-                    <div class="time" align="center">
-                        ${escapeHtml(item.date)} ${item.time ? ` ${escapeHtml(item.time)}` : ""}
+
+                    <div
+                        class="time"
+                        align="center"
+                    >
+                        ${escapeHtml(item.date)}
+                        ${item.time
+                            ? ` ${escapeHtml(item.time)}`
+                            : ""
+                        }
                     </div>
 
+
                     <div class="company">
-                        ${safeOrganization}<br>
+
+                        ${safeOrganization}
+
+                        <br>
+
                         <span class="code">
                             ${safeIdentifier}
                         </span>
+
                     </div>
+
 
                     <span class="title">
                         ${safeTitle}
                     </span>
+
 
                     <div class="actions">
 
                         ${
                             item.url
                             ? `
+
                                 <a
                                     class="link"
                                     href="${item.url}"
@@ -832,9 +967,11 @@
                                 >
                                     ↗
                                 </a>
+
                             `
                             : ""
                         }
+
 
                         <a
                             class="link"
@@ -845,47 +982,57 @@
                         >
                             𝕏
                         </a>
+
                     </div>
+
                 </article>
+
             `;
 
         }).join("");
+
+}
+
+
+function escapeHtml(value) {
+
+    if (
+        value === null ||
+        value === undefined
+    ) {
+        return "";
     }
 
-    function escapeHtml(value) {
 
-        if (
-            value === null ||
-            value === undefined
-        ) {
-            return "";
-        }
+    return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
 
-        return String(value)
-            .replaceAll("&", "&amp;")
-            .replaceAll("<", "&lt;")
-            .replaceAll(">", "&gt;")
-            .replaceAll('"', "&quot;")
-            .replaceAll("'", "&#039;");
-    }
+}
 
-    document
-        .getElementById("search")
-        .addEventListener(
-            "input",
-            renderDisclosures
-        );
 
-    document
-        .getElementById("days-select")
-        .addEventListener(
-            "change",
-            loadData
-        );
+document
+    .getElementById("search")
+    .addEventListener(
+        "input",
+        renderDisclosures
+    );
 
-    loadData();
 
-    </script>
+document
+    .getElementById("days-select")
+    .addEventListener(
+        "change",
+        loadData
+    );
 
-    </body>
-    </html>
+
+loadData();
+
+</script>
+
+</body>
+</html>
