@@ -591,6 +591,9 @@
 
                 const vulnerabilityFilename =
                     `${DATA_DIR}/vulnerabilities_${dateString}.json`;
+                    
+                const ipaFilename =
+                    `${=DATA_DIR}/ipa_${dateString}.json`;
 
                 requests.push(
                     Promise.all([
@@ -611,9 +614,18 @@
                                 return response.json();
                             })
                             .catch(() => [])
-                    ])
-                );
-            }
+                        
+                        fetch(ipaFilename)
+                            .then(response => {
+                                if (!response.ok) {
+                                    return [];
+                                }
+                                return response.json();
+                            })
+                            .catch(() => [])
+                                ])
+                            );
+                        }
 
             const results =
                 await Promise.all(requests);
@@ -773,6 +785,13 @@
                     `${item.title}\n` +
                     `${item.date}\n` +
                     `${item.url || ""}`;
+            } else if (item.source === "IPA") {
+                postText =
+                    `[IPA] ` +
+                    `${item.title}\n` +
+                    `${item.date}\n` +
+                    `${item.url || ""}`;
+                .}
             }
 
             const postUrl =
