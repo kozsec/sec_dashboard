@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -11,7 +12,11 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+
 def fetch_ipa():
+
+    today = datetime.now().strftime("%Y-%m-%d")
+
     response = requests.get(
         IPA_URL,
         timeout=30,
@@ -52,6 +57,9 @@ def fetch_ipa():
         if not date:
             continue
 
+        if date != today:
+            continue
+
         title = text
 
         title = title.replace(
@@ -60,7 +68,7 @@ def fetch_ipa():
             1
         ).strip()
 
-        vulnerability = {
+        item = {
             "source": "IPA",
             "date": date,
             "time": None,
@@ -70,8 +78,8 @@ def fetch_ipa():
             "url": url
         }
 
-        if vulnerability not in items:
-            items.append(vulnerability)
+        if item not in items:
+            items.append(item)
 
     print(
         f"IPA security updates: "
@@ -84,8 +92,6 @@ def fetch_ipa():
 
 
 def extract_date(text):
-
-    import re
 
     match = re.search(
         r"(\d{4})年(\d{1,2})月(\d{1,2})日",
@@ -110,8 +116,9 @@ def save_json(data):
         )
         return
 
-    date_str = datetime.now().strftime(
-        "%Y%m%d"
+    date_str = data[0]["date"].replace(
+        "-",
+        ""
     )
 
     filename = (
