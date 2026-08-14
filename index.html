@@ -395,30 +395,72 @@
         }
 
         .vulnerability-table-wrapper {
+            width: 100%;
             overflow-x: auto;
         }
-
+        
         .vulnerability-table {
             width: 100%;
+            table-layout: fixed;
             border-collapse: collapse;
             font-size: 12px;
         }
 
-        .vulnerability-table th {
-            padding: 11px 14px;
-            background: #fafbfd;
-            border-bottom: 1px solid #edf0f4;
-            color: #8a94a6;
-            font-size: 11px;
-            font-weight: 700;
-            text-align: left;
-            white-space: nowrap;
+        .vulnerability-table th:nth-child(1),
+        .vulnerability-table td:nth-child(1) {
+            width: 13%;
+            /* CVE */
+        }
+        
+        .vulnerability-table th:nth-child(2),
+        .vulnerability-table td:nth-child(2) {
+            width: 15%;
+            /* Company */
+        }
+        
+        .vulnerability-table th:nth-child(3),
+        .vulnerability-table td:nth-child(3) {
+            width: 22%;
+            /* Product */
+        }
+        
+        .vulnerability-table th:nth-child(4),
+        .vulnerability-table td:nth-child(4) {
+            width: 7%;
+            /* KEV */
+        }
+        
+        .vulnerability-table th:nth-child(5),
+        .vulnerability-table td:nth-child(5) {
+            width: 10%;
+            /* EPSS */
+        }
+        
+        .vulnerability-table th:nth-child(6),
+        .vulnerability-table td:nth-child(6) {
+            width: 8%;
+            /* CVSS */
+        }
+        
+        .vulnerability-table th:nth-child(7),
+        .vulnerability-table td:nth-child(7) {
+            width: 12.5%;
+            /* Published */
+        }
+        
+        .vulnerability-table th:nth-child(8),
+        .vulnerability-table td:nth-child(8) {
+            width: 12.5%;
+            /* Last Update */
         }
 
+
+        .vulnerability-table th,
         .vulnerability-table td {
-            padding: 13px 14px;
-            border-bottom: 1px solid #edf0f4;
-            vertical-align: middle;
+            padding: 10px 12px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
         }
 
         .vulnerability-table tr:last-child td {
