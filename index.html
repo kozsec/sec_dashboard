@@ -412,13 +412,13 @@
         /* CVE */
         .vulnerability-table th:nth-child(1),
         .vulnerability-table td:nth-child(1) {
-            width: 125px;
+            width: 150px;
         }
         
         /* Company */
         .vulnerability-table th:nth-child(2),
         .vulnerability-table td:nth-child(2) {
-            width: auto;
+            width: 250px;
         }
         
         /* Product */
@@ -495,6 +495,11 @@
             font-weight: 700;
         }
 
+        .epss-value {
+            display: inline-block;
+            width: 100%;
+            text-align: right;
+        }
         .epss-value,
         .cvss-value {
             font-variant-numeric: tabular-nums;
