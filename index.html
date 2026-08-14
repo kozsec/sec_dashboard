@@ -1003,11 +1003,7 @@ function updateStats() {
         ).length;
 
 
-    const vulnerabilityCount =
-        disclosures.filter(
-            item =>
-                item.source === "CISA KEV"
-        ).length;
+    const vulnerabilityCount = vulnerabilities.length;
 
 
     document.getElementById(
@@ -1236,146 +1232,156 @@ function renderDisclosures() {
 
 function renderVulnerabilities() {
 
-    const container =
-        document.getElementById(
-            "vulnerabilities"
-        );
+const container =
+    document.getElementById(
+        "vulnerabilities"
+    );
 
-    const count =
-        document.getElementById(
-            "vulnerability-table-count"
-        );
+const count =
+    document.getElementById(
+        "vulnerability-table-count"
+    );
 
-    count.textContent =
-        `${vulnerabilities.length} items`;
+count.textContent =
+    `${vulnerabilities.length} items`;
 
-    if (vulnerabilities.length === 0) {
+if (vulnerabilities.length === 0) {
 
-        container.innerHTML = `
+    container.innerHTML = `
+        <tr>
+            <td
+                colspan="7"
+                class="vulnerability-empty"
+            >
+                脆弱性情報がありません。
+            </td>
+        </tr>
+    `;
+
+    return;
+}
+
+const sorted =
+    [...vulnerabilities].sort(
+        (a, b) => {
+
+            const dateA =
+                a.last_update || "";
+
+            const dateB =
+                b.last_update || "";
+
+            return dateB.localeCompare(
+                dateA
+            );
+        }
+    );
+
+container.innerHTML =
+    sorted.map(item => {
+
+        const cve =
+            escapeHtml(item.cve);
+
+        const company =
+            escapeHtml(item.company);
+
+        const product =
+            escapeHtml(item.product);
+
+        const kev =
+            escapeHtml(item.kev);
+
+        const epss =
+            item.epss_current !== null &&
+            item.epss_current !== undefined
+                ? `${(
+                    Number(item.epss_current) * 100
+                ).toFixed(2)}%`
+                : "—";
+
+        const cvss =
+            item.cvss !== null &&
+            item.cvss !== undefined
+                ? Number(
+                    item.cvss
+                ).toFixed(1)
+                : "—";
+
+        const published =
+            escapeHtml(
+                item.published
+            );
+
+        return `
             <tr>
-                <td
-                    colspan="8"
-                    class="vulnerability-empty"
-                >
-                    脆弱性情報がありません。
+
+                <td>
+                    <span
+                        class="vulnerability-cve"
+                    >
+                        ${cve}
+                    </span>
                 </td>
+
+                <td>
+                    <span
+                        class="vulnerability-company"
+                    >
+                        ${company}
+                    </span>
+                </td>
+
+                <td>
+                    <span
+                        class="vulnerability-product"
+                    >
+                        ${product}
+                    </span>
+                </td>
+
+                <td>
+                    ${
+                        kev === "あり"
+                        ? `
+                            <span
+                                class="kev-badge"
+                            >
+                                KEV
+                            </span>
+                        `
+                        : "—"
+                    }
+                </td>
+
+                <td>
+                    <span
+                        class="epss-value"
+                    >
+                        ${epss}
+                    </span>
+                </td>
+
+                <td>
+                    <span
+                        class="cvss-value"
+                    >
+                        ${cvss}
+                    </span>
+                </td>
+
+                <td>
+                    <span
+                        class="vulnerability-date"
+                    >
+                        ${published}
+                    </span>
+                </td>
+
             </tr>
         `;
 
-        return;
-    }
-
-    const sorted =
-        [...vulnerabilities].sort(
-            (a, b) => {
-
-                const dateA =
-                    a.last_update || "";
-
-                const dateB =
-                    b.last_update || "";
-
-                return dateB.localeCompare(
-                    dateA
-                );
-            }
-        );
-
-    container.innerHTML =
-        sorted.map(item => {
-
-            const cve =
-                escapeHtml(item.cve);
-
-            const company =
-                escapeHtml(item.company);
-
-            const product =
-                escapeHtml(item.product);
-
-            const kev =
-                escapeHtml(item.kev);
-
-            const epss =
-                item.epss_current !== null &&
-                item.epss_current !== undefined
-                    ? `${(Number(item.epss_current) * 100).toFixed(2)}%`
-                    : "—";
-
-            const cvss =
-                item.cvss !== null &&
-                item.cvss !== undefined
-                    ? Number(
-                        item.cvss
-                    ).toFixed(1)
-                    : "—";
-
-            const published =
-                escapeHtml(
-                    item.published
-                );
-
-            return `
-                <tr>
-
-                    <td>
-                        <span
-                            class="vulnerability-cve"
-                        >
-                            ${cve}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-company"
-                        >
-                            ${company}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-product"
-                        >
-                            ${product}
-                        </span>
-                    </td>
-
-                    <td>
-                        ${
-                            kev === "あり"
-                            ? `
-                                <span
-                                    class="kev-badge"
-                                >
-                                    KEV
-                                </span>
-                            `
-                            : "—"
-                        }
-                    </td>
-
-                    <td>
-                        <span
-                            class="epss-value"
-                        >
-                            ${epss}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="cvss-value"
-                        >
-                            ${cvss}
-                        </span>
-                    </td>
-
-                </tr>
-            `;
-
-        }).join("");
+    }).join("");
 }
 
 function escapeHtml(value) {
