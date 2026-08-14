@@ -786,14 +786,13 @@
                             <th>EPSS</th>
                             <th>CVSS</th>
                             <th>Published</th>
-                            <th>Last Update</th>
                         </tr>
                     </thead>
 
                     <tbody id="vulnerabilities">
                         <tr>
                             <td
-                                colspan="8"
+                                colspan="7"
                                 class="vulnerability-loading"
                             >
                                 データを読み込んでいます...
@@ -1320,11 +1319,6 @@ function renderVulnerabilities() {
                     item.published
                 );
 
-            const lastUpdate =
-                escapeHtml(
-                    item.last_update
-                );
-
             return `
                 <tr>
 
@@ -1379,14 +1373,6 @@ function renderVulnerabilities() {
                             class="cvss-value"
                         >
                             ${cvss}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-date"
-                        >
-                            ${published}
                         </span>
                     </td>
 
