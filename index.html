@@ -353,6 +353,122 @@
             align-items: center;
         }
 
+                    .vulnerability-section {
+                margin-top: 28px;
+                background: white;
+                border: 1px solid #e6eaf0;
+                border-radius: 20px;
+                overflow: hidden;
+                box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+            }
+
+            .vulnerability-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 18px 22px;
+                border-bottom: 1px solid #edf0f4;
+            }
+
+            .vulnerability-title {
+                font-size: 14px;
+                font-weight: 750;
+            }
+
+            .vulnerability-subtitle {
+                margin-top: 4px;
+                font-size: 11px;
+                color: #8a94a6;
+            }
+
+            .vulnerability-count {
+                font-size: 12px;
+                color: #8a94a6;
+            }
+
+            .vulnerability-table-wrapper {
+                overflow-x: auto;
+            }
+
+            .vulnerability-table {
+                width: 100%;
+                border-collapse: collapse;
+                font-size: 12px;
+            }
+
+            .vulnerability-table th {
+                padding: 11px 14px;
+                background: #fafbfd;
+                border-bottom: 1px solid #edf0f4;
+                color: #8a94a6;
+                font-size: 11px;
+                font-weight: 700;
+                text-align: left;
+                white-space: nowrap;
+            }
+
+            .vulnerability-table td {
+                padding: 13px 14px;
+                border-bottom: 1px solid #edf0f4;
+                vertical-align: middle;
+            }
+
+            .vulnerability-table tr:last-child td {
+                border-bottom: none;
+            }
+
+            .vulnerability-table tbody tr:hover {
+                background: #fafbfd;
+            }
+
+            .vulnerability-cve {
+                font-family: monospace;
+                font-size: 12px;
+                font-weight: 700;
+                color: #4f5b70;
+                white-space: nowrap;
+            }
+
+            .vulnerability-company {
+                font-weight: 650;
+                white-space: nowrap;
+            }
+
+            .vulnerability-product {
+                color: #687386;
+                white-space: nowrap;
+            }
+
+            .kev-badge {
+                display: inline-block;
+                padding: 3px 8px;
+                border-radius: 6px;
+                background: #172033;
+                color: white;
+                font-size: 10px;
+                font-weight: 700;
+            }
+
+            .epss-value,
+            .cvss-value {
+                font-variant-numeric: tabular-nums;
+                font-weight: 700;
+                white-space: nowrap;
+            }
+
+            .vulnerability-date {
+                color: #687386;
+                white-space: nowrap;
+            }
+
+            .vulnerability-loading,
+            .vulnerability-empty {
+                padding: 40px 20px !important;
+                text-align: center;
+                color: #8a94a6;
+            }
+
+
         @media (max-width: 800px) {
             .container {
                 width: min(100% - 28px, 1400px);
@@ -452,6 +568,14 @@
 
             .feed-columns {
                 display: none;
+            }
+            
+            .vulnerability-table {
+                min-width: 900px;
+            }
+
+            .vulnerability-header {
+                padding: 16px;
             }
         }
     </style>
@@ -578,6 +702,62 @@
 
         </section>
 
+
+        <section class="vulnerability-section">
+
+            <div class="vulnerability-header">
+                <div>
+                    <div class="vulnerability-title">
+                        Vulnerabilities
+                    </div>
+                    <div class="vulnerability-subtitle">
+                        CISA KEV / EPSS / CVSS
+                    </div>
+                </div>
+
+                <div
+                    class="vulnerability-count"
+                    id="vulnerability-table-count"
+                >
+                    —
+                </div>
+            </div>
+
+            <div class="vulnerability-table-wrapper">
+
+                <table class="vulnerability-table">
+
+                    <thead>
+                        <tr>
+                            <th>CVE</th>
+                            <th>Company</th>
+                            <th>Product</th>
+                            <th>KEV</th>
+                            <th>EPSS</th>
+                            <th>CVSS</th>
+                            <th>Published</th>
+                            <th>Last Update</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="vulnerabilities">
+                        <tr>
+                            <td
+                                colspan="8"
+                                class="vulnerability-loading"
+                            >
+                                データを読み込んでいます...
+                            </td>
+                        </tr>
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+        
         <footer>
             Security Watch by koz / セキュリティを、もっと身近に
         </footer>
@@ -590,6 +770,7 @@
 const DATA_DIR = "data";
 
 let disclosures = [];
+let vulnerabilities = [];
 
 
 async function loadData() {
@@ -599,6 +780,17 @@ async function loadData() {
         const today = new Date();
 
         const requests = [];
+
+        const vulnerabilityRequest =
+            fetch(`${DATA_DIR}/vulnerabilities.json`)
+                .then(response => {
+                    if (!response.ok) {
+                        return [];
+                    }
+        
+                    return response.json();
+                })
+                .catch(() => []);
 
         const days =
             Number(
@@ -679,6 +871,9 @@ async function loadData() {
 
         const results =
             await Promise.all(requests);
+        
+        vulnerabilities =
+            await vulnerabilityRequest;
 
 
         disclosures =
@@ -750,6 +945,7 @@ function initializeDashboard() {
 
     renderDisclosures();
 
+    renderVulnerabilities();
 }
 
 
@@ -993,6 +1189,172 @@ function renderDisclosures() {
 
 }
 
+function renderVulnerabilities() {
+
+    const container =
+        document.getElementById(
+            "vulnerabilities"
+        );
+
+    const count =
+        document.getElementById(
+            "vulnerability-table-count"
+        );
+
+    count.textContent =
+        `${vulnerabilities.length} items`;
+
+    if (vulnerabilities.length === 0) {
+
+        container.innerHTML = `
+            <tr>
+                <td
+                    colspan="8"
+                    class="vulnerability-empty"
+                >
+                    脆弱性情報がありません。
+                </td>
+            </tr>
+        `;
+
+        return;
+    }
+
+    const sorted =
+        [...vulnerabilities].sort(
+            (a, b) => {
+
+                const dateA =
+                    a.last_update || "";
+
+                const dateB =
+                    b.last_update || "";
+
+                return dateB.localeCompare(
+                    dateA
+                );
+            }
+        );
+
+    container.innerHTML =
+        sorted.map(item => {
+
+            const cve =
+                escapeHtml(item.cve);
+
+            const company =
+                escapeHtml(item.company);
+
+            const product =
+                escapeHtml(item.product);
+
+            const kev =
+                escapeHtml(item.kev);
+
+            const epss =
+                item.epss_current !== null &&
+                item.epss_current !== undefined
+                    ? Number(
+                        item.epss_current
+                    ).toFixed(5)
+                    : "—";
+
+            const cvss =
+                item.cvss !== null &&
+                item.cvss !== undefined
+                    ? Number(
+                        item.cvss
+                    ).toFixed(1)
+                    : "—";
+
+            const published =
+                escapeHtml(
+                    item.published
+                );
+
+            const lastUpdate =
+                escapeHtml(
+                    item.last_update
+                );
+
+            return `
+                <tr>
+
+                    <td>
+                        <span
+                            class="vulnerability-cve"
+                        >
+                            ${cve}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span
+                            class="vulnerability-company"
+                        >
+                            ${company}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span
+                            class="vulnerability-product"
+                        >
+                            ${product}
+                        </span>
+                    </td>
+
+                    <td>
+                        ${
+                            kev === "あり"
+                            ? `
+                                <span
+                                    class="kev-badge"
+                                >
+                                    KEV
+                                </span>
+                            `
+                            : "—"
+                        }
+                    </td>
+
+                    <td>
+                        <span
+                            class="epss-value"
+                        >
+                            ${epss}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span
+                            class="cvss-value"
+                        >
+                            ${cvss}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span
+                            class="vulnerability-date"
+                        >
+                            ${published}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span
+                            class="vulnerability-date"
+                        >
+                            ${lastUpdate}
+                        </span>
+                    </td>
+
+                </tr>
+            `;
+
+        }).join("");
+}
 
 function escapeHtml(value) {
 
