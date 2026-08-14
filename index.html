@@ -355,15 +355,11 @@
 
         .vulnerability-section {
             margin-top: 28px;
-            font-family:
-                -apple-system,
-                BlinkMacSystemFont,
-                "Segoe UI",
-                "Noto Sans JP",
-                "Hiragino Kaku Gothic ProN",
-                "Yu Gothic",
-                sans-serif;
-            color: #263142;
+            background: #ffffff;
+            border: 1px solid #e6eaf0;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
         }
         
         .vulnerability-section * {
@@ -372,22 +368,29 @@
 
         .vulnerability-header {
             display: flex;
-            justify-content: space-between;
             align-items: center;
-            padding: 18px 22px;
+            justify-content: space-between;
+        
+            padding: 18px 20px;
+        
             border-bottom: 1px solid #edf0f4;
         }
-
+        
         .vulnerability-title {
-            font-size: 14px;
-            font-weight: 750;
+            font-size: 15px;
+            font-weight: 700;
+            color: #263142;
         }
-
+        
         .vulnerability-subtitle {
-            margin-top: 4px;
+            margin-top: 3px;
+        
             font-size: 11px;
+            font-weight: 500;
+        
             color: #8a94a6;
         }
+
 
         .vulnerability-count {
             font-size: 12px;
