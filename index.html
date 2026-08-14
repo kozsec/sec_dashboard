@@ -353,120 +353,128 @@
             align-items: center;
         }
 
-                    .vulnerability-section {
-                margin-top: 28px;
-                background: white;
-                border: 1px solid #e6eaf0;
-                border-radius: 20px;
-                overflow: hidden;
-                box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
-            }
+        .vulnerability-section {
+            margin-top: 28px;
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                "Noto Sans JP",
+                "Hiragino Kaku Gothic ProN",
+                "Yu Gothic",
+                sans-serif;
+            color: #263142;
+        }
+        
+        .vulnerability-section * {
+            font-family: inherit;
+        }
 
-            .vulnerability-header {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-                padding: 18px 22px;
-                border-bottom: 1px solid #edf0f4;
-            }
+        .vulnerability-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px 22px;
+            border-bottom: 1px solid #edf0f4;
+        }
 
-            .vulnerability-title {
-                font-size: 14px;
-                font-weight: 750;
-            }
+        .vulnerability-title {
+            font-size: 14px;
+            font-weight: 750;
+        }
 
-            .vulnerability-subtitle {
-                margin-top: 4px;
-                font-size: 11px;
-                color: #8a94a6;
-            }
+        .vulnerability-subtitle {
+            margin-top: 4px;
+            font-size: 11px;
+            color: #8a94a6;
+        }
 
-            .vulnerability-count {
-                font-size: 12px;
-                color: #8a94a6;
-            }
+        .vulnerability-count {
+            font-size: 12px;
+            color: #8a94a6;
+        }
 
-            .vulnerability-table-wrapper {
-                overflow-x: auto;
-            }
+        .vulnerability-table-wrapper {
+            overflow-x: auto;
+        }
 
-            .vulnerability-table {
-                width: 100%;
-                border-collapse: collapse;
-                font-size: 12px;
-            }
+        .vulnerability-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
 
-            .vulnerability-table th {
-                padding: 11px 14px;
-                background: #fafbfd;
-                border-bottom: 1px solid #edf0f4;
-                color: #8a94a6;
-                font-size: 11px;
-                font-weight: 700;
-                text-align: left;
-                white-space: nowrap;
-            }
+        .vulnerability-table th {
+            padding: 11px 14px;
+            background: #fafbfd;
+            border-bottom: 1px solid #edf0f4;
+            color: #8a94a6;
+            font-size: 11px;
+            font-weight: 700;
+            text-align: left;
+            white-space: nowrap;
+        }
 
-            .vulnerability-table td {
-                padding: 13px 14px;
-                border-bottom: 1px solid #edf0f4;
-                vertical-align: middle;
-            }
+        .vulnerability-table td {
+            padding: 13px 14px;
+            border-bottom: 1px solid #edf0f4;
+            vertical-align: middle;
+        }
 
-            .vulnerability-table tr:last-child td {
-                border-bottom: none;
-            }
+        .vulnerability-table tr:last-child td {
+            border-bottom: none;
+        }
 
-            .vulnerability-table tbody tr:hover {
-                background: #fafbfd;
-            }
+        .vulnerability-table tbody tr:hover {
+            background: #fafbfd;
+        }
 
-            .vulnerability-cve {
-                font-family: monospace;
-                font-size: 12px;
-                font-weight: 700;
-                color: #4f5b70;
-                white-space: nowrap;
-            }
+        .vulnerability-cve {
+            font-family: monospace;
+            font-size: 12px;
+            font-weight: 700;
+            color: #4f5b70;
+            white-space: nowrap;
+        }
 
-            .vulnerability-company {
-                font-weight: 650;
-                white-space: nowrap;
-            }
+        .vulnerability-company {
+            font-weight: 650;
+            white-space: nowrap;
+        }
 
-            .vulnerability-product {
-                color: #687386;
-                white-space: nowrap;
-            }
+        .vulnerability-product {
+            color: #687386;
+            white-space: nowrap;
+        }
 
-            .kev-badge {
-                display: inline-block;
-                padding: 3px 8px;
-                border-radius: 6px;
-                background: #172033;
-                color: white;
-                font-size: 10px;
-                font-weight: 700;
-            }
+        .kev-badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 6px;
+            background: #172033;
+            color: white;
+            font-size: 10px;
+            font-weight: 700;
+        }
 
-            .epss-value,
-            .cvss-value {
-                font-variant-numeric: tabular-nums;
-                font-weight: 700;
-                white-space: nowrap;
-            }
+        .epss-value,
+        .cvss-value {
+            font-variant-numeric: tabular-nums;
+            font-weight: 700;
+            white-space: nowrap;
+        }
 
-            .vulnerability-date {
-                color: #687386;
-                white-space: nowrap;
-            }
+        .vulnerability-date {
+            color: #687386;
+            white-space: nowrap;
+        }
 
-            .vulnerability-loading,
-            .vulnerability-empty {
-                padding: 40px 20px !important;
-                text-align: center;
-                color: #8a94a6;
-            }
+        .vulnerability-loading,
+        .vulnerability-empty {
+            padding: 40px 20px !important;
+            text-align: center;
+            color: #8a94a6;
+        }
 
 
         @media (max-width: 800px) {
