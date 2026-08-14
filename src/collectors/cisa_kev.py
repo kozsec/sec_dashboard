@@ -32,13 +32,11 @@ def fetch_cisa_kev():
 
     data = response.json()
 
-    # TEST?
+    # TEST ot not
     if TEST_DATE:
         target_date = TEST_DATE
     else:
         target_date = datetime.now().strftime("%Y-%m-%d")
-
-    print(f"CISA KEV target date: {target_date}")
 
     vulnerabilities = []
 
@@ -69,18 +67,26 @@ def fetch_cisa_kev():
         f"{len(vulnerabilities)}"
     )
 
+    # Output(feed)
     save_json(vulnerabilities)
+
+    # Output(vuln)
+    save_vulnerabilities_json(
+        vulnerabilities
+    )
 
     return vulnerabilities
 
 
-# -- Save
+# -- Save(Feed)
 def save_json(data):
+
     if not data:
         print("No new CISA KEV vulnerabilities.")
         return
 
     date_str = data[0]["date"].replace("-", "")
+
     filename = (
         f"data/vulnerabilities_{date_str}.json"
     )
@@ -95,14 +101,84 @@ def save_json(data):
         "w",
         encoding="utf-8"
     ) as f:
+
         json.dump(
             data,
             f,
             ensure_ascii=False,
             indent=2
         )
+
     print(f"Saved: {filename}")
+
+
+# -- Save(vuln)
+def save_vulnerabilities_json(data):
+
+    if not data:
+        print(
+            "No new CISA KEV vulnerabilities "
+            "for vulnerabilities.json."
+        )
+        return
+
+    records = []
+
+    for item in data:
+
+        date_added = item.get("date")
+
+        if date_added:
+            published = datetime.strptime(
+                date_added,
+                "%Y-%m-%d"
+            ).strftime("%Y/%m/%d")
+        else:
+            published = None
+
+        record = {
+            "cve": item.get("identifier"),
+            "company": item.get("organization"),
+            "product": None,
+            "title": item.get("title"),
+            "kev": "あり",
+            "epss_current": None,
+            "cvss": None,
+            "cvss_vector": None,
+            "published": published,
+            "last_update": published
+        }
+
+        records.append(record)
+
+    filename = "data/vulnerabilities.json"
+
+    os.makedirs(
+        "data",
+        exist_ok=True
+    )
+
+    with open(
+        filename,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            records,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+        f.write("\n")
+
+    print(
+        f"Saved: {filename}"
+    )
+
 
 # -- Main
 if __name__ == "__main__":
+
     vulnerabilities = fetch_cisa_kev()
