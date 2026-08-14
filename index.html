@@ -1304,9 +1304,7 @@ function renderVulnerabilities() {
             const epss =
                 item.epss_current !== null &&
                 item.epss_current !== undefined
-                    ? Number(
-                        item.epss_current
-                    ).toFixed(5)
+                    ? `${(Number(item.epss_current) * 100).toFixed(2)}%`
                     : "—";
 
             const cvss =
