@@ -30,10 +30,18 @@
             text-decoration: none;
         }
 
+        button,
+        input,
+        select {
+            font: inherit;
+        }
+
         .container {
             width: min(1400px, calc(100% - 48px));
             margin: 0 auto;
         }
+
+        /* Header */
 
         header {
             background: rgba(255, 255, 255, 0.94);
@@ -106,6 +114,8 @@
             cursor: pointer;
         }
 
+        /* Main */
+
         main {
             padding: 42px 0 80px;
         }
@@ -132,9 +142,11 @@
             font-size: 14px;
         }
 
+        /* Stats */
+
         .stats {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 16px;
             margin-bottom: 28px;
         }
@@ -167,6 +179,8 @@
             color: #9aa3b2;
         }
 
+        /* Search */
+
         .toolbar {
             display: flex;
             justify-content: space-between;
@@ -178,7 +192,6 @@
         .search {
             flex: 1;
             max-width: 480px;
-            position: relative;
         }
 
         .search input {
@@ -199,6 +212,8 @@
             box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.06);
         }
 
+        /* Feed */
+
         .feed {
             background: white;
             border: 1px solid #e6eaf0;
@@ -215,10 +230,24 @@
             border-bottom: 1px solid #edf0f4;
         }
 
-        .feed-columns {
+        .feed-title {
+            font-size: 14px;
+            font-weight: 750;
+        }
+
+        .feed-count {
+            font-size: 12px;
+            color: #8a94a6;
+        }
+
+        .feed-columns,
+        .item {
             display: grid;
             grid-template-columns: 70px 90px 120px 1fr auto;
             gap: 18px;
+        }
+
+        .feed-columns {
             padding: 10px 22px;
             text-align: center;
             background: #fafbfd;
@@ -234,20 +263,7 @@
             padding-left: 56px;
         }
 
-        .feed-title {
-            font-size: 14px;
-            font-weight: 750;
-        }
-
-        .feed-count {
-            font-size: 12px;
-            color: #8a94a6;
-        }
-
         .item {
-            display: grid;
-            grid-template-columns: 70px 90px 120px 1fr auto;
-            gap: 18px;
             padding: 12px 22px;
             border-bottom: 1px solid #edf0f4;
             transition: background 0.15s ease;
@@ -260,6 +276,7 @@
         .item:hover {
             background: #fafbfd;
         }
+
         .source {
             font-size: 12px;
             color: #8993a4;
@@ -277,8 +294,6 @@
             font-size: 12px;
             font-weight: 700;
             color: #4f5b70;
-            margin: 0;
-            display: inline;
         }
 
         .title {
@@ -286,13 +301,11 @@
             line-height: 1.6;
             font-weight: 650;
             color: #172033;
-            display: inline;
-            margin-left: 12px;
         }
 
         .code {
             display: inline-block;
-            margin-left: 8px;
+            margin-top: 3px;
             padding: 2px 7px;
             border-radius: 6px;
             background: #f0f2f6;
@@ -300,6 +313,12 @@
             font-size: 10px;
             font-weight: 700;
             vertical-align: middle;
+        }
+
+        .actions {
+            display: flex;
+            gap: 8px;
+            align-items: center;
         }
 
         .link {
@@ -321,42 +340,7 @@
             border-color: #172033;
         }
 
-        .empty {
-            padding: 70px 20px;
-            text-align: center;
-            color: #8a94a6;
-            font-size: 13px;
-        }
-
-        .loading {
-            padding: 70px 20px;
-            text-align: center;
-            color: #8a94a6;
-            font-size: 13px;
-        }
-
-        .error {
-            margin-top: 20px;
-            padding: 16px;
-            border-radius: 12px;
-            background: #fff5f5;
-            border: 1px solid #f3d3d3;
-            color: #a33a3a;
-            font-size: 13px;
-        }
-
-        footer {
-            padding: 30px 0;
-            color: #a0a8b6;
-            font-size: 11px;
-            text-align: center;
-        }
-
-        .actions {
-            display: flex;
-            gap: 8px;
-            align-items: center;
-        }
+        /* Vulnerability */
 
         .vulnerability-section {
             margin-top: 28px;
@@ -365,10 +349,6 @@
             border-radius: 16px;
             overflow: hidden;
             box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
-        }
-
-        .vulnerability-section * {
-            font-family: inherit;
         }
 
         .vulnerability-header {
@@ -409,43 +389,36 @@
             font-size: 12px;
         }
 
-        /* CVE */
         .vulnerability-table th:nth-child(1),
         .vulnerability-table td:nth-child(1) {
             width: 150px;
         }
 
-        /* Company */
         .vulnerability-table th:nth-child(2),
         .vulnerability-table td:nth-child(2) {
             width: 250px;
         }
 
-        /* Product */
         .vulnerability-table th:nth-child(3),
         .vulnerability-table td:nth-child(3) {
             width: auto;
         }
 
-        /* KEV */
         .vulnerability-table th:nth-child(4),
         .vulnerability-table td:nth-child(4) {
             width: 60px;
         }
 
-        /* EPSS */
         .vulnerability-table th:nth-child(5),
         .vulnerability-table td:nth-child(5) {
             width: 80px;
         }
 
-        /* CVSS */
         .vulnerability-table th:nth-child(6),
         .vulnerability-table td:nth-child(6) {
             width: 70px;
         }
 
-        /* Published */
         .vulnerability-table th:nth-child(7),
         .vulnerability-table td:nth-child(7) {
             width: 100px;
@@ -459,12 +432,12 @@
             text-overflow: ellipsis;
         }
 
-        .vulnerability-table tr:last-child td {
-            border-bottom: none;
-        }
-
         .vulnerability-table tbody tr:hover {
             background: #fafbfd;
+        }
+
+        .vulnerability-table tr:last-child td {
+            border-bottom: none;
         }
 
         .vulnerability-cve {
@@ -495,12 +468,6 @@
             font-weight: 700;
         }
 
-        .epss-value {
-            display: inline-block;
-            width: 100%;
-            text-align: right;
-        }
-
         .epss-value,
         .cvss-value {
             font-variant-numeric: tabular-nums;
@@ -508,19 +475,20 @@
             white-space: nowrap;
         }
 
+        .epss-value {
+            display: inline-block;
+            width: 100%;
+            text-align: right;
+        }
+
         .vulnerability-date {
             color: #687386;
             white-space: nowrap;
         }
 
-        .vulnerability-loading,
-        .vulnerability-empty {
-            padding: 40px 20px !important;
-            text-align: center;
-            color: #8a94a6;
-        }
-        
-        .vulnerability-pagination, .disclosure-pagination {
+        /* Pagination */
+
+        .pagination {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -528,8 +496,8 @@
             padding: 16px 20px;
             border-top: 1px solid #edf0f4;
         }
-        
-        .vulnerability-page, .disclosure-page {
+
+        .page-button {
             min-width: 34px;
             height: 34px;
             padding: 0 8px;
@@ -541,22 +509,57 @@
             font-weight: 700;
             cursor: pointer;
         }
-        
-        .vulnerability-page:hover, .disclosure-page:hover {
+
+        .page-button:hover {
             background: #fafbfd;
         }
-        
-        .vulnerability-page.active, .disclosure-page.active {
+
+        .page-button.active {
             background: #172033;
             color: white;
             border-color: #172033;
         }
-        
-        .vulnerability-page:disabled {
-            cursor: default;
+
+        /* States */
+
+        .empty,
+        .loading {
+            padding: 70px 20px;
+            text-align: center;
+            color: #8a94a6;
+            font-size: 13px;
         }
 
+        .vulnerability-loading,
+        .vulnerability-empty {
+            padding: 40px 20px !important;
+            text-align: center;
+            color: #8a94a6;
+        }
+
+        .error {
+            margin-top: 20px;
+            padding: 16px;
+            border-radius: 12px;
+            background: #fff5f5;
+            border: 1px solid #f3d3d3;
+            color: #a33a3a;
+            font-size: 13px;
+        }
+
+        /* Footer */
+
+        footer {
+            padding: 30px 0;
+            color: #a0a8b6;
+            font-size: 11px;
+            text-align: center;
+        }
+
+        /* Mobile */
+
         @media (max-width: 800px) {
+
             .container {
                 width: min(100% - 28px, 1400px);
             }
@@ -592,6 +595,10 @@
                 max-width: none;
             }
 
+            .feed-columns {
+                display: none;
+            }
+
             .item {
                 grid-template-columns: 70px 1fr;
                 gap: 8px 12px;
@@ -599,9 +606,6 @@
             }
 
             .source {
-                font-size: 12px;
-                color: #8993a4;
-                white-space: nowrap;
                 grid-column: 1;
                 grid-row: 1;
             }
@@ -615,13 +619,11 @@
             .company {
                 grid-column: 1 / -1;
                 grid-row: 2;
-                text-align: left;
             }
 
             .title {
                 grid-column: 1 / -1;
                 grid-row: 3;
-                margin-left: 0;
                 line-height: 1.5;
             }
 
@@ -629,35 +631,6 @@
                 grid-column: 1 / -1;
                 grid-row: 4;
                 justify-content: flex-end;
-            }
-
-            .link {
-                display: flex;
-            }
-
-            .x-link {
-                align-self: center;
-                width: 34px;
-                height: 34px;
-                border: 1px solid #e5e9f0;
-                border-radius: 9px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                color: #687386;
-                transition: 0.15s;
-                font-size: 14px;
-                font-weight: 700;
-            }
-
-            .x-link:hover {
-                background: #172033;
-                color: white;
-                border-color: #172033;
-            }
-
-            .feed-columns {
-                display: none;
             }
 
             .vulnerability-table {
@@ -675,10 +648,15 @@
 
 <header>
     <div class="container header-inner">
+
         <div class="brand">
-            <div class="brand-mark">S</div>
+
+            <div class="brand-mark">
+                S
+            </div>
 
             <div class="brand-text">
+
                 <div class="brand-title">
                     Security Watch by koz
                 </div>
@@ -686,10 +664,13 @@
                 <div class="brand-subtitle">
                     SECURITY INFORMATION DASHBOARD
                 </div>
+
             </div>
+
         </div>
 
         <div class="display-info">
+
             Display:
 
             <select id="days-select">
@@ -697,66 +678,93 @@
                 <option value="30">30 Days</option>
                 <option value="90">90 Days</option>
             </select>
+
         </div>
+
     </div>
 </header>
 
 <main>
+
     <div class="container">
 
         <section class="hero">
+
             <div>
-                <h1>Security Updates</h1>
+
+                <h1>
+                    Security Updates
+                </h1>
 
                 <p>
                     セキュリティ関連情報をあちこちから拾います。（全自動）
                 </p>
+
             </div>
+
         </section>
+
 
         <section class="stats">
 
             <div class="stat-card">
+
                 <div class="stat-label">
                     NEWS FEED
                 </div>
 
-                <div class="stat-value" id="disclosure-count">
+                <div
+                    class="stat-value"
+                    id="disclosure-count"
+                >
                     —
                 </div>
 
                 <div class="stat-description">
                     ニュース情報の件数
                 </div>
+
             </div>
 
+
             <div class="stat-card">
+
                 <div class="stat-label">
                     VULNERABILITIES
                 </div>
 
-                <div class="stat-value" id="vulnerability-count">
+                <div
+                    class="stat-value"
+                    id="vulnerability-count"
+                >
                     —
                 </div>
 
                 <div class="stat-description">
                     緊急対応が必要かもしれない脆弱性の件数
                 </div>
+
             </div>
 
         </section>
+
 
         <section class="toolbar">
 
             <div class="search">
+
                 <input
                     type="text"
                     id="search"
-                    placeholder="企業名・タイトルを検索..."
+                    placeholder="タイトルを検索..."
                 >
+
             </div>
 
         </section>
+
+
+        <!-- Security Feed -->
 
         <section class="feed">
 
@@ -766,21 +774,38 @@
                     Security Feed
                 </div>
 
-                <div class="feed-count" id="feed-count">
+                <div
+                    class="feed-count"
+                    id="feed-count"
+                >
                     —
                 </div>
 
             </div>
 
+
             <div class="feed-columns">
-                <div>Source</div>
-                <div>Date</div>
-                <div>Organization</div>
+
+                <div>
+                    Source
+                </div>
+
+                <div>
+                    Date
+                </div>
+
+                <div>
+                    Organization
+                </div>
+
                 <div class="feed-column-title">
                     Title
                 </div>
+
                 <div></div>
+
             </div>
+
 
             <div id="disclosures">
 
@@ -789,23 +814,32 @@
                 </div>
 
             </div>
+
+
             <div
                 id="disclosure-pagination"
-                class="disclosure-pagination"
+                class="pagination"
             ></div>
 
         </section>
 
+
+        <!-- Vulnerabilities -->
+
         <section class="vulnerability-section">
 
             <div class="vulnerability-header">
+
                 <div>
+
                     <div class="vulnerability-title">
                         Vulnerabilities
                     </div>
+
                     <div class="vulnerability-subtitle">
                         CISA KEV / EPSS / CVSS
                     </div>
+
                 </div>
 
                 <div
@@ -814,13 +848,16 @@
                 >
                     —
                 </div>
+
             </div>
+
 
             <div class="vulnerability-table-wrapper">
 
                 <table class="vulnerability-table">
 
                     <thead>
+
                         <tr>
                             <th>CVE</th>
                             <th>Company</th>
@@ -830,184 +867,63 @@
                             <th>CVSS</th>
                             <th>Published</th>
                         </tr>
+
                     </thead>
 
                     <tbody id="vulnerabilities">
+
                         <tr>
+
                             <td
                                 colspan="7"
                                 class="vulnerability-loading"
                             >
                                 データを読み込んでいます...
                             </td>
+
                         </tr>
+
                     </tbody>
-                    
-                    <div
-                        id="vulnerability-pagination"
-                        class="vulnerability-pagination"
-                    ></div>
 
                 </table>
 
             </div>
 
+
+            <div
+                id="vulnerability-pagination"
+                class="pagination"
+            ></div>
+
         </section>
+
 
         <footer>
             Security Watch by koz / セキュリティを、もっと身近に
         </footer>
 
     </div>
+
 </main>
+
 
 <script>
 
 const DATA_DIR = "data";
 
+const DISCLOSURES_PER_PAGE = 10;
+const VULNERABILITIES_PER_PAGE = 10;
+
 let disclosures = [];
 let vulnerabilities = [];
 
-let currentVulnerabilityPage = 1;
-const VULNERABILITIES_PER_PAGE = 10;
-
 let currentDisclosurePage = 1;
-const DISCLOSURES_PER_PAGE = 10;
-    
-async function loadData() {
-
-    try {
-
-        const today = new Date();
-
-        const requests = [];
-
-        const vulnerabilityRequest =
-            fetch(`${DATA_DIR}/vulnerabilities.json`)
-                .then(response => {
-
-                    if (!response.ok) {
-                        return [];
-                    }
-
-                    return response.json();
-
-                })
-                .catch(() => []);
+let currentVulnerabilityPage = 1;
 
 
-        const days =
-            Number(
-                document.getElementById("days-select").value
-            );
-
-
-        for (let i = 0; i < days; i++) {
-
-            const date = new Date(today);
-
-            date.setDate(
-                today.getDate() - i
-            );
-
-            const dateString =
-                formatDate(date);
-
-
-            const filename =
-                `${DATA_DIR}/security_disclosures_${dateString}.json`;
-
-
-            const ipaFilename =
-                `${DATA_DIR}/ipa_${dateString}.json`;
-
-
-            requests.push(
-                Promise.all([
-
-                    fetch(filename)
-                        .then(response => {
-
-                            if (!response.ok) {
-                                return [];
-                            }
-
-                            return response.json();
-
-                        })
-                        .catch(() => []),
-
-
-                    fetch(ipaFilename)
-                        .then(response => {
-
-                            if (!response.ok) {
-                                return [];
-                            }
-
-                            return response.json();
-
-                        })
-                        .catch(() => [])
-
-                ])
-            );
-
-        }
-
-
-        const results =
-            await Promise.all(requests);
-
-
-        disclosures =
-            results.flatMap(
-                result => result[0]
-            );
-
-
-        vulnerabilities =
-            await vulnerabilityRequest;
-
-
-        disclosures.sort((a, b) => {
-
-            const dateA =
-                `${a.date} ${a.time || ""}`;
-
-            const dateB =
-                `${b.date} ${b.time || ""}`;
-
-            return dateB.localeCompare(dateA);
-
-        });
-
-
-        initializeDashboard();
-
-
-    } catch (error) {
-
-        console.error(error);
-
-        document.getElementById(
-            "disclosures"
-        ).innerHTML = `
-
-            <div class="error">
-
-                データを読み込めませんでした。<br>
-
-                ${error.message}
-
-            </div>
-
-        `;
-
-    }
-
-}
-
+/* --------------------------------
+   Utility
+-------------------------------- */
 
 function formatDate(date) {
 
@@ -1025,33 +941,31 @@ function formatDate(date) {
         ).padStart(2, "0");
 
     return `${year}${month}${day}`;
-
 }
 
 
-function initializeDashboard() {
+function escapeHtml(value) {
 
-    updateStats();
+    if (
+        value === null ||
+        value === undefined
+    ) {
+        return "";
+    }
 
-    renderDisclosures();
-
-    renderVulnerabilities();
-
+    return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
 }
 
 
-function updateStats() {
-
-    const disclosureCount =
-        disclosures.filter(
-            item =>
-                item.source === "適時開示"
-        ).length;
-
-
-    /*
-     * 表示期間
-     */
+/*
+ * 表示期間を取得
+ */
+function getDateRange() {
 
     const days =
         Number(
@@ -1060,57 +974,304 @@ function updateStats() {
             ).value
         );
 
-
-    const today =
+    const end =
         new Date();
 
-    today.setHours(
+    end.setHours(
         23,
         59,
         59,
         999
     );
 
+    const start =
+        new Date(end);
 
-    const startDate =
-        new Date(today);
-
-    startDate.setDate(
-        today.getDate() - days + 1
+    start.setDate(
+        end.getDate() - days + 1
     );
 
-    startDate.setHours(
+    start.setHours(
         0,
         0,
         0,
         0
     );
 
+    return {
+        start,
+        end
+    };
+}
+
+
+/*
+ * Vulnerabilityの期間フィルタ
+ */
+function getFilteredVulnerabilities() {
+
+    const {
+        start,
+        end
+    } = getDateRange();
+
+    return vulnerabilities.filter(
+        item => {
+
+            if (!item.last_update) {
+                return false;
+            }
+
+            const date =
+                new Date(
+                    item.last_update
+                );
+
+            return (
+                date >= start &&
+                date <= end
+            );
+        }
+    );
+}
+
+
+/*
+ * Feedを日付順に並べる
+ */
+function sortDisclosures(data) {
+
+    return [...data].sort(
+        (a, b) => {
+
+            const dateA =
+                `${a.date} ${a.time || ""}`;
+
+            const dateB =
+                `${b.date} ${b.time || ""}`;
+
+            return dateB.localeCompare(
+                dateA
+            );
+        }
+    );
+}
+
+
+/*
+ * Vulnerabilityを更新日時順に並べる
+ */
+function sortVulnerabilities(data) {
+
+    return [...data].sort(
+        (a, b) => {
+
+            return (
+                `${b.last_update || ""}`
+                .localeCompare(
+                    `${a.last_update || ""}`
+                )
+            );
+        }
+    );
+}
+
+
+/* --------------------------------
+   Data loading
+-------------------------------- */
+
+async function fetchJson(filename) {
+
+    try {
+
+        const response =
+            await fetch(filename);
+
+        if (!response.ok) {
+            return [];
+        }
+
+        return await response.json();
+
+    } catch (error) {
+
+        console.warn(
+            `Failed to load: ${filename}`,
+            error
+        );
+
+        return [];
+    }
+}
+
+
+async function loadData() {
+
+    try {
+
+        const today =
+            new Date();
+
+        const days =
+            Number(
+                document.getElementById(
+                    "days-select"
+                ).value
+            );
+
+
+        /*
+         * Feed
+         */
+
+        const feedRequests = [];
+
+        for (
+            let i = 0;
+            i < days;
+            i++
+        ) {
+
+            const date =
+                new Date(today);
+
+            date.setDate(
+                today.getDate() - i
+            );
+
+            const dateString =
+                formatDate(date);
+
+
+            const disclosureFile =
+                `${DATA_DIR}/security_disclosures_${dateString}.json`;
+
+            const ipaFile =
+                `${DATA_DIR}/ipa_${dateString}.json`;
+
+
+            feedRequests.push(
+                fetchJson(
+                    disclosureFile
+                )
+            );
+
+            feedRequests.push(
+                fetchJson(
+                    ipaFile
+                )
+            );
+        }
+
+
+        /*
+         * Vulnerability
+         */
+
+        const vulnerabilityRequest =
+            fetchJson(
+                `${DATA_DIR}/vulnerabilities.json`
+            );
+
+
+        const results =
+            await Promise.all([
+                ...feedRequests,
+                vulnerabilityRequest
+            ]);
+
+
+        /*
+         * 最後の要素がVulnerability
+         */
+
+        vulnerabilities =
+            results[results.length - 1];
+
+
+        /*
+         * それ以外がFeed
+         */
+
+        disclosures =
+            results
+                .slice(0, -1)
+                .flat();
+
+
+        disclosures =
+            sortDisclosures(
+                disclosures
+            );
+
+
+        initializeDashboard();
+
+
+    } catch (error) {
+
+        console.error(error);
+
+        document.getElementById(
+            "disclosures"
+        ).innerHTML = `
+
+            <div class="error">
+
+                データを読み込めませんでした。<br>
+
+                ${escapeHtml(
+                    error.message
+                )}
+
+            </div>
+
+        `;
+
+    }
+}
+
+
+/* --------------------------------
+   Dashboard
+-------------------------------- */
+
+function initializeDashboard() {
+
+    updateStats();
+
+    renderDisclosures();
+
+    renderVulnerabilities();
+}
+
+
+/* --------------------------------
+   Stats
+-------------------------------- */
+
+function updateStats() {
 
     /*
-     * 表示期間内のVulnerabilityだけを集計
+     * Feed件数
+     *
+     * 現在表示対象の全Feed件数
+     */
+
+    const disclosureCount =
+        disclosures.length;
+
+
+    /*
+     * Vulnerability件数
+     *
+     * 選択期間内
      */
 
     const vulnerabilityCount =
-        vulnerabilities.filter(
-            item => {
-
-                if (!item.last_update) {
-                    return false;
-                }
-
-                const date =
-                    new Date(
-                        item.last_update
-                    );
-
-                return (
-                    date >= startDate &&
-                    date <= today
-                );
-
-            }
-        ).length;
+        getFilteredVulnerabilities()
+            .length;
 
 
     document.getElementById(
@@ -1123,9 +1284,12 @@ function updateStats() {
         "vulnerability-count"
     ).textContent =
         vulnerabilityCount.toLocaleString();
-
 }
 
+
+/* --------------------------------
+   Feed
+-------------------------------- */
 
 function renderDisclosures() {
 
@@ -1145,49 +1309,31 @@ function renderDisclosures() {
 
 
     /*
-     * 検索
-     *
-     * 検索対象はタイトルだけ
+     * タイトルだけを検索対象にする
      */
 
     let filtered =
-        disclosures.filter(item => {
+        disclosures.filter(
+            item => {
 
-            if (!search) {
-                return true;
+                if (!search) {
+                    return true;
+                }
+
+                return (
+                    `${item.title || ""}`
+                        .toLowerCase()
+                        .includes(search)
+                );
             }
-
-            const title =
-                `${item.title || ""}`
-                    .toLowerCase();
-
-            return title.includes(search);
-
-        });
-
-
-    /*
-     * 日付の新しい順
-     */
-
-    filtered.sort((a, b) => {
-
-        const dateA =
-            `${a.date} ${a.time || ""}`;
-
-        const dateB =
-            `${b.date} ${b.time || ""}`;
-
-        return dateB.localeCompare(
-            dateA
         );
 
-    });
 
+    filtered =
+        sortDisclosures(
+            filtered
+        );
 
-    /*
-     * 件数表示
-     */
 
     document.getElementById(
         "feed-count"
@@ -1195,32 +1341,26 @@ function renderDisclosures() {
         `${filtered.length} items`;
 
 
-    /*
-     * データなし
-     */
-
-    if (filtered.length === 0) {
+    if (
+        filtered.length === 0
+    ) {
 
         container.innerHTML = `
-
             <div class="empty">
-
                 該当する情報がありません。
-
             </div>
-
         `;
 
-        renderDisclosurePagination(0);
+        renderPagination(
+            "disclosure-pagination",
+            0,
+            currentDisclosurePage,
+            changeDisclosurePage
+        );
 
         return;
-
     }
 
-
-    /*
-     * ページ数
-     */
 
     const totalPages =
         Math.ceil(
@@ -1229,24 +1369,14 @@ function renderDisclosures() {
         );
 
 
-    /*
-     * ページ番号が範囲外になった場合
-     */
-
     if (
         currentDisclosurePage >
         totalPages
     ) {
-
         currentDisclosurePage =
             totalPages;
-
     }
 
-
-    /*
-     * 現在ページの10件を取得
-     */
 
     const startIndex =
         (
@@ -1255,249 +1385,179 @@ function renderDisclosures() {
         DISCLOSURES_PER_PAGE;
 
 
-    const endIndex =
-        startIndex +
-        DISCLOSURES_PER_PAGE;
-
-
     const pageItems =
         filtered.slice(
             startIndex,
-            endIndex
+            startIndex +
+                DISCLOSURES_PER_PAGE
         );
 
 
-    /*
-     * Feed表示
-     */
-
     container.innerHTML =
-        pageItems.map(item => {
-
-            const safeTitle =
-                escapeHtml(
-                    item.title
-                );
-
-
-            const safeOrganization =
-                escapeHtml(
-                    item.organization
-                );
+        pageItems
+            .map(
+                renderDisclosureItem
+            )
+            .join("");
 
 
-            const safeIdentifier =
-                escapeHtml(
-                    item.identifier
-                );
-
-
-            const safeSource =
-                escapeHtml(
-                    item.source
-                );
-
-
-            let postText = "";
-
-
-            if (
-                item.source === "適時開示"
-            ) {
-
-                postText =
-                    `[${item.organization}] ` +
-                    `${item.title}\n` +
-                    `${item.date}\n` +
-                    `${item.url || ""}`;
-
-            }
-
-
-            else if (
-                item.source === "CISA KEV"
-            ) {
-
-                postText =
-                    `[${item.identifier}] KEVC: ` +
-                    `${item.title}\n` +
-                    `${item.date}\n` +
-                    `${item.url || ""}`;
-
-            }
-
-
-            else if (
-                item.source === "IPA"
-            ) {
-
-                postText =
-                    `[IPA] ` +
-                    `${item.title}\n` +
-                    `${item.date}\n` +
-                    `${item.url || ""}`;
-
-            }
-
-
-            const postUrl =
-                `https://twitter.com/intent/tweet?text=${encodeURIComponent(
-                    postText
-                )}`;
-
-
-            return `
-
-                <article class="item">
-
-                    <div class="source">
-                        ${safeSource}
-                    </div>
-
-
-                    <div
-                        class="time"
-                        align="center"
-                    >
-                        ${escapeHtml(
-                            item.date
-                        )}
-
-                        ${
-                            item.time
-                            ? ` ${escapeHtml(
-                                item.time
-                            )}`
-                            : ""
-                        }
-
-                    </div>
-
-
-                    <div class="company">
-
-                        ${safeOrganization}
-
-                        <br>
-
-                        <span class="code">
-                            ${safeIdentifier}
-                        </span>
-
-                    </div>
-
-
-                    <span class="title">
-                        ${safeTitle}
-                    </span>
-
-
-                    <div class="actions">
-
-                        ${
-                            item.url
-                            ? `
-
-                                <a
-                                    class="link"
-                                    href="${item.url}"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    title="詳細を開く"
-                                >
-                                    ↗
-                                </a>
-
-                            `
-                            : ""
-                        }
-
-
-                        <a
-                            class="link"
-                            href="${postUrl}"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            title="Xに投稿"
-                        >
-                            𝕏
-                        </a>
-
-                    </div>
-
-                </article>
-
-            `;
-
-        }).join("");
-
-
-    /*
-     * ページ番号
-     */
-
-    renderDisclosurePagination(
-        totalPages
+    renderPagination(
+        "disclosure-pagination",
+        totalPages,
+        currentDisclosurePage,
+        changeDisclosurePage
     );
 }
 
-function renderDisclosurePagination(
-    totalPages
-) {
 
-    const container =
-        document.getElementById(
-            "disclosure-pagination"
+function renderDisclosureItem(item) {
+
+    const title =
+        escapeHtml(
+            item.title
+        );
+
+    const organization =
+        escapeHtml(
+            item.organization
+        );
+
+    const identifier =
+        escapeHtml(
+            item.identifier
+        );
+
+    const source =
+        escapeHtml(
+            item.source
         );
 
 
+    let postText = "";
+
+
     if (
-        totalPages <= 1
+        item.source === "適時開示"
     ) {
 
-        container.innerHTML = "";
+        postText =
+            `[${item.organization}] ` +
+            `${item.title}\n` +
+            `${item.date}\n` +
+            `${item.url || ""}`;
 
-        return;
+    } else if (
+        item.source === "CISA KEV"
+    ) {
+
+        postText =
+            `[${item.identifier}] KEVC: ` +
+            `${item.title}\n` +
+            `${item.date}\n` +
+            `${item.url || ""}`;
+
+    } else if (
+        item.source === "IPA"
+    ) {
+
+        postText =
+            `[IPA] ` +
+            `${item.title}\n` +
+            `${item.date}\n` +
+            `${item.url || ""}`;
     }
 
 
-    let html = "";
+    const postUrl =
+        `https://twitter.com/intent/tweet?text=` +
+        encodeURIComponent(
+            postText
+        );
 
 
-    for (
-        let page = 1;
-        page <= totalPages;
-        page++
-    ) {
-
-        html += `
-            <button
-                class="disclosure-page ${
-                    page === currentDisclosurePage
-                        ? "active"
-                        : ""
-                }"
-                onclick="changeDisclosurePage(${page})"
+    const detailLink =
+        item.url
+        ? `
+            <a
+                class="link"
+                href="${escapeHtml(item.url)}"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="詳細を開く"
             >
-                ${page}
-            </button>
-        `;
+                ↗
+            </a>
+        `
+        : "";
 
-    }
+
+    return `
+
+        <article class="item">
+
+            <div class="source">
+                ${source}
+            </div>
 
 
-    container.innerHTML =
-        html;
+            <div class="time">
+                ${escapeHtml(item.date)}
+                ${
+                    item.time
+                    ? ` ${escapeHtml(item.time)}`
+                    : ""
+                }
+            </div>
+
+
+            <div class="company">
+
+                ${organization}
+
+                ${
+                    identifier
+                    ? `
+                        <br>
+                        <span class="code">
+                            ${identifier}
+                        </span>
+                    `
+                    : ""
+                }
+
+            </div>
+
+
+            <div class="title">
+                ${title}
+            </div>
+
+
+            <div class="actions">
+
+                ${detailLink}
+
+                <a
+                    class="link"
+                    href="${postUrl}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Xに投稿"
+                >
+                    𝕏
+                </a>
+
+            </div>
+
+        </article>
+
+    `;
 }
-function changeDisclosurePage(page) {
 
-    currentDisclosurePage =
-        page;
 
-    renderDisclosures();
-
-}
-
+/* --------------------------------
+   Vulnerabilities
+-------------------------------- */
 
 function renderVulnerabilities() {
 
@@ -1511,85 +1571,24 @@ function renderVulnerabilities() {
             "vulnerability-table-count"
         );
 
-    const days =
-        Number(
-            document.getElementById("days-select").value
+
+    let filtered =
+        getFilteredVulnerabilities();
+
+
+    filtered =
+        sortVulnerabilities(
+            filtered
         );
 
-    const today = new Date();
-
-    today.setHours(
-        23, 59, 59, 999
-    );
-
-    const startDate = new Date(today);
-
-    startDate.setDate(
-        today.getDate() - days + 1
-    );
-
-    startDate.setHours(
-        0, 0, 0, 0
-    );
-
-
-    /*
-     * 日付でフィルタ
-     */
-
-    const filtered =
-        vulnerabilities.filter(item => {
-
-            if (!item.last_update) {
-                return false;
-            }
-
-            const date =
-                new Date(item.last_update);
-
-            return (
-                date >= startDate &&
-                date <= today
-            );
-
-        });
-
-
-    /*
-     * 新しい順に並べる
-     */
-
-    const sorted =
-        [...filtered].sort(
-            (a, b) => {
-
-                const dateA =
-                    a.last_update || "";
-
-                const dateB =
-                    b.last_update || "";
-
-                return dateB.localeCompare(
-                    dateA
-                );
-
-            }
-        );
-
-
-    /*
-     * 件数表示
-     */
 
     count.textContent =
-        `${sorted.length} items`;
+        `${filtered.length} items`;
 
 
-    /*
-     * データなし
-     */
-
-    if (sorted.length === 0) {
+    if (
+        filtered.length === 0
+    ) {
 
         container.innerHTML = `
             <tr>
@@ -1602,39 +1601,33 @@ function renderVulnerabilities() {
             </tr>
         `;
 
-        renderVulnerabilityPagination(0);
+        renderPagination(
+            "vulnerability-pagination",
+            0,
+            currentVulnerabilityPage,
+            changeVulnerabilityPage
+        );
 
         return;
     }
 
 
-    /*
-     * ページ数
-     */
-
     const totalPages =
         Math.ceil(
-            sorted.length /
+            filtered.length /
             VULNERABILITIES_PER_PAGE
         );
 
-
-    /*
-     * ページ番号が範囲外になった場合
-     */
 
     if (
         currentVulnerabilityPage >
         totalPages
     ) {
+
         currentVulnerabilityPage =
             totalPages;
     }
 
-
-    /*
-     * 表示する10件を取得
-     */
 
     const startIndex =
         (
@@ -1643,146 +1636,151 @@ function renderVulnerabilities() {
         VULNERABILITIES_PER_PAGE;
 
 
-    const endIndex =
-        startIndex +
-        VULNERABILITIES_PER_PAGE;
-
-
     const pageItems =
-        sorted.slice(
+        filtered.slice(
             startIndex,
-            endIndex
+            startIndex +
+                VULNERABILITIES_PER_PAGE
         );
 
 
-    /*
-     * テーブル表示
-     */
-
     container.innerHTML =
-        pageItems.map(item => {
-
-            const cve =
-                escapeHtml(item.cve);
-
-            const company =
-                escapeHtml(item.company);
-
-            const product =
-                escapeHtml(item.product);
-
-            const kev =
-                escapeHtml(item.kev);
-
-            const epss =
-                item.epss_current !== null &&
-                item.epss_current !== undefined
-                    ? `${(
-                        Number(
-                            item.epss_current
-                        ) * 100
-                    ).toFixed(2)}%`
-                    : "—";
-
-            const cvss =
-                item.cvss !== null &&
-                item.cvss !== undefined
-                    ? Number(
-                        item.cvss
-                    ).toFixed(1)
-                    : "—";
-
-            const published =
-                escapeHtml(
-                    item.published
-                );
+        pageItems
+            .map(
+                renderVulnerabilityItem
+            )
+            .join("");
 
 
-            return `
-                <tr>
-
-                    <td>
-                        <span
-                            class="vulnerability-cve"
-                        >
-                            ${cve}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-company"
-                        >
-                            ${company}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-product"
-                        >
-                            ${product}
-                        </span>
-                    </td>
-
-                    <td>
-                        ${
-                            kev === "あり"
-                            ? `
-                                <span
-                                    class="kev-badge"
-                                >
-                                    KEV
-                                </span>
-                            `
-                            : "—"
-                        }
-                    </td>
-
-                    <td>
-                        <span
-                            class="epss-value"
-                        >
-                            ${epss}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="cvss-value"
-                        >
-                            ${cvss}
-                        </span>
-                    </td>
-
-                    <td>
-                        <span
-                            class="vulnerability-date"
-                        >
-                            ${published}
-                        </span>
-                    </td>
-
-                </tr>
-            `;
-
-        }).join("");
-
-
-    /*
-     * ページ番号を表示
-     */
-
-    renderVulnerabilityPagination(
-        totalPages
+    renderPagination(
+        "vulnerability-pagination",
+        totalPages,
+        currentVulnerabilityPage,
+        changeVulnerabilityPage
     );
 }
 
-function renderVulnerabilityPagination(totalPages) {
+
+function renderVulnerabilityItem(item) {
+
+    const cve =
+        escapeHtml(
+            item.cve
+        );
+
+    const company =
+        escapeHtml(
+            item.company
+        );
+
+    const product =
+        escapeHtml(
+            item.product
+        );
+
+    const kev =
+        escapeHtml(
+            item.kev
+        );
+
+    const published =
+        escapeHtml(
+            item.published
+        );
+
+
+    const epss =
+        item.epss_current !== null &&
+        item.epss_current !== undefined
+            ? (
+                Number(
+                    item.epss_current
+                ) * 100
+            ).toFixed(2) + "%"
+            : "—";
+
+
+    const cvss =
+        item.cvss !== null &&
+        item.cvss !== undefined
+            ? Number(
+                item.cvss
+            ).toFixed(1)
+            : "—";
+
+
+    return `
+
+        <tr>
+
+            <td>
+                <span class="vulnerability-cve">
+                    ${cve}
+                </span>
+            </td>
+
+            <td>
+                <span class="vulnerability-company">
+                    ${company}
+                </span>
+            </td>
+
+            <td>
+                <span class="vulnerability-product">
+                    ${product}
+                </span>
+            </td>
+
+            <td>
+                ${
+                    kev === "あり"
+                    ? `
+                        <span class="kev-badge">
+                            KEV
+                        </span>
+                    `
+                    : "—"
+                }
+            </td>
+
+            <td>
+                <span class="epss-value">
+                    ${epss}
+                </span>
+            </td>
+
+            <td>
+                <span class="cvss-value">
+                    ${cvss}
+                </span>
+            </td>
+
+            <td>
+                <span class="vulnerability-date">
+                    ${published}
+                </span>
+            </td>
+
+        </tr>
+
+    `;
+}
+
+
+/* --------------------------------
+   Pagination
+-------------------------------- */
+
+function renderPagination(
+    containerId,
+    totalPages,
+    currentPage,
+    changePage
+) {
 
     const container =
         document.getElementById(
-            "vulnerability-pagination"
+            containerId
         );
 
 
@@ -1806,23 +1804,35 @@ function renderVulnerabilityPagination(totalPages) {
     ) {
 
         html += `
+
             <button
-                class="vulnerability-page ${
-                    page === currentVulnerabilityPage
+                class="page-button ${
+                    page === currentPage
                         ? "active"
                         : ""
                 }"
-                onclick="changeVulnerabilityPage(${page})"
+                onclick="${changePage.name}(${page})"
             >
                 ${page}
             </button>
-        `;
 
+        `;
     }
 
 
-    container.innerHTML = html;
+    container.innerHTML =
+        html;
 }
+
+
+function changeDisclosurePage(page) {
+
+    currentDisclosurePage =
+        page;
+
+    renderDisclosures();
+}
+
 
 function changeVulnerabilityPage(page) {
 
@@ -1831,26 +1841,11 @@ function changeVulnerabilityPage(page) {
 
     renderVulnerabilities();
 }
-    
-function escapeHtml(value) {
-
-    if (
-        value === null ||
-        value === undefined
-    ) {
-        return "";
-    }
 
 
-    return String(value)
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
-
-}
-
+/* --------------------------------
+   Events
+-------------------------------- */
 
 document
     .getElementById("search")
@@ -1861,7 +1856,6 @@ document
             currentDisclosurePage = 1;
 
             renderDisclosures();
-
         }
     );
 
@@ -1873,14 +1867,16 @@ document
         () => {
 
             currentDisclosurePage = 1;
-
             currentVulnerabilityPage = 1;
 
             loadData();
-
         }
     );
 
+
+/* --------------------------------
+   Start
+-------------------------------- */
 
 loadData();
 
