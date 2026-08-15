@@ -514,6 +514,42 @@
             text-align: center;
             color: #8a94a6;
         }
+        
+        .vulnerability-pagination, .disclosure-pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 6px;
+            padding: 16px 20px;
+            border-top: 1px solid #edf0f4;
+        }
+        
+        .vulnerability-page, .disclosure-page {
+            min-width: 34px;
+            height: 34px;
+            padding: 0 8px;
+            border: 1px solid #e1e6ee;
+            border-radius: 8px;
+            background: white;
+            color: #687386;
+            font-size: 12px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+        
+        .vulnerability-page:hover, .disclosure-page:hover {
+            background: #fafbfd;
+        }
+        
+        .vulnerability-page.active, .disclosure-page.active {
+            background: #172033;
+            color: white;
+            border-color: #172033;
+        }
+        
+        .vulnerability-page:disabled {
+            cursor: default;
+        }
 
         @media (max-width: 800px) {
             .container {
@@ -622,41 +658,6 @@
 
             .vulnerability-header {
                 padding: 16px;
-            }
-            .vulnerability-pagination {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                gap: 6px;
-                padding: 16px 20px;
-                border-top: 1px solid #edf0f4;
-            }
-            
-            .vulnerability-page {
-                min-width: 34px;
-                height: 34px;
-                padding: 0 8px;
-                border: 1px solid #e1e6ee;
-                border-radius: 8px;
-                background: white;
-                color: #687386;
-                font-size: 12px;
-                font-weight: 700;
-                cursor: pointer;
-            }
-            
-            .vulnerability-page:hover {
-                background: #fafbfd;
-            }
-            
-            .vulnerability-page.active {
-                background: #172033;
-                color: white;
-                border-color: #172033;
-            }
-            
-            .vulnerability-page:disabled {
-                cursor: default;
             }
         }
     </style>
@@ -780,6 +781,10 @@
                 </div>
 
             </div>
+            <div
+                id="disclosure-pagination"
+                class="disclosure-pagination"
+            ></div>
 
         </section>
 
@@ -857,6 +862,9 @@ let vulnerabilities = [];
 
 let currentVulnerabilityPage = 1;
 const VULNERABILITIES_PER_PAGE = 10;
+
+let currentDisclosurePage = 1;
+const DISCLOSURES_PER_PAGE = 10;
     
 async function loadData() {
 
@@ -1068,6 +1076,12 @@ function renderDisclosures() {
         .trim();
 
 
+    /*
+     * 検索
+     *
+     * 検索対象はタイトルだけ
+     */
+
     let filtered =
         disclosures.filter(item => {
 
@@ -1075,16 +1089,18 @@ function renderDisclosures() {
                 return true;
             }
 
-
-            const text =
-                `${item.organization || ""} ${item.identifier || ""} ${item.title || ""}`
+            const title =
+                `${item.title || ""}`
                     .toLowerCase();
 
-
-            return text.includes(search);
+            return title.includes(search);
 
         });
 
+
+    /*
+     * 日付の新しい順
+     */
 
     filtered.sort((a, b) => {
 
@@ -1094,16 +1110,26 @@ function renderDisclosures() {
         const dateB =
             `${b.date} ${b.time || ""}`;
 
-        return dateB.localeCompare(dateA);
+        return dateB.localeCompare(
+            dateA
+        );
 
     });
 
+
+    /*
+     * 件数表示
+     */
 
     document.getElementById(
         "feed-count"
     ).textContent =
         `${filtered.length} items`;
 
+
+    /*
+     * データなし
+     */
 
     if (filtered.length === 0) {
 
@@ -1117,34 +1143,99 @@ function renderDisclosures() {
 
         `;
 
+        renderDisclosurePagination(0);
+
         return;
 
     }
 
 
+    /*
+     * ページ数
+     */
+
+    const totalPages =
+        Math.ceil(
+            filtered.length /
+            DISCLOSURES_PER_PAGE
+        );
+
+
+    /*
+     * ページ番号が範囲外になった場合
+     */
+
+    if (
+        currentDisclosurePage >
+        totalPages
+    ) {
+
+        currentDisclosurePage =
+            totalPages;
+
+    }
+
+
+    /*
+     * 現在ページの10件を取得
+     */
+
+    const startIndex =
+        (
+            currentDisclosurePage - 1
+        ) *
+        DISCLOSURES_PER_PAGE;
+
+
+    const endIndex =
+        startIndex +
+        DISCLOSURES_PER_PAGE;
+
+
+    const pageItems =
+        filtered.slice(
+            startIndex,
+            endIndex
+        );
+
+
+    /*
+     * Feed表示
+     */
+
     container.innerHTML =
-        filtered.map(item => {
+        pageItems.map(item => {
 
             const safeTitle =
-                escapeHtml(item.title);
+                escapeHtml(
+                    item.title
+                );
 
 
             const safeOrganization =
-                escapeHtml(item.organization);
+                escapeHtml(
+                    item.organization
+                );
 
 
             const safeIdentifier =
-                escapeHtml(item.identifier);
+                escapeHtml(
+                    item.identifier
+                );
 
 
             const safeSource =
-                escapeHtml(item.source);
+                escapeHtml(
+                    item.source
+                );
 
 
             let postText = "";
 
 
-            if (item.source === "適時開示") {
+            if (
+                item.source === "適時開示"
+            ) {
 
                 postText =
                     `[${item.organization}] ` +
@@ -1155,7 +1246,9 @@ function renderDisclosures() {
             }
 
 
-            else if (item.source === "CISA KEV") {
+            else if (
+                item.source === "CISA KEV"
+            ) {
 
                 postText =
                     `[${item.identifier}] KEVC: ` +
@@ -1166,7 +1259,9 @@ function renderDisclosures() {
             }
 
 
-            else if (item.source === "IPA") {
+            else if (
+                item.source === "IPA"
+            ) {
 
                 postText =
                     `[IPA] ` +
@@ -1178,7 +1273,9 @@ function renderDisclosures() {
 
 
             const postUrl =
-                `https://twitter.com/intent/tweet?text=${encodeURIComponent(postText)}`;
+                `https://twitter.com/intent/tweet?text=${encodeURIComponent(
+                    postText
+                )}`;
 
 
             return `
@@ -1194,11 +1291,18 @@ function renderDisclosures() {
                         class="time"
                         align="center"
                     >
-                        ${escapeHtml(item.date)}
-                        ${item.time
-                            ? ` ${escapeHtml(item.time)}`
+                        ${escapeHtml(
+                            item.date
+                        )}
+
+                        ${
+                            item.time
+                            ? ` ${escapeHtml(
+                                item.time
+                            )}`
                             : ""
                         }
+
                     </div>
 
 
@@ -1258,6 +1362,71 @@ function renderDisclosures() {
             `;
 
         }).join("");
+
+
+    /*
+     * ページ番号
+     */
+
+    renderDisclosurePagination(
+        totalPages
+    );
+}
+
+function renderDisclosurePagination(
+    totalPages
+) {
+
+    const container =
+        document.getElementById(
+            "disclosure-pagination"
+        );
+
+
+    if (
+        totalPages <= 1
+    ) {
+
+        container.innerHTML = "";
+
+        return;
+    }
+
+
+    let html = "";
+
+
+    for (
+        let page = 1;
+        page <= totalPages;
+        page++
+    ) {
+
+        html += `
+            <button
+                class="disclosure-page ${
+                    page === currentDisclosurePage
+                        ? "active"
+                        : ""
+                }"
+                onclick="changeDisclosurePage(${page})"
+            >
+                ${page}
+            </button>
+        `;
+
+    }
+
+
+    container.innerHTML =
+        html;
+}
+function changeDisclosurePage(page) {
+
+    currentDisclosurePage =
+        page;
+
+    renderDisclosures();
 
 }
 
@@ -1619,7 +1788,13 @@ document
     .getElementById("search")
     .addEventListener(
         "input",
-        renderDisclosures
+        () => {
+
+            currentDisclosurePage = 1;
+
+            renderDisclosures();
+
+        }
     );
 
 
@@ -1628,6 +1803,8 @@ document
     .addEventListener(
         "change",
         () => {
+
+            currentDisclosurePage = 1;
 
             currentVulnerabilityPage = 1;
 
