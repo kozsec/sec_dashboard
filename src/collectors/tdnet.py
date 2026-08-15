@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 # -- Test
-testflg = True
+testflg = False
 if testflg == True:
     test_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260814.html"
 
