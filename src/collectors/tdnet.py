@@ -7,9 +7,9 @@ from datetime import datetime
 
 
 # -- Test
-testflg = False
+testflg = True
 if testflg == True:
-    test_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260807.html"
+    test_iframe = "https://www.release.tdnet.info/inbs/I_list_001_20260814.html"
 
 # -- Variable
 TDNET_URL = "https://www.release.tdnet.info/inbs/I_main_00.html"
@@ -263,11 +263,7 @@ def filter_security_disclosures(disclosures):
     results = []
 
     for disclosure in disclosures:
-        text = (
-            disclosure["organization"]
-            + " "
-            + disclosure["title"]
-        )
+        text = disclosure["title"]
 
         if any(
             keyword in text
