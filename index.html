@@ -1163,6 +1163,9 @@ async function loadData() {
             const disclosureFile =
                 `${DATA_DIR}/security_disclosures_${dateString}.json`;
 
+            const vulnerabilityFile =
+                `${DATA_DIR}/vulnerabilities_${dateString}.json`;
+
             const otherFile =
                 `${DATA_DIR}/other_${dateString}.json`;
 
@@ -1171,6 +1174,10 @@ async function loadData() {
                 fetchJson(
                     disclosureFile
                 )
+            );
+            
+            feedRequests.push(
+                fetchJson(vulnerabilityFile)
             );
 
             feedRequests.push(
