@@ -122,7 +122,7 @@ def save_json(data):
     )
 
     filename = (
-        f"data/ipa_{date_str}.json"
+        f"data/other_{date_str}.json"
     )
 
     os.makedirs(
