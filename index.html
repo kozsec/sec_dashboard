@@ -2197,20 +2197,20 @@ function renderDisclosureItem(item) {
 
 
             <div class="company">
-
-                ${organization}
-
+            
                 ${
                     identifier
                     ? `
-                        <br>
                         <span class="code">
                             ${identifier}
                         </span>
+                        &nbsp;
                     `
                     : ""
                 }
-
+            
+                ${organization}
+            
             </div>
 
 
