@@ -329,7 +329,6 @@
             background: #f0f2f6;
             color: #172033;
             font-size: 10px;
-            font-weight: 700;
             vertical-align: middle;
         }
 
@@ -446,7 +445,7 @@
 
         .vulnerability-table th:nth-child(4),
         .vulnerability-table td:nth-child(4) {
-            width: 60px;
+            width: 90px;
         }
 
         .vulnerability-table th:nth-child(5),
@@ -509,24 +508,15 @@
         .epss-value,
         .cvss-value {
             font-variant-numeric: tabular-nums;
-            font-weight: 700;
             white-space: nowrap;
         }
         
-        .epss-warning {
-            color: #c58a32;
+        .epss-warning, .cvss-warning {
+            color: #F59E0B
         }
         
-        .epss-danger {
-            color: #a85c5c;
-        }
-        
-        .cvss-warning {
-            color: #c58a32;
-        }
-        
-        .cvss-danger {
-            color: #a85c5c;
+        .epss-danger, .cvss-danger {
+            color: #EF4444;
         }
 
         .epss-value {
