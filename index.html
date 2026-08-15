@@ -889,69 +889,65 @@
 
         <section class="stats">
 
-            <section class="stats">
-
-                <div class="stat-card">
-            
-                    <div class="stat-label">
-                        SECURITY FEED
-                    </div>
-            
-                    <div
-                        class="stat-value"
-                        id="disclosure-count"
-                    >
-                        —
-                    </div>
-            
-                    <div class="stat-description">
-                        ちゃんとしたサイト記事の件数
-                    </div>
-            
+            <div class="stat-card">
+        
+                <div class="stat-label">
+                    SECURITY FEED
                 </div>
-            
-            
-                <div class="stat-card">
-            
-                    <div class="stat-label">
-                        SECURITY ARTICLES
-                    </div>
-            
-                    <div
-                        class="stat-value"
-                        id="security-articles-stat-count"
-                    >
-                        —
-                    </div>
-            
-                    <div class="stat-description">
-                        民間メディア記事の件数（精度低）
-                    </div>
-            
+        
+                <div
+                    class="stat-value"
+                    id="disclosure-count"
+                >
+                    —
                 </div>
-            
-            
-                <div class="stat-card">
-            
-                    <div class="stat-label">
-                        VULNERABILITIES
-                    </div>
-            
-                    <div
-                        class="stat-value"
-                        id="vulnerability-count"
-                    >
-                        —
-                    </div>
-            
-                    <div class="stat-description">
-                        緊急対応が必要かもしれない脆弱性の件数
-                    </div>
-            
+        
+                <div class="stat-description">
+                    ちゃんとしたサイト記事の件数
                 </div>
-            
-            </section>
-
+        
+            </div>
+        
+        
+            <div class="stat-card">
+        
+                <div class="stat-label">
+                    SECURITY ARTICLES
+                </div>
+        
+                <div
+                    class="stat-value"
+                    id="security-articles-stat-count"
+                >
+                    —
+                </div>
+        
+                <div class="stat-description">
+                    民間メディア記事の件数（精度低）
+                </div>
+        
+            </div>
+        
+        
+            <div class="stat-card">
+        
+                <div class="stat-label">
+                    VULNERABILITIES
+                </div>
+        
+                <div
+                    class="stat-value"
+                    id="vulnerability-count"
+                >
+                    —
+                </div>
+        
+                <div class="stat-description">
+                    緊急対応が必要かもしれない脆弱性の件数
+                </div>
+        
+            </div>
+        
         </section>
 
 
@@ -1584,7 +1580,7 @@ async function loadData() {
 
 
         securityArticles =
-            sortDisclosures(
+            sortSecurityArticles(
                 securityArticles
             );
 
