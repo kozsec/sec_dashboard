@@ -14,7 +14,6 @@ HEADERS = {
 
 
 def fetch_ipa():
-
     today = datetime.now().strftime("%Y-%m-%d")
 
     response = requests.get(
@@ -39,7 +38,18 @@ def fetch_ipa():
         if not text:
             continue
 
-        if "セキュリティ" not in text:
+        identifier = None
+
+        if "セキュリティ" in text:
+            identifier = "セキュリティ"
+
+        elif "試験情報" in text:
+            identifier = "試験情報"
+
+        elif "人材育成" in text:
+            identifier = "人材育成"
+
+        else:
             continue
 
         href = link.get("href")
@@ -63,7 +73,7 @@ def fetch_ipa():
         title = text
 
         title = title.replace(
-            "セキュリティ",
+            identifier,
             "",
             1
         ).strip()
@@ -73,7 +83,7 @@ def fetch_ipa():
             "date": date,
             "time": None,
             "organization": "IPA",
-            "identifier": None,
+            "identifier": identifier,
             "title": title,
             "url": url
         }
@@ -81,10 +91,7 @@ def fetch_ipa():
         if item not in items:
             items.append(item)
 
-    print(
-        f"IPA security updates: "
-        f"{len(items)}"
-    )
+    print(f"IPA updates: {len(items)}")
 
     save_json(items)
 
@@ -92,7 +99,6 @@ def fetch_ipa():
 
 
 def extract_date(text):
-
     match = re.search(
         r"(\d{4})年(\d{1,2})月(\d{1,2})日",
         text
@@ -109,21 +115,13 @@ def extract_date(text):
 
 
 def save_json(data):
-
     if not data:
-        print(
-            "No IPA security updates."
-        )
+        print("No IPA updates.")
         return
 
-    date_str = data[0]["date"].replace(
-        "-",
-        ""
-    )
+    date_str = data[0]["date"].replace("-", "")
 
-    filename = (
-        f"data/other_{date_str}.json"
-    )
+    filename = f"data/other_{date_str}.json"
 
     os.makedirs(
         "data",
@@ -142,9 +140,7 @@ def save_json(data):
             indent=2
         )
 
-    print(
-        f"Saved: {filename}"
-    )
+    print(f"Saved: {filename}")
 
 
 if __name__ == "__main__":
