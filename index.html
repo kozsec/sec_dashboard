@@ -397,7 +397,7 @@
         .security-articles-columns,
         .security-article-item {
             display: grid;
-            grid-template-columns: 70px 90px 120px 1fr auto;
+            grid-template-columns: 90px 70px 120px 1fr auto;
             gap: 18px;
         }
         
@@ -435,21 +435,18 @@
         }
         
         .security-article-source {
-            height: 15px;
             font-size: 12px;
             color: #172033;
             white-space: nowrap;
         }
         
         .security-article-date {
-            height: 15px;
             font-size: 12px;
             color: #172033;
             font-variant-numeric: tabular-nums;
         }
         
         .security-article-title {
-            height: 15px;
             font-size: 12px;
             line-height: 1.5;
             color: #172033;
@@ -461,7 +458,6 @@
         }
         
         .security-article-identifier {
-            height: 15px;
             display: inline-block;
             margin-top: 3px;
             padding: 2px 7px;
@@ -473,7 +469,6 @@
         }
         
         .security-article-actions {
-            height: 15px;
             display: flex;
             gap: 8px;
             align-items: center;
@@ -1970,7 +1965,7 @@ function renderSecurityArticleItem(item) {
     
     
             <div class="security-article-source">
-                ${source}
+                ${organization}
             </div>
     
     
