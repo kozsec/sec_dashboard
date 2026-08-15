@@ -146,7 +146,7 @@
 
         .stats {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(3, 1fr);
             gap: 16px;
             margin-bottom: 28px;
         }
@@ -931,24 +931,68 @@
 
         <section class="stats">
 
-            <div class="stat-card">
+            <section class="stats">
 
-                <div class="stat-label">
-                    NEWS FEED
+                <div class="stat-card">
+            
+                    <div class="stat-label">
+                        SECURITY FEED
+                    </div>
+            
+                    <div
+                        class="stat-value"
+                        id="disclosure-count"
+                    >
+                        —
+                    </div>
+            
+                    <div class="stat-description">
+                        ちゃんとしたサイト記事の件数
+                    </div>
+            
                 </div>
-
-                <div
-                    class="stat-value"
-                    id="disclosure-count"
-                >
-                    —
+            
+            
+                <div class="stat-card">
+            
+                    <div class="stat-label">
+                        SECURITY ARTICLES
+                    </div>
+            
+                    <div
+                        class="stat-value"
+                        id="security-articles-stat-count"
+                    >
+                        —
+                    </div>
+            
+                    <div class="stat-description">
+                        民間メディア記事の件数（精度低）
+                    </div>
+            
                 </div>
-
-                <div class="stat-description">
-                    ニュース情報の件数
+            
+            
+                <div class="stat-card">
+            
+                    <div class="stat-label">
+                        VULNERABILITIES
+                    </div>
+            
+                    <div
+                        class="stat-value"
+                        id="vulnerability-count"
+                    >
+                        —
+                    </div>
+            
+                    <div class="stat-description">
+                        緊急対応が必要かもしれない脆弱性の件数
+                    </div>
+            
                 </div>
-
-            </div>
+            
+            </section>
 
 
             <div class="stat-card">
@@ -1682,21 +1726,12 @@ function initializeDashboard() {
 
 function updateStats() {
 
-    /*
-     * Feed件数
-     *
-     * 現在読み込んでいる期間の
-     * Feed総件数
-     */
     const disclosureCount =
         disclosures.length;
 
+    const securityArticlesCount =
+        securityArticles.length;
 
-    /*
-     * Vulnerability件数
-     *
-     * 選択期間内
-     */
     const vulnerabilityCount =
         getFilteredVulnerabilities()
             .length;
@@ -1707,6 +1742,10 @@ function updateStats() {
     ).textContent =
         disclosureCount.toLocaleString();
 
+    document.getElementById(
+        "security-articles-stat-count"
+    ).textContent =
+        securityArticlesCount.toLocaleString();
 
     document.getElementById(
         "vulnerability-count"
