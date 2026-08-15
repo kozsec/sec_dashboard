@@ -474,6 +474,22 @@
             font-weight: 700;
             white-space: nowrap;
         }
+        
+        .epss-warning {
+            color: #c58a32;
+        }
+        
+        .epss-danger {
+            color: #a85c5c;
+        }
+        
+        .cvss-warning {
+            color: #c58a32;
+        }
+        
+        .cvss-danger {
+            color: #a85c5c;
+        }
 
         .epss-value {
             display: inline-block;
@@ -1744,13 +1760,13 @@ function renderVulnerabilityItem(item) {
             </td>
 
             <td>
-                <span class="epss-value">
+                <span class="epss-value ${epssClass}">
                     ${epss}
                 </span>
             </td>
 
             <td>
-                <span class="cvss-value">
+                <span class="cvss-value ${cvssClass}">
                     ${cvss}
                 </span>
             </td>
@@ -1764,6 +1780,33 @@ function renderVulnerabilityItem(item) {
         </tr>
 
     `;
+}
+
+function getEpssClass(value) {
+
+    if (value >= 0.20) {
+        return "epss-danger";
+    }
+
+    if (value >= 0.10) {
+        return "epss-warning";
+    }
+
+    return "";
+}
+
+
+function getCvssClass(value) {
+
+    if (value >= 9.0) {
+        return "cvss-danger";
+    }
+
+    if (value >= 7.0) {
+        return "cvss-warning";
+    }
+
+    return "";
 }
 
 
