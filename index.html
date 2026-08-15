@@ -1227,18 +1227,56 @@ function renderVulnerabilities() {
             "vulnerabilities"
         );
 
-
     const count =
         document.getElementById(
             "vulnerability-table-count"
         );
 
+    const days =
+        Number(
+            document.getElementById("days-select").value
+        );
+
+    const today = new Date();
+
+    today.setHours(
+        23, 59, 59, 999
+    );
+
+    const startDate = new Date(today);
+
+    startDate.setDate(
+        today.getDate() - days + 1
+    );
+
+    startDate.setHours(
+        0, 0, 0, 0
+    );
+
+
+    const filtered =
+        vulnerabilities.filter(item => {
+
+            if (!item.last_update) {
+                return false;
+            }
+
+            const date =
+                new Date(item.last_update);
+
+            return (
+                date >= startDate &&
+                date <= today
+            );
+
+        });
+
 
     count.textContent =
-        `${vulnerabilities.length} items`;
+        `${filtered.length} items`;
 
 
-    if (vulnerabilities.length === 0) {
+    if (filtered.length === 0) {
 
         container.innerHTML = `
             <tr>
@@ -1256,7 +1294,7 @@ function renderVulnerabilities() {
 
 
     const sorted =
-        [...vulnerabilities].sort(
+        [...filtered].sort(
             (a, b) => {
 
                 const dateA =
@@ -1379,10 +1417,7 @@ function renderVulnerabilities() {
             `;
 
         }).join("");
-
 }
-
-
 
 
 function escapeHtml(value) {
