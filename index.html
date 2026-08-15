@@ -824,6 +824,20 @@ async function loadData() {
 
         const requests = [];
 
+        const vulnerabilityRequest =
+            fetch(`${DATA_DIR}/vulnerabilities.json`)
+                .then(response => {
+
+                    if (!response.ok) {
+                        return [];
+                    }
+
+                    return response.json();
+
+                })
+                .catch(() => []);
+
+
         const days =
             Number(
                 document.getElementById("days-select").value
@@ -846,10 +860,6 @@ async function loadData() {
                 `${DATA_DIR}/security_disclosures_${dateString}.json`;
 
 
-            const vulnerabilityFilename =
-                `${DATA_DIR}/vulnerabilities_${dateString}.json`;
-
-
             const ipaFilename =
                 `${DATA_DIR}/ipa_${dateString}.json`;
 
@@ -858,19 +868,6 @@ async function loadData() {
                 Promise.all([
 
                     fetch(filename)
-                        .then(response => {
-
-                            if (!response.ok) {
-                                return [];
-                            }
-
-                            return response.json();
-
-                        })
-                        .catch(() => []),
-
-
-                    fetch(vulnerabilityFilename)
                         .then(response => {
 
                             if (!response.ok) {
@@ -904,15 +901,15 @@ async function loadData() {
         const results =
             await Promise.all(requests);
 
+
         disclosures =
             results.flatMap(
                 result => result[0]
             );
 
+
         vulnerabilities =
-            results.flatMap(
-                result => result[1]
-            );
+            await vulnerabilityRequest;
 
 
         disclosures.sort((a, b) => {
