@@ -508,6 +508,7 @@ def fetch_gmail_alerts():
             total_skipped += skipped
 
         except Exception as e:
+            print(f"エラー: {e}")
 
 if __name__ == "__main__":
     fetch_gmail_alerts()
