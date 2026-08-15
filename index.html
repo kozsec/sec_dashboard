@@ -214,6 +214,10 @@
 
         /* Feed */
 
+        #disclosures {
+            min-height: 620px;
+        }
+
         .feed {
             background: white;
             border: 1px solid #e6eaf0;
@@ -264,9 +268,12 @@
         }
 
         .item {
+            min-height: 62px;
+            height: 62px;
             padding: 12px 22px;
             border-bottom: 1px solid #edf0f4;
             transition: background 0.15s ease;
+            align-items: center;
         }
 
         .item:last-child {
@@ -295,14 +302,19 @@
             font-weight: 700;
             color: #172033;
         }
-
+        
         .title {
             font-size: 12px;
-            line-height: 1.6;
+            line-height: 1.5;
             font-weight: 650;
             color: #172033;
+        
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;
         }
-
+        
         .code {
             display: inline-block;
             margin-top: 3px;
