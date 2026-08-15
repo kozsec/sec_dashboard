@@ -88,15 +88,17 @@ def fetch_tdnet():
         disclosures.extend(page_disclosures)
 
         page += 1
+    
+    filtered_data = filter_security_disclosures(disclosures)
 
-    # == DEBUG ==
     print(
-        f"Total Records: "
-        f"{len(disclosures)}"
+        f"Security-related disclosures: "
+        f"{len(filtered_data)}"
     )
-    # ===========
 
-    return disclosures
+    save_json(filtered_data)
+
+    return
 
 
 def fetch_page(page_url, disclosure_date):
@@ -339,15 +341,4 @@ def save_json(data):
 
 
 if __name__ == "__main__":
-    all_data = fetch_tdnet()
-
-    filtered_data = filter_security_disclosures(
-        all_data
-    )
-
-    print(
-        f"Security-related disclosures: "
-        f"{len(filtered_data)}"
-    )
-
-    save_json(filtered_data)
+    fetch_tdnet()
