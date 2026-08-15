@@ -543,7 +543,7 @@
 
         .vulnerability-table th:nth-child(1),
         .vulnerability-table td:nth-child(1) {
-            width: 150px;
+            width: 100px;
         }
 
         .vulnerability-table th:nth-child(2),
@@ -553,17 +553,18 @@
 
         .vulnerability-table th:nth-child(3),
         .vulnerability-table td:nth-child(3) {
-            width: auto;
+            width: 150px;
+
         }
 
         .vulnerability-table th:nth-child(4),
         .vulnerability-table td:nth-child(4) {
-            width: 90px;
+            width: auto;
         }
 
         .vulnerability-table th:nth-child(5),
         .vulnerability-table td:nth-child(5) {
-            width: 80px;
+                width: 70px;
         }
 
         .vulnerability-table th:nth-child(6),
@@ -1241,13 +1242,13 @@
                     <thead>
 
                         <tr>
+                            <th>Published</th>
                             <th>CVE</th>
                             <th>Company</th>
                             <th>Product</th>
                             <th>Source</th>
                             <th>EPSS</th>
                             <th>CVSS</th>
-                            <th>Published</th>
                         </tr>
 
                     </thead>
@@ -2432,25 +2433,31 @@ function renderVulnerabilityItem(item) {
     return `
 
         <tr>
-
+    
+            <td>
+                <span class="vulnerability-date">
+                    ${published}
+                </span>
+            </td>
+    
             <td>
                 <span class="vulnerability-cve">
                     ${cve}
                 </span>
             </td>
-
+    
             <td>
                 <span class="vulnerability-company">
                     ${company}
                 </span>
             </td>
-
+    
             <td>
                 <span class="vulnerability-product">
                     ${product}
                 </span>
             </td>
-
+    
             <td>
                 ${
                     kev === "あり"
@@ -2462,27 +2469,21 @@ function renderVulnerabilityItem(item) {
                     : "—"
                 }
             </td>
-
+    
             <td>
                 <span class="epss-value ${epssClass}">
                     ${epss}
                 </span>
             </td>
-
+    
             <td>
                 <span class="cvss-value ${cvssClass}">
                     ${cvss}
                 </span>
             </td>
-
-            <td>
-                <span class="vulnerability-date">
-                    ${published}
-                </span>
-            </td>
-
+    
         </tr>
-
+    
     `;
 }
 
