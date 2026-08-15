@@ -1163,8 +1163,8 @@ async function loadData() {
             const disclosureFile =
                 `${DATA_DIR}/security_disclosures_${dateString}.json`;
 
-            const ipaFile =
-                `${DATA_DIR}/ipa_${dateString}.json`;
+            const otherFile =
+                `${DATA_DIR}/other_${dateString}.json`;
 
 
             feedRequests.push(
@@ -1175,7 +1175,7 @@ async function loadData() {
 
             feedRequests.push(
                 fetchJson(
-                    ipaFile
+                    otherFile
                 )
             );
         }
