@@ -831,17 +831,6 @@ async function loadData() {
 
         const requests = [];
 
-        const vulnerabilityRequest =
-            fetch(`${DATA_DIR}/vulnerabilities.json`)
-                .then(response => {
-                    if (!response.ok) {
-                        return [];
-                    }
-        
-                    return response.json();
-                })
-                .catch(() => []);
-
         const days =
             Number(
                 document.getElementById("days-select").value
