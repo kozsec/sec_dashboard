@@ -361,7 +361,7 @@
             overflow: hidden;
             box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
         }
-        
+
         .vulnerability-section * {
             font-family: inherit;
         }
@@ -370,27 +370,22 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-        
             padding: 18px 20px;
-        
             border-bottom: 1px solid #edf0f4;
         }
-        
+
         .vulnerability-title {
             font-size: 15px;
             font-weight: 700;
             color: #263142;
         }
-        
+
         .vulnerability-subtitle {
             margin-top: 3px;
-        
             font-size: 11px;
             font-weight: 500;
-        
             color: #8a94a6;
         }
-
 
         .vulnerability-count {
             font-size: 12px;
@@ -401,7 +396,7 @@
             width: 100%;
             overflow-x: auto;
         }
-        
+
         .vulnerability-table {
             width: 100%;
             table-layout: fixed;
@@ -414,37 +409,37 @@
         .vulnerability-table td:nth-child(1) {
             width: 150px;
         }
-        
+
         /* Company */
         .vulnerability-table th:nth-child(2),
         .vulnerability-table td:nth-child(2) {
             width: 250px;
         }
-        
+
         /* Product */
         .vulnerability-table th:nth-child(3),
         .vulnerability-table td:nth-child(3) {
             width: auto;
         }
-        
+
         /* KEV */
         .vulnerability-table th:nth-child(4),
         .vulnerability-table td:nth-child(4) {
             width: 60px;
         }
-        
+
         /* EPSS */
         .vulnerability-table th:nth-child(5),
         .vulnerability-table td:nth-child(5) {
             width: 80px;
         }
-        
+
         /* CVSS */
         .vulnerability-table th:nth-child(6),
         .vulnerability-table td:nth-child(6) {
             width: 70px;
         }
-        
+
         /* Published */
         .vulnerability-table th:nth-child(7),
         .vulnerability-table td:nth-child(7) {
@@ -500,6 +495,7 @@
             width: 100%;
             text-align: right;
         }
+
         .epss-value,
         .cvss-value {
             font-variant-numeric: tabular-nums;
@@ -518,7 +514,6 @@
             text-align: center;
             color: #8a94a6;
         }
-
 
         @media (max-width: 800px) {
             .container {
@@ -620,7 +615,7 @@
             .feed-columns {
                 display: none;
             }
-            
+
             .vulnerability-table {
                 min-width: 900px;
             }
@@ -753,7 +748,6 @@
 
         </section>
 
-
         <section class="vulnerability-section">
 
             <div class="vulnerability-header">
@@ -807,7 +801,6 @@
 
         </section>
 
-        
         <footer>
             Security Watch by koz / セキュリティを、もっと身近に
         </footer>
@@ -830,17 +823,6 @@ async function loadData() {
         const today = new Date();
 
         const requests = [];
-
-        const vulnerabilityRequest =
-            fetch(`${DATA_DIR}/vulnerabilities.json`)
-                .then(response => {
-                    if (!response.ok) {
-                        return [];
-                    }
-        
-                    return response.json();
-                })
-                .catch(() => []);
 
         const days =
             Number(
@@ -921,12 +903,12 @@ async function loadData() {
 
         const results =
             await Promise.all(requests);
-        
+
         disclosures =
             results.flatMap(
                 result => result[0]
             );
-        
+
         vulnerabilities =
             results.flatMap(
                 result => result[1]
@@ -999,6 +981,7 @@ function initializeDashboard() {
     renderDisclosures();
 
     renderVulnerabilities();
+
 }
 
 
@@ -1011,7 +994,8 @@ function updateStats() {
         ).length;
 
 
-    const vulnerabilityCount = vulnerabilities.length;
+    const vulnerabilityCount =
+        vulnerabilities.length;
 
 
     document.getElementById(
@@ -1238,6 +1222,7 @@ function renderDisclosures() {
 
 }
 
+
 function renderVulnerabilities() {
 
     const container =
@@ -1245,13 +1230,16 @@ function renderVulnerabilities() {
             "vulnerabilities"
         );
 
+
     const count =
         document.getElementById(
             "vulnerability-table-count"
         );
 
+
     count.textContent =
         `${vulnerabilities.length} items`;
+
 
     if (vulnerabilities.length === 0) {
 
@@ -1267,7 +1255,9 @@ function renderVulnerabilities() {
         `;
 
         return;
+
     }
+
 
     const sorted =
         [...vulnerabilities].sort(
@@ -1276,6 +1266,7 @@ function renderVulnerabilities() {
                     `${a.date || ""}`
                 )
         );
+
 
     container.innerHTML =
         sorted.map(item => {
@@ -1288,11 +1279,13 @@ function renderVulnerabilities() {
                     ).toFixed(2)}%`
                     : "—";
 
+
             const cvss =
                 item.cvss !== null &&
                 item.cvss !== undefined
                     ? Number(item.cvss).toFixed(1)
                     : "—";
+
 
             return `
                 <tr>
@@ -1345,130 +1338,9 @@ function renderVulnerabilities() {
             `;
 
         }).join("");
-    }
-    
-    const sorted =
-        [...vulnerabilities].sort(
-            (a, b) => {
-    
-                const dateA =
-                    a.last_update || "";
-    
-                const dateB =
-                    b.last_update || "";
-    
-                return dateB.localeCompare(
-                    dateA
-                );
-            }
-        );
-    
-    container.innerHTML =
-        sorted.map(item => {
-    
-            const cve =
-                escapeHtml(item.cve);
-    
-            const company =
-                escapeHtml(item.company);
-    
-            const product =
-                escapeHtml(item.product);
-    
-            const kev =
-                escapeHtml(item.kev);
-    
-            const epss =
-                item.epss_current !== null &&
-                item.epss_current !== undefined
-                    ? `${(
-                        Number(item.epss_current) * 100
-                    ).toFixed(2)}%`
-                    : "—";
-    
-            const cvss =
-                item.cvss !== null &&
-                item.cvss !== undefined
-                    ? Number(
-                        item.cvss
-                    ).toFixed(1)
-                    : "—";
-    
-            const published =
-                escapeHtml(
-                    item.published
-                );
-    
-            return `
-                <tr>
-    
-                    <td>
-                        <span
-                            class="vulnerability-cve"
-                        >
-                            ${cve}
-                        </span>
-                    </td>
-    
-                    <td>
-                        <span
-                            class="vulnerability-company"
-                        >
-                            ${company}
-                        </span>
-                    </td>
-    
-                    <td>
-                        <span
-                            class="vulnerability-product"
-                        >
-                            ${product}
-                        </span>
-                    </td>
-    
-                    <td>
-                        ${
-                            kev === "あり"
-                            ? `
-                                <span
-                                    class="kev-badge"
-                                >
-                                    KEV
-                                </span>
-                            `
-                            : "—"
-                        }
-                    </td>
-    
-                    <td>
-                        <span
-                            class="epss-value"
-                        >
-                            ${epss}
-                        </span>
-                    </td>
-    
-                    <td>
-                        <span
-                            class="cvss-value"
-                        >
-                            ${cvss}
-                        </span>
-                    </td>
-    
-                    <td>
-                        <span
-                            class="vulnerability-date"
-                        >
-                            ${published}
-                        </span>
-                    </td>
-    
-                </tr>
-            `;
-    
-        }).join("");
-    }
+
+}
+
 
 function escapeHtml(value) {
 
