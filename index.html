@@ -784,6 +784,8 @@
                 grid-column: 1;
                 grid-row: 1;
             
+                padding-right: 40px;
+            
                 overflow: hidden;
                 white-space: nowrap;
                 text-overflow: ellipsis;
@@ -2673,16 +2675,6 @@ document
             loadData();
         }
     );
-
-window.addEventListener(
-    "resize",
-    () => {
-
-        currentSecurityArticlesPage = 1;
-
-        renderSecurityArticles();
-    }
-);
     
 
 /* --------------------------------
