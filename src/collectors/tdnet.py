@@ -283,7 +283,7 @@ def save_json(data):
 
     date_str = data[0]["date"].replace("-", "")
     filename = (
-        f"data/security_disclosures_{date_str}.json"
+        f"data/feed_{date_str}.json"
     )
 
     os.makedirs(
