@@ -9,7 +9,7 @@
     <style>
         * {
             box-sizing: border-box;
-        }
+        }f
 
         body {
             margin: 0;
@@ -319,6 +319,14 @@
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 2;
             overflow: hidden;
+        }
+        .title a {
+            color: inherit;
+            text-decoration: none;
+        }
+        
+        .title a:hover {
+            text-decoration: underline;
         }
         
         .code {
@@ -2061,6 +2069,20 @@ function renderDisclosureItem(item) {
             item.title
         );
 
+    const titleHtml =
+    item.url
+    ? `
+        <a
+            href="${escapeHtml(item.url)}"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="記事を開く"
+        >
+            ${title}
+        </a>
+    `
+    : title;
+
     const organization =
         escapeHtml(
             item.organization
@@ -2128,20 +2150,6 @@ function renderDisclosureItem(item) {
         );
 
 
-    const detailLink =
-        item.url
-        ? `
-            <a
-                class="link"
-                href="${escapeHtml(item.url)}"
-                target="_blank"
-                rel="noopener noreferrer"
-                title="詳細を開く"
-            >
-                ↗
-            </a>
-        `
-        : "";
 
 
     return `
@@ -2182,14 +2190,11 @@ function renderDisclosureItem(item) {
 
 
             <div class="title">
-                ${title}
+                ${titleHtml}
             </div>
 
-
             <div class="actions">
-
-                ${detailLink}
-
+            
                 <a
                     class="link"
                     href="${postUrl}"
@@ -2199,7 +2204,7 @@ function renderDisclosureItem(item) {
                 >
                     𝕏
                 </a>
-
+            
             </div>
 
         </article>
