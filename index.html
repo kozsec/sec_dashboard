@@ -973,6 +973,9 @@ let currentVulnerabilityPage = 1;
    Utility
 -------------------------------- */
 
+/*
+ * DateオブジェクトをYYYYMMDDに変換
+ */
 function formatDate(date) {
 
     const year =
@@ -992,6 +995,44 @@ function formatDate(date) {
 }
 
 
+/*
+ * YYYY-MM-DD形式の日付を
+ * ローカル時間として安全にDate化する
+ */
+function parseLocalDate(value) {
+
+    if (!value) {
+        return null;
+    }
+
+    const match =
+        String(value).match(
+            /^(\d{4})-(\d{2})-(\d{2})$/
+        );
+
+    if (!match) {
+
+        const date =
+            new Date(value);
+
+        return Number.isNaN(
+            date.getTime()
+        )
+            ? null
+            : date;
+    }
+
+    return new Date(
+        Number(match[1]),
+        Number(match[2]) - 1,
+        Number(match[3])
+    );
+}
+
+
+/*
+ * HTMLエスケープ
+ */
 function escapeHtml(value) {
 
     if (
@@ -1071,9 +1112,13 @@ function getFilteredVulnerabilities() {
             }
 
             const date =
-                new Date(
+                parseLocalDate(
                     item.last_update
                 );
+
+            if (!date) {
+                return false;
+            }
 
             return (
                 date >= start &&
@@ -1085,7 +1130,7 @@ function getFilteredVulnerabilities() {
 
 
 /*
- * Feedを日付順に並べる
+ * Feedを日付・時刻順に並べる
  */
 function sortDisclosures(data) {
 
@@ -1093,10 +1138,10 @@ function sortDisclosures(data) {
         (a, b) => {
 
             const dateA =
-                `${a.date} ${a.time || ""}`;
+                `${a.date || ""} ${a.time || ""}`;
 
             const dateB =
-                `${b.date} ${b.time || ""}`;
+                `${b.date || ""} ${b.time || ""}`;
 
             return dateB.localeCompare(
                 dateA
@@ -1129,6 +1174,13 @@ function sortVulnerabilities(data) {
    Data loading
 -------------------------------- */
 
+
+/*
+ * JSONを取得
+ *
+ * ファイルが存在しない場合や
+ * JSONとして不正な場合は空配列を返す。
+ */
 async function fetchJson(filename) {
 
     try {
@@ -1137,10 +1189,28 @@ async function fetchJson(filename) {
             await fetch(filename);
 
         if (!response.ok) {
+
+            console.warn(
+                `Failed to load: ${filename} ` +
+                `(HTTP ${response.status})`
+            );
+
             return [];
         }
 
-        return await response.json();
+        const data =
+            await response.json();
+
+        if (!Array.isArray(data)) {
+
+            console.warn(
+                `Invalid JSON format: ${filename}`
+            );
+
+            return [];
+        }
+
+        return data;
 
     } catch (error) {
 
@@ -1154,6 +1224,15 @@ async function fetchJson(filename) {
 }
 
 
+/*
+ * Dashboardデータを読み込む
+ *
+ * Feed:
+ *   data/feed_YYYYMMDD.json
+ *
+ * Vulnerability:
+ *   data/vulnerabilities.json
+ */
 async function loadData() {
 
     try {
@@ -1169,9 +1248,9 @@ async function loadData() {
             );
 
 
-        /*
-         * Feed
-         */
+        /* ------------------------------
+           Feed
+        ------------------------------ */
 
         const feedRequests = [];
 
@@ -1191,38 +1270,18 @@ async function loadData() {
             const dateString =
                 formatDate(date);
 
-
-            const disclosureFile =
-                `${DATA_DIR}/security_disclosures_${dateString}.json`;
-
-            const vulnerabilityFile =
-                `${DATA_DIR}/vulnerabilities_${dateString}.json`;
-
-            const otherFile =
-                `${DATA_DIR}/other_${dateString}.json`;
-
+            const feedFile =
+                `${DATA_DIR}/feed_${dateString}.json`;
 
             feedRequests.push(
-                fetchJson(
-                    disclosureFile
-                )
-            );
-            
-            feedRequests.push(
-                fetchJson(vulnerabilityFile)
-            );
-
-            feedRequests.push(
-                fetchJson(
-                    otherFile
-                )
+                fetchJson(feedFile)
             );
         }
 
 
-        /*
-         * Vulnerability
-         */
+        /* ------------------------------
+           Vulnerabilities
+        ------------------------------ */
 
         const vulnerabilityRequest =
             fetchJson(
@@ -1230,7 +1289,12 @@ async function loadData() {
             );
 
 
-        const results =
+        /*
+         * FeedとVulnerabilityを並列取得
+         */
+        const [
+            ...results
+        ] =
             await Promise.all([
                 ...feedRequests,
                 vulnerabilityRequest
@@ -1240,24 +1304,32 @@ async function loadData() {
         /*
          * 最後の要素がVulnerability
          */
-
         vulnerabilities =
-            results[results.length - 1];
+            results[
+                results.length - 1
+            ];
 
 
         /*
          * それ以外がFeed
          */
-
         disclosures =
             results
                 .slice(0, -1)
                 .flat();
 
 
+        /*
+         * 並び順を統一
+         */
         disclosures =
             sortDisclosures(
                 disclosures
+            );
+
+        vulnerabilities =
+            sortVulnerabilities(
+                vulnerabilities
             );
 
 
@@ -1266,7 +1338,10 @@ async function loadData() {
 
     } catch (error) {
 
-        console.error(error);
+        console.error(
+            "Dashboard data loading error:",
+            error
+        );
 
         document.getElementById(
             "disclosures"
@@ -1284,6 +1359,22 @@ async function loadData() {
 
         `;
 
+        document.getElementById(
+            "vulnerabilities"
+        ).innerHTML = `
+
+            <tr>
+
+                <td
+                    colspan="7"
+                    class="vulnerability-empty"
+                >
+                    データを読み込めませんでした。
+                </td>
+
+            </tr>
+
+        `;
     }
 }
 
@@ -1311,9 +1402,9 @@ function updateStats() {
     /*
      * Feed件数
      *
-     * 現在表示対象の全Feed件数
+     * 現在読み込んでいる期間の
+     * Feed総件数
      */
-
     const disclosureCount =
         disclosures.length;
 
@@ -1323,7 +1414,6 @@ function updateStats() {
      *
      * 選択期間内
      */
-
     const vulnerabilityCount =
         getFilteredVulnerabilities()
             .length;
@@ -1366,7 +1456,6 @@ function renderDisclosures() {
     /*
      * タイトルだけを検索対象にする
      */
-
     let filtered =
         disclosures.filter(
             item => {
@@ -1428,6 +1517,7 @@ function renderDisclosures() {
         currentDisclosurePage >
         totalPages
     ) {
+
         currentDisclosurePage =
             totalPages;
     }
@@ -1517,6 +1607,15 @@ function renderDisclosureItem(item) {
 
         postText =
             `[IPA] ` +
+            `${item.title}\n` +
+            `${item.date}\n` +
+            `${item.url || ""}`;
+
+    } else if (
+        item.source === "Web"
+    ) {
+
+        postText =
             `${item.title}\n` +
             `${item.date}\n` +
             `${item.url || ""}`;
@@ -1647,12 +1746,14 @@ function renderVulnerabilities() {
 
         container.innerHTML = `
             <tr>
+
                 <td
                     colspan="7"
                     class="vulnerability-empty"
                 >
                     該当する脆弱性情報がありません。
                 </td>
+
             </tr>
         `;
 
@@ -1762,8 +1863,8 @@ function renderVulnerabilityItem(item) {
                 item.cvss
             ).toFixed(1)
             : "—";
-    
-    
+
+
     const epssClass =
         item.epss_current !== null &&
         item.epss_current !== undefined
@@ -1771,8 +1872,8 @@ function renderVulnerabilityItem(item) {
                 Number(item.epss_current)
             )
             : "";
-    
-    
+
+
     const cvssClass =
         item.cvss !== null &&
         item.cvss !== undefined
@@ -1780,8 +1881,8 @@ function renderVulnerabilityItem(item) {
                 Number(item.cvss)
             )
             : "";
-    
-    
+
+
     return `
 
         <tr>
@@ -1838,6 +1939,7 @@ function renderVulnerabilityItem(item) {
 
     `;
 }
+
 
 function getEpssClass(value) {
 
