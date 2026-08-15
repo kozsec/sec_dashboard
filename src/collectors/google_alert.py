@@ -428,7 +428,7 @@ def append_articles(
             "url": url,
         }
 
-        data.append(record)
+        data.insert(0, record)
 
         existing_urls.add(url)
 
