@@ -121,7 +121,7 @@ def save_json(data):
 
     date_str = data[0]["date"].replace("-", "")
 
-    filename = f"data/other_{date_str}.json"
+    filename = f"data/feed_{date_str}.json"
 
     os.makedirs(
         "data",
