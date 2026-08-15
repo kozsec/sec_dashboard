@@ -1972,48 +1972,35 @@ function renderSecurityArticleItem(item) {
     return `
 
         <article class="security-article-item">
-
-            <div class="security-article-source">
-                ${source}
-            </div>
-
-
+    
             <div class="security-article-date">
                 ${date}
             </div>
-
-
-            <div class="security-article-organization">
-
-                ${organization}
-
-                ${
-                    identifier
-                    ? `
-                        <br>
-                        <span class="security-article-identifier">
-                            ${identifier}
-                        </span>
-                    `
-                    : ""
-                }
-
+    
+    
+            <div class="security-article-identifier">
+                ${identifier}
             </div>
-
-
+    
+    
+            <div class="security-article-source">
+                ${source}
+            </div>
+    
+    
             <div class="security-article-title">
                 ${title}
             </div>
-
-
+    
+    
             <div class="security-article-actions">
-
+    
                 ${detailLink}
-
+    
             </div>
-
+    
         </article>
-
+    
     `;
 }
 function changeSecurityArticlesPage(page) {
