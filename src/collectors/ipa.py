@@ -128,19 +128,69 @@ def save_json(data):
         exist_ok=True
     )
 
+    existing_data = []
+
+    if os.path.exists(filename):
+        try:
+            with open(
+                filename,
+                "r",
+                encoding="utf-8"
+            ) as f:
+                existing_data = json.load(f)
+
+            if not isinstance(existing_data, list):
+                existing_data = []
+
+        except (
+            json.JSONDecodeError,
+            OSError
+        ):
+            existing_data = []
+
+    existing_urls = {
+        item.get("url")
+        for item in existing_data
+        if isinstance(item, dict)
+    }
+
+    new_data = []
+
+    for item in data:
+
+        if item.get("url") in existing_urls:
+            continue
+
+        new_data.append(item)
+
+
+    merged_data = (
+        new_data +
+        existing_data
+    )
+
+
     with open(
         filename,
         "w",
         encoding="utf-8"
     ) as f:
+
         json.dump(
-            data,
+            merged_data,
             f,
             ensure_ascii=False,
             indent=2
         )
 
-    print(f"Saved: {filename}")
+        f.write("\n")
+
+
+    print(
+        f"Saved: {filename} "
+        f"(new: {len(new_data)}, "
+        f"total: {len(merged_data)})"
+    )
 
 
 if __name__ == "__main__":
