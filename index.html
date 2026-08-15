@@ -831,6 +831,17 @@ async function loadData() {
 
         const requests = [];
 
+        const vulnerabilityRequest =
+            fetch(`${DATA_DIR}/vulnerabilities.json`)
+                .then(response => {
+                    if (!response.ok) {
+                        return [];
+                    }
+        
+                    return response.json();
+                })
+                .catch(() => []);
+
         const days =
             Number(
                 document.getElementById("days-select").value
@@ -1256,6 +1267,207 @@ function renderVulnerabilities() {
         `;
 
         return;
+    }
+
+    const sorted =
+        [...vulnerabilities].sort(
+            (a, b) =>
+                `${b.date || ""}`.localeCompare(
+                    `${a.date || ""}`
+                )
+        );
+
+    container.innerHTML =
+        sorted.map(item => {
+
+            const epss =
+                item.epss_current !== null &&
+                item.epss_current !== undefined
+                    ? `${(
+                        Number(item.epss_current) * 100
+                    ).toFixed(2)}%`
+                    : "—";
+
+            const cvss =
+                item.cvss !== null &&
+                item.cvss !== undefined
+                    ? Number(item.cvss).toFixed(1)
+                    : "—";
+
+            return `
+                <tr>
+
+                    <td>
+                        <span class="vulnerability-cve">
+                            ${escapeHtml(item.cve)}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="vulnerability-company">
+                            ${escapeHtml(item.company)}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="vulnerability-product">
+                            ${escapeHtml(item.product)}
+                        </span>
+                    </td>
+
+                    <td>
+                        ${
+                            item.kev === "あり"
+                            ? `<span class="kev-badge">KEV</span>`
+                            : "—"
+                        }
+                    </td>
+
+                    <td>
+                        <span class="epss-value">
+                            ${epss}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="cvss-value">
+                            ${cvss}
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="vulnerability-date">
+                            ${escapeHtml(item.published)}
+                        </span>
+                    </td>
+
+                </tr>
+            `;
+
+        }).join("");
+    }
+    
+    const sorted =
+        [...vulnerabilities].sort(
+            (a, b) => {
+    
+                const dateA =
+                    a.last_update || "";
+    
+                const dateB =
+                    b.last_update || "";
+    
+                return dateB.localeCompare(
+                    dateA
+                );
+            }
+        );
+    
+    container.innerHTML =
+        sorted.map(item => {
+    
+            const cve =
+                escapeHtml(item.cve);
+    
+            const company =
+                escapeHtml(item.company);
+    
+            const product =
+                escapeHtml(item.product);
+    
+            const kev =
+                escapeHtml(item.kev);
+    
+            const epss =
+                item.epss_current !== null &&
+                item.epss_current !== undefined
+                    ? `${(
+                        Number(item.epss_current) * 100
+                    ).toFixed(2)}%`
+                    : "—";
+    
+            const cvss =
+                item.cvss !== null &&
+                item.cvss !== undefined
+                    ? Number(
+                        item.cvss
+                    ).toFixed(1)
+                    : "—";
+    
+            const published =
+                escapeHtml(
+                    item.published
+                );
+    
+            return `
+                <tr>
+    
+                    <td>
+                        <span
+                            class="vulnerability-cve"
+                        >
+                            ${cve}
+                        </span>
+                    </td>
+    
+                    <td>
+                        <span
+                            class="vulnerability-company"
+                        >
+                            ${company}
+                        </span>
+                    </td>
+    
+                    <td>
+                        <span
+                            class="vulnerability-product"
+                        >
+                            ${product}
+                        </span>
+                    </td>
+    
+                    <td>
+                        ${
+                            kev === "あり"
+                            ? `
+                                <span
+                                    class="kev-badge"
+                                >
+                                    KEV
+                                </span>
+                            `
+                            : "—"
+                        }
+                    </td>
+    
+                    <td>
+                        <span
+                            class="epss-value"
+                        >
+                            ${epss}
+                        </span>
+                    </td>
+    
+                    <td>
+                        <span
+                            class="cvss-value"
+                        >
+                            ${cvss}
+                        </span>
+                    </td>
+    
+                    <td>
+                        <span
+                            class="vulnerability-date"
+                        >
+                            ${published}
+                        </span>
+                    </td>
+    
+                </tr>
+            `;
+    
+        }).join("");
     }
 
 function escapeHtml(value) {
