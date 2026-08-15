@@ -768,38 +768,66 @@
             }
 
             .item {
-                height: 92px;
-                min-height: 92px;
-                grid-template-columns: 70px 1fr;
-                gap: 4px 12px;
-                padding: 8px 16px;
+                height: auto;
+                min-height: 120px;
+            
+                display: grid;
+                grid-template-columns: 1fr auto;
+                grid-template-rows: auto auto auto;
+            
+                gap: 6px 12px;
+            
+                padding: 12px 16px;
             }
-
+            
             .source {
                 grid-column: 1;
                 grid-row: 1;
+            
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
             }
-
+            
             .time {
                 grid-column: 2;
                 grid-row: 1;
+            
                 text-align: right;
+                white-space: nowrap;
             }
-
+            
             .company {
                 grid-column: 1 / -1;
                 grid-row: 2;
+            
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
             }
-
+            
             .title {
-                -webkit-line-clamp: 1;
-                line-height: 1.4;
-            }
+                grid-column: 1 / -1;
+                grid-row: 3;
+            
+                font-size: 12px;
+                line-height: 1.5;
+            
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+            
+                overflow: hidden;
 
+                max-height: 36px;
+            }
+            
             .actions {
                 grid-column: 1 / -1;
                 grid-row: 4;
+            
                 justify-content: flex-end;
+                margin-top: 2px;
             }
 
             .vulnerability-table {
@@ -820,12 +848,16 @@
 
             .security-article-item {
                 height: auto;
-                min-height: 60px;
-                grid-template-columns: 70px 1fr;
-                gap: 8px 12px;
+                min-height: 110px;
+            
+                grid-template-columns: 1fr auto;
+                grid-template-rows: auto auto auto auto;
+            
+                gap: 6px 12px;
+            
                 padding: 12px 16px;
             }
-
+            
             .security-article-date {
                 grid-column: 1;
                 grid-row: 1;
@@ -839,16 +871,33 @@
             .security-article-source {
                 grid-column: 1 / -1;
                 grid-row: 2;
+            
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
             }
             
             .security-article-title {
                 grid-column: 1 / -1;
                 grid-row: 3;
+            
+                font-size: 12px;
+                line-height: 1.5;
+            
+                white-space: normal;
+                overflow: hidden;
+            
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+            
+                max-height: 36px;
             }
             
             .security-article-actions {
                 grid-column: 1 / -1;
                 grid-row: 4;
+            
                 justify-content: flex-end;
             }
         }
