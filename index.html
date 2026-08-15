@@ -623,6 +623,41 @@
             .vulnerability-header {
                 padding: 16px;
             }
+            .vulnerability-pagination {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 6px;
+                padding: 16px 20px;
+                border-top: 1px solid #edf0f4;
+            }
+            
+            .vulnerability-page {
+                min-width: 34px;
+                height: 34px;
+                padding: 0 8px;
+                border: 1px solid #e1e6ee;
+                border-radius: 8px;
+                background: white;
+                color: #687386;
+                font-size: 12px;
+                font-weight: 700;
+                cursor: pointer;
+            }
+            
+            .vulnerability-page:hover {
+                background: #fafbfd;
+            }
+            
+            .vulnerability-page.active {
+                background: #172033;
+                color: white;
+                border-color: #172033;
+            }
+            
+            .vulnerability-page:disabled {
+                cursor: default;
+            }
         }
     </style>
 </head>
@@ -794,6 +829,11 @@
                             </td>
                         </tr>
                     </tbody>
+                    
+                    <div
+                        id="vulnerability-pagination"
+                        class="vulnerability-pagination"
+                    ></div>
 
                 </table>
 
@@ -815,7 +855,9 @@ const DATA_DIR = "data";
 let disclosures = [];
 let vulnerabilities = [];
 
-
+let currentVulnerabilityPage = 1;
+const VULNERABILITIES_PER_PAGE = 10;
+    
 async function loadData() {
 
     try {
@@ -1254,6 +1296,10 @@ function renderVulnerabilities() {
     );
 
 
+    /*
+     * 日付でフィルタ
+     */
+
     const filtered =
         vulnerabilities.filter(item => {
 
@@ -1272,26 +1318,9 @@ function renderVulnerabilities() {
         });
 
 
-    count.textContent =
-        `${filtered.length} items`;
-
-
-    if (filtered.length === 0) {
-
-        container.innerHTML = `
-            <tr>
-                <td
-                    colspan="7"
-                    class="vulnerability-empty"
-                >
-                    該当する脆弱性情報がありません。
-                </td>
-            </tr>
-        `;
-
-        return;
-    }
-
+    /*
+     * 新しい順に並べる
+     */
 
     const sorted =
         [...filtered].sort(
@@ -1311,8 +1340,90 @@ function renderVulnerabilities() {
         );
 
 
+    /*
+     * 件数表示
+     */
+
+    count.textContent =
+        `${sorted.length} items`;
+
+
+    /*
+     * データなし
+     */
+
+    if (sorted.length === 0) {
+
+        container.innerHTML = `
+            <tr>
+                <td
+                    colspan="7"
+                    class="vulnerability-empty"
+                >
+                    該当する脆弱性情報がありません。
+                </td>
+            </tr>
+        `;
+
+        renderVulnerabilityPagination(0);
+
+        return;
+    }
+
+
+    /*
+     * ページ数
+     */
+
+    const totalPages =
+        Math.ceil(
+            sorted.length /
+            VULNERABILITIES_PER_PAGE
+        );
+
+
+    /*
+     * ページ番号が範囲外になった場合
+     */
+
+    if (
+        currentVulnerabilityPage >
+        totalPages
+    ) {
+        currentVulnerabilityPage =
+            totalPages;
+    }
+
+
+    /*
+     * 表示する10件を取得
+     */
+
+    const startIndex =
+        (
+            currentVulnerabilityPage - 1
+        ) *
+        VULNERABILITIES_PER_PAGE;
+
+
+    const endIndex =
+        startIndex +
+        VULNERABILITIES_PER_PAGE;
+
+
+    const pageItems =
+        sorted.slice(
+            startIndex,
+            endIndex
+        );
+
+
+    /*
+     * テーブル表示
+     */
+
     container.innerHTML =
-        sorted.map(item => {
+        pageItems.map(item => {
 
             const cve =
                 escapeHtml(item.cve);
@@ -1330,7 +1441,9 @@ function renderVulnerabilities() {
                 item.epss_current !== null &&
                 item.epss_current !== undefined
                     ? `${(
-                        Number(item.epss_current) * 100
+                        Number(
+                            item.epss_current
+                        ) * 100
                     ).toFixed(2)}%`
                     : "—";
 
@@ -1417,9 +1530,71 @@ function renderVulnerabilities() {
             `;
 
         }).join("");
+
+
+    /*
+     * ページ番号を表示
+     */
+
+    renderVulnerabilityPagination(
+        totalPages
+    );
 }
 
+function renderVulnerabilityPagination(totalPages) {
 
+    const container =
+        document.getElementById(
+            "vulnerability-pagination"
+        );
+
+
+    if (
+        totalPages <= 1
+    ) {
+
+        container.innerHTML = "";
+
+        return;
+    }
+
+
+    let html = "";
+
+
+    for (
+        let page = 1;
+        page <= totalPages;
+        page++
+    ) {
+
+        html += `
+            <button
+                class="vulnerability-page ${
+                    page === currentVulnerabilityPage
+                        ? "active"
+                        : ""
+                }"
+                onclick="changeVulnerabilityPage(${page})"
+            >
+                ${page}
+            </button>
+        `;
+
+    }
+
+
+    container.innerHTML = html;
+}
+
+function changeVulnerabilityPage(page) {
+
+    currentVulnerabilityPage =
+        page;
+
+    renderVulnerabilities();
+}
+    
 function escapeHtml(value) {
 
     if (
@@ -1452,7 +1627,13 @@ document
     .getElementById("days-select")
     .addEventListener(
         "change",
-        loadData
+        () => {
+
+            currentVulnerabilityPage = 1;
+
+            loadData();
+
+        }
     );
 
 
