@@ -96,6 +96,44 @@ def save_json(data):
         exist_ok=True
     )
 
+    existing_data = []
+
+    if os.path.exists(filename):
+
+        with open(
+            filename,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            try:
+                existing_data = json.load(f)
+
+            except json.JSONDecodeError:
+                existing_data = []
+
+
+    existing_urls = {
+        item.get("url")
+        for item in existing_data
+        if isinstance(item, dict)
+        and item.get("url")
+    }
+
+
+    new_data = [
+        item
+        for item in data
+        if item.get("url")
+        and item["url"] not in existing_urls
+    ]
+
+    combined_data = (
+        new_data +
+        existing_data
+    )
+
+
     with open(
         filename,
         "w",
@@ -103,13 +141,27 @@ def save_json(data):
     ) as f:
 
         json.dump(
-            data,
+            combined_data,
             f,
             ensure_ascii=False,
             indent=2
         )
 
-    print(f"Saved: {filename}")
+        f.write("\n")
+
+
+    print(
+        f"New data: {len(new_data)}"
+    )
+
+    print(
+        f"Total vulnerabilities: "
+        f"{len(combined_data)}"
+    )
+
+    print(
+        f"Saved: {filename}"
+    )
 
 
 # -- Save(vuln)
@@ -122,22 +174,76 @@ def save_vulnerabilities_json(data):
         )
         return
 
-    records = []
+    filename = "data/vulnerabilities.json"
+
+    os.makedirs(
+        "data",
+        exist_ok=True
+    )
+
+
+    existing_records = []
+
+    if os.path.exists(filename):
+
+        with open(
+            filename,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            try:
+                existing_records = json.load(f)
+
+            except json.JSONDecodeError:
+                existing_records = []
+
+
+    existing_by_cve = {
+        item.get("cve"): item
+        for item in existing_records
+        if isinstance(item, dict)
+        and item.get("cve")
+    }
+
+
+    new_records = []
+
 
     for item in data:
 
         date_added = item.get("date")
 
         if date_added:
+
             published = datetime.strptime(
                 date_added,
                 "%Y-%m-%d"
             ).strftime("%Y/%m/%d")
+
         else:
+
             published = None
 
+
+        cve = item.get("identifier")
+
+        if cve in existing_by_cve:
+
+            record = existing_by_cve[cve]
+
+            record["kev"] = "あり"
+
+            if not record.get("published"):
+                record["published"] = published
+
+            if not record.get("last_update"):
+                record["last_update"] = published
+
+            continue
+
         record = {
-            "cve": item.get("identifier"),
+            "cve": cve,
             "company": item.get("organization"),
             "product": None,
             "title": item.get("title"),
@@ -149,14 +255,13 @@ def save_vulnerabilities_json(data):
             "last_update": published
         }
 
-        records.append(record)
+        new_records.append(record)
 
-    filename = "data/vulnerabilities.json"
-
-    os.makedirs(
-        "data",
-        exist_ok=True
+    combined_records = (
+        new_records +
+        existing_records
     )
+
 
     with open(
         filename,
@@ -165,13 +270,24 @@ def save_vulnerabilities_json(data):
     ) as f:
 
         json.dump(
-            records,
+            combined_records,
             f,
             ensure_ascii=False,
             indent=2
         )
 
         f.write("\n")
+
+
+    print(
+        f"New vulnerabilities: "
+        f"{len(new_records)}"
+    )
+
+    print(
+        f"Total vulnerabilities: "
+        f"{len(combined_records)}"
+    )
 
     print(
         f"Saved: {filename}"
