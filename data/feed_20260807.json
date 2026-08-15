@@ -7,5 +7,14 @@
     "identifier": "7906",
     "title": "台湾子会社における不正アクセスの発生に関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120260807515056.pdf"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-07",
+    "time": null,
+    "organization": "Progress",
+    "identifier": "CVE-2026-8037",
+    "title": "Progress LoadMaster Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-8037&field_cve=&sort_by=field_date_added"
   }
 ]
