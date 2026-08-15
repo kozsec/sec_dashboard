@@ -282,6 +282,7 @@ def save_json(data):
         return
 
     date_str = data[0]["date"].replace("-", "")
+
     filename = (
         f"data/feed_{date_str}.json"
     )
@@ -294,18 +295,27 @@ def save_json(data):
     existing_data = []
 
     if os.path.exists(filename):
+
         with open(
             filename,
             "r",
             encoding="utf-8"
         ) as f:
-            existing_data = json.load(f)
+
+            try:
+                existing_data = json.load(f)
+
+            except json.JSONDecodeError:
+                existing_data = []
+
 
     existing_urls = {
-        item["url"]
+        item.get("url")
         for item in existing_data
-        if item.get("url")
+        if isinstance(item, dict)
+        and item.get("url")
     }
+
 
     new_data = [
         item
@@ -314,29 +324,41 @@ def save_json(data):
         and item["url"] not in existing_urls
     ]
 
-    existing_data.extend(new_data)
+    combined_data = (
+        new_data +
+        existing_data
+    )
+
 
     with open(
         filename,
         "w",
         encoding="utf-8"
     ) as f:
+
         json.dump(
-            existing_data,
+            combined_data,
             f,
             ensure_ascii=False,
             indent=2
         )
 
+        f.write("\n")
+
+
     print(
         f"New data: "
         f"{len(new_data)}"
     )
+
     print(
         f"Total disclosures: "
-        f"{len(existing_data)}"
+        f"{len(combined_data)}"
     )
-    print(f"Saved: {filename}")
+
+    print(
+        f"Saved: {filename}"
+    )
 
 
 
