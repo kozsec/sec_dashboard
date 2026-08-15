@@ -2440,81 +2440,79 @@ function renderPagination(
         return;
     }
 
+
     const pages = [];
+
+    pages.push(1);
+
+    let start =
+        Math.max(
+            2,
+            currentPage - 2
+        );
+
+    let end =
+        Math.min(
+            totalPages - 1,
+            currentPage + 2
+        );
 
 
     if (
-        totalPages <= 7
+        currentPage <= 3
     ) {
 
-        for (
-            let page = 1;
-            page <= totalPages;
-            page++
-        ) {
+        start = 2;
 
-            pages.push(page);
+        end =
+            Math.min(
+                totalPages - 1,
+                5
+            );
+    }
 
-        }
+    if (
+        currentPage >=
+        totalPages - 2
+    ) {
 
-    } else {
-        pages.push(1);
-
-        if (
-            currentPage <= 4
-        ) {
-
-            pages.push(2);
-            pages.push(3);
-            pages.push(4);
-            pages.push(5);
-
-            pages.push("...");
-
-        } else if (
-            currentPage >= totalPages - 3
-        ) {
-
-            pages.push("...");
-
-            pages.push(
+        start =
+            Math.max(
+                2,
                 totalPages - 4
             );
 
-            pages.push(
-                totalPages - 3
-            );
+        end =
+            totalPages - 1;
+    }
 
-            pages.push(
-                totalPages - 2
-            );
+    if (start > 2) {
 
-            pages.push(
-                totalPages - 1
-            );
+        pages.push("ellipsis");
+    }
 
-        } else {
+    for (
+        let page = start;
+        page <= end;
+        page++
+    ) {
 
-            pages.push("...");
+        pages.push(page);
+    }
 
-            pages.push(
-                currentPage - 1
-            );
+    if (
+        end <
+        totalPages - 1
+    ) {
 
-            pages.push(
-                currentPage
-            );
+        pages.push("ellipsis");
+    }
 
-            pages.push(
-                currentPage + 1
-            );
-
-            pages.push("...");
-
-        }
+    if (
+        totalPages > 1
+    ) {
 
         pages.push(totalPages);
-
     }
 
     let html = "";
@@ -2523,31 +2521,19 @@ function renderPagination(
     pages.forEach(
         page => {
 
-            /*
-             * ...
-             */
-
             if (
-                page === "..."
+                page === "ellipsis"
             ) {
 
                 html += `
-
-                    <span
-                        class="pagination-ellipsis"
-                    >
+                    <span class="pagination-ellipsis">
                         ...
                     </span>
-
                 `;
 
                 return;
             }
 
-
-            /*
-             * ページボタン
-             */
 
             html += `
 
@@ -2563,7 +2549,6 @@ function renderPagination(
                 </button>
 
             `;
-
         }
     );
 
