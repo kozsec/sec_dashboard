@@ -1723,8 +1723,26 @@ function renderVulnerabilityItem(item) {
                 item.cvss
             ).toFixed(1)
             : "—";
-
-
+    
+    
+    const epssClass =
+        item.epss_current !== null &&
+        item.epss_current !== undefined
+            ? getEpssClass(
+                Number(item.epss_current)
+            )
+            : "";
+    
+    
+    const cvssClass =
+        item.cvss !== null &&
+        item.cvss !== undefined
+            ? getCvssClass(
+                Number(item.cvss)
+            )
+            : "";
+    
+    
     return `
 
         <tr>
