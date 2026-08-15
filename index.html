@@ -1253,7 +1253,15 @@ const DATA_DIR = "data";
 
 const DISCLOSURES_PER_PAGE = 5;
 const VULNERABILITIES_PER_PAGE = 10;
-const SECURITY_ARTICLES_PER_PAGE = 10;
+const SECURITY_ARTICLES_PER_PAGE_DESKTOP = 10;
+const SECURITY_ARTICLES_PER_PAGE_MOBILE = 4;
+
+function getSecurityArticlesPerPage() {
+
+    return window.innerWidth <= 800
+        ? SECURITY_ARTICLES_PER_PAGE_MOBILE
+        : SECURITY_ARTICLES_PER_PAGE_DESKTOP;
+}
 
 let disclosures = [];
 let securityArticles = [];
@@ -1889,12 +1897,14 @@ function renderSecurityArticles() {
     }
 
 
+    const perPage =
+        getSecurityArticlesPerPage();
+    
     const totalPages =
         Math.ceil(
             filtered.length /
-            SECURITY_ARTICLES_PER_PAGE
+            perPage
         );
-
 
     if (
         currentSecurityArticlesPage >
@@ -1910,14 +1920,14 @@ function renderSecurityArticles() {
         (
             currentSecurityArticlesPage - 1
         ) *
-        SECURITY_ARTICLES_PER_PAGE;
-
-
+        perPage;
+    
+    
     const pageItems =
         filtered.slice(
             startIndex,
             startIndex +
-                SECURITY_ARTICLES_PER_PAGE
+                perPage
         );
 
 
@@ -2643,6 +2653,16 @@ document
         }
     );
 
+window.addEventListener(
+    "resize",
+    () => {
+
+        currentSecurityArticlesPage = 1;
+
+        renderSecurityArticles();
+    }
+);
+    
 
 /* --------------------------------
    Start
