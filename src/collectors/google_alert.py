@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 GMAIL_API_BASE = "https://gmail.googleapis.com/gmail/v1/users/me"
 GMAIL_TOKEN_URL = "https://oauth2.googleapis.com/token"
-GMAIL_QUERY = "from:(googlealerts-noreply@google.com) newer_than:1d"
+GMAIL_QUERY = "from:(googlealerts-noreply@google.com) newer_than:3h"
 
 OUTPUT_DIR = os.path.abspath(
     os.path.join(
@@ -455,6 +455,10 @@ def fetch_gmail_alerts():
 
         return
 
+    today = datetime.now().astimezone().strftime(
+        "%Y-%m-%d"
+    )
+
     total_articles = 0
     total_added = 0
     total_skipped = 0
@@ -470,7 +474,7 @@ def fetch_gmail_alerts():
 
             message_data = get_message(
                 access_token,
-                message_id,
+                message_id
             )
 
             body = extract_html_from_payload(
@@ -495,12 +499,8 @@ def fetch_gmail_alerts():
             if not articles:
                 continue
 
-            date_string = get_message_date(
-                message_data
-            )
-
             added, skipped = append_articles(
-                date_string,
+                today,
                 articles,
             )
 
