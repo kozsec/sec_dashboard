@@ -461,17 +461,54 @@ def append_articles(
         exist_ok=True,
     )
 
-    path = os.path.join(
+    # 当日＋前日のファイルを読み込んで重複チェック
+    current_path = os.path.join(
         OUTPUT_DIR,
         f"other_{date_string.replace('-', '')}.json",
     )
 
-    data = load_json(path)
+    current_data = load_json(current_path)
 
+    date_dt = datetime.strptime(
+        date_string,
+        "%Y-%m-%d",
+    )
+
+    previous_date = (
+        date_dt - timedelta(days=1)
+    ).strftime("%Y-%m-%d")
+
+    previous_path = os.path.join(
+        OUTPUT_DIR,
+        f"other_{previous_date.replace('-', '')}.json",
+    )
+
+    previous_data = load_json(previous_path)
+
+    previous_date = (
+        datetime.strptime(
+            date_string,
+            "%Y-%m-%d",
+        )
+        - timedelta(days=1)
+    ).strftime("%Y-%m-%d")
+    
+    previous_path = os.path.join(
+        OUTPUT_DIR,
+        f"other_{previous_date.replace('-', '')}.json",
+    )
+    
+    previous_data = load_json(
+        previous_path
+    )
+    
     existing_urls = {
         item.get("url")
-        for item in data
+        for item in (
+            data + previous_data
+        )
         if isinstance(item, dict)
+        and item.get("url")
     }
 
     added = 0
@@ -529,9 +566,35 @@ def append_articles(
 
             continue
 
+        # 公開日時から保存先の日付を決める
+        article_date = published_dt.astimezone().strftime(
+            "%Y-%m-%d"
+        )
+
+        article_path = os.path.join(
+            OUTPUT_DIR,
+            f"other_{article_date.replace('-', '')}.json",
+        )
+
+        article_data = load_json(
+            article_path
+        )
+
+        article_existing_urls = {
+            item.get("url")
+            for item in article_data
+            if isinstance(item, dict)
+        }
+
+        if url in article_existing_urls:
+
+            skipped += 1
+
+            continue
+
         record = {
             "source": "Web",
-            "date": date_string,
+            "date": article_date,
             "time": None,
             "organization": article.get(
                 "organization"
@@ -543,17 +606,19 @@ def append_articles(
             "url": url,
         }
 
-        data.insert(0, record)
+        article_data.insert(
+            0,
+            record,
+        )
+
+        save_json(
+            article_path,
+            article_data,
+        )
 
         existing_urls.add(url)
 
         added += 1
-
-    if added > 0:
-        save_json(
-            path,
-            data,
-        )
 
     return added, skipped
 
