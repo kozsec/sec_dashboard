@@ -4,6 +4,60 @@
     "date": "2026-08-16",
     "time": null,
     "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "仕事をしたのは誰? 「AI製示す電子透かし、利用者反発」など3本をお届けします - 日本経済新聞",
+    "url": "https://www.nikkei.com/prime/minutes/article/DGXZQOCD142A60U6A810C2000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "台湾、武力侵攻の前段階を警戒 サイバー攻撃 での障害や海上封鎖想定 「既に攻勢開始」の分析も",
+    "url": "https://www.nishinippon.co.jp/item/1527446/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251493/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "欧州企業の75％が米国の「キルスイッチ」に警戒、米国企業にも同様のリスク - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251405/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "そのクラウドで大丈夫？ ランサムウェア から会社を守る「クラウド選び」4つのポイント",
+    "url": "https://www.sbbit.jp/article/sp/186442"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "管理職が ランサムウェア の最大のターゲットに--6つの防衛策 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251484/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "nikkei.com",
     "identifier": "サイバー攻撃",
     "title": "OpenAIの｢ サイバー 暴走｣ 防御の失敗で見えた3つの弱点 - 日経デジタルガバナンス",
     "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC04BH90U6A800C2000000"
