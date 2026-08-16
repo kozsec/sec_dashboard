@@ -1294,7 +1294,8 @@
 
 const DATA_DIR = "data";
 
-const DISCLOSURES_PER_PAGE = 4;
+const DISCLOSURES_PER_PAGE_DESKTOP = 5;
+const DISCLOSURES_PER_PAGE_MOBILE = 4;
 const VULNERABILITIES_PER_PAGE = 10;
 const SECURITY_ARTICLES_PER_PAGE_DESKTOP = 10;
 const SECURITY_ARTICLES_PER_PAGE_MOBILE = 6;
@@ -1304,6 +1305,13 @@ function getSecurityArticlesPerPage() {
     return window.innerWidth <= 800
         ? SECURITY_ARTICLES_PER_PAGE_MOBILE
         : SECURITY_ARTICLES_PER_PAGE_DESKTOP;
+}
+
+function getDisclosuresPerPage() {
+
+    return window.innerWidth <= 800
+        ? DISCLOSURES_PER_PAGE_MOBILE
+        : DISCLOSURES_PER_PAGE_DESKTOP;
 }
 
 let disclosures = [];
@@ -1848,10 +1856,13 @@ function renderDisclosures() {
     }
 
 
+    const perPage =
+        getDisclosuresPerPage();
+    
     const totalPages =
         Math.ceil(
             filtered.length /
-            DISCLOSURES_PER_PAGE
+            perPage
         );
 
 
@@ -1876,7 +1887,7 @@ function renderDisclosures() {
         filtered.slice(
             startIndex,
             startIndex +
-                DISCLOSURES_PER_PAGE
+                perPage
         );
 
 
