@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-16",
     "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【2024年のINTERNET Watch】KADOKAWAへの サイバー攻撃 でニコニコが長期停止、SNSを ...",
+    "url": "https://internet.watch.impress.co.jp/docs/special/30th/2132725.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "panewslab.com",
+    "identifier": "不正アクセス",
+    "title": "SafePal：注文追跡プラグインの脆弱性で約4万人の顧客情報が漏洩、ウォレット資産には影響なし",
+    "url": "https://www.panewslab.com/ja/articles/01a00ab9-6a48-7072-83a3-eee057546eb3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "暗号資産ウォレットSafePal、約4万人分の顧客注文情報に 不正アクセス （NADA NEWS）",
+    "url": "https://news.yahoo.co.jp/articles/4ae3afafbcd8a65074dccdaa4ad7adfd23832943"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "管理職が ランサムウェア の最大のターゲットに--6つの防衛策 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/745be9751a437fffa32a65dd2e619d7086785e97?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "情報漏洩",
     "title": "仕事をしたのは誰? 「AI製示す電子透かし、利用者反発」など3本をお届けします - 日本経済新聞",
