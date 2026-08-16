@@ -477,7 +477,7 @@ def append_articles(
     added = 0
     skipped = 0
 
-        for article in articles:
+    for article in articles:
 
         url = article["url"]
 
