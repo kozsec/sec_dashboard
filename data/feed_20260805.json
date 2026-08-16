@@ -1,5 +1,23 @@
 [
   {
+    "source": "NCO",
+    "date": "2026-08-05",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "報道発表資料",
+    "title": "松本デジタル大臣兼サイバー安全保障担当大臣のシンガポール訪問(結果)",
+    "url": "https://www.cyber.go.jp/news/list/index.html"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-08-05",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "「安全基準等策定ガイドライン（案）」に関する意見の募集について",
+    "url": "https://www.cyber.go.jp/policy/group/infra/pubcom_jyuhurakijun_guideline2026.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-08-05",
     "time": null,
