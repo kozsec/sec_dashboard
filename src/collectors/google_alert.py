@@ -2,7 +2,7 @@ import os
 import json
 import base64
 import html
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse, parse_qs, unquote
 
 import requests
@@ -273,6 +273,79 @@ def extract_articles(body):
 
     return articles
 
+def get_article_published_date(url):
+
+    try:
+
+        response = requests.get(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0"
+            },
+            timeout=10,
+        )
+
+        if not response.ok:
+            return None
+
+        soup = BeautifulSoup(
+            response.text,
+            "html.parser"
+        )
+
+        meta = soup.find(
+            "meta",
+            property="article:published_time"
+        )
+
+        if meta and meta.get("content"):
+            return meta.get("content")
+
+        for script in soup.find_all(
+            "script",
+            type="application/ld+json"
+        ):
+
+            try:
+
+                data = json.loads(
+                    script.string or script.get_text()
+                )
+
+                items = (
+                    data
+                    if isinstance(data, list)
+                    else [data]
+                )
+
+                for item in items:
+
+                    if not isinstance(item, dict):
+                        continue
+
+                    date_value = (
+                        item.get("datePublished")
+                        or item.get("dateCreated")
+                    )
+
+                    if date_value:
+                        return date_value
+
+            except Exception:
+                continue
+
+        time_tag = soup.find(
+            "time",
+            datetime=True
+        )
+
+        if time_tag:
+            return time_tag.get("datetime")
+
+        return None
+
+    except Exception:
+        return None
 
 def get_message_ids(access_token):
 
@@ -404,11 +477,53 @@ def append_articles(
     added = 0
     skipped = 0
 
-    for article in articles:
+        for article in articles:
 
         url = article["url"]
 
         if url in existing_urls:
+
+            skipped += 1
+
+            continue
+
+        published_date = get_article_published_date(
+            url
+        )
+
+        if not published_date:
+
+            skipped += 1
+
+            continue
+
+        try:
+
+            published_dt = datetime.fromisoformat(
+                published_date.replace(
+                    "Z",
+                    "+00:00"
+                )
+            )
+
+            if published_dt.tzinfo is None:
+
+                published_dt = published_dt.replace(
+                    tzinfo=timezone.utc
+                )
+
+            now = datetime.now(timezone.utc)
+
+            if (
+                published_dt < now - timedelta(days=3)
+                or published_dt > now
+            ):
+
+                skipped += 1
+
+                continue
+
+        except Exception:
 
             skipped += 1
 
