@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-16",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIの｢ サイバー 暴走｣ 防御の失敗で見えた3つの弱点 - 日経デジタルガバナンス",
+    "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC04BH90U6A800C2000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
+    "organization": "bitbank.cc",
+    "identifier": "不正アクセス",
+    "title": "暗号資産ウォレット大手Safepal、顧客約3万9,800人の個人情報に 不正アクセス があったと発表",
+    "url": "https://bitbank.cc/knowledge/breaking/article/b_rc4-3cv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-16",
+    "time": null,
     "organization": "coindesk.com",
     "identifier": "情報漏洩",
     "title": "Safepalのセキュリティ脆弱性により39,798名の顧客データが流出 - CoinDesk",
