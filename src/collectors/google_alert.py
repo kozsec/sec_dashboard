@@ -71,6 +71,7 @@ def gmail_get(url, access_token, params=None):
 
     return response.json()
 
+
 def decode_body(data):
 
     if not data:
@@ -194,6 +195,61 @@ def extract_alert_keyword(soup):
     return None
 
 
+def load_security_keywords():
+
+    path = os.path.abspath(
+        os.path.join(
+            os.path.dirname(__file__),
+            "..",
+            "..",
+            "config",
+            "security_keywords.json",
+        )
+    )
+
+    try:
+
+        with open(
+            path,
+            "r",
+            encoding="utf-8",
+        ) as f:
+
+            data = json.load(f)
+
+        keywords = data.get("keywords", [])
+
+        if not isinstance(keywords, list):
+            return []
+
+        return [
+            str(keyword).strip()
+            for keyword in keywords
+            if str(keyword).strip()
+        ]
+
+    except Exception as e:
+
+        print(
+            f"セキュリティキーワード読み込み失敗: {e}"
+        )
+
+        return []
+
+
+def is_security_article(title, keywords):
+
+    if not title:
+        return False
+
+    title_lower = title.lower()
+
+    return any(
+        keyword.lower() in title_lower
+        for keyword in keywords
+    )
+
+
 def extract_articles(body):
 
     soup = BeautifulSoup(
@@ -204,6 +260,8 @@ def extract_articles(body):
     identifier = extract_alert_keyword(
         soup
     )
+
+    keywords = load_security_keywords()
 
     articles = []
 
@@ -257,8 +315,14 @@ def extract_articles(body):
         if not title:
             continue
 
+        if not is_security_article(
+            title,
+            keywords,
+        ):
+            continue
+
         organization = urlparse(url).hostname
-        
+
         if organization:
             organization = organization.removeprefix("www.")
 
@@ -272,6 +336,7 @@ def extract_articles(body):
         )
 
     return articles
+
 
 def get_article_published_date(url):
 
@@ -347,6 +412,7 @@ def get_article_published_date(url):
     except Exception:
         return None
 
+
 def get_message_ids(access_token):
 
     data = gmail_get(
@@ -362,7 +428,6 @@ def get_message_ids(access_token):
         "messages",
         [],
     )
-
 
     return messages
 
@@ -461,13 +526,14 @@ def append_articles(
         exist_ok=True,
     )
 
-    # 当日＋前日のファイルを読み込んで重複チェック
     current_path = os.path.join(
         OUTPUT_DIR,
         f"other_{date_string.replace('-', '')}.json",
     )
 
-    current_data = load_json(current_path)
+    current_data = load_json(
+        current_path
+    )
 
     date_dt = datetime.strptime(
         date_string,
@@ -483,29 +549,14 @@ def append_articles(
         f"other_{previous_date.replace('-', '')}.json",
     )
 
-    previous_data = load_json(previous_path)
-
-    previous_date = (
-        datetime.strptime(
-            date_string,
-            "%Y-%m-%d",
-        )
-        - timedelta(days=1)
-    ).strftime("%Y-%m-%d")
-    
-    previous_path = os.path.join(
-        OUTPUT_DIR,
-        f"other_{previous_date.replace('-', '')}.json",
-    )
-    
     previous_data = load_json(
         previous_path
     )
-    
+
     existing_urls = {
         item.get("url")
         for item in (
-            data + previous_data
+            current_data + previous_data
         )
         if isinstance(item, dict)
         and item.get("url")
@@ -566,35 +617,9 @@ def append_articles(
 
             continue
 
-        # 公開日時から保存先の日付を決める
-        article_date = published_dt.astimezone().strftime(
-            "%Y-%m-%d"
-        )
-
-        article_path = os.path.join(
-            OUTPUT_DIR,
-            f"other_{article_date.replace('-', '')}.json",
-        )
-
-        article_data = load_json(
-            article_path
-        )
-
-        article_existing_urls = {
-            item.get("url")
-            for item in article_data
-            if isinstance(item, dict)
-        }
-
-        if url in article_existing_urls:
-
-            skipped += 1
-
-            continue
-
         record = {
             "source": "Web",
-            "date": article_date,
+            "date": date_string,
             "time": None,
             "organization": article.get(
                 "organization"
@@ -606,19 +631,21 @@ def append_articles(
             "url": url,
         }
 
-        article_data.insert(
+        current_data.insert(
             0,
             record,
-        )
-
-        save_json(
-            article_path,
-            article_data,
         )
 
         existing_urls.add(url)
 
         added += 1
+
+    if added > 0:
+
+        save_json(
+            current_path,
+            current_data,
+        )
 
     return added, skipped
 
@@ -689,6 +716,7 @@ def fetch_gmail_alerts():
 
         except Exception as e:
             print(f"エラー: {e}")
+
 
 if __name__ == "__main__":
     fetch_gmail_alerts()
