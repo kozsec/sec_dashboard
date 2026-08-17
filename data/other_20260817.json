@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "Eストアーで885万件超 漏洩 、配送先や店舗のFTPパスワードも対象 | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900377/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "「不正アクセス」に他責の響き、ニュースリリースがぼかす管理不備 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081402080/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "行き詰まったＡＩ、他社 攻撃 開発中の訓練、内幕は - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16528283.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "cargo-news.online",
+    "identifier": "システム障害",
+    "title": "26年12月期１Ｑ システム障害 発生も低温物流事業は増収増益 | カーゴニュースオンライン",
+    "url": "https://cargo-news.online/news/detail.php?id=11746"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サプライチェーンに重大な脅威をもたらす脆弱性はわずか。一方で - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/column/security/2130065.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "active.nikkeibp.co.jp",
     "identifier": "情報漏洩",
     "title": "AI創薬を支える基盤構築で最も重要なこととは？ カギを握るストレージ | 日経クロステック Active",
