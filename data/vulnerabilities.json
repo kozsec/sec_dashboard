@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2025-62593",
+    "company": "Ray-Project",
+    "product": null,
+    "title": "Ray-Project Ray Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/17",
+    "last_update": "2026/08/17"
+  },
+  {
     "cve": "CVE-2026-20349",
     "company": "Cisco",
     "product": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) ",

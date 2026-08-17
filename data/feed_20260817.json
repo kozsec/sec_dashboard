@@ -1,0 +1,11 @@
+[
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "Ray-Project",
+    "identifier": "CVE-2025-62593",
+    "title": "Ray-Project Ray Code Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-62593&field_cve=&sort_by=field_date_added"
+  }
+]
