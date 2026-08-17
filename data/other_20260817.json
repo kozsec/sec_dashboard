@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "千葉の量子研で放射性廃液 漏えい 、影響なし - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/888929"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "情報漏えい",
+    "title": "千葉の量子研で放射性廃液 漏えい 、影響なし - 下野新聞社",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1404510"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "セキュリティ対策は時間との勝負、EDR・MDR・IRを連携させた運用がカギを握る",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06395/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "経済産業省が検討中のセキュリティ対策評価制度、企業に求められることは？",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06398/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "セキュリティ担当者がいない中堅・中小企業でも実践できる、対策の進め方",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06400/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "coindesk.com",
+    "identifier": "情報漏洩",
+    "title": "イスラエル最大の暗号通貨ブローカー、Bits of Goldが20万人の顧客に影響を及ぼすデータ 漏洩 に直面",
+    "url": "https://www.coindesk.com/ja/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 被害、2026年第2四半期に過去最多を記録 AI活用で攻撃エコシステム拡大か",
+    "url": "https://ccsi.jp/14163/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "情報漏えい",
     "title": "連絡先 情報 が窃取されフィッシングメール大量送信 ～ 取引先を偽装した ... - ScanNetSecurity",
