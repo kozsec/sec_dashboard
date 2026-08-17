@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "neweconomy.jp",
+    "identifier": "不正アクセス",
+    "title": "セーフパルが 不正アクセス 被害、顧客約4万人の注文情報に影響 - あたらしい経済",
+    "url": "https://www.neweconomy.jp/posts/599822"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらネットに不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98210550X10C26A8TB2000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「13秒に1回」の脅威ーー満島真之介が国家防衛の最前線へ 「自衛隊サイバー防衛隊」の裏側 AI ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2875480?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "丸高興業に ランサムウェア 攻撃、少なくとも1.5GBのデータが漏えいした可能性 | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55950.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "REXTに ランサムウェア 攻撃、WonderGOOや新星堂などの一部店舗に影響 | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55952.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「インク革命」に 不正アクセス 、24,166名のカード情報が漏えいした可能性 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55949.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "active.nikkeibp.co.jp",
     "identifier": "情報漏洩",
     "title": "「ダークAI」が生む未知の攻撃、人材不足でも守りを固めるための現実解",
