@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "chugoku-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "浸水で放射性廃液 漏えい | 中国新聞デジタル",
+    "url": "https://www.chugoku-np.co.jp/articles/-/880642"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「さくらのレンタルサーバ」で不正アクセス、583アカウントへの不正ログインを確認",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/internet_watch/trend/internet_watch-2133082"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "saiganak.com",
+    "identifier": "情報漏洩",
+    "title": "【C108】IRIAMブースレポート！15本の氷柱でコミケ会場のオアシスに - Saiga NAK",
+    "url": "https://saiganak.com/ja/event/comiket-108-iriam-booth-report/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "さくらインターネットのレンタルサーバーに不正アクセス、583アカウントで 情報漏洩 の恐れ",
+    "url": "https://finance.biggo.jp/news/68f0c227-d8df-4957-b1bb-985d13e831fb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらネット、不正アクセスで 情報漏洩 の恐れ レンタルサーバー事業 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF176F10X10C26A8000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "「さくらのレンタルサーバ」で不正アクセス、583アカウントへの不正ログインを確認 …",
