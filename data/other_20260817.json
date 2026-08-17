@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「ダークAI」が生む未知の攻撃、人材不足でも守りを固めるための現実解",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06399/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "セーフパルが 不正アクセス 被害、顧客約4万人の注文情報に影響 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/81c6daf862a821305e2430b1abd2840c86cc6834"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "有事に備え現金払い容認 ロシア脅威でスウェーデン義務化（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9a9dad4168d0d582bae869655f019bb219602e58"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "システム障害",
+    "title": "生成AIを全社員に配っても｢使われない｣企業が多い中､損保ジャパンとSkyが利用率98％を実現 ...",
+    "url": "https://toyokeizai.net/articles/-/954315?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "xtech.nikkei.com",
     "identifier": "情報漏洩",
     "title": "Eストアーで885万件超 漏洩 、配送先や店舗のFTPパスワードも対象 | 日経クロステック（xTECH）",
