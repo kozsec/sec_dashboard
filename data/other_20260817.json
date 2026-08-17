@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "Medi Face、検知から約41時間でサイバー攻撃の技術情報を公表｜GSC所有権奪取などを報告",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/116083/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "セキュリティ専任チームがいなくても回せる、AIによる外部攻撃面の運用 ― PentaTrail（ペンタ ...",
+    "url": "https://www.jiji.com/jc/article?k=000000004.000187914&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバーインシデント相談件数、3年連続で 8月に増加【デジタルデータソリューション調べ】",
+    "url": "https://news.yahoo.co.jp/articles/2fffe17bcca8d533c690c0c5ae7b2b0ccebd3255/images/002"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "アスクルへの ランサムウェア 攻撃、外部への漏えいの可能性を否定できない個人情報を追加で特定 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/17/55938/54149.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバーインシデント相談件数、3年連続で8月に増加【デジタルデータソリューション調べ】",
+    "url": "https://news.yahoo.co.jp/articles/2fffe17bcca8d533c690c0c5ae7b2b0ccebd3255"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏洩",
     "title": "「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害 - Yahoo!ニュース",
