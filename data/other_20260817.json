@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-08-17",
     "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "12,000mAhのバッテリーを搭載したスマートフォンの 情報漏洩 により、iPhoneやGalaxyは時代遅れ ...",
+    "url": "https://www.vietnam.vn/ja/iphone-va-galaxy-hit-khoi-truoc-ro-ri-ve-smartphone-so-huu-pin-12-000-mah"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ハードウェアウォレットでインシデント、8月に相次ぐ    資産流出と 情報漏洩 の現状",
+    "url": "https://news.yahoo.co.jp/articles/953f1aa4e0acf08f1648551bf3bbb0f6d0bd36e9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害、個人データなど ...",
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202608172000000563/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "トレザーの配送委託先でデータ 漏えい 、約1.3万人の顧客 情報 が 流出 （あたらしい経済）",
+    "url": "https://news.yahoo.co.jp/articles/e6ca3ac672ec2874a0ccb65bf1104e30662443b6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "情報漏えい",
+    "title": "「さくらのレンタルサーバ」で不正アクセス--一部顧客 情報 が閲覧・取得された可能性",
+    "url": "https://japan.zdnet.com/article/35251607/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害、個人データなど ...",
+    "url": "https://news.yahoo.co.jp/articles/acc6ae36b027001a5d0b7d2059e4887d2d869d0b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "nikkankeisatsu.co.jp",
+    "identifier": "システム障害",
+    "title": "デジタル新聞配信 システム障害 のお知らせ （第1報） - 日刊警察",
+    "url": "https://nikkankeisatsu.co.jp/info/2026081701"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "システム障害",
+    "title": "「さくらのレンタルサーバ」で不正アクセス、583アカウントへの不正ログインを確認",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2133082.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "福井県済生会病院で システム障害 が発生 緊急性の低い患者の受け入れをストップ ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3e88b94af7626388e103d2768e37f6552d775813"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-17",
+    "time": null,
     "organization": "iotnews.jp",
     "identifier": "情報漏えい",
     "title": "シャドーAIという見えないリスク、現場の効率化と統制の溝をどう埋めるか - IoTNEWS AI+",
