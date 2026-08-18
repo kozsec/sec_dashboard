@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "REXTにランサムウェア攻撃、WonderGOOや新星堂などの一部店舗に影響 4枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/18/55952/54370.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "Eストアーで885万件超漏洩、配送先や店舗のFTPパスワードも対象",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900377/?P=2&i_cid=nbpnxt_nextpage_child_a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「さくらのレンタルサーバ」に 不正アクセス 、個人データ流出の可能性｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/mynavi_3218429/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "aismiley.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIの次期AIモデル「Astra」、 サイバー 能力で「重大」レベルに到達の可能性 - AIsmiley",
+    "url": "https://aismiley.co.jp/ai_news/openai-astra-cyber-security/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "ccsi.jp",
     "identifier": "ランサムウェア",
     "title": "QNAP NAS購入者に法人向けクラウド「TENMA」2ヶ月無料提供へ データ消失リスク対策を強化",
