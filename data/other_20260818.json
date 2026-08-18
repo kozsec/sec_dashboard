@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "SLING、サードパーティリスク管理（TPRM）プラットフォームを大幅拡張 | KELA株式会社",
+    "url": "https://www.atpress.ne.jp/news/1868761"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット－もみ合い レンタルサーバーサービスの一部環境に対し 不正アクセス",
+    "url": "https://finance.yahoo.co.jp/news/detail/0d7c782c35a3898e08be10bb971f0e11f2a3b8d0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「さくらのレンタルサーバ」に 不正アクセス 583アカウントが不正ログイン被害、個人データなど ...",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_news/trend/itmedia_news-20260817_2000000563"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "情報漏えい",
     "title": "両毛システムズ、社内システムに不正アクセス被害｜Infoseekニュース",
