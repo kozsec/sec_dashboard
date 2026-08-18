@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "両毛システムズ、社内システムに不正アクセス被害｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202608172000000566/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "scan.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「インク革命」に不正アクセス、24,166名のカード 情報 が 漏えい した可能性 - ScanNetSecurity",
+    "url": "https://scan.netsecurity.ne.jp/article/2026/08/18/55949.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「飲酒運転」「ひき逃げ」処分歴まで流出か 日本交通 サイバー攻撃 、「2.9テラバイト」大量データ ...",
+    "url": "https://news.yahoo.co.jp/articles/8f6cefe92aec63f335a1f5a1bda28faa0fcb6960?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "AIによる サイバー攻撃 のリスクが高まる。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/gia-tang-nguy-co-ai-tu-tan-cong-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "health-isac.org",
+    "identifier": "サイバー攻撃",
+    "title": "脅威アクターのプレイブック：介護現場における会話型ソーシャルエンジニアリング - Health-ISAC",
+    "url": "https://health-isac.org/ja/介護現場における脅威アクターの会話型ソーシャルエンジニアリングの手口/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "サイバー攻撃",
+    "title": "1秒に101回襲来する サイバー攻撃 。「イタリア発信」急増の裏に潜む構造と企業の防衛策",
+    "url": "https://forbesjapan.com/articles/detail/102628"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "情報漏洩",
+    "title": "「さくらのレンタルサーバ」に不正アクセス、個人データ流出の可能性 - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20260818-4833174/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "浸水で放射性廃液 漏えい | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/205863"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "「飲酒運転」「ひき逃げ」処分歴まで 流出 か 日本交通サイバー攻撃、「2.9テラバイト」大量データ ...",
