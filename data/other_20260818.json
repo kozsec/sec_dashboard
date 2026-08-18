@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "NTTドコモビジネスとエクサウィザーズ、「クローズドAIエージェント」を提供開始 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251625/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア の侵入は昼間、暗号化は夜間に--7月の動向 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/fb6fc0f22316b208baeaae44c54df30c85e6a457"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "moomoo.com",
+    "identifier": "サイバー攻撃",
+    "title": "$データボルト・AI (DVLT.US)$ $CYBE — Datavault AIがCyberCatchを約9,450 ... - Moomoo",
+    "url": "https://www.moomoo.com/ja/community/feed/datavault-ai-dvlt-us-cybe-datavault-ai-to-acquire-cybercatch-117114811711494"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ダークAI」が生む未知の 攻撃 、人材不足でも守りを固めるための現実解",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06399/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "zakzak.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "SLING、サードパーティリスク管理（TPRM）プラットフォームを大幅拡張 - zakⅡ",
+    "url": "https://www.zakzak.co.jp/pressrelease/atpress/MO7W3AKREVK33GBEKR2T7YPOCY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "RIZAP「APORITOオンラインストア」に 不正アクセス 、カード情報が外部流出した可能性 5枚目の ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/18/55951/54365.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "うんこミュージアム、個人 情報 漏れた可能性 不正アクセスで (アスキー) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3f797160f0739c9d801636ae7d5e5b8887135b4b/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "丸高興業にランサムウェア攻撃、少なくとも1.5GBのデータが 漏えい した可能性 2枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/18/55950/54145.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "ascii.jp",
     "identifier": "ランサムウェア",
     "title": "ASCII.jp：エスカとレンのセキュリティ通信：IPA「情報セキュリティ10大脅威 2025」を解説",
