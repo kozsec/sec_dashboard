@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "s.response.jp",
+    "identifier": "不正アクセス",
+    "title": "JVCケンウッド、撮像向けサイバーセキュリティSoC共同開発…純正ドラレコに採用",
+    "url": "https://s.response.jp/article/2026/08/18/415390.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "【フランス】納税データ６８万件流出 不正アクセス 後にネットで売り出し - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026081800354&g=jnb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "newscast.jp",
     "identifier": "サイバー攻撃",
     "title": "SLING、サードパーティリスク管理（TPRM）プラットフォームを大幅拡張 - NEWSCAST",
