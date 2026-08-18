@@ -1,5 +1,53 @@
 [
   {
+    "cve": "CVE-2026-33824",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/18",
+    "last_update": "2026/08/18"
+  },
+  {
+    "cve": "CVE-2026-59310",
+    "company": "Broadcom",
+    "product": null,
+    "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/18",
+    "last_update": "2026/08/18"
+  },
+  {
+    "cve": "CVE-2026-55040",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft SharePoint Weak Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/18",
+    "last_update": "2026/08/18"
+  },
+  {
+    "cve": "CVE-2026-65400",
+    "company": "Apple",
+    "product": null,
+    "title": "Apple macOS Improper Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/18",
+    "last_update": "2026/08/18"
+  },
+  {
     "cve": "CVE-2025-62593",
     "company": "Ray-Project",
     "product": null,

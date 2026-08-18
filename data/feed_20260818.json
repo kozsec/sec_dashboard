@@ -1,5 +1,41 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "Microsoft",
+    "identifier": "CVE-2026-33824",
+    "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-33824&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "Broadcom",
+    "identifier": "CVE-2026-59310",
+    "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-59310&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "Microsoft",
+    "identifier": "CVE-2026-55040",
+    "title": "Microsoft SharePoint Weak Authentication Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-55040&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "Apple",
+    "identifier": "CVE-2026-65400",
+    "title": "Apple macOS Improper Authentication Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-65400&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-08-18",
     "time": null,
