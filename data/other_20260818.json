@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "[FT]暴走AIを止めるには 不備は人間にあり、防衛投資で協調を - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOCB180GN0Y6A810C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "RIZAP「APORITOオンラインストア」に不正アクセス、カード 情報 が外部 流出 した可能性 3枚目の ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/18/55951/54363.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "サイバー攻撃",
     "title": "AIエージェントが新たな 攻撃 を生む、 サイバー セキュリティ株は2カ月で38%急騰し ...",
