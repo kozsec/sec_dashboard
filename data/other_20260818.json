@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "newscast.jp",
+    "identifier": "サイバー攻撃",
+    "title": "SLING、サードパーティリスク管理（TPRM）プラットフォームを大幅拡張 - NEWSCAST",
+    "url": "https://newscast.jp/smart/news/1868761"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "voix.jp",
+    "identifier": "ランサムウェア",
+    "title": "ダイレクトクラウドが提供する ランサムウェア 対策「WhiteDefender」の新たなソリューションとは",
+    "url": "https://voix.jp/business-cards/directcloud-whitedefender-launch/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "緊急事態対応の契約を「掛け捨て」にしない、EDR導入のセキュリティサービス | 日経クロス ...",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/04/06394/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "システム障害",
     "title": "REXTにランサムウェア攻撃、WonderGOOや新星堂などの一部店舗に影響 4枚目の写真・画像",
