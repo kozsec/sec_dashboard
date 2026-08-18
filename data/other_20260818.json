@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-18",
     "time": null,
+    "organization": "ascii.jp",
+    "identifier": "ランサムウェア",
+    "title": "ASCII.jp：エスカとレンのセキュリティ通信：IPA「情報セキュリティ10大脅威 2025」を解説",
+    "url": "https://ascii.jp/elem/000/004/422/4422622/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "丸高興業に ランサムウェア 攻撃、少なくとも1.5GBのデータが漏えいした可能性 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/18/55950/54144.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア の侵入は昼間、暗号化は夜間に--7月の動向 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251641/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "キャッシュレス大国スウェーデン、露「 攻撃 」に備え…現金払い受け入れ義務化 社会を強く",
+    "url": "https://www.sankei.com/article/20260818-5PAHOKB555MBZKNYBT2KNPN7WU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "世界40ヶ国・4,000名が参加する サイバー 防衛演習「Locked Shields 2026」にGMOイエラエが ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55945.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
     "organization": "chiba-tv.com",
     "identifier": "ランサムウェア",
     "title": "サプライチェーンに重大な脅威をもたらす脆弱性はわずか。一方で",
