@@ -1,0 +1,47 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「飲酒運転」「ひき逃げ」処分歴まで 流出 か 日本交通サイバー攻撃、「2.9テラバイト」大量データ ...",
+    "url": "https://news.yahoo.co.jp/articles/8f6cefe92aec63f335a1f5a1bda28faa0fcb6960"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "名鉄協商への ランサムウェア 攻撃、中電不動産の顧客情報 約4,000件が漏えいした可能性",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55948.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "RIZAP「APORITOオンラインストア」に 不正アクセス 、カード情報が外部流出した可能性",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55951.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "両毛システムズ、社内システムに 不正アクセス 被害（ITmedia NEWS） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/347676c50eb73779f6f98ee5d873f7a7b4e34c8a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-18",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "ユーザー認証機能の設計・実装に脆弱性 ～「デュエル・マスターズ サポートアプリ」で個人 情報 を ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/18/55947.html"
+  }
+]
