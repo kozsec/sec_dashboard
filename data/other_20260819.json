@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 対策で専門チーム＝自治体の被害拡大防止へ派遣―総務省 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/jiji/politics/jiji-2026081900117"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "さくらインターネット、最大136万件の会員 情報 に不正アクセスの影響か - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/e337327c-bd1c-4f14-b468-6c23c90dc6be"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「さくらインターネット」 不正アクセス 、１３６万人分の顧客情報が閲覧された可能性",
+    "url": "https://www.yomiuri.co.jp/economy/20260819-GYT1T00279/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットに 不正アクセス か｜全国のニュース - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2343283"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット、販売管理システムへの 不正アクセス の可能性--最大136万アカウントに影響 ...",
+    "url": "https://news.yahoo.co.jp/articles/c63c944184df5dea55c528f00d246d45c2e479b0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット、最大136万アカウントに 不正アクセス の影響か 会員情報も対象の可能性",
+    "url": "https://news.yahoo.co.jp/articles/4765787055986b22c76970385ebf543c9376ba0f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "さくらインターネットに不正アクセス 会員情報136万件に影響か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV8M2JCBV8MULFA01XM.html?iref=comtop_Business_01"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "internet.watch.impress.co.jp",
     "identifier": "情報漏洩",
     "title": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認 - INTERNET Watch",
