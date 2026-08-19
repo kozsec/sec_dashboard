@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "sanspo.com",
+    "identifier": "情報漏えい",
+    "title": "個情委、メール外部 漏えい でKDDIを行政指導 - サンスポ",
+    "url": "https://www.sanspo.com/article/20260819-APSBQ7ADHNJH5FTZL5SB3AZPWM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "PKSHAの決算がヤバすぎる…売上84％増の裏で進む「AI×コンサル」大変革の正体 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/186571"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人情報保護委、KDDIに行政指導＝1223万人分の 情報漏えい (時事通信) - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/252c56dbe4d5e2538aa61389c9669709764c5b09"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "KDDI 漏えい 政府が行政指導 再発防止求める - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1905747"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約 情報 が ...",
+    "url": "https://news.yahoo.co.jp/articles/f4250568679b496da50e9666cd8c25b7a52568b3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "不正アクセス",
     "title": "さくらインターネットに 不正アクセス か（共同通信） - Yahoo!ニュース",
