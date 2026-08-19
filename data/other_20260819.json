@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "pc.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "さくらのレンタルサーバーの一部環境で不正アクセスが発生、不正ログインや個人データ 漏洩 の ...",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2133996.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "個人情報保護委、KDDIを行政指導 メール 情報漏洩 で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA199FY0Z10C26A8000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/6540d8161a882a0ab52b912321e18df6fdbd6485"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらネット 不正アクセス 顧客情報１３６万件閲覧か | 共同通信 ニュース | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1905512"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットに 不正アクセス か｜全国の記事 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1774693"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "不正アクセス",
+    "title": "「さくらのレンタルサーバ」の 不正アクセス 、新たに販管システムへの 不正アクセス の可能性を確認",
+    "url": "https://news.mynavi.jp/techplus/article/20260819-4839028/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、 不正アクセス の影響 ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d3e1ac5ffcb508f66a6b15fe40a120fd5d9446b7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットに 不正アクセス 個人情報１３６万件に漏えいの恐れ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026081901014&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "さくらネット 不正アクセス 顧客情報136万件閲覧か - 産経ニュース",
+    "url": "https://www.sankei.com/article/20260819-YU2SHTY3YFPU7OXVXZFGIHQKOU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット、販売管理システムへの 不正アクセス の可能性--最大136万アカウントに影響 ...",
+    "url": "https://japan.zdnet.com/article/35251716/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI社長ブロックマン氏「時間が重要」。企業が今すぐ着手すべき サイバー 防御10項目",
+    "url": "https://www.businessinsider.jp/article/2608-openai-president-greg-brockman-10-cybersecurity-tips-hugging-face/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "IoTセキュリティの日本市場（2026年-2035年）、市場規模・分析レポートを発表 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/1852135"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、AIの開発ペースを一時減速 最新モデルの強化学習を2週間停止 暴走リスクの高まりで",
+    "url": "https://japan.cnet.com/article/35251664/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ポケモンセンター」で顧客情報流出、物流会社への サイバー攻撃 で - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20260819-4838741/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、次世代モデルの強化学習を一時停止、 サイバー攻撃 能力や安全性への懸念から",
+    "url": "https://news.yahoo.co.jp/articles/13cd09b34e68e3bfd7724af9e579bfaf2c21f2e1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "サイバー攻撃",
     "title": "サイバー 対策で専門チーム＝自治体の被害拡大防止へ派遣―総務省 - ｄメニューニュース",
