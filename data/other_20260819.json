@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "さくらネット不正アクセス 顧客情報１３６万件閲覧か - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1774695"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらインターネット、顧客 情報 にも不正アクセスか - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98258080Z10C26A8TB1000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "sanspo.com",
     "identifier": "情報漏えい",
     "title": "個情委、メール外部 漏えい でKDDIを行政指導 - サンスポ",
