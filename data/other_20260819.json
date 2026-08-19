@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "個情委、ＫＤＤＩに行政指導 １２２３万人分の情報漏えい - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026081901059&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "VLCセキュリティアリーナがCYBERGYM eラーニングサービスを刷新 - ライブドアニュース",
+    "url": "https://news.livedoor.com/pr_topics/detail/32107018/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "pc.watch.impress.co.jp",
     "identifier": "情報漏洩",
     "title": "さくらのレンタルサーバーの一部環境で不正アクセスが発生、不正ログインや個人データ 漏洩 の ...",
