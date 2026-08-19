@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "KDDIに行政指導 利用者の個人 情報 1200万人超分 漏えい で 10月19日までの報告求める",
+    "url": "https://news.yahoo.co.jp/articles/30f205e20f547a86fd851373f12aa7313edca8d1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "能動的 サイバー 防御のススメ--Infobloxが語る「プロテクティブDNS」の価値 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251717/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "que.dailyshincho.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「最新生成AI」が壊したハッカー「技能の壁」――低スキル人材が「傭兵」となる サイバー攻撃 に ...",
+    "url": "https://que.dailyshincho.jp/node/20403/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "情報漏えい",
     "title": "KDDIが個人 情報漏えい 問題で個人情報保護委員会から行政指導 - ライブドアニュース",
