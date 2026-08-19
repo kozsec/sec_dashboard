@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらネット 不正アクセス 顧客情報136万件閲覧か - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1528462/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらネット 不正アクセス | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/207616"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "個情委、KDDIに行政指導 1223万人分の情報漏えい（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2b57a1efd173e0fa800943828d4e8e2651ca4297"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらネット 不正アクセス 顧客情報１３６万件閲覧か - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/509589?rct=economics"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "情報漏洩",
+    "title": "Keeper Security、Azure Logic Apps向け認定コネクタを提供開始 – ゼロ知識で認証 情報 管理を強化",
+    "url": "https://ccsi.jp/14269/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "さくら、別のシステムでも不正アクセスか 会員 情報 136万アカウントが 漏えい の可能性 調査で判明",
+    "url": "https://newspicks.com/news/17335700/?block=headline&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "さくらのレンタルサーバーの一部環境で不正アクセスが発生、不正ログインや個人データ 漏洩 の ...",
+    "url": "https://news.yahoo.co.jp/articles/26051ec574c1312448bf75b403da42dee6ff7f24"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "jiji.com",
     "identifier": "システム障害",
     "title": "個情委、ＫＤＤＩに行政指導 １２２３万人分の情報漏えい - 時事通信",
