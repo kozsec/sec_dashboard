@@ -4,6 +4,78 @@
     "date": "2026-08-19",
     "time": null,
     "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ダイレクトクラウド、エンドポイントセキュリティー製品「WhiteDefender」の代理販売開始へ",
+    "url": "https://news.yahoo.co.jp/articles/1646148eb9c0dc847f96c247cb8664b85a4f3b32"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "さくらインターネットに不正アクセス 会員情報136万件に影響か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV8M2JCBV8MULFA01XM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【参加無料】実務に効く!! 中小企業のための「生成AI」活用・実践セミナー&amp",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1905415"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらネット、顧客 情報 システムにも不正アクセスか 136万件管理 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF1962O0Z10C26A8000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "mainichi.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI新世紀：暴走AIを止める「キルスイッチ」は誰の手に 米下院法案を読む | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20260817/k00/00m/030/109000c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティの日本市場（2026年-2035年）、市場規模・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/5582591"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "総務省、 サイバー 対策で専門チーム 自治体の被害拡大防止へ派遣 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026081900117&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
     "identifier": "情報漏洩",
     "title": "リクナビはなぜトップから転落したか～利用企業数は19年比25.9％、 情報漏洩 ... - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/expert/articles/f9bccf4348f471233c3253cbf5c7570c95fed3bc"
