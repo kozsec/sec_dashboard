@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "TSUIDE、「AI×セキュリティ」で サイバー攻撃 の即時自動防御を実現するYaguraとパートナー契約 ...",
+    "url": "https://www.jiji.com/jc/article?k=000000023.000081593&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "KELA、サードパーティーリスク管理を強化--経産省・金融庁指針に対応 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35251692/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "ドイツ：ベルリン州政府を標的とした サイバー攻撃 が発生。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/duc-tan-cong-mang-nham-vao-chinh-quyen-bang-berlin"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "parstoday.ir",
+    "identifier": "サイバー攻撃",
+    "title": "ドイツの複数の省庁が サイバー攻撃 される - Pars Today",
+    "url": "https://parstoday.ir/ja/news/world-i134140-ドイツの複数の省庁がサイバー攻撃される"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "不正アクセス",
+    "title": "オープンAI、フロンティアAI訓練を一部停止…ハギングフェイス侵害受け監視体制を拡大",
+    "url": "https://www.sbbit.jp/article/cont1/186588"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "オープンAI、フロンティアAI訓練を一部停止…ハギングフェイス侵害受け監視体制を拡大",
+    "url": "https://news.yahoo.co.jp/articles/62890eeff10f039e9183190636ee85b9f3af258b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAI、次世代モデル開発を「減速」 安全対策を最優先に - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2133713.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "システム 不正 侵入…“暴走するAI”どう制御？ 「まるで無敵の人状態」に“倫理観”を植え付けることは ...",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/900197418.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "勝手に予約書き換え、システム 不正 侵入…“暴走するAI”どう制御？ 「まるで無敵の人状態」に“倫理 ...",
+    "url": "https://news.yahoo.co.jp/articles/e1309fa1a629b37e05957286d68d4b4fcc480de3?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "atpress.ne.jp",
     "identifier": "情報漏えい",
     "title": "ID数無制限※1・企業定額、 シャドーAI対策でリーズナブル・セキュアな生成AI活用基盤 「OPTiM ...",
