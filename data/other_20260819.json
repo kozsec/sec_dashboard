@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "ID数無制限※1・企業定額、 シャドーAI対策でリーズナブル・セキュアな生成AI活用基盤 「OPTiM ...",
+    "url": "https://www.atpress.ne.jp/news/624408"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "tdb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "山梨県・生成AIに関する企業の動向調査（2026年3月） - 帝国データバンク",
+    "url": "https://www.tdb.co.jp/report/economic/20260818-genai-yamanashi/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 の最大要因「メール誤送信」に終止符を。ネクストリードが、データ・AI が組織に ...",
+    "url": "https://www.jiji.com/jc/article?k=000000011.000068948&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "kahoku.news",
+    "identifier": "情報漏洩",
+    "title": "新たな 情報 持ち出しリスクに警鐘を鳴らすエルテス、生成AIのログ収集性能に関する分析レポート ...",
+    "url": "https://kahoku.news/release/dpr141600.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "不正アクセス",
     "title": "2.5次元アイドル「いれいす」事務所のBIツールに 不正アクセス ファンの氏名・電話番号や“推し ...",
