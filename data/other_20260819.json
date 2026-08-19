@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "KDDIが個人 情報漏えい 問題で個人情報保護委員会から行政指導 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32109364/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本のサイバーセキュリティ市場、2035年に236.8億米ドル規模へ拡大予測",
+    "url": "https://ccsi.jp/14301/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "ccsi.jp",
     "identifier": "ランサムウェア",
     "title": "アディクシィ、AI実装支援を強化 上場企業CTO経験者ら5名顧問に就任",
