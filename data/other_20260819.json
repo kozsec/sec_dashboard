@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "アディクシィ、AI実装支援を強化 上場企業CTO経験者ら5名顧問に就任",
+    "url": "https://ccsi.jp/14229/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、次世代モデルの強化学習を一時停止、 サイバー攻撃 能力や安全性への懸念から",
+    "url": "https://news.yahoo.co.jp/articles/13cd09b34e68e3bfd7724af9e579bfaf2c21f2e1/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "アスクル新社長「優良顧客を重視」 サイバー攻撃 から回復へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2837Q0Y6A720C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ポケモンセンター、物流パートナーへの サイバー攻撃 で顧客データ流出を受け30周年記念商品の ...",
+    "url": "https://finance.biggo.jp/news/ff6ce105-880d-48a0-b802-78746c8136bd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "システム障害",
+    "title": "さくらネット不正アクセス 顧客情報136万件閲覧か - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1462757901325714079/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "kyoto-np.co.jp",
     "identifier": "システム障害",
     "title": "さくらネット不正アクセス 顧客情報１３６万件閲覧か - 京都新聞",
