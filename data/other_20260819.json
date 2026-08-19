@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-19",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "2.5次元アイドル「いれいす」事務所のBIツールに 不正アクセス ファンの氏名・電話番号や“推し ...",
+    "url": "https://newspicks.com/news/17326614/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "blogs.itmedia.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AIは詐欺師よりも「騙すのがうまく人のこころを操る」という次のソーシャルエンジニアリング",
+    "url": "https://blogs.itmedia.co.jp/niikura/2026/08/ai_2.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-19",
+    "time": null,
     "organization": "ccsi.jp",
     "identifier": "ランサムウェア",
     "title": "ランサムウェア 対策「WhiteDefender」の代理販売を開始 エンドポイントとクラウドで二重防御へ",
