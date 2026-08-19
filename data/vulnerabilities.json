@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-64849",
+    "company": "MLflow",
+    "product": null,
+    "title": "MLflow Server-Side Request Forgery Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/19",
+    "last_update": "2026/08/19"
+  },
+  {
     "cve": "CVE-2026-33824",
     "company": "Microsoft",
     "product": null,

@@ -1,5 +1,14 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-08-19",
+    "time": null,
+    "organization": "MLflow",
+    "identifier": "CVE-2026-64849",
+    "title": "MLflow Server-Side Request Forgery Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-64849&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-08-19",
     "time": "15:30",
