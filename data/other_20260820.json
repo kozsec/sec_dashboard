@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらインターネット株価一時10.4%安 不正アクセス問題受け - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFL200S60Q6A820C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "情報漏洩",
+    "title": "高度化するランサムウェア、検知型では防げぬか—DAIKO XTECHらがウェビナー開催へ",
+    "url": "https://ccsi.jp/14307/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスで一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末 ...",
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202608202000000651/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "株式会社ウェブライフのOEM向けサイト作成サービスで不正アクセス発生か 個人 情報漏えい の ...",
+    "url": "https://news.yahoo.co.jp/articles/4caf134173145a0f5f332a3e6980cde4cfdf6213"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "「はいチーズ！フォト」に不正アクセス、 漏えい 件数の公表は顧客の保護と二次被害防止の観点 ...",
+    "url": "https://newspicks.com/news/17339169/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ウェブライフ、OEM向けホームページ作成サービスで不正アクセス、 情報漏えい の可能性",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2134205.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "サイバー攻撃",
     "title": "CrowdStrike「AIが サイバー攻撃 の中核に…クラウド脅威171%急増」 - BigGo ファイナンス",
