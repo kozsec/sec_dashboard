@@ -3,6 +3,15 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "さくらインターネットに不正アクセス（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/0b352e24df85859df0e53c12afada8b288889f42"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "mainichi.jp",
     "identifier": "サイバー攻撃",
     "title": "暴走AIが告げる新 サイバー 混迷時代 | ウォール・ストリート・ジャーナル日本版から - 毎日新聞",
