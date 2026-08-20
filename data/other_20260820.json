@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "トランプ大統領は民間のセキュリティ企業に サイバー 犯罪組織への「ハックバック」を許可したい",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/20/55983.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "［深層ＮＥＷＳ］中国の サイバー攻撃 「台湾の脆弱性を試し反応を見る狙い」…小原凡司氏",
+    "url": "https://www.yomiuri.co.jp/world/20260820-GYT1T00294/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【大阪・関西万博】関係者やイベント出演者の個人 情報漏えい のおそれ 再委託先に不正アクセス",
+    "url": "https://news.ntv.co.jp/category/society/yt268c8449480047d39050b7dbc2574acc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "itmedia.co.jp",
     "identifier": "不正アクセス",
     "title": "不正アクセス で一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末 ...",
