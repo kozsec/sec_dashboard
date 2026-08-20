@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "exawizards.com",
+    "identifier": "情報漏洩",
+    "title": "Copilotの利用実態から考える​現場で使われるAIとはー生成AI活用は​なぜ社内に浸透しない ...",
+    "url": "https://exawizards.com/column/ebook/028/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "サイバーセキュリティーへの意識高めて 岡山県警が医療現場向けにセミナー 偽 ... - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/amp/article/ksb_16821383/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "dカードやMy docomoなどで一部 システム障害 が発生 取引が行えない可能性 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32116577/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティクラウド、耐量子計算機暗号（PQC）対応に向けた技術検証を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000364.000009107.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国政府関係者狙った サイバー攻撃 北朝鮮ハッキング組織「ラザルス」が関与か - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000527663.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "moomoo.com",
+    "identifier": "情報漏洩",
+    "title": "内部 情報漏洩 - moomooコミュニティ",
+    "url": "https://www.moomoo.com/ja/community/feed/insider-leak-117126333595654"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AI活用の攻撃が防御を上回る、世界1000人調査にみる業界別・地域別の対応実態",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/06/06405/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "大阪万博の関係者情報が漏えいか 再委託先の Microsoft 365アカウントに 不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/5e314038d42fcd50e022317eee4abc67fc623641"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスで万博の出演者など2000人分の個人 情報漏えい のおそれ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/0e885f5b2150f7ce00e892ebc002b855c97691c6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "情報漏洩",
     "title": "さくらインターネット株価一時10.4%安 不正アクセス問題受け - 日本経済新聞",
