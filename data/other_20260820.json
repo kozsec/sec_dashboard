@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "大阪万博の関係者情報が漏えいか 再委託先のMicrosoft 365アカウントに 不正アクセス - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000657/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "『 ランサムウェア 被害に遭ったら、製造現場を本当に再開できますか？』というテーマの ...",
+    "url": "https://www.jiji.com/jc/article?k=000005585.000054842&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "REXTに ランサムウェア 攻撃、RIZAP「APORITO」事業でシステム障害 - NewsPicks",
+    "url": "https://newspicks.com/news/17339177/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "aismiley.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOグループと米Anthropicが戦略的パートナーシップ契約を締結。Claudeの徹底活用でAI基盤を ...",
+    "url": "https://aismiley.co.jp/ai_news/gmo-anthropic-partnership/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "ncctv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国政府関係者狙った サイバー攻撃 北朝鮮ハッキング組織「ラザルス」が関与か | 長崎ニュース",
+    "url": "https://www.ncctv.co.jp/news/article/16823235"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "ランサムウェア",
     "title": "REXTへの ランサムウェア 攻撃、JEANS MATE店舗での支払いは原則として現金のみに",
