@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-20",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "中国で急拡大する“数分完結”ショートドラマ 映画上回る市場規模 今年「AIドラマ」急増で変化も",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2885901"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "london3.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットが 不正アクセス で大量の個人情報漏洩か！？ | IT中小企業診断士村上知也",
+    "url": "https://london3.jp/2026/08/sakura-internet2026/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ウェブライフ、OEM向けホームページ作成サービスで不正アクセス、 情報漏えい の可能性",
+    "url": "https://news.yahoo.co.jp/articles/10bfb3b8e9badcd9f44e0d2aa494bbb7a415317f/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "大阪万博の関係者 情報 が 漏えい か 再委託先のMicrosoft 365アカウントに不正アクセス",
+    "url": "https://newspicks.com/news/17343737/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "世界的マルウェア研究者・忠鉢洋輔氏が講師・監修を務める 高度サイバーセキュリティ人材向け ...",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000076_000096155/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-20",
+    "time": null,
     "organization": "minpo.jp",
     "identifier": "不正アクセス",
     "title": "大阪・関西万博、再委託先の「 不正アクセス 事案」を報告＆謝罪 一般来場者の個人情報は確認されず",
