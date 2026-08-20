@@ -1,5 +1,23 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "TrueConf",
+    "identifier": "CVE-2026-72530",
+    "title": "TrueConf Server Code Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-72530&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-20",
+    "time": null,
+    "organization": "TrueConf",
+    "identifier": "CVE-2026-72529",
+    "title": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-72529&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-08-20",
     "time": "18:30",

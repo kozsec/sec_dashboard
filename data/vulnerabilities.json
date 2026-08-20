@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-72530",
+    "company": "TrueConf",
+    "product": null,
+    "title": "TrueConf Server Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/20",
+    "last_update": "2026/08/20"
+  },
+  {
+    "cve": "CVE-2026-72529",
+    "company": "TrueConf",
+    "product": null,
+    "title": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/20",
+    "last_update": "2026/08/20"
+  },
+  {
     "cve": "CVE-2026-64849",
     "company": "MLflow",
     "product": null,
