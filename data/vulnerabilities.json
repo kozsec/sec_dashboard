@@ -1,15 +1,15 @@
 [
-{
+  {
     "cve": "CVE-2026-72530",
     "company": "TrueConf",
     "product": "Server",
     "title": "TrueConf Server Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.0034,
+    "cvss": 9.5,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/20"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-72529",
@@ -17,11 +17,11 @@
     "product": "Server",
     "title": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.00284,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/20"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-64849",
@@ -29,11 +29,11 @@
     "product": "MLflow",
     "title": "MLflow Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.08154,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/08/19",
-    "last_update": "2026/08/19"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-33824",
@@ -41,11 +41,11 @@
     "product": "Internet Key Exchange (IKE) Service Extensions",
     "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.77898,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-59310",
@@ -53,11 +53,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.02405,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-55040",
@@ -65,11 +65,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Weak Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.05489,
+    "cvss": 9.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-65400",
@@ -77,11 +77,11 @@
     "product": "macOS",
     "title": "Apple macOS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.00751,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2025-62593",
@@ -89,11 +89,11 @@
     "product": "Ray",
     "title": "Ray-Project Ray Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.01015,
+    "cvss": 9.4,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/17",
-    "last_update": "2026/08/17"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-20349",
