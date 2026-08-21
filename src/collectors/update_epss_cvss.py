@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime
 import requests
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 JSON_FILE = (
     BASE_DIR
