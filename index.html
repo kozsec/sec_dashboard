@@ -576,6 +576,11 @@
         .vulnerability-table td:nth-child(7) {
             width: 100px;
         }
+        
+        .vulnerability-table th:nth-child(8),
+        .vulnerability-table td:nth-child(8) {
+            width: 400px;
+        }
 
         .vulnerability-table th,
         .vulnerability-table td {
@@ -641,6 +646,12 @@
 
         .vulnerability-date {
             color: #687386;
+            white-space: nowrap;
+        }
+        
+        .vulnerability-cvss-vector {
+            color: #687386;
+            font-size: 10px;
             white-space: nowrap;
         }
 
@@ -1251,6 +1262,7 @@
                             <th>Source</th>
                             <th>EPSS</th>
                             <th>CVSS</th>
+                            <th>Vector</th>
                         </tr>
 
                     </thead>
@@ -1260,7 +1272,7 @@
                         <tr>
 
                             <td
-                                colspan="7"
+                                colspan="8"
                                 class="vulnerability-loading"
                             >
                                 データを読み込んでいます...
@@ -2308,7 +2320,7 @@ function renderVulnerabilities() {
             <tr>
 
                 <td
-                    colspan="7"
+                    colspan="8"
                     class="vulnerability-empty"
                 >
                     該当する脆弱性情報がありません。
@@ -2424,6 +2436,11 @@ function renderVulnerabilityItem(item) {
             ).toFixed(1)
             : "—";
 
+    const cvssVector =
+        escapeHtml(
+            item.cvss_vector
+        );
+
 
     const epssClass =
         item.epss_current !== null &&
@@ -2492,6 +2509,12 @@ function renderVulnerabilityItem(item) {
             <td>
                 <span class="cvss-value ${cvssClass}">
                     ${cvss}
+                </span>
+            </td>
+
+            <td>
+                <span class="vulnerability-cvss-vector">
+                    ${cvssVector || "—"}
                 </span>
             </td>
     
