@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "diamond-rm.net",
+    "identifier": "サイバー攻撃",
+    "title": "小売業に迫るセキュリティの脅威＿事業停止リスクに備えよ【PART2】",
+    "url": "https://diamond-rm.net/management/topinterview/553849/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アポロに サイバー攻撃 、個人情報にアクセス－ファンドへの攻撃相次ぐ - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/1fc583821a73ed6f48700b2fb5564b3ea7026aaf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アポロに サイバー攻撃 、個人情報にアクセス－ファンドへの攻撃相次ぐ | TBS CROSS DIG with ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2889330"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "ネット空間、新たな戦場に サイバー攻撃 ・偽情報で認知戦 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA160UX0W6A610C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "yellow.com",
+    "identifier": "ランサムウェア",
+    "title": "仮想通貨犯罪でAI活用が急拡大、TRM指標は「54／100」に到達 | Yellow",
+    "url": "https://yellow.com/ja/news/仮想通貨犯罪でai活用が急拡大、trm指標は「54／100」に到達"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "アポロにサイバー攻撃、個人 情報 にアクセス－ファンドへの攻撃相次ぐ | TBS CROSS DIG with ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2889330?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "情報漏洩",
     "title": "Cloudflare Workersの本番環境でSpectre攻撃、従来比360倍の 情報漏洩 を実証―多層防御で ...",
