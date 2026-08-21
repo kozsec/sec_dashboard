@@ -1340,60 +1340,154 @@
             ></div>
             <div class="cvss-vector-section">
 
-    <div class="cvss-vector-title">
-        CVSS Vectorの読み方
-    </div>
-
-    <div class="cvss-vector-description">
-
-        <p>
-            <strong>AV（攻撃経路）</strong>：
-            <span class="cvss-danger-text">N=ネットワーク</span>
-            / A=隣接 / L=ローカル / P=物理
-        </p>
-
-        <p>
-            <strong>AC（攻撃の複雑さ）</strong>：
-            <span class="cvss-danger-text">L=低</span>
-            / H=高
-        </p>
-
-        <p>
-            <strong>PR（必要な権限）</strong>：
-            <span class="cvss-danger-text">N=不要</span>
-            / L=低 / H=高
-        </p>
-
-        <p>
-            <strong>UI（ユーザー操作）</strong>：
-            <span class="cvss-danger-text">N=不要</span>
-            / P=必要
-        </p>
-
-        <p>
-            <strong>S（スコープ）</strong>：
-            U=変更なし / C=変更あり
-        </p>
-
-        <p>
-            <strong>C（機密性）</strong>：
-            N=影響なし / L=低 /
-            <span class="cvss-danger-text">H=高</span>
-        </p>
-
-        <p>
-            <strong>I（完全性）</strong>：
-            N=影響なし / L=低 /
-            <span class="cvss-danger-text">H=高</span>
-        </p>
-
-        <p>
-            <strong>A（可用性）</strong>：
-            N=影響なし / L=低 /
-            <span class="cvss-danger-text">H=高</span>
-        </p>
-
-    </div>
+                <div class="cvss-vector-title">
+                    CVSS Vectorの読み方
+                </div>
+            
+                <div class="cvss-vector-columns">
+            
+                    <!-- CVSS v3.1 -->
+                    <div class="cvss-version">
+            
+                        <div class="cvss-version-title">
+                            CVSS v3.1
+                        </div>
+            
+                        <div class="cvss-vector-description">
+            
+                            <p>
+                                <strong>AV（攻撃経路）</strong>：
+                                <span class="cvss-danger-text">N=ネットワーク</span>
+                                / A=隣接 / L=ローカル / P=物理
+                            </p>
+            
+                            <p>
+                                <strong>AC（攻撃の複雑さ）</strong>：
+                                <span class="cvss-danger-text">L=低</span>
+                                / H=高
+                            </p>
+            
+                            <p>
+                                <strong>PR（必要な権限）</strong>：
+                                <span class="cvss-danger-text">N=不要</span>
+                                / L=低 / H=高
+                            </p>
+            
+                            <p>
+                                <strong>UI（ユーザー操作）</strong>：
+                                <span class="cvss-danger-text">N=不要</span>
+                                / P=必要
+                            </p>
+            
+                            <p>
+                                <strong>S（スコープ）</strong>：
+                                U=変更なし / C=変更あり
+                            </p>
+            
+                            <p>
+                                <strong>C（機密性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>I（完全性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>A（可用性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                        </div>
+            
+                    </div>
+            
+            
+                    <!-- CVSS v4.0 -->
+                    <div class="cvss-version">
+            
+                        <div class="cvss-version-title">
+                            CVSS v4.0
+                        </div>
+            
+                        <div class="cvss-vector-description">
+            
+                            <p>
+                                <strong>AV（攻撃経路）</strong>：
+                                <span class="cvss-danger-text">N=ネットワーク</span>
+                                / A=隣接 / L=ローカル / P=物理
+                            </p>
+            
+                            <p>
+                                <strong>AC（攻撃の複雑さ）</strong>：
+                                <span class="cvss-danger-text">L=低</span>
+                                / H=高
+                            </p>
+            
+                            <p>
+                                <strong>AT（攻撃要件）</strong>：
+                                N=なし / <span class="cvss-danger-text">P=あり</span>
+                            </p>
+            
+                            <p>
+                                <strong>PR（必要な権限）</strong>：
+                                <span class="cvss-danger-text">N=不要</span>
+                                / L=低 / H=高
+                            </p>
+            
+                            <p>
+                                <strong>UI（ユーザー操作）</strong>：
+                                <span class="cvss-danger-text">N=不要</span>
+                                / P=必要
+                            </p>
+            
+                            <p>
+                                <strong>VC（機密性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>VI（完全性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>VA（可用性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>SC（変更後の機密性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>SI（変更後の完全性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                            <p>
+                                <strong>SA（変更後の可用性）</strong>：
+                                N=影響なし / L=低 /
+                                <span class="cvss-danger-text">H=高</span>
+                            </p>
+            
+                        </div>
+            
+                    </div>
+            
+                </div>
+            
+            </div>
 
 </div>
 
