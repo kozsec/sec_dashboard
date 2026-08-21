@@ -50,6 +50,7 @@ def fetch_cisa_kev():
             "date": item.get("dateAdded"),
             "time": None,
             "organization": item.get("vendorProject"),
+            "product": item.get("product"),
             "identifier": item.get("cveID"),
             "title": item.get("vulnerabilityName"),
             "url": (
