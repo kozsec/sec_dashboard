@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "韓国大手企業、AI転換を本格化…現代自・サムスンが生成AI導入、機密流出リスクは課題",
+    "url": "https://news.infoseek.co.jp/amp/article/koreawave_3649370/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "藤倉コンポジットのメールアカウントに不正アクセス、すべての受信メールを社外の不明なメール ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/21/55987/54217.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "manegy.com",
+    "identifier": "情報漏洩",
+    "title": "管理職の約4割が「シャドーAI」を経験――浮き彫りになるAIガバナンスの課題。形骸化しない ...",
+    "url": "https://www.manegy.com/news/detail/16715/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "ascii.jp",
+    "identifier": "情報漏洩",
+    "title": "クラウド最大の脅威は「設定ミス」    最新調査と実際の 漏えい 事例から学ぶ対策 - ASCII.jp",
+    "url": "https://ascii.jp/elem/000/004/422/4422703/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "ey.com",
     "identifier": "情報漏えい",
     "title": "研究セキュリティ確保に求められる新たな視点とは――OSINTで可視化する研究者ネットワークと ...",
