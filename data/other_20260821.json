@@ -3,6 +3,24 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "情報漏洩",
+    "title": "[写真]Cloudflare Workersの本番環境でSpectre攻撃、従来比360倍の 情報漏洩 を実証",
+    "url": "https://www.zaikei.co.jp/photo/866865.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【大阪・関西万博】関係者やイベント出演者の個人情報漏えいのおそれ 再委託先に 不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/a3aadc2c346bfcd059303ad067944b9439a61333/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "codebook.machinarecord.com",
     "identifier": "サイバー攻撃",
     "title": "中国語話す サイバー 犯罪グループUAT-10147、AIでWebサーバーへの 攻撃 を自動化 - Codebook",
