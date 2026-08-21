@@ -6,6 +6,7 @@ def main():
     fetch_tdnet()
     fetch_cisa_kev()
     fetch_ipa()
+    update_epss_cvss()
 
 if __name__ == "__main__":
     main()
