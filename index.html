@@ -700,6 +700,45 @@
             color: #F59E0B;
             font-weight: 800;
         }
+
+        .cvss-vector-columns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        
+        .cvss-version {
+            min-width: 0;
+        }
+        
+        .cvss-version-title {
+            font-size: 12px;
+            font-weight: 700;
+            color: #263142;
+            margin-bottom: 10px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #e6eaf0;
+        }
+        
+        .cvss-vector-description {
+            font-size: 11px;
+            line-height: 1.8;
+            color: #687386;
+        }
+        
+        .cvss-vector-description p {
+            margin: 0 0 4px;
+        }
+        
+        .cvss-vector-description strong {
+            color: #172033;
+            font-weight: 700;
+        }
+        
+        .cvss-danger-text {
+            color: #EF4444;
+            font-weight: 800;
+        }
         
 
         /* Pagination */
@@ -1000,6 +1039,10 @@
                 height: 28px;
                 border-radius: 7px;
                 font-size: 12px;
+            }
+            .cvss-vector-columns {
+                grid-template-columns: 1fr;
+                gap: 24px;
             }
         }
     </style>
