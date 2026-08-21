@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "中国語話す サイバー 犯罪グループUAT-10147、AIでWebサーバーへの 攻撃 を自動化 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47285/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "工場への サイバー攻撃 を3割が経験 専門人材の不足やルール徹底が課題 | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03241/081400009/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "独シーメンス、米当局のハッカー警告に「 攻撃 増はない」と返答（ロイター） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/6045118ab94f977039472f211e08db1f812e6e65"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "情報漏洩",
+    "title": "経営課題となったサプライチェーンセキュリティ。SCS評価制度への対応がDX推進の土台に",
+    "url": "https://news.mynavi.jp/techplus/kikaku/20260821-4682036/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "coinpost.jp",
+    "identifier": "不正アクセス",
+    "title": "米司法省、イラン拠点サイバー窃盗グループ起訴 世界中の大学から知的財産窃取の容疑",
+    "url": "https://coinpost.jp/?p=732338"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "セントラルコンサルタント コーポレートサイトに 不正アクセス 、お問い合わせフォームの情報が ...",
+    "url": "https://newspicks.com/news/17347414/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天ブックス、 不正アクセス 検知「深くお詫び」 3万3333件の顧客情報など現時点で漏えいなし",
+    "url": "https://news.yahoo.co.jp/articles/9294bd0c73ab4f2ad5ca0bbfbd353be7ba5d9b20"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天ブックス関係会社のPCに 不正アクセス 、ユーザー3万3333人分の個人情報などが漏えいの ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2134682.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "情報漏洩",
     "title": "韓国大手企業、AI転換を本格化…現代自・サムスンが生成AI導入、機密流出リスクは課題",
