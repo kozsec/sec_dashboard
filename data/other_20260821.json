@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "チェック・ポイント・リサーチ、新学期を前に教育・研究分野への サイバー攻撃 の急増を警告",
+    "url": "https://prtimes.jp/main/html/rd/p/000000543.000021207.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "cybertrust.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "新人実践レポ① 秘密鍵の端末外流出を防ぐ TPM 対応のクライアント証明書とは - サイバートラスト",
+    "url": "https://www.cybertrust.co.jp/blog/certificate-authority/pki/tpm-mpki01.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウェアによる平均業務停止期間が36日に長期化--「セキュリティ成熟度と被害の実態調査」",
+    "url": "https://japan.zdnet.com/article/35251804/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア による平均業務停止期間が 36日に長期化--「セキュリティ成熟度と被害の実態調査」",
+    "url": "https://news.yahoo.co.jp/articles/e7ddc1f03834594e359e88c297205088efe60edc/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "ランサムウェア",
+    "title": "SKシールダス 共通インフラ攻撃拡大を警鐘 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-it/2026/08/21/WFOXLZWWVZDOVJMYINYHXABQPE/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "上半期の世界 ランサムウェア 被害4744件…第2四半期は48%急増 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/ba18d2e2-ab80-4977-980b-a657be358a0f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア のアフィリエイトが「救済者」を装い、共犯者から身代金を横取り - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47318/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア による平均業務停止期間が36日に長期化--「セキュリティ成熟度と被害の実態調査」",
+    "url": "https://news.yahoo.co.jp/articles/e7ddc1f03834594e359e88c297205088efe60edc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "不正アクセスで万博の出演者など2000人分の個人 情報漏えい のおそれ (ABCニュース)",
