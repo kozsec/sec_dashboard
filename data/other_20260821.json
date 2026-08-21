@@ -3,6 +3,15 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "Cloudflare Workersの本番環境でSpectre攻撃、従来比360倍の 情報漏洩 を実証―多層防御で ...",
+    "url": "https://newspicks.com/news/17349406/?ref=user"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "システム障害",
     "title": "中小企業と提携し、デジタルセキュリティ能力の構築を支援する。 - Vietnam.vn",
