@@ -5,11 +5,11 @@
     "product": null,
     "title": "TrueConf Server Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.0034,
+    "cvss": 9.5,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/20"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-72529",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.00284,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/20"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-64849",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "MLflow Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.08154,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/08/19",
-    "last_update": "2026/08/19"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-33824",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.77898,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-59310",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.02405,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-55040",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "Microsoft SharePoint Weak Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.05489,
+    "cvss": 9.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-65400",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "Apple macOS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.00751,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/18"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2025-62593",
@@ -89,11 +89,11 @@
     "product": null,
     "title": "Ray-Project Ray Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "epss_current": 0.01015,
+    "cvss": 9.4,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/17",
-    "last_update": "2026/08/17"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-20349",
@@ -127,9 +127,9 @@
     "kev": "あり",
     "epss_current": 0.104,
     "cvss": 10.0,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/11",
-    "last_update": "2026/08/11"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-8037",
@@ -162,10 +162,10 @@
     "title": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
     "epss_current": 0.00492,
-    "cvss": 7.4,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N",
+    "cvss": 8.2,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/04",
-    "last_update": "2026/08/04"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-34486",
@@ -198,10 +198,10 @@
     "title": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
     "epss_current": 0.04103,
-    "cvss": 8.1,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 8.2,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:L/SI:L/SA:L/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/03",
-    "last_update": "2026/08/03"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-20316",
@@ -235,9 +235,9 @@
     "kev": "あり",
     "epss_current": 0.00884,
     "cvss": 10.0,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:P/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/27",
-    "last_update": "2026/07/27"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-16232",
@@ -246,10 +246,10 @@
     "title": "Check Point SmartConsole Improper Authentication Vulnerability",
     "kev": "あり",
     "epss_current": 0.73296,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/22",
-    "last_update": "2026/07/22"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-50522",
@@ -317,11 +317,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.06372,
+    "epss_current": 0.45478,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/16",
-    "last_update": "2026/07/16"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-25089",
@@ -438,10 +438,10 @@
     "title": "Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
     "epss_current": 0.76066,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/10",
-    "last_update": "2026/07/10"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-48939",
@@ -450,10 +450,10 @@
     "title": "iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
     "epss_current": 0.82501,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/10",
-    "last_update": "2026/07/10"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-48908",
@@ -462,10 +462,10 @@
     "title": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
     "epss_current": 0.8813,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/07/07"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-55255",
@@ -486,10 +486,10 @@
     "title": "Joomlack Page Builder Improper Access Control Vulnerability",
     "kev": "あり",
     "epss_current": 0.83254,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/07/07"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-48282",
@@ -497,11 +497,11 @@
     "product": "ColdFusion",
     "title": "Adobe ColdFusion Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99197,
+    "epss_current": 0.99241,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/07/07",
-    "last_update": "2026/07/07"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-45659",
@@ -522,10 +522,10 @@
     "title": "SimpleHelp Authentication Bypass Vulnerability",
     "kev": "あり",
     "epss_current": 0.11484,
-    "cvss": 10.0,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "cvss": 9.5,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/29",
-    "last_update": "2026/06/29"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-12569",
@@ -534,10 +534,10 @@
     "title": "PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
     "kev": "あり",
     "epss_current": 0.30198,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:L/SI:L/SA:L/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:U/V:C/RE:X/U:Red",
     "published": "2026/06/25",
-    "last_update": "2026/06/25"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-20230",
@@ -617,11 +617,11 @@
     "product": "Joomla Content Editor ",
     "title": "Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.66013,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "epss_current": 0.6883,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/06/16",
-    "last_update": "2026/06/16"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-54420",
@@ -690,10 +690,10 @@
     "title": "Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability",
     "kev": "あり",
     "epss_current": 0.01108,
-    "cvss": 5.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:L/A:N",
+    "cvss": 6.9,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:L/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/09",
-    "last_update": "2026/06/09"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-20245",
@@ -714,10 +714,10 @@
     "title": "BerriAI LiteLLM Command Injection Vulnerability",
     "kev": "あり",
     "epss_current": 0.83013,
-    "cvss": 8.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 8.7,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/08",
-    "last_update": "2026/06/08"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-50751",
@@ -750,10 +750,10 @@
     "title": "Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
     "epss_current": 0.27546,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/03",
-    "last_update": "2026/06/03"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2022-0492",
@@ -798,10 +798,10 @@
     "title": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
     "kev": "あり",
     "epss_current": 0.93905,
-    "cvss": 9.1,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
+    "cvss": 7.8,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:H/SI:H/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:A/V:D/RE:M/U:Red",
     "published": "2026/05/29",
-    "last_update": "2026/05/29"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-48027",
@@ -810,10 +810,10 @@
     "title": "Nx Console Embedded Malicious Code Vulnerability",
     "kev": "あり",
     "epss_current": 0.0185,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/05/27",
-    "last_update": "2026/05/27"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-45321",
@@ -834,10 +834,10 @@
     "title": "Daemon Tools Lite Embedded Malicious Code Vulnerability",
     "kev": "あり",
     "epss_current": 0.01456,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/05/27",
-    "last_update": "2026/05/27"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-48172",
@@ -846,10 +846,10 @@
     "title": "LiteSpeed cPanel Plugin Privilege Escalation Vulnerability",
     "kev": "あり",
     "epss_current": 0.18914,
-    "cvss": 9.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/05/26",
-    "last_update": "2026/05/26"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-9082",
@@ -870,10 +870,10 @@
     "title": "Langflow Origin Validation Error Vulnerability",
     "kev": "あり",
     "epss_current": 0.83844,
-    "cvss": 8.8,
-    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss": 9.4,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/05/21",
-    "last_update": "2026/05/21"
+    "last_update": "2026/08/21"
   },
   {
     "cve": "CVE-2026-34926",

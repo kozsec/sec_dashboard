@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-08-21",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "千葉県警が サイバー 犯罪に関わった少年の立ち直り支援、「今の時代 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/249d553ac3b1270051c2f2ee39f9b0d24b47ee93"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "情報漏洩",
+    "title": "Cloudflare Workersの本番環境でSpectre攻撃、従来比360倍の 情報漏洩 を実証―多層防御で対策済み",
+    "url": "https://www.zaikei.co.jp/article/20260821/866865.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "グーグルフォーム誤設定で個人 情報漏洩 静岡県、研修会参加者募集で（朝日新聞）",
+    "url": "https://news.yahoo.co.jp/articles/15f5c81e8260a8d0743a949b9bca5cb295b13335"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-21",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "情報漏えい",
     "title": "不正アクセスで万博の出演者など2000人分の個人 情報漏えい のおそれ（ABC NEWS 関西 ...",
