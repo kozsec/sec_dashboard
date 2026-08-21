@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "Entra ID ",
+    "identifier": "CVE-2026-69836",
+    "title": "Microsoft Entra ID Deserialization of Untrusted Data Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-69836&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-21",
+    "time": null,
+    "organization": "Synacor",
+    "product": "Zimbra Collaboration Suite (ZCS)",
+    "identifier": "CVE-2026-73570",
+    "title": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-73570&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-08-21",
     "time": null,

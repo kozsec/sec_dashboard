@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-69836",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft Entra ID Deserialization of Untrusted Data Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01368,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/08/21",
+    "last_update": "2026/08/21"
+  },
+  {
+    "cve": "CVE-2026-73570",
+    "company": "Synacor",
+    "product": null,
+    "title": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00539,
+    "cvss": 8.9,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:L",
+    "published": "2026/08/21",
+    "last_update": "2026/08/21"
+  },
+  {
     "cve": "CVE-2026-72530",
     "company": "TrueConf",
     "product": "Server",
