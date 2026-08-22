@@ -1,0 +1,65 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "ランサムウェア",
+    "title": "中堅中小企業のIT投資が回復基調に、AI・インフラ投資を拡大 - デルが調査 - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20260821-4848242/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "暗号犯罪におけるAI活用が40%増加、ディープフェイク被害は263%急増 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/11884267-df9e-40c5-82d1-33a98930216b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "EPARKリラク&エステの予約管理・顧客管理プラットフォーム「PeakManager」に 不正アクセス",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/21/55989/54197.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "セントラルコンサルタント コーポレートサイトに 不正アクセス 、お問い合わせフォームの情報が ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/21/55985/54215.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "malwarebytes.com",
+    "identifier": "情報漏洩",
+    "title": "CareCloudのデータ 漏洩 で、医療記録、社会保障番号、銀行口座 情報 が流出 | Malwarebytes",
+    "url": "https://www.malwarebytes.com/ja/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国のメディアや病院などに サイバー攻撃 、北朝鮮系ハッカー組織の可能性 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/ef592299bfb758a1bbeeb2832a0c327815654726"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "afpbb.com",
+    "identifier": "サイバー攻撃",
+    "title": "韓国のメディアや病院などに サイバー攻撃 、北朝鮮系ハッカー組織の可能性 - AFPBB News",
+    "url": "https://www.afpbb.com/articles/biz/3649461?ctm_campaign=biz_news"
+  }
+]
