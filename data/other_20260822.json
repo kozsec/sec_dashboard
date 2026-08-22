@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-08-22",
     "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "サイバー空間における子どもたちの法的保護を強化する。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/tang-la-chan-phap-ly-cho-tre-em-tren-khong-gian-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "NSA・FBI、AI活用の産業施設ハッキングに警告…Siemens製PLCが標的 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/1f4aeff0-b6f1-4301-96e2-c4e83c3bd5fa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "万博イベント出演者ら２０００人分の個人 情報漏えい か…業務再委託先の従業員がフィッシング ...",
+    "url": "https://news.yahoo.co.jp/articles/4f7121f39599de9e4dc0c15508d574e0d557da25"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "万博イベント出演者ら２０００人分の個人 情報漏えい か…業務再委託先の従業員がフィッシング ...",
+    "url": "https://www.yomiuri.co.jp/local/kansai/news/20260822-GYO1T00030/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
     "organization": "asahi.com",
     "identifier": "情報漏洩",
     "title": "プリペアード 迷惑電話対策機能を持つPLATIAIIIなどセキュリティ対策・インフラ商材の販売代理店 ...",
