@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-08-22",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "サイバー攻撃",
+    "title": "アポロに サイバー攻撃 、個人情報にアクセス－ファンドへの攻撃相次ぐ - NewsPicks",
+    "url": "https://newspicks.com/news/17353804/?block=categories&ref=index_7933955&topRef=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "epochtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "よくある詐欺20選 その見分け方 | AI詐欺 | サイバー犯罪 | ロマンス詐欺 - 大紀元 エポックタイムズ",
+    "url": "https://www.epochtimes.jp/2026/08/382431.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "panewslab.com",
+    "identifier": "ランサムウェア",
+    "title": "HumidiFi：内部ネットワークのセキュリティインシデントを調査中、顧客資産に影響なし | PANews",
+    "url": "https://www.panewslab.com/ja/articles/01a02915-51e9-769d-a11d-39b0bf72592c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ペットの命が「人質」になる日 ～スマート給餌器と ランサムウェア の恐怖～ #エキスパートトピ",
+    "url": "https://news.yahoo.co.jp/expert/articles/15b4059634c7de266967c04c0aa0af8b85a821fa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "システム障害",
+    "title": "不動産取引における異常を検知し、警告を発するためにAIを応用する提案。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/de-xuat-ung-dung-ai-phat-hien-canh-bao-giao-dich-bat-dong-san-bat-thuong"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-22",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "不正アクセス",
     "title": "万博イベント出演者ら ２０００人分の個人情報漏えいか…業務再委託先の従業員がフィッシング ...",
