@@ -173,11 +173,11 @@
     "product": "TeamCity",
     "title": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.10722,
+    "epss_current": 0.12038,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/05",
-    "last_update": "2026/08/05"
+    "last_update": "2026/08/23"
   },
   {
     "cve": "CVE-2026-18556",
