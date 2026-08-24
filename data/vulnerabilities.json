@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-21962",
+    "company": "Oracle",
+    "product": null,
+    "title": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.4323,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
+    "published": "2026/08/24",
+    "last_update": "2026/08/24"
+  },
+  {
     "cve": "CVE-2026-69836",
     "company": "Microsoft",
     "product": null,

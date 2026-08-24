@@ -1,0 +1,12 @@
+[
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-24",
+    "time": null,
+    "organization": "Oracle",
+    "product": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+    "identifier": "CVE-2026-21962",
+    "title": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-21962&field_cve=&sort_by=field_date_added"
+  }
+]
