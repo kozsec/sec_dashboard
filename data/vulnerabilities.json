@@ -5,11 +5,11 @@
     "product": null,
     "title": "Microsoft Entra ID Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01368,
+    "epss_current": 0.01589,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/08/21",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-73570",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01042,
+    "epss_current": 0.01506,
     "cvss": 8.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:L",
     "published": "2026/08/21",
-    "last_update": "2026/08/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-72530",
@@ -29,11 +29,11 @@
     "product": "Server",
     "title": "TrueConf Server Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00974,
+    "epss_current": 0.01827,
     "cvss": 9.5,
     "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-72529",
@@ -41,11 +41,11 @@
     "product": "Server",
     "title": "TrueConf Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00785,
+    "epss_current": 0.01554,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/20",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-64849",
@@ -53,11 +53,11 @@
     "product": "MLflow",
     "title": "MLflow Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08154,
+    "epss_current": 0.1641,
     "cvss": 9.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/08/19",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-33824",
@@ -65,11 +65,11 @@
     "product": "Internet Key Exchange (IKE) Service Extensions",
     "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
     "kev": "あり",
-    "epss_current": 0.77898,
+    "epss_current": 0.72695,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-59310",
@@ -77,11 +77,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02405,
+    "epss_current": 0.45878,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-55040",
@@ -89,11 +89,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Weak Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.05489,
+    "epss_current": 0.05578,
     "cvss": 9.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/08/18",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-65400",
@@ -101,11 +101,11 @@
     "product": "macOS",
     "title": "Apple macOS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00751,
+    "epss_current": 0.10431,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2025-62593",
@@ -113,11 +113,11 @@
     "product": "Ray",
     "title": "Ray-Project Ray Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01,
+    "epss_current": 0.16888,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/17",
-    "last_update": "2026/08/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-20349",
@@ -125,11 +125,11 @@
     "product": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) ",
     "title": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0102,
+    "epss_current": 0.02213,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H",
     "published": "2026/08/11",
-    "last_update": "2026/08/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-68820",
@@ -137,11 +137,11 @@
     "product": "Windows Ancillary Function Driver for WinSock ",
     "title": "Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00332,
+    "epss_current": 0.06184,
     "cvss": 7.0,
     "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/11",
-    "last_update": "2026/08/11"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-72898",
@@ -149,11 +149,11 @@
     "product": "Metabase",
     "title": "Metabase SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.104,
+    "epss_current": 0.79215,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/11",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-8037",
@@ -161,11 +161,11 @@
     "product": "LoadMaster",
     "title": "Progress LoadMaster Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99311,
+    "epss_current": 0.99571,
     "cvss": 9.6,
     "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/08/07",
-    "last_update": "2026/08/07"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-63077",
@@ -173,11 +173,11 @@
     "product": "TeamCity",
     "title": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.12038,
+    "epss_current": 0.84733,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/05",
-    "last_update": "2026/08/23"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-18556",
@@ -185,11 +185,11 @@
     "product": "N-central",
     "title": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00492,
+    "epss_current": 0.03928,
     "cvss": 8.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/04",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-34486",
@@ -197,11 +197,11 @@
     "product": "Tomcat",
     "title": "Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.82933,
+    "epss_current": 0.98616,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/08/04",
-    "last_update": "2026/08/04"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-9198",
@@ -209,11 +209,11 @@
     "product": "Langflow",
     "title": "IBM Langflow Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.18784,
+    "epss_current": 0.37327,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/04",
-    "last_update": "2026/08/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-18577",
@@ -221,11 +221,11 @@
     "product": "N-central",
     "title": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.04103,
+    "epss_current": 0.06153,
     "cvss": 8.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:L/SI:L/SA:L/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/03",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-20316",
@@ -233,11 +233,11 @@
     "product": "Secure Firewall Management Center (FMC)",
     "title": "Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00788,
+    "epss_current": 0.09816,
     "cvss": 5.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
     "published": "2026/07/29",
-    "last_update": "2026/07/29"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2025-68686",
@@ -245,11 +245,11 @@
     "product": "FortiOS",
     "title": "Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01264,
+    "epss_current": 0.2915,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/27",
-    "last_update": "2026/07/27"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-16812",
@@ -257,11 +257,11 @@
     "product": "VeloCloud Orchestrator",
     "title": "Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00884,
+    "epss_current": 0.01568,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:P/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/27",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-16232",
@@ -269,11 +269,11 @@
     "product": "SmartConsole",
     "title": "Check Point SmartConsole Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.73296,
+    "epss_current": 0.89118,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/22",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-50522",
@@ -281,11 +281,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.76981,
+    "epss_current": 0.84606,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/22",
-    "last_update": "2026/07/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-60137",
@@ -293,11 +293,11 @@
     "product": "Core",
     "title": "WordPress Core SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.731,
+    "epss_current": 0.79786,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/21",
-    "last_update": "2026/07/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-63030",
@@ -305,11 +305,11 @@
     "product": "Core",
     "title": "WordPress Core Interpretation Conflict Vulnerability",
     "kev": "あり",
-    "epss_current": 0.95605,
+    "epss_current": 0.97789,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/07/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-0770",
@@ -317,11 +317,11 @@
     "product": "Langflow",
     "title": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
     "kev": "あり",
-    "epss_current": 0.62918,
+    "epss_current": 0.63417,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/08/22"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2021-27137",
@@ -329,11 +329,11 @@
     "product": "DD-WRT",
     "title": "DD-WRT Stack-Based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.16488,
+    "epss_current": 0.03995,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/07/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-58644",
@@ -341,11 +341,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.45478,
+    "epss_current": 0.15873,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/16",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-25089",
@@ -353,11 +353,11 @@
     "product": "FortiSandbox",
     "title": "Fortinet FortiSandbox OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.73603,
+    "epss_current": 0.76112,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/16",
-    "last_update": "2026/07/16"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-39808",
@@ -365,11 +365,11 @@
     "product": "FortiSandbox",
     "title": "Fortinet FortiSandbox OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.9121,
+    "epss_current": 0.92819,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/16",
-    "last_update": "2026/07/16"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-46817",
@@ -377,11 +377,11 @@
     "product": "E-Business Suite",
     "title": "Oracle E-Business Suite Improper Privilege Management Vulnerability",
     "kev": "あり",
-    "epss_current": 0.13309,
+    "epss_current": 0.13017,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/15",
-    "last_update": "2026/07/15"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2023-4346",
@@ -389,11 +389,11 @@
     "product": "KNX Protocol Connection Authorization Option 1",
     "title": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00907,
+    "epss_current": 0.01066,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/07/15",
-    "last_update": "2026/07/15"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-56155",
@@ -401,11 +401,11 @@
     "product": "Active Directory Federation Services",
     "title": "Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.02333,
+    "epss_current": 0.00346,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/14",
-    "last_update": "2026/07/14"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-56164",
@@ -413,11 +413,11 @@
     "product": "SharePoint Server",
     "title": "Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.22439,
+    "epss_current": 0.26636,
     "cvss": 5.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
     "published": "2026/07/14",
-    "last_update": "2026/07/14"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-15409",
@@ -425,11 +425,11 @@
     "product": "SMA1000 Appliances",
     "title": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.74218,
+    "epss_current": 0.83658,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/07/14",
-    "last_update": "2026/07/14"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-15410",
@@ -437,11 +437,11 @@
     "product": "SMA1000 Appliances",
     "title": "SonicWall SMA1000 Appliances Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.76347,
+    "epss_current": 0.11791,
     "cvss": 7.2,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/14",
-    "last_update": "2026/07/14"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2008-4128",
@@ -449,11 +449,11 @@
     "product": "IOS",
     "title": "Cisco IOS Cross-Site Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.32953,
+    "epss_current": 0.3368,
     "cvss": 4.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:N",
     "published": "2026/07/13",
-    "last_update": "2026/07/13"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-56291",
@@ -461,11 +461,11 @@
     "product": "Forms",
     "title": "Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.76066,
+    "epss_current": 0.14595,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/10",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-48939",
@@ -473,11 +473,11 @@
     "product": "iCagenda",
     "title": "iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.82501,
+    "epss_current": 0.19727,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/10",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-48908",
@@ -485,11 +485,11 @@
     "product": "SP Page Builder",
     "title": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.8813,
+    "epss_current": 0.14824,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-55255",
@@ -497,11 +497,11 @@
     "product": "Langflow",
     "title": "Langflow Authorization Bypass Through User-Controlled Key Vulnerability",
     "kev": "あり",
-    "epss_current": 0.29052,
+    "epss_current": 0.00887,
     "cvss": 8.4,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:L",
     "published": "2026/07/07",
-    "last_update": "2026/07/07"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-56290",
@@ -509,11 +509,11 @@
     "product": "Page Builder",
     "title": "Joomlack Page Builder Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.83254,
+    "epss_current": 0.30375,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-48282",
@@ -521,11 +521,11 @@
     "product": "ColdFusion",
     "title": "Adobe ColdFusion Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99241,
+    "epss_current": 0.42388,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/07/07",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-45659",
@@ -533,11 +533,11 @@
     "product": "SharePoint Server",
     "title": "Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.09863,
+    "epss_current": 0.76075,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/01",
-    "last_update": "2026/07/01"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-48558",
@@ -545,11 +545,11 @@
     "product": "SimpleHelp",
     "title": "SimpleHelp Authentication Bypass Vulnerability",
     "kev": "あり",
-    "epss_current": 0.11484,
+    "epss_current": 0.12381,
     "cvss": 9.5,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/29",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-12569",
@@ -557,11 +557,11 @@
     "product": "Windchill and FlexPLM",
     "title": "PTC Windchill and FlexPLM Improper Input Validation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.30198,
+    "epss_current": 0.40586,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:L/SI:L/SA:L/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:U/V:C/RE:X/U:Red",
     "published": "2026/06/25",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-20230",
@@ -569,11 +569,11 @@
     "product": "Unified Communications Manager",
     "title": "Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability",
     "kev": "あり",
-    "epss_current": 0.83213,
+    "epss_current": 0.882,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:H/A:N",
     "published": "2026/06/25",
-    "last_update": "2026/06/25"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2025-67038",
@@ -581,11 +581,11 @@
     "product": "EDS5000",
     "title": "Lantronix EDS5000 Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.13549,
+    "epss_current": 0.15667,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/06/23",
-    "last_update": "2026/06/23"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-34910",
@@ -593,11 +593,11 @@
     "product": "UniFi OS",
     "title": "Ubiquiti UniFi OS Improper Input Validation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.86958,
+    "epss_current": 0.87468,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/06/23",
-    "last_update": "2026/06/23"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-34909",
@@ -641,11 +641,11 @@
     "product": "Joomla Content Editor ",
     "title": "Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.6883,
+    "epss_current": 0.781,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/06/16",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-54420",
@@ -689,11 +689,11 @@
     "product": "Sentry",
     "title": "Ivanti Sentry OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99902,
+    "epss_current": 0.99915,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/06/11",
-    "last_update": "2026/06/11"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-11645",
@@ -737,11 +737,11 @@
     "product": "LiteLLM",
     "title": "BerriAI LiteLLM Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.83013,
+    "epss_current": 0.83537,
     "cvss": 8.7,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/08",
-    "last_update": "2026/08/21"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-50751",
@@ -749,11 +749,11 @@
     "product": "Security Gateway",
     "title": "Check Point Security Gateway Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.82554,
+    "epss_current": 0.83771,
     "cvss": 9.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/06/08",
-    "last_update": "2026/06/08"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-28318",
@@ -761,11 +761,11 @@
     "product": "Serv-U",
     "title": "SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08351,
+    "epss_current": 0.40012,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/06/05",
-    "last_update": "2026/06/05"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-45247",
@@ -809,11 +809,11 @@
     "product": "WebLogic Server",
     "title": "Oracle WebLogic Server Unspecified Vulnerability",
     "kev": "あり",
-    "epss_current": 0.4997,
+    "epss_current": 0.74162,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/06/01",
-    "last_update": "2026/06/01"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-0257",
@@ -977,11 +977,11 @@
     "product": "Defender",
     "title": "Microsoft Defender Link Following Vulnerability",
     "kev": "あり",
-    "epss_current": 0.09641,
+    "epss_current": 0.08202,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/05/20",
-    "last_update": "2026/05/20"
+    "last_update": "2026/08/24"
   },
   {
     "cve": "CVE-2026-45498",
