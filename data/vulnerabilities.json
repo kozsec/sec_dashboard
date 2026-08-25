@@ -5,11 +5,11 @@
     "product": null,
     "title": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.4323,
+    "epss_current": 0.4202,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/08/24",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/25"
   },
   {
     "cve": "CVE-2026-69836",
@@ -221,11 +221,11 @@
     "product": "Langflow",
     "title": "IBM Langflow Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.37327,
+    "epss_current": 0.34734,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/04",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/25"
   },
   {
     "cve": "CVE-2026-18577",
@@ -305,11 +305,11 @@
     "product": "Core",
     "title": "WordPress Core SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.79786,
+    "epss_current": 0.78305,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/21",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/25"
   },
   {
     "cve": "CVE-2026-63030",
@@ -317,11 +317,11 @@
     "product": "Core",
     "title": "WordPress Core Interpretation Conflict Vulnerability",
     "kev": "あり",
-    "epss_current": 0.97789,
+    "epss_current": 0.97271,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/25"
   },
   {
     "cve": "CVE-2026-0770",
@@ -401,11 +401,11 @@
     "product": "KNX Protocol Connection Authorization Option 1",
     "title": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01066,
+    "epss_current": 0.01283,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/07/15",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/25"
   },
   {
     "cve": "CVE-2026-56155",
