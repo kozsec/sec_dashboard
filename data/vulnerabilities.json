@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-60004",
+    "company": "Gitea",
+    "product": null,
+    "title": "Gitea Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/08/25",
+    "last_update": "2026/08/25"
+  },
+  {
     "cve": "CVE-2026-21962",
     "company": "Oracle",
     "product": null,
