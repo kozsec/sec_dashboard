@@ -78,10 +78,10 @@
     "title": "Gitea Code Injection Vulnerability",
     "kev": "あり",
     "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/25",
-    "last_update": "2026/08/25"
+    "last_update": "2026/08/26"
   },
   {
     "cve": "CVE-2026-21962",
