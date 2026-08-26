@@ -1,5 +1,65 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Ajax.NET Professional",
+    "product": "Ajax.NET Professional",
+    "identifier": "CVE-2021-23758",
+    "title": "Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2021-23758&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Red Hat",
+    "product": "Libuser",
+    "identifier": "CVE-2015-3246",
+    "title": "Red Hat Libuser Race Condition Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2015-3246&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Red Hat",
+    "product": "Automatic Bug Reporting Tool",
+    "identifier": "CVE-2015-5287",
+    "title": "Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2015-5287&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Linux",
+    "product": "Kernel",
+    "identifier": "CVE-2022-0995",
+    "title": "Linux Kernel Out-of-Bounds Write Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2022-0995&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Citrix",
+    "product": "NetScaler ADC and NetScaler Gateway",
+    "identifier": "CVE-2026-8452",
+    "title": "Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-8452&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-26",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "SQL Server",
+    "identifier": "CVE-2019-1068",
+    "title": "Microsoft SQL Server Remote Code Execution Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2019-1068&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-08-26",
     "time": null,
