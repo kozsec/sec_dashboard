@@ -77,11 +77,11 @@
     "product": null,
     "title": "Gitea Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.824,
+    "epss_current": 0.84554,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/25",
-    "last_update": "2026/08/27"
+    "last_update": "2026/08/28"
   },
   {
     "cve": "CVE-2026-21962",
@@ -269,11 +269,11 @@
     "product": "TeamCity",
     "title": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.84733,
+    "epss_current": 0.87709,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/05",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/28"
   },
   {
     "cve": "CVE-2026-18556",
@@ -833,11 +833,11 @@
     "product": "LiteLLM",
     "title": "BerriAI LiteLLM Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.83537,
+    "epss_current": 0.83594,
     "cvss": 8.7,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/08",
-    "last_update": "2026/08/24"
+    "last_update": "2026/08/28"
   },
   {
     "cve": "CVE-2026-50751",
