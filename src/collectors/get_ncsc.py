@@ -15,7 +15,7 @@ RSS_FEEDS = {
 
 OUTPUT_DIR = "data"
 
-def fetch_rss(url):
+def fetch_ncsc(url):
     headers = {
         "User-Agent": "SecurityWatch/1.0"
     }
@@ -151,7 +151,7 @@ def main():
         print(f"NCSC {category}取得中...")
 
         try:
-            xml_data = fetch_rss(rss_url)
+            xml_data = fetch_ncsc(rss_url)
 
             articles = parse_rss(
                 xml_data,
