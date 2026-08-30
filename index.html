@@ -810,6 +810,64 @@
             font-size: 11px;
             text-align: center;
         }
+        
+        /* Ad */
+        .original-ad {
+            margin-top: 28px;
+            background: #ffffff;
+            border: 1px solid #e6eaf0;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
+        }
+        
+        .original-ad-link {
+            display: flex;
+            align-items: center;
+            gap: 18px;
+            padding: 12px 16px;
+            transition: background 0.15s ease;
+        }
+        
+        .original-ad-link:hover {
+            background: #fafbfd;
+        }
+        
+        .original-ad-thumbnail {
+            width: 180px;
+            height: 100px;
+            flex: 0 0 180px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+        
+        .original-ad-content {
+            min-width: 0;
+        }
+        
+        .original-ad-label {
+            display: inline-block;
+            margin-bottom: 6px;
+            padding: 2px 6px;
+            border: 1px solid #e1e6ee;
+            border-radius: 4px;
+            color: #8a94a6;
+            font-size: 9px;
+            letter-spacing: 0.06em;
+        }
+        
+        .original-ad-title {
+            font-size: 13px;
+            font-weight: 700;
+            color: #263142;
+            line-height: 1.5;
+        }
+        
+        .original-ad-description {
+            margin-top: 4px;
+            font-size: 11px;
+            color: #8a94a6;
+        }
 
         /* Mobile */
 
@@ -1044,6 +1102,25 @@
                 grid-template-columns: 1fr;
                 gap: 24px;
             }
+            
+            .original-ad-link {
+                gap: 12px;
+                padding: 10px 12px;
+            }
+        
+            .original-ad-thumbnail {
+                width: 120px;
+                height: 68px;
+                flex-basis: 120px;
+            }
+        
+            .original-ad-title {
+                font-size: 11px;
+            }
+        
+            .original-ad-description {
+                font-size: 9px;
+            }
         }
     </style>
 </head>
@@ -1242,74 +1319,38 @@
 
         </section>
 
-        <!-- Security Articles -->
+                </section>
 
-        <section class="security-articles-section">
+        <!-- Ad -->
 
-            <div class="security-articles-header">
-
-                <div>
-
-                    <div class="security-articles-title">
-                        Security Articles
-                    </div>
-
-                    <div class="security-articles-subtitle">
-                        民間メディアの関連記事（精度低い）
-                    </div>
-
-                </div>
-
-                <div
-                    class="security-articles-count"
-                    id="security-articles-count"
+        <section class="original-ad">
+            <a
+                class="original-ad-link"
+                href="https://www.youtube.com/watch?v=R5OE7UMDobg"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img
+                    class="original-ad-thumbnail"
+                    src="https://img.youtube.com/vi/R5OE7UMDobg/hqdefault.jpg"
+                    alt="オリジナル動画"
                 >
-                    —
+
+                <div class="original-ad-content">
+                    <div class="original-ad-label">
+                        #ad
+                    </div>
+
+                    <div class="original-ad-title">
+                        ひらけ！ばっくどあ
+                    </div>
+
+                    <div class="original-ad-description">
+                        セキュリティ啓発ソング
+                    </div>
                 </div>
-
-            </div>
-
-
-            <div class="security-articles-columns">
-                
-                <div>
-                    Date
-                </div>
-
-                <div>
-                    Keyword
-                </div>
-
-                <div>
-                    Source
-                </div>
-
-                <div class="security-articles-column-title">
-                    Title
-                </div>
-
-                <div></div>
-
-            </div>
-
-
-            <div id="security-articles">
-
-                <div class="loading">
-                    データを読み込んでいます...
-                </div>
-
-            </div>
-
-
-            <div
-                id="security-articles-pagination"
-                class="pagination"
-            ></div>
-
+            </a>
         </section>
-
-
         <!-- Vulnerabilities -->
 
         <section class="vulnerability-section">
@@ -1472,8 +1513,8 @@
                             </p>
             
                             <p>
-                                <strong>AT（攻撃要件）</strong>：
-                                N=なし / <span class="cvss-danger-text">P=あり</span>
+                                <strong>AT（攻撃条件）</strong>：
+                                <span class="cvss-danger-text">N=なし<span> / P=あり
                             </p>
             
                             <p>
@@ -1535,6 +1576,74 @@
 </div>
 
         </section>
+                                    
+        <!-- Security Articles -->
+
+        <section class="security-articles-section">
+
+            <div class="security-articles-header">
+
+                <div>
+
+                    <div class="security-articles-title">
+                        Security Articles
+                    </div>
+
+                    <div class="security-articles-subtitle">
+                        民間メディアの関連記事（精度低い）
+                    </div>
+
+                </div>
+
+                <div
+                    class="security-articles-count"
+                    id="security-articles-count"
+                >
+                    —
+                </div>
+
+            </div>
+
+
+            <div class="security-articles-columns">
+                
+                <div>
+                    Date
+                </div>
+
+                <div>
+                    Keyword
+                </div>
+
+                <div>
+                    Source
+                </div>
+
+                <div class="security-articles-column-title">
+                    Title
+                </div>
+
+                <div></div>
+
+            </div>
+
+
+            <div id="security-articles">
+
+                <div class="loading">
+                    データを読み込んでいます...
+                </div>
+
+            </div>
+
+
+            <div
+                id="security-articles-pagination"
+                class="pagination"
+            ></div>
+
+        </section>
+
 
 
         <footer>
@@ -2812,6 +2921,12 @@ function getCvssClass(value) {
                 /AC:L/g,
                 '<strong class="cvss-danger-text">AC:L</strong>'
             )
+
+            // 攻撃要件
+            .replace(
+                /AT:N/g,
+                '<strong class="cvss-danger-text">AT:N</strong>'
+            )
     
             // 必要な権限
             .replace(
@@ -2826,8 +2941,7 @@ function getCvssClass(value) {
             )
     
             // 機密性
-            // C:H が AC:H の中の文字列として
-            // 誤ってマッチしないようにする
+            // C:H が AC:H の中の文字列としてマッチしないようにする
             .replace(
                 /(^|\/)C:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">C:H</strong>'
