@@ -1126,10 +1126,8 @@
 </head>
 
 <body>
-
 <header>
     <div class="container header-inner">
-
         <div class="brand">
 
             <div class="brand-mark">
@@ -1153,7 +1151,6 @@
         <div class="display-info">
 
             Display:
-
             <select id="days-select">
                 <option value="1">Today</option>
                 <option value="3" selected>3 Days</option>
@@ -1163,7 +1160,6 @@
             </select>
 
         </div>
-
     </div>
 </header>
 
@@ -1172,34 +1168,21 @@
     <div class="container">
 
         <section class="hero">
-
             <div>
-
                 <h1>
                     Security Updates
                 </h1>
-
-                <p>
-                    セキュリティ関連情報をあちこちから拾います。（全自動）
-                </p>
-
+                <p>セキュリティ関連情報をあちこちから拾います。（全自動）</p>
             </div>
-
         </section>
-
 
         <section class="stats">
 
             <div class="stat-card">
-        
                 <div class="stat-label">
                     SECURITY FEED
                 </div>
-        
-                <div
-                    class="stat-value"
-                    id="disclosure-count"
-                >
+                <div class="stat-value" id="disclosure-count">
                     —
                 </div>
         
@@ -1211,44 +1194,30 @@
         
         
             <div class="stat-card">
-        
                 <div class="stat-label">
                     SECURITY ARTICLES
                 </div>
-        
-                <div
-                    class="stat-value"
-                    id="security-articles-stat-count"
-                >
+                <div class="stat-value" id="security-articles-stat-count">
                     —
                 </div>
-        
                 <div class="stat-description">
                     メディア記事の件数（精度低）
                 </div>
-        
             </div>
         
         
             <div class="stat-card">
-        
                 <div class="stat-label">
                     VULNERABILITIES
                 </div>
-        
-                <div
-                    class="stat-value"
-                    id="vulnerability-count"
-                >
+                <div class="stat-value" id="vulnerability-count">
                     —
                 </div>
         
                 <div class="stat-description">
                     緊急対応が必要かもしれない脆弱性の件数
                 </div>
-        
             </div>
-        
         </section>
 
 
@@ -1259,132 +1228,77 @@
             <div class="feed-header">
             
                 <div>
-            
                     <div class="feed-title">
                         Security Feed
                     </div>
-            
                     <div class="feed-subtitle">
                         最近のセキュリティ関連ニュース
                     </div>
-            
                 </div>
-            
-                <div
-                    class="feed-count"
-                    id="feed-count"
-                >
+                <div class="feed-count" id="feed-count">
                     —
                 </div>
-            
             </div>
 
 
             <div class="feed-columns">
-
-                <div>
-                    Source
-                </div>
-
-                <div>
-                    Date
-                </div>
-
-                <div>
-                    Organization
-                </div>
-
-                <div class="feed-column-title">
-                    Title
-                </div>
-
+                <div>Source</div>
+                <div>Date</div>
+                <div>Organization</div>
+                <div class="feed-column-title">Title</div>
                 <div></div>
-
             </div>
 
-
             <div id="disclosures">
-
                 <div class="loading">
                     データを読み込んでいます...
                 </div>
-
             </div>
 
-
-            <div
-                id="disclosure-pagination"
-                class="pagination"
-            ></div>
+            <div id="disclosure-pagination" class="pagination"></div>
 
         </section>
 
-                </section>
-
         <!-- Ad -->
-
         <section class="original-ad">
-            <a
-                class="original-ad-link"
-                href="https://www.youtube.com/watch?v=R5OE7UMDobg"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <img
-                    class="original-ad-thumbnail"
-                    src="https://img.youtube.com/vi/R5OE7UMDobg/hqdefault.jpg"
-                    alt="オリジナル動画"
-                >
-
+            <a class="original-ad-link" href="https://www.youtube.com/watch?v=R5OE7UMDobg" target="_blank" rel="noopener noreferrer">
+                <img class="original-ad-thumbnail" src="https://img.youtube.com/vi/R5OE7UMDobg/hqdefault.jpg" alt="オリジナル動画">
                 <div class="original-ad-content">
                     <div class="original-ad-label">
                         #ad
                     </div>
-
                     <div class="original-ad-title">
                         ひらけ！ばっくどあ
                     </div>
-
                     <div class="original-ad-description">
                         セキュリティ啓発ソング
                     </div>
                 </div>
             </a>
         </section>
+        
         <!-- Vulnerabilities -->
 
         <section class="vulnerability-section">
 
             <div class="vulnerability-header">
-
                 <div>
-
                     <div class="vulnerability-title">
                         Vulnerabilities
                     </div>
-
                     <div class="vulnerability-subtitle">
                         危険ぽいやつ
                     </div>
-
                 </div>
 
-                <div
-                    class="vulnerability-count"
-                    id="vulnerability-table-count"
-                >
+                <div class="vulnerability-count" id="vulnerability-table-count">
                     —
                 </div>
-
             </div>
 
-
             <div class="vulnerability-table-wrapper">
-
                 <table class="vulnerability-table">
-
                     <thead>
-
                         <tr>
                             <th>Published</th>
                             <th>CVE</th>
@@ -1395,33 +1309,19 @@
                             <th>CVSS</th>
                             <th>Vector</th>
                         </tr>
-
                     </thead>
 
                     <tbody id="vulnerabilities">
-
                         <tr>
-
-                            <td
-                                colspan="8"
-                                class="vulnerability-loading"
-                            >
+                            <td colspan="8" class="vulnerability-loading">
                                 データを読み込んでいます...
                             </td>
-
                         </tr>
-
                     </tbody>
-
                 </table>
-
             </div>
 
-
-            <div
-                id="vulnerability-pagination"
-                class="pagination"
-            ></div>
+            <div id="vulnerability-pagination" class="pagination"></div>
             <div class="cvss-vector-section">
 
                 <div class="cvss-vector-title">
@@ -1572,8 +1472,6 @@
                 </div>
             
             </div>
-
-</div>
 
         </section>
                                     
