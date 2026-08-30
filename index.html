@@ -1260,22 +1260,7 @@
         </section>
 
         <!-- Ad -->
-        <section class="original-ad">
-            <a class="original-ad-link" href="https://www.youtube.com/watch?v=R5OE7UMDobg" target="_blank" rel="noopener noreferrer">
-                <img class="original-ad-thumbnail" src="https://img.youtube.com/vi/R5OE7UMDobg/hqdefault.jpg" alt="オリジナル動画">
-                <div class="original-ad-content">
-                    <div class="original-ad-label">
-                        #ad
-                    </div>
-                    <div class="original-ad-title">
-                        ひらけ！ばっくどあ
-                    </div>
-                    <div class="original-ad-description">
-                        セキュリティ啓発ソング
-                    </div>
-                </div>
-            </a>
-        </section>
+        <div id="original-ad"></div>
         
         <!-- Vulnerabilities -->
 
@@ -1557,6 +1542,15 @@
 
 const DATA_DIR = "data";
 
+const ORIGINAL_ADS = [
+
+{
+    url: "https://www.youtube.com/watch?v=R5OE7UMDobg",
+    videoId: "R5OE7UMDobg",
+    title: "ひらけ！ばっくどあ",
+    description: "セキュリティ啓発ソング"
+}
+
 const DISCLOSURES_PER_PAGE_DESKTOP = 5;
 const DISCLOSURES_PER_PAGE_MOBILE = 4;
 const VULNERABILITIES_PER_PAGE = 10;
@@ -1590,9 +1584,7 @@ let currentVulnerabilityPage = 1;
    Utility
 -------------------------------- */
 
-/*
- * DateオブジェクトをYYYYMMDDに変換
- */
+/* Date > YYYYMMDD */
 function formatDate(date) {
 
     const year =
@@ -1611,11 +1603,71 @@ function formatDate(date) {
     return `${year}${month}${day}`;
 }
 
+/* ad */
+function renderOriginalAd() {
 
-/*
- * YYYY-MM-DD形式の日付を
- * ローカル時間として安全にDate化する
- */
+    const container =
+        document.getElementById(
+            "original-ad"
+        );
+
+    if (
+        !container ||
+        ORIGINAL_ADS.length === 0
+    ) {
+        return;
+    }
+
+    const ad =
+        ORIGINAL_ADS[
+            Math.floor(
+                Math.random() *
+                ORIGINAL_ADS.length
+            )
+        ];
+
+    container.innerHTML = `
+
+        <section class="original-ad">
+
+            <a
+                class="original-ad-link"
+                href="${escapeHtml(ad.url)}"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+
+                <img
+                    class="original-ad-thumbnail"
+                    src="https://img.youtube.com/vi/${escapeHtml(ad.videoId)}/hqdefault.jpg"
+                    alt="${escapeHtml(ad.title)}"
+                >
+
+                <div class="original-ad-content">
+
+                    <div class="original-ad-label">
+                        #ad
+                    </div>
+
+                    <div class="original-ad-title">
+                        ${escapeHtml(ad.title)}
+                    </div>
+
+                    <div class="original-ad-description">
+                        ${escapeHtml(ad.description)}
+                    </div>
+
+                </div>
+
+            </a>
+
+        </section>
+
+    `;
+}
+    
+
+/* YYYY-MM-DD形式 */
 function parseLocalDate(value) {
 
     if (!value) {
@@ -1647,9 +1699,7 @@ function parseLocalDate(value) {
 }
 
 
-/*
- * HTMLエスケープ
- */
+/* HTMLエスケープ */
 function escapeHtml(value) {
 
     if (
@@ -1668,9 +1718,7 @@ function escapeHtml(value) {
 }
 
 
-/*
- * 表示期間を取得
- */
+/* 表示期間を取得 */
 function getDateRange() {
 
     const days =
@@ -1711,9 +1759,7 @@ function getDateRange() {
 }
 
 
-/*
- * Vulnerabilityの期間フィルタ
- */
+/* Vulnerabilityの期間フィルタ */
 function getFilteredVulnerabilities() {
 
     const {
@@ -1746,9 +1792,7 @@ function getFilteredVulnerabilities() {
 }
 
 
-/*
- * Feedを日付・時刻順に並べる
- */
+/* Feedを日付・時刻順に並べる */
 function sortDisclosures(data) {
 
     return [...data].sort(
@@ -1785,9 +1829,7 @@ function sortSecurityArticles(data) {
     );
 }
 
-/*
- * Vulnerabilityを更新日時順に並べる
- */
+/* Vulnerabilityを更新日時順に並べる */
 function sortVulnerabilities(data) {
 
     return [...data].sort(
