@@ -365,11 +365,11 @@
     "product": "SmartConsole",
     "title": "Check Point SmartConsole Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.73994,
+    "epss_current": 0.72051,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/22",
-    "last_update": "2026/08/26"
+    "last_update": "2026/08/30"
   },
   {
     "cve": "CVE-2026-50522",

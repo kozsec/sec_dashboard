@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-08-30",
     "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "情報漏えい",
+    "title": "【ソリューションプロバイダー特集】AI展望   自律型AI、能力と危険性が表裏 「ミュトス」",
+    "url": "https://dempa-digital.com/article/723953"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "3割が経験、工場への サイバー攻撃 専門人材の不足やルール徹底が課題 | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00166/00007/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "サイバー攻撃",
+    "title": "【ソリューションプロバイダー特集】セキュリティー展望   AIエージェント、 攻撃 対象に利用状況と ...",
+    "url": "https://dempa-digital.com/article/723947"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "サイバー攻撃",
+    "title": "【ソリューションプロバイダー特集】セキュリティー展望 サイバー 被害、経営・供給網を直撃 ...",
+    "url": "https://dempa-digital.com/article/723939"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「仲間のため捨て駒に」「誤解で迷走」1,206体AI暴走、データ7万件超から見える「人間もどき ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/ef299fbfbf315ac5f8b34fe5f44320d7cdd6658f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "online.logi-biz.com",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、オールジャパン体制でサプライチェーン全体守る国産セキュリティサービス開始",
+    "url": "https://online.logi-biz.com/149475/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー リーズン、セキュリティ成熟度診断とGSOC観測データの分析結果について解説",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2136770.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティインシデント防止演習 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/dien-tap-phong-ngua-su-co-an-ninh-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "QRコード悪用のフィッシング「クイッシング」検出増加、 攻撃 者は“使い慣れた技術への信頼”を悪用",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2136621.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIで「スクリプトキディ」の サイバー攻撃 力倍増--組織が取るべき4つの対策 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252010/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ソフトクリエイトのAI戦略、中堅・中小企業向け独自AIツールと知財を軸に従来型SIからの脱却図る",
+    "url": "https://news.yahoo.co.jp/articles/227f0424f16c019265fa0764b4e006dd617c150f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "KDDI の ISP 事業者向けメールシステムへの 不正アクセス 、レンタルサーバCPIへの影響が明らかに",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56076.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "scan.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ギグワークスのサーバに 不正アクセス 、攻撃者に目視で個人情報が閲覧された可能性を否定できず",
+    "url": "https://scan.netsecurity.ne.jp/article/2026/08/31/56078.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "アンビションDXホールディングスに 不正アクセス 、ログの消失を確認 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56079.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "国立研究開発法人科学技術振興機構（JST）に 不正アクセス 、外部機関からの情報提供で発覚",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56080.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "大仙の システム に不正アクセス、社内全 システム 遮断し受注出荷業務に影響 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56077.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-30",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "不正アクセス",
     "title": "以前利用した店舗から「 不正アクセス による情報漏えいのお詫び」に関する連絡が！ 確かに身に ...",
