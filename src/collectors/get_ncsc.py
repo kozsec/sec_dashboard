@@ -69,7 +69,7 @@ def parse_rss(xml_data, category):
             "date": date,
             "time": time,
             "organization": "NCSC",
-            "category": category,
+            "identifier": None,
             "title": title,
             "url": link
         }
