@@ -3,6 +3,132 @@
     "source": "Web",
     "date": "2026-08-31",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "イエローハットの予約システムに不正アクセス、最大約 180万件の個人 情報漏えい の可能性",
+    "url": "https://news.yahoo.co.jp/articles/0e7b1e5bae31c708f366c28ef5e4eb9799cb50c1/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏えい",
+    "title": "ＦＩＸＥＲが急騰、草加市が自治体初のオンプレミス型生成AIを導入 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/4614471f-123e-475b-a4bf-17f7dd0576ad"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "厚労省の調査書類、ヤマトが配送中に紛失 339人分の氏名や給与額など 漏えい のおそれ",
+    "url": "https://news.yahoo.co.jp/articles/a9c71bef5c1062d2a8e09dea88c85221da54497f/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "情報漏えい",
+    "title": "同報メールで誤って 情報漏えい 鳥取県長寿社会課 | 日本海新聞 NetNihonkai",
+    "url": "https://www.nnn.co.jp/articles/-/791165"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "情報漏えい",
+    "title": "シャドー AI のリスクにどう向き合うか？ブラウザ上での AI ガバナンスの可視化と制御",
+    "url": "https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_13/35250914/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "ギグワークスのサーバに不正アクセス、攻撃者に目視で個人 情報 が閲覧された可能性を否定できず",
+    "url": "https://newspicks.com/news/17406208/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "イエロハットが反落、ＷＥＢ作業予約システムに対する攻撃で会員 情報 の一部が 漏えい した可能性",
+    "url": "https://finance.yahoo.co.jp/news/detail/126acaa0e31f481f4006412899ce83d771ee3aa4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "イエローハットの作業予約システムに不正プログラム攻撃 最大180万人の会員 情報 が 漏えい の可能性",
+    "url": "https://act1.co.jp/2026-08-31-03/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "KDDI の ISP 事業者向けメールシステムへの 不正アクセス 、レンタルサーバCPIへの影響が明らかに",
+    "url": "https://newspicks.com/news/17406206/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "滋賀県内の事業者らが「サイバー攻撃」対策を確認 滋賀県警「ひとごとではない」と警告 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1781701"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "市立奈良病院の システム障害 「サイバー攻撃ではなくセキュリティ監視装置の不具合が原因」専門 ...",
+    "url": "https://news.ntv.co.jp/n/ytv/category/society/yte41ad85839d343ccb76bf738201aecc7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "市立奈良病院の システム障害 「サイバー攻撃ではなくセキュリティ監視装置の ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/af59af512b681a70b024e435f295bf8f10f3e69a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "ABLENETが法人向けセキュリティを始動、中小企業向け「サイバー見守り３６５」提供開始",
+    "url": "https://ccsi.jp/14779/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "AIエージェントがデータにもたらす2つの脅威 Veeamが「保護レイヤー」の必要性を強調",
+    "url": "https://news.yahoo.co.jp/articles/537b9dc39888a6f940298b913571504c57e0f18e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
     "organization": "finance.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "イエロハットが反落、ＷＥＢ作業予約システムに対する攻撃で会員 情報 の一部が 漏えい した可能性",
