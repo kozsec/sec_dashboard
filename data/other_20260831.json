@@ -1,0 +1,137 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "イエロハットが反落、ＷＥＢ作業予約システムに対する攻撃で会員 情報 の一部が 漏えい した可能性",
+    "url": "https://finance.yahoo.co.jp/news/detail/35bf81cb548de20f0a5ef8be3d19e175c9b18271"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "scan.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラに DLL 読み込みに関する脆弱性",
+    "url": "https://scan.netsecurity.ne.jp/article/2026/08/31/56070.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "厚労省の調査書類、ヤマトが配送中に紛失 339人分の氏名や給与額など 漏えい のおそれ",
+    "url": "https://news.yahoo.co.jp/articles/a9c71bef5c1062d2a8e09dea88c85221da54497f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "サイバー攻撃",
+    "title": "製造業デジタル化進展でリスク増加 被害1件14億ウォン超と推計 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-it/2026/08/31/ZFEIVGR2SJCTHKDCHTWC7T3TLU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "サイバー攻撃",
+    "title": "【ベトナム】サンコーテクノ、越現法が サイバー攻撃 被害［製造］ | チバテレ＋プラス",
+    "url": "https://www.chiba-tv.com/plus/detail/2026081958393"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "米空軍は、AIによる サイバー攻撃 の脅威に対応するため、新たな作戦戦略を展開している。",
+    "url": "https://www.vietnam.vn/ja/khong-quan-my-trien-khai-chien-luoc-tac-chien-moi-nham-ung-pho-nguy-co-tan-cong-mang-tu-ai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "フィッシングのクリック率 ～ 従来型は 12 %、AI 生成は 54 % | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56075.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIによる大規模 サイバー攻撃 に備えよ--OpenAIら155組織が防衛強化を呼びかけ - CNET Japan",
+    "url": "https://japan.cnet.com/article/35252073/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "AIで「スクリプトキディ」のサイバー攻撃力倍増--組織が取るべき4つの対策 - (page 2)",
+    "url": "https://japan.zdnet.com/article/35252010/2/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 被害の平均被害額約3.5億円、平均停止期間36日。生成AI活用拡大の一方で外部 ...",
+    "url": "https://netshop.impress.co.jp/n/2026/08/31/16642"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "ZaloやMessenger経由で個人文書を送信すること：個人 情報 が悪用されるリスク。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/gui-giay-to-ca-nhan-qua-zalo-messenger-nguy-co-thong-tin-ca-nhan-bi-loi-dung"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "Googleが経営破綻した航空会社のデータをAIのために購入 ～ メール1億件 ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/08/31/56083.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "イエローハットの予約システムに 不正アクセス 、最大約180万件の個人情報漏えいの可能性",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2136818.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "国立研究開発法人科学技術振興機構（JST）に不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/08/31/56080/54343.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "イエローハットの予約システムに不正アクセス、最大約180万件の個人 情報漏えい の可能性",
+    "url": "https://news.yahoo.co.jp/articles/0e7b1e5bae31c708f366c28ef5e4eb9799cb50c1"
+  }
+]
