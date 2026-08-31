@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-08-31",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "システム障害",
+    "title": "奈良病院 システム障害 、原因はサイバー攻撃でなく… 調査結果 (毎日新聞) - NewsPicks",
+    "url": "https://newspicks.com/news/17410973/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "音声レコーダー紛失、 情報漏えい の可能性 南部町、児童の氏名など - 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1071164"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AIデータ爆発時代にどう備えるか、鍵を握るオンプレ回帰と次世代ストレージ",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/25/06431/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "コロナ、3.5万人分の 情報漏洩 か - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98495470R30C26A8L21000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 監視装置原因 市立奈良病院 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/local/nara/news/20260831-GYTNT00152/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "projectdesign.jp",
+    "identifier": "サイバー攻撃",
+    "title": "セキュリティ対策は、ISMAP対応クラウドを軸にした「総合防御」を - 月刊「事業構想」オンライン",
+    "url": "https://www.projectdesign.jp/articles/37afd17c-972c-4a82-8def-1ca557d490b9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "ふるさと納税で個人 情報漏えい 福島市、１人分 | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/216861"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
     "organization": "active.nikkeibp.co.jp",
     "identifier": "情報漏洩",
     "title": "Mythosが変えたオープンソースセキュリティ、脆弱性公開前に攻撃される時代へ",
