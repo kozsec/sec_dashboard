@@ -10,10 +10,12 @@ import re
 BASE_URL = "https://www.enisa.europa.eu"
 PUBLICATIONS_URL = f"{BASE_URL}/publications"
 
+target_data = datetime.now().strftime("%Y-%m-%d")
+
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(
     OUTPUT_DIR,
-    f"enisa_{datetime.now().strftime('%Y%m%d')}.json"
+    f"feed_{target_data.replace('-', '')}.json"
 )
 
 
@@ -89,7 +91,7 @@ def fetch_enisa():
 
     results = []
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = target_data
 #    today = "2026-07-30" #TEST
 
     for heading in soup.find_all(["h2", "h3"]):
