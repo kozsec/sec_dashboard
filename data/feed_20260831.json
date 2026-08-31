@@ -1,5 +1,34 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-08-31",
+    "time": "16:00",
+    "organization": "ＲｅＹｕｕＪａｐａｎ",
+    "identifier": "9425",
+    "title": "（開示事項の経過）ネクスト・セキュリティ株式会社の株式取得完了のお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260831528617.pdf"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "PaperCut",
+    "product": "NG/MF",
+    "identifier": "CVE-2026-82078",
+    "title": "PaperCut NG/MF Unsafe Reflection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-82078&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "PaperCut",
+    "product": "NG/MF",
+    "identifier": "CVE-2026-81578",
+    "title": "PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-81578&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-08-31",
     "time": null,
@@ -36,12 +65,12 @@
     "url": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/index.html"
   },
   {
-    "source": "適時開示",
+    "source": "海外",
     "date": "2026-08-31",
-    "time": "16:00",
-    "organization": "ＲｅＹｕｕＪａｐａｎ",
-    "identifier": "9425",
-    "title": "（開示事項の経過）ネクスト・セキュリティ株式会社の株式取得完了のお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120260831528617.pdf"
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800 (Draft)",
+    "title": "PRE-DRAFT Call for Comments: IoT Device Cybersecurity Requirement Catalog",
+    "url": "https://csrc.nist.gov/pubs/sp/800/213/a/r1/iprd"
   }
 ]

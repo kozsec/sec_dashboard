@@ -4,6 +4,51 @@
     "date": "2026-08-31",
     "time": null,
     "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "奈良病院 システム障害 、原因はサイバー攻撃でなく… 調査結果 (毎日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/99e78770a16973e38bf7d059d720ce899091ceda/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "ランサムウェア",
+    "title": "データ漏洩件数の減少は、必ずしもリスクレベルの低下を意味するものではない。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/so-vu-lo-lot-du-lieu-giam-khong-dong-nghia-muc-do-rui-ro-giam"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "イエローハットの予約システムに不正アクセス、最大約180万件の個人 情報漏えい の可能性",
+    "url": "https://topics.smt.docomo.ne.jp/article/internet_watch/trend/internet_watch-2136818"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "さいたま市 「支援措置対象者」の個人 情報漏えい ／埼玉県（テレ玉） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/40d1e0ea2e177407b4aa74f0a7d72d3a891c5d47"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "支援措置対象者の 情報 を相手方に 漏えい さいたま市 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/society/f86dc143d0b44c4c8a01bd53c68c62f9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-08-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "イエローハットの予約システムに不正アクセス、最大約 180万件の個人 情報漏えい の可能性",
     "url": "https://news.yahoo.co.jp/articles/0e7b1e5bae31c708f366c28ef5e4eb9799cb50c1/images/000"
