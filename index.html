@@ -53,7 +53,7 @@
         }
 
         .header-inner {
-            height: 72px;
+            height: 52px;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -117,74 +117,27 @@
         /* Main */
 
         main {
-            padding: 42px 0 80px;
+            padding: 22px 0 40px;
         }
 
         .hero {
-            display: flex;
-            align-items: flex-end;
-            justify-content: space-between;
-            gap: 30px;
-            margin-bottom: 30px;
+            margin-bottom: 16px;
         }
 
         .hero h1 {
-            margin: 0;
-            font-size: clamp(30px, 4vw, 46px);
-            line-height: 1.1;
-            letter-spacing: -0.04em;
-            font-weight: 800;
+            font-size: 28px;
         }
 
         .hero p {
-            margin: 12px 0 0;
-            color: #7a8495;
-            font-size: 14px;
-        }
-
-        /* Stats */
-
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(3, minmax(0, 1fr));
-            gap: 16px;
-            margin-bottom: 28px;
-        }
-        
-        .stat-card {
-            width: 100%;
-            min-width: 0;
-            background: white;
-            border: 1px solid #e6eaf0;
-            border-radius: 18px;
-            padding: 22px;
-            box-shadow: 0 8px 30px rgba(30, 41, 59, 0.04);
-        }
-
-        .stat-label {
+            margin-top: 4px;
             font-size: 12px;
-            color: #8a94a6;
-            font-weight: 650;
-            letter-spacing: 0.04em;
-        }
-
-        .stat-value {
-            margin-top: 10px;
-            font-size: 30px;
-            font-weight: 800;
-            letter-spacing: -0.04em;
-        }
-
-        .stat-description {
-            margin-top: 6px;
-            font-size: 12px;
-            color: #9aa3b2;
         }
 
         /* Feed */
         
         #disclosures {
-            min-height: 300px;
+            height: 176px;
+            overflow-y: auto;
         }
 
         .feed {
@@ -193,15 +146,28 @@
             border-radius: 20px;
             overflow: hidden;
             box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+            height: 300px;
         }
 
         .feed-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 18px 22px;
+            padding: 10px 22px;
             border-bottom: 1px solid #edf0f4;
             background: #f3faf7;
+        }
+        .feed-header-main {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+        }
+
+        .feed-subtitle {
+            margin-top: 0;
+            font-size: 11px;
+            font-weight: 500;
+            color: #8a94a6;
         }
 
         .feed-title {
@@ -246,9 +212,9 @@
         }
 
         .item {
-            min-height: 62px;
-            height: 62px;
-            padding: 12px 22px;
+            height: 44px;
+            min-height: 44px;
+            padding: 4px 22px;
             border-bottom: 1px solid #edf0f4;
             transition: background 0.15s ease;
             align-items: center;
@@ -338,23 +304,25 @@
         /* Security Articles */
 
         #security-articles {
-            height: 360px;
+            height: 176px;
+            overflow-y: auto;
         }
 
         .security-articles-section {
-            margin-top: 28px;
+            height: 300px;
+            margin-top: 0;
             background: #ffffff;
             border: 1px solid #e6eaf0;
             border-radius: 20px;
             overflow: hidden;
             box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
         }
-        
+
         .security-articles-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 18px 22px;
+            padding: 10px 22px;
             border-bottom: 1px solid #edf0f4;
             background: #f3f3e1;
         }
@@ -365,8 +333,14 @@
             color: #263142;
         }
         
+        .security-articles-header > div:first-child {
+        display: flex;
+            align-items: baseline;
+            gap: 10px;
+        }
+
         .security-articles-subtitle {
-            margin-top: 3px;
+            margin-top: 0px;
             font-size: 11px;
             font-weight: 500;
             color: #8a94a6;
@@ -380,7 +354,7 @@
         .security-articles-columns,
         .security-article-item {
             display: grid;
-            grid-template-columns: 90px 90px 120px 1fr 42px;
+            grid-template-columns: 72px 90px 120px 1fr 42px;
             gap: 18px;
         }
         
@@ -402,9 +376,9 @@
         }
         
         .security-article-item {
-            height: 36px;
-            min-height: 36px;
-            padding: 0 22px;
+            height: 44px;
+            min-height: 44px;
+            padding: 4px 22px;
             border-bottom: 1px solid #edf0f4;
             transition: background 0.15s ease;
             align-items: center;
@@ -435,11 +409,13 @@
         
         .security-article-title {
             font-size: 12px;
-            line-height: 1.2;
+            line-height: 1.5;
             color: #172033;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 2;
+            overflow: hidden;    
         }
         
         .security-article-title a {
@@ -487,22 +463,37 @@
             vertical-align: middle;
         }
 
+
+        .bottom-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-top: 16px;
+        }
+
         /* Vulnerability */
         
         .vulnerability-section {
-            margin-top: 28px;
+            margin-top: 0;
+            height: 300px;
             background: #ffffff;
             border: 1px solid #e6eaf0;
-            border-radius: 16px;
+            border-radius: 20px;
             overflow: hidden;
-            box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
+            box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+        }
+
+        .vulnerability-header-main {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
         }
 
         .vulnerability-header {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 18px 20px;
+            padding: 10px 20px;
             border-bottom: 1px solid #edf0f4;
             background: #faf3f6;
         }
@@ -526,7 +517,7 @@
         }
 
         .vulnerability-table-wrapper {
-            height: 362px;
+            height: 218px;
             overflow-x: auto;
             overflow-y: hidden;
         }
@@ -625,6 +616,91 @@
             font-weight: 700;
         }
 
+        /* Oversea? */
+        .oversea-section {
+            height: 300px;
+            background: #ffffff;
+            border: 1px solid #e6eaf0;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+        }
+
+        .oversea-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 22px;
+            border-bottom: 1px solid #edf0f4;
+            background: #f3f3f3;
+        }
+        .oversea-header-main {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+        }
+
+        .oversea-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: #263142;
+        }
+
+        .oversea-subtitle {
+            margin-top: 3px;
+            font-size: 11px;
+            font-weight: 500;
+            color: #8a94a6;
+        }
+
+        .oversea-count {
+            font-size: 12px;
+            color: #8a94a6;
+        }
+
+        .oversea-body {
+            height: 218px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #a0a8b6;
+            font-size: 12px;
+        }
+
+
+        .cvss-vector-section {
+            margin-top: 16px;
+            padding: 0;
+            border: 1px solid #e6eaf0;
+            border-radius: 16px;
+            background: #ffffff;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(30, 41, 59, 0.04);
+        }
+
+        .cvss-vector-section summary {
+            padding: 14px 20px;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 700;
+            color: #263142;
+            background: #fafbfd;
+        }
+
+        .cvss-vector-section summary:hover {
+            background: #f5f7fa;
+        }
+
+        .cvss-vector-section[open] summary {
+            border-bottom: 1px solid #edf0f4;
+        }
+
+        .cvss-vector-columns {
+            padding: 18px 20px 20px;
+        }
+
+
+
         .epss-value,
         .cvss-value {
             font-variant-numeric: tabular-nums;
@@ -662,12 +738,6 @@
         }
 
         /* CVSS Vector */
-
-        .cvss-vector-section {
-            padding: 18px 20px 20px;
-            border-top: 1px solid #edf0f4;
-            background: #fafbfd;
-        }
         
         .cvss-vector-title {
             font-size: 13px;
@@ -748,7 +818,7 @@
             justify-content: center;
             align-items: center;
             gap: 6px;
-            padding: 16px 20px;
+            padding: 6px 20px;
             border-top: 1px solid #edf0f4;
         }
 
@@ -868,6 +938,32 @@
             font-size: 11px;
             color: #8a94a6;
         }
+        
+        /* Feed / Articles 2カラム */
+        .feed-articles-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .feed-articles-grid > section {
+            min-width: 0;
+        }
+
+        .feed-scroll {
+            max-height: 420px;
+            overflow-y: auto;
+        }
+
+        /* スクロールバー */
+        .feed-scroll::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .feed-scroll::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 3px;
+        }
 
         /* Mobile */
 
@@ -894,34 +990,7 @@
                 align-items: flex-start;
                 flex-direction: column;
             }
-
-            .stats {
-                grid-template-columns: repeat(3, minmax(0, 1fr));
-                gap: 8px;
-            }
             
-            .stat-card {
-                padding: 14px 10px;
-                min-height: 110px;
-                border-radius: 14px;
-            }
-            
-            .stat-label {
-                font-size: 9px;
-                white-space: nowrap;
-            }
-            
-            .stat-value {
-                margin-top: 8px;
-                font-size: 24px;
-            }
-            
-            .stat-description {
-                margin-top: 5px;
-                font-size: 9px;
-                line-height: 1.4;
-            }
-
             .feed {
                 height: 600px;
             }
@@ -1013,7 +1082,7 @@
                 padding: 16px;
             }
 
-                        .security-articles-columns {
+            .security-articles-columns {
                 display: none;
             }
             
@@ -1121,6 +1190,18 @@
             .original-ad-description {
                 font-size: 9px;
             }
+
+            .feed-articles-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .feed-scroll {
+                max-height: none;
+            }
+
+            .bottom-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
@@ -1141,7 +1222,7 @@
                 </div>
 
                 <div class="brand-subtitle">
-                    SECURITY INFORMATION DASHBOARD
+                    セキュリティ関連情報をあちこちから拾います。（全自動）
                 </div>
 
             </div>
@@ -1167,160 +1248,222 @@
 
     <div class="container">
 
-        <section class="hero">
-            <div>
-                <h1>
-                    Security Updates
-                </h1>
-                <p>セキュリティ関連情報をあちこちから拾います。（全自動）</p>
-            </div>
-        </section>
+        <div class="feed-articles-grid">
+            <!-- Security Feed -->
 
-        <section class="stats">
+            <section class="feed">
 
-            <div class="stat-card">
-                <div class="stat-label">
-                    SECURITY FEED
+                <div class="feed-header">
+                
+                    <div class="feed-header-main">
+                        <div class="feed-title">
+                            Security Feed
+                        </div>
+                        <div class="feed-subtitle">
+                            最近のセキュリティ関連ニュース
+                        </div>
+                    </div>
+                    <div class="feed-count" id="feed-count">
+                        —
+                    </div>
                 </div>
-                <div class="stat-value" id="disclosure-count">
-                    —
-                </div>
-        
-                <div class="stat-description">
-                    公式発表の件数
-                </div>
-        
-            </div>
-        
-        
-            <div class="stat-card">
-                <div class="stat-label">
-                    SECURITY ARTICLES
-                </div>
-                <div class="stat-value" id="security-articles-stat-count">
-                    —
-                </div>
-                <div class="stat-description">
-                    メディア記事の件数（精度低）
-                </div>
-            </div>
-        
-        
-            <div class="stat-card">
-                <div class="stat-label">
-                    VULNERABILITIES
-                </div>
-                <div class="stat-value" id="vulnerability-count">
-                    —
-                </div>
-        
-                <div class="stat-description">
-                    緊急対応が必要かもしれない脆弱性の件数
-                </div>
-            </div>
-        </section>
 
 
-        <!-- Security Feed -->
+                <div class="feed-columns">
+                    <div>Source</div>
+                    <div>Date</div>
+                    <div>Organization</div>
+                    <div class="feed-column-title">Title</div>
+                    <div></div>
+                </div>
 
-        <section class="feed">
+                <div id="disclosures">
+                    <div class="loading">
+                        データを読み込んでいます...
+                    </div>
+                </div>
 
-            <div class="feed-header">
-            
+                <div id="disclosure-pagination" class="pagination"></div>
+
+            </section>
+
+        <!-- Security Articles -->
+
+        <section class="security-articles-section">
+
+            <div class="security-articles-header">
+
                 <div>
-                    <div class="feed-title">
-                        Security Feed
+
+                    <div class="security-articles-title">
+                        Security Articles
                     </div>
-                    <div class="feed-subtitle">
-                        最近のセキュリティ関連ニュース
+
+                    <div class="security-articles-subtitle">
+                        民間メディアの関連記事（精度低い）
                     </div>
+
                 </div>
-                <div class="feed-count" id="feed-count">
+
+                <div
+                    class="security-articles-count"
+                    id="security-articles-count"
+                >
                     —
                 </div>
+
             </div>
 
 
-            <div class="feed-columns">
-                <div>Source</div>
-                <div>Date</div>
-                <div>Organization</div>
-                <div class="feed-column-title">Title</div>
+            <div class="security-articles-columns">
+                
+                <div>
+                    Date
+                </div>
+
+                <div>
+                    Keyword
+                </div>
+
+                <div>
+                    Source
+                </div>
+
+                <div class="security-articles-column-title">
+                    Title
+                </div>
+
                 <div></div>
+
             </div>
 
-            <div id="disclosures">
+
+            <div id="security-articles">
+
                 <div class="loading">
                     データを読み込んでいます...
                 </div>
+
             </div>
 
-            <div id="disclosure-pagination" class="pagination"></div>
+
+            <div
+                id="security-articles-pagination"
+                class="pagination"
+            ></div>
 
         </section>
 
+
+
+        </div>
+        
+        <div class="bottom-grid">
+
+            <!-- Vulnerabilities -->
+
+            <section class="vulnerability-section">
+
+                <div class="vulnerability-header">
+
+                    <div class="vulnerability-header-main">
+
+                        <div class="vulnerability-title">
+                            Vulnerabilities
+                        </div>
+
+                        <div class="vulnerability-subtitle">
+                            危険ぽいやつ
+                        </div>
+
+                    </div>
+
+                    <div class="vulnerability-count" id="vulnerability-table-count">
+                        —
+                    </div>
+
+                </div>
+
+                <div class="vulnerability-table-wrapper">
+                    <table class="vulnerability-table">
+                        <thead>
+                            <tr>
+                                <th>Published</th>
+                                <th>CVE</th>
+                                <th>Company</th>
+                                <th>Product</th>
+                                <th>Source</th>
+                                <th>EPSS</th>
+                                <th>CVSS</th>
+                                <th>Vector</th>
+                            </tr>
+                        </thead>
+
+                        <tbody id="vulnerabilities">
+                            <tr>
+                                <td colspan="8" class="vulnerability-loading">
+                                    データを読み込んでいます...
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div id="vulnerability-pagination" class="pagination"></div>
+
+            </section>
+
+
+            <!-- 仮テーブル -->
+
+            <section class="oversea-section">
+
+                <div class="oversea-header">
+
+                    <div class="oversea-header-main">
+
+                        <div class="oversea-title">
+                            Overseas Security
+                        </div>
+
+                        <div class="oversea-subtitle">
+                            海外のセキュリティ情報（予定）
+                        </div>
+
+                    </div>
+
+                    <div class="oversea-count">
+                        —
+                    </div>
+
+                </div>
+
+                <div class="oversea-body">
+                    Coming soon
+                </div>
+
+            </section>
+
+        </div>
+
+
         <!-- Ad -->
         <div id="original-ad"></div>
-        
-        <!-- Vulnerabilities -->
 
-        <section class="vulnerability-section">
+        <details class="cvss-vector-section">
 
-            <div class="vulnerability-header">
-                <div>
-                    <div class="vulnerability-title">
-                        Vulnerabilities
+            <summary>
+                CVSS Vectorの読み方
+            </summary>
+
+            <div class="cvss-vector-columns">
+
+                <!-- CVSS v3.1 -->
+                <div class="cvss-version">
+
+                    <div class="cvss-version-title">
+                        CVSS v3.1
                     </div>
-                    <div class="vulnerability-subtitle">
-                        危険ぽいやつ
-                    </div>
-                </div>
-
-                <div class="vulnerability-count" id="vulnerability-table-count">
-                    —
-                </div>
-            </div>
-
-            <div class="vulnerability-table-wrapper">
-                <table class="vulnerability-table">
-                    <thead>
-                        <tr>
-                            <th>Published</th>
-                            <th>CVE</th>
-                            <th>Company</th>
-                            <th>Product</th>
-                            <th>Source</th>
-                            <th>EPSS</th>
-                            <th>CVSS</th>
-                            <th>Vector</th>
-                        </tr>
-                    </thead>
-
-                    <tbody id="vulnerabilities">
-                        <tr>
-                            <td colspan="8" class="vulnerability-loading">
-                                データを読み込んでいます...
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-
-            <div id="vulnerability-pagination" class="pagination"></div>
-            <div class="cvss-vector-section">
-
-                <div class="cvss-vector-title">
-                    CVSS Vectorの読み方
-                </div>
-            
-                <div class="cvss-vector-columns">
-            
-                    <!-- CVSS v3.1 -->
-                    <div class="cvss-version">
-            
-                        <div class="cvss-version-title">
-                            CVSS v3.1
-                        </div>
             
                         <div class="cvss-vector-description">
             
@@ -1378,7 +1521,7 @@
             
                     <!-- CVSS v4.0 -->
                     <div class="cvss-version">
-            
+
                         <div class="cvss-version-title">
                             CVSS v4.0
                         </div>
@@ -1459,76 +1602,8 @@
             </div>
 
         </section>
-                                    
-        <!-- Security Articles -->
 
-        <section class="security-articles-section">
-
-            <div class="security-articles-header">
-
-                <div>
-
-                    <div class="security-articles-title">
-                        Security Articles
-                    </div>
-
-                    <div class="security-articles-subtitle">
-                        民間メディアの関連記事（精度低い）
-                    </div>
-
-                </div>
-
-                <div
-                    class="security-articles-count"
-                    id="security-articles-count"
-                >
-                    —
-                </div>
-
-            </div>
-
-
-            <div class="security-articles-columns">
-                
-                <div>
-                    Date
-                </div>
-
-                <div>
-                    Keyword
-                </div>
-
-                <div>
-                    Source
-                </div>
-
-                <div class="security-articles-column-title">
-                    Title
-                </div>
-
-                <div></div>
-
-            </div>
-
-
-            <div id="security-articles">
-
-                <div class="loading">
-                    データを読み込んでいます...
-                </div>
-
-            </div>
-
-
-            <div
-                id="security-articles-pagination"
-                class="pagination"
-            ></div>
-
-        </section>
-
-
-
+        
         <footer>
             Security Watch by koz / セキュリティを、もっと身近に
         </footer>
@@ -1555,7 +1630,7 @@ const ORIGINAL_ADS = [
 const DISCLOSURES_PER_PAGE_DESKTOP = 5;
 const DISCLOSURES_PER_PAGE_MOBILE = 4;
 const VULNERABILITIES_PER_PAGE = 10;
-const SECURITY_ARTICLES_PER_PAGE_DESKTOP = 10;
+const SECURITY_ARTICLES_PER_PAGE_DESKTOP = 4;
 const SECURITY_ARTICLES_PER_PAGE_MOBILE = 6;
 
 function getSecurityArticlesPerPage() {
@@ -1581,11 +1656,6 @@ let currentSecurityArticlesPage = 1;
 let currentVulnerabilityPage = 1;
 
 
-/* --------------------------------
-   Utility
--------------------------------- */
-
-/* Date > YYYYMMDD */
 function formatDate(date) {
 
     const year =
@@ -1667,8 +1737,6 @@ function renderOriginalAd() {
     `;
 }
     
-
-/* YYYY-MM-DD形式 */
 function parseLocalDate(value) {
 
     if (!value) {
@@ -1700,7 +1768,6 @@ function parseLocalDate(value) {
 }
 
 
-/* HTMLエスケープ */
 function escapeHtml(value) {
 
     if (
@@ -1719,7 +1786,6 @@ function escapeHtml(value) {
 }
 
 
-/* 表示期間を取得 */
 function getDateRange() {
 
     const days =
@@ -1760,7 +1826,6 @@ function getDateRange() {
 }
 
 
-/* Vulnerabilityの期間フィルタ */
 function getFilteredVulnerabilities() {
 
     const {
@@ -1793,7 +1858,6 @@ function getFilteredVulnerabilities() {
 }
 
 
-/* Feedを日付・時刻順に並べる */
 function sortDisclosures(data) {
 
     return [...data].sort(
@@ -1830,7 +1894,6 @@ function sortSecurityArticles(data) {
     );
 }
 
-/* Vulnerabilityを更新日時順に並べる */
 function sortVulnerabilities(data) {
 
     return [...data].sort(
@@ -1847,17 +1910,6 @@ function sortVulnerabilities(data) {
 }
 
 
-/* --------------------------------
-   Data loading
--------------------------------- */
-
-
-/*
- * JSONを取得
- *
- * ファイルが存在しない場合や
- * JSONとして不正な場合は空配列を返す。
- */
 async function fetchJson(filename) {
 
     try {
@@ -1901,15 +1953,6 @@ async function fetchJson(filename) {
 }
 
 
-/*
- * Dashboardデータを読み込む
- *
- * Feed:
- *   data/feed_YYYYMMDD.json
- *
- * Vulnerability:
- *   data/vulnerabilities.json
- */
 async function loadData() {
 
     try {
@@ -1924,10 +1967,6 @@ async function loadData() {
                 ).value
             );
 
-
-        /*
-         * Feed
-         */
 
         const feedRequests = [];
 
@@ -1950,11 +1989,6 @@ async function loadData() {
             const dateString =
                 formatDate(date);
 
-
-            /*
-             * Security Feed
-             */
-
             const feedFile =
                 `${DATA_DIR}/feed_${dateString}.json`;
 
@@ -1962,10 +1996,6 @@ async function loadData() {
                 fetchJson(feedFile)
             );
 
-
-            /*
-             * Security Articles
-             */
 
             const otherFile =
                 `${DATA_DIR}/other_${dateString}.json`;
@@ -1976,19 +2006,11 @@ async function loadData() {
         }
 
 
-        /*
-         * Vulnerabilities
-         */
-
         const vulnerabilityRequest =
             fetchJson(
                 `${DATA_DIR}/vulnerabilities.json`
             );
 
-
-        /*
-         * すべて並列取得
-         */
 
         const [
             feedResults,
@@ -2001,10 +2023,6 @@ async function loadData() {
         ]);
 
 
-        /*
-         * Security Feed
-         */
-
         disclosures =
             feedResults.flat();
 
@@ -2013,10 +2031,6 @@ async function loadData() {
                 disclosures
             );
 
-
-        /*
-         * Security Articles
-         */
 
         securityArticles =
             otherResults.flat();
@@ -2027,10 +2041,6 @@ async function loadData() {
                 securityArticles
             );
 
-
-        /*
-         * Vulnerabilities
-         */
 
         vulnerabilities =
             Array.isArray(
@@ -2066,57 +2076,14 @@ async function loadData() {
 }
 
 
-/* --------------------------------
-   Dashboard
--------------------------------- */
-
 function initializeDashboard() {
 
-    updateStats();
     renderDisclosures();
     renderSecurityArticles();
     renderVulnerabilities();
     renderOriginalAd();
 }
 
-
-/* --------------------------------
-   Stats
--------------------------------- */
-
-function updateStats() {
-
-    const disclosureCount =
-        disclosures.length;
-
-    const securityArticlesCount =
-        securityArticles.length;
-
-    const vulnerabilityCount =
-        getFilteredVulnerabilities()
-            .length;
-
-
-    document.getElementById(
-        "disclosure-count"
-    ).textContent =
-        disclosureCount.toLocaleString();
-
-    document.getElementById(
-        "security-articles-stat-count"
-    ).textContent =
-        securityArticlesCount.toLocaleString();
-
-    document.getElementById(
-        "vulnerability-count"
-    ).textContent =
-        vulnerabilityCount.toLocaleString();
-}
-
-
-/* --------------------------------
-   Feed
--------------------------------- */
 
 function renderDisclosures() {
 
@@ -2328,9 +2295,6 @@ function renderSecurityArticleItem(item) {
         );
 
 
-    /*
-     * X投稿用テキスト
-     */
     const postText =
         `${item.title || ""}\n` +
         `${item.date || ""}\n` +
@@ -2344,9 +2308,6 @@ function renderSecurityArticleItem(item) {
         );
 
 
-    /*
-     * タイトルをクリックして記事を開く
-     */
     const titleHtml =
         item.url
         ? `
@@ -2570,10 +2531,6 @@ function renderDisclosureItem(item) {
     `;
 }
 
-
-/* --------------------------------
-   Vulnerabilities
--------------------------------- */
 
 function renderVulnerabilities() {
 
@@ -2849,59 +2806,48 @@ function getCvssClass(value) {
     
         return escapeHtml(vector)
     
-            // 攻撃経路
             .replace(
                 /AV:N/g,
                 '<strong class="cvss-danger-text">AV:N</strong>'
             )
     
-            // 攻撃の複雑さ
             .replace(
                 /AC:L/g,
                 '<strong class="cvss-danger-text">AC:L</strong>'
             )
 
-            // 攻撃要件
             .replace(
                 /AT:N/g,
                 '<strong class="cvss-danger-text">AT:N</strong>'
             )
     
-            // 必要な権限
             .replace(
                 /PR:N/g,
                 '<strong class="cvss-danger-text">PR:N</strong>'
             )
     
-            // ユーザー操作
             .replace(
                 /UI:N/g,
                 '<strong class="cvss-danger-text">UI:N</strong>'
             )
     
-            // 機密性
             // C:H が AC:H の中の文字列としてマッチしないようにする
             .replace(
                 /(^|\/)C:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">C:H</strong>'
             )
     
-            // 完全性
             .replace(
                 /(^|\/)I:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">I:H</strong>'
             )
     
-            // 可用性
             .replace(
                 /(^|\/)A:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">A:H</strong>'
             );
         }
 
-/* --------------------------------
-   Pagination
--------------------------------- */
 
 function renderPagination(
     containerId,
@@ -3060,11 +3006,6 @@ function changeVulnerabilityPage(page) {
     renderVulnerabilities();
 }
 
-
-/* --------------------------------
-   Events
--------------------------------- */
-
 document
     .getElementById("days-select")
     .addEventListener(
@@ -3079,10 +3020,6 @@ document
         }
     );
     
-
-/* --------------------------------
-   Start
--------------------------------- */
 
 loadData();
 
