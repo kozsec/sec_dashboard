@@ -4,6 +4,69 @@
     "date": "2026-09-01",
     "time": null,
     "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "４月に起きた市立病院の システム障害 、外部からのサイバー攻撃を否定…手術 18件が延期になる ...",
+    "url": "https://news.yahoo.co.jp/articles/68b50b2c5d4f2b4e87764ffbfc801367c1bbb9e3/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": null,
+    "title": "経営層を名指しでフィッシング攻撃、新たな脅威をもたらす「VENOM」の実像",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/25/06430/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "外部からのサイバー攻撃を否定…手術18件が延期になるなど市が検証結果や影響を公表（読売 ...",
+    "url": "https://news.yahoo.co.jp/articles/68b50b2c5d4f2b4e87764ffbfc801367c1bbb9e3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "ランサムウェア",
+    "title": "HNIX、セキュリティ事業を分社化 新会社「HNSLAB」設立",
+    "url": "https://www.digitaltoday.co.kr/jp/view/98843/hnix-spins-off-security-unit-to-form-hnslab"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "サンコーテクノのベトナム子会社に ランサムウェア 攻撃、サーバ及びパソコン内の各種ファイルの ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/01/56095/54666.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "いさぼうネットに 不正アクセス 、個人情報が外部から閲覧 取得された可能性 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/01/56089/54375.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "まんだらけ、 不正アクセス で個人情報漏えいの恐れ 通販サイト停止で「大オークション大会」も ...",
+    "url": "https://news.yahoo.co.jp/articles/2dfb343da58cde73f78438a5adc36f51d746234a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
     "identifier": "不正アクセス",
     "title": "アンソロピック、ＡＩセキュリティー試験再開 不正 侵入受け安全対策 - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/d8a744ec495b0359b8a6d46338677f495a8b7b0b"
