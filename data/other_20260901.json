@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-01",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "アンソロピック、ＡＩセキュリティー試験再開 不正 侵入受け安全対策 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d8a744ec495b0359b8a6d46338677f495a8b7b0b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "｢個人情報保護法改正｣でAI開発は進むが・・・\"本人の同意なし\"でデータ利用→高まる ...",
+    "url": "https://toyokeizai.net/articles/-/954401?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "トレジャー・ファクトリー子会社のECサイトに 不正アクセス 、個人情報が漏えい",
+    "url": "https://netshop.impress.co.jp/n/2026/09/01/16648"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ソフトクリエイト、「Safe AI Gateway」に図表や画像を解釈できる「画像対応RAG機能」を追加",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2135810.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏えい",
+    "title": "[Ｇ－サイバーＳＯＬ 436A.T] 2027年4月期第1四半期決算説明資料 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260831528325"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "mf.jiho.jp",
+    "identifier": "システム障害",
+    "title": "サイバー攻撃なしと結論 奈良病院の システム障害 | MEDIFAX web（メディファクス ウェブ）",
+    "url": "https://mf.jiho.jp/article/270113"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "チューリッヒ保険に 不正アクセス 、ドライブレコーダーのデータをアップロード ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/01/56094.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "サンコーテクノのベトナム子会社に ランサムウェア 攻撃、サーバ及びパソコン内の各種ファイルの ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/01/56095/54667.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "Aurora ランサムウェア のアフィリエイト、10組織への攻撃でCursos AIを使用 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47458/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「個人 情報 保護法改正」でAI開発は進むが・・・“本人の同意なし”でデータ利用→高まる ...",
+    "url": "https://finance.yahoo.co.jp/news/detail/0b1433df7609ba1b09126e1740406a2bbf56f27a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "｢個人 情報 保護法改正｣でAI開発は進むが･･･\"本人の同意なし\"でデータ利用→高まる｢プライバシー ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-954401?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "（短信）市立奈良病院 システム障害 、「サイバー攻撃なし」結論 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98514260R00C26A9CE0000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
     "organization": "sankei.com",
     "identifier": "サイバー攻撃",
     "title": "奈良病院システム障害 サイバー攻撃 なしと結論 監視装置が過剰に異常検知し遮断発生（写真 ...",
