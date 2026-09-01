@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-01",
     "time": null,
+    "organization": "voix.jp",
+    "identifier": "ランサムウェア",
+    "title": "ＺｅｎｍｕＴｅｃｈとＨＡＩＰ、医療向けサイバーセキュリティ事業を開始 - VOIX biz",
+    "url": "https://voix.jp/biz/news-analysis/178309/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット襲った 不正アクセス ､わずか2日で｢583→136万アカウント｣に影響拡大…見え ...",
+    "url": "https://toyokeizai.net/articles/-/956359"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIセキュリティ市場28年10兆円規模に成長 ガートナー予測 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-it/2026/09/01/DO3HJZ4LZZGIHHAFLYDESYKMQE/?outputType=amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIを取り巻く サイバー 脅威を整理する | 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/111900071/081800082/?ST=nxt_idx_common"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "innovations-i.com",
+    "identifier": "サイバー攻撃",
+    "title": "サプライチェーンリスク管理の重要性 ～ サイバー攻撃 と地政学リスクの時代に企業が備えるべきこと",
+    "url": "https://www.innovations-i.com/column/risk_control/65.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【インシデント発生時の サイバー 消防隊】GFD と BLACKPANDA が連携し - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000129816.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "サイバー攻撃",
+    "title": "Anthropicが「開発中のAIで外部を 攻撃 しないための対策」を発表 - GIGAZINE",
+    "url": "https://gigazine.net/news/20260901-anthropic-alignment-security/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "決算が暴く サイバー 被害 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/082700567/index.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、「高度で大規模なAIによる サイバー攻撃 」の発生を警告--対策は？ - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252117/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-01",
+    "time": null,
     "organization": "prtimes.jp",
     "identifier": "情報漏洩",
     "title": "三村小松法律事務所が営業秘密の「 漏洩 」と「流入」を学ぶ無料セミナーを9月29日 ... - PR TIMES",
