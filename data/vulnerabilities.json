@@ -5,11 +5,11 @@
     "product": null,
     "title": "PaperCut NG/MF Unsafe Reflection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00462,
+    "epss_current": 0.00926,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/08/31"
+    "last_update": "2026/09/01"
   },
   {
     "cve": "CVE-2026-81578",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00393,
+    "epss_current": 0.00771,
     "cvss": 8.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:L/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/08/31"
+    "last_update": "2026/09/01"
   },
   {
     "cve": "CVE-2021-23758",
@@ -101,11 +101,11 @@
     "product": null,
     "title": "Gitea Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.84554,
+    "epss_current": 0.86777,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/25",
-    "last_update": "2026/08/28"
+    "last_update": "2026/09/01"
   },
   {
     "cve": "CVE-2026-21962",
@@ -1073,11 +1073,11 @@
     "product": "Internet Explorer",
     "title": "Microsoft Internet Explorer Use-After-Free Vulnerability",
     "kev": "あり",
-    "epss_current": 0.91885,
+    "epss_current": 0.91939,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/05/20",
-    "last_update": "2026/05/20"
+    "last_update": "2026/09/01"
   },
   {
     "cve": "CVE-2010-0806",
