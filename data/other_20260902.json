@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-02",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "『 ランサム 対策の内製化教育、受講率は100％なのになぜ行動変容につながらないのか』という ...",
+    "url": "https://news.livedoor.com/pr_topics/detail/32220649/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "『 ランサム 対策の内製化教育、受講率は100％なのになぜ行動変容につながらないのか』という ...",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000005644_000054842/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "X Moneyのローンチ後、ユーザーアカウントが攻撃者に狙われるように：Xプロダクトエンジニアが ...",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47488/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【徳丸浩氏に聞く】Webサイトのサイバー被害を80%減らす「4つのセキュリティ対策」とは？",
+    "url": "https://news.yahoo.co.jp/articles/075b9b6b3f7ba9f3f0dd5a9036e2187a5e49a133"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "約2.2万台のMicrosoft Exchangeサーバーに乗っ取り攻撃のリスク（CVE-2026-62911）",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47535/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "三村小松法律事務所が営業秘密の「 漏洩 」と「流入」を学ぶ無料セミナーを9月29日開催。営業 ...",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000008_000147587/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "jocr.jp",
+    "identifier": "情報漏洩",
+    "title": "神戸市の防犯カメラ5500台へ 市民の9割超が「安心」 それでも注意したい身近な犯罪リスク",
+    "url": "https://jocr.jp/raditopi/2026/09/02/704270/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "ascii.jp",
+    "identifier": "ランサムウェア",
+    "title": "水道インフラを狙うサイバー攻撃が深刻化 「ネットにつながる設備」をどう守る？ - アスキー",
+    "url": "https://ascii.jp/elem/000/004/431/4431604/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "不正アクセス関連損失として 1 億 8,100 万円を「その他の費用」に計上 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/02/56106.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
     "organization": "prtimes.jp",
     "identifier": "サイバー攻撃",
     "title": "医療AIプラットフォーム技術研究組合（HAIP）とZenmuTech、「秘密分散プロキシ ... - PR TIMES",
