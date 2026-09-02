@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-09-02",
     "time": null,
+    "organization": "news.jp",
+    "identifier": "不正アクセス",
+    "title": "千葉県運営ＨＰに 不正アクセス 会員１９６３人の個人情報も 漏えいは確認されず | NEWSjp",
+    "url": "https://news.jp/i/1467683324564668717"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "三井不動産に 不正アクセス 、個人情報最大５万５０００件漏えいの可能性…従業員氏名や取引先 ...",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260902_gyt1t00328/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "三井不動産に 不正アクセス 最大5万5000件の情報漏えいか（アスキー） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e79845b1c715e08a28ea3a79d539ac2ac9d0ffd2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ドロップボックス、8月に約5000アカウントが 不正アクセス 被害（ロイター） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20260902055"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、「高度で大規模な AIによる サイバー攻撃 」の発生を警告--対策は？ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/471c0d32d9ec613c4a06c63066971d14986c1135/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、AIモデル「ミュトス」を サイバー セキュリティに活用 「Project Glasswing」に参画",
+    "url": "https://news.yahoo.co.jp/articles/cfbfa20d487a4457c4db4fcf95078708edd930dd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "PwC Japan、企業の サイバー セキュリティ業務をAI前提に再構築する支援サービスを提供",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2137343.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、重大リスクにAI優先対処 サイバー攻撃 防御 - サンスポ",
+    "url": "https://www.sanspo.com/article/20260902-OV53A2GO3ROJ5GFHX7HMUQBRJQ/?outputType=amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "西武鉄道 食事ができる観光列車の予約者約500人分の個人 情報漏えい （TBS NEWS DIG ...",
+    "url": "https://news.yahoo.co.jp/articles/4b599807ea7f08e6e1745a22475157a1b47422d9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "三井不動産に不正アクセス、個人 情報 最大５万５０００件 漏えい の可能性…従業員氏名や取引先 ...",
+    "url": "https://news.yahoo.co.jp/articles/0ee12582da7fedf95978ea8ea96fa5dfbb061cac"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "西武鉄道 食事ができる観光列車の予約者約500人分の個人 情報漏えい - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2916475"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "三井不動産に不正アクセス、個人 情報 最大５万５０００件 漏えい の可能性…従業員氏名や取引先 ...",
+    "url": "https://www.yomiuri.co.jp/economy/20260902-GYT1T00328/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "チャーム本店 1 号店及びチャーム本店 2 号店に不正アクセス、受注・出荷業務を停止 1枚目の ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/02/56103/54428.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "チャーム本店 1 号店及びチャーム本店 2 号店に不正アクセス、受注・出荷業務を停止 2枚目の ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/02/56103/54429.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "子の余命、他人から告げられた 家族や知人へ…相次ぐ患者の 情報漏洩 「信頼関係損なう重大な ...",
+    "url": "https://news.yahoo.co.jp/articles/5e00269b365a1bca13d14dce615e8354f5ee3ff1/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "メールセキュリティサービス「safeAttachクラウドサービス」がSOC2報告書（Type1）を取得",
+    "url": "https://www.jiji.com/jc/article?k=000000026.000031901&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏えい",
+    "title": "ペンタセキュリティ、ファイル暗号化ソリューション「D.AMO KE」 Linux版の機能拡張 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000115.000032363.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "ランサムウェア",
     "title": "『 ランサム 対策の内製化教育、受講率は100％なのになぜ行動変容につながらないのか』という ...",
