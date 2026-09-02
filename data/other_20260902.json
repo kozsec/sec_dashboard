@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-02",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "チャーム本店 1 号店及びチャーム本店 2 号店に 不正アクセス 、受注・出荷業務を停止",
+    "url": "https://newspicks.com/news/17423822/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット襲った 不正アクセス 、わずか2日で「583→136万アカウント」に影響拡大 ...",
+    "url": "https://finance.yahoo.co.jp/news/detail/a9625df888f9b22b7ccaeb7677ecdef1334d5262"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット襲った 不正アクセス ､わずか2日で｢583→136万アカウント｣に影響拡大…見え ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-956359?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "Anthropic、「Claude」ユーザーを狙った情報窃取型マルウェアを警告 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252172/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＮＥＣ、 サイバー 防御で高性能ＡＩ活用｜全国のニュース - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1414452"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIで待ち伏せし、誰もが使いやすいCTIで次の一手を読む／村上洸介、三本知明（KDDI総合研究所 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/wirelesswire/business/wirelesswire-20260994286"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米OpenAIが次世代モデル「Astra」の近日公開を示唆、今後は安全性対策を優先",
+    "url": "https://www.sbbit.jp/article/cont1/186803"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット襲った 不正アクセス 、わずか2日で「583→136万アカウント」に影響拡大 ...",
+    "url": "https://news.yahoo.co.jp/articles/a9625df888f9b22b7ccaeb7677ecdef1334d5262?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-02",
+    "time": null,
     "organization": "news.jp",
     "identifier": "不正アクセス",
     "title": "千葉県運営ＨＰに 不正アクセス 会員１９６３人の個人情報も 漏えいは確認されず | NEWSjp",
