@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-03",
     "time": null,
+    "organization": "gigazine.net",
+    "identifier": "サイバー攻撃",
+    "title": "Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細 ...",
+    "url": "https://gigazine.net/news/20260903-google-mantis-open-source/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ID聞き出し 不正アクセス 容疑 インフルエンサー成り済まし、男逮捕 警視庁 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/07002ebb4c1eb2b6e0c0c6bed66595b34222d29c/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ＩＤ聞き出し 不正アクセス 容疑＝インフルエンサー成り済まし、男逮捕―警視庁（時事通信）",
+    "url": "https://topics.smt.docomo.ne.jp/article/jiji/nation/jiji-2026090300626"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "放射線システム、 サイバー攻撃 県、監視に影響なし | 日本海新聞 NetNihonkai",
+    "url": "https://www.nnn.co.jp/articles/-/793274"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "AI とアフィリエイト活用で数カ月でトップクラスの ランサムウェア 犯罪組織に 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/03/56114/54493.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー セキュリティ byイエラエ、AIによる「実証型」脆弱性診断を提供開始 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000005515.000000136.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOナショナルセキュリティ、国家レベルの サイバー 脅威やリスクを分析する専門部署 ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2138040.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "health-isac.org",
+    "identifier": "不正アクセス",
+    "title": "緊急脅威警告：ShinyHuntersによるフィッシング詐欺キャンペーンとドメインなりすまし",
+    "url": "https://health-isac.org/ja/緊急の脅威警告：ShinyHuntersによるフィッシング詐欺キャンペーンとドメインなりすまし/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ゼロトラストは「全部やる」と失敗する？ ガートナーが示す成功への8ステップ - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/186695"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "vlcsecurity.com",
+    "identifier": "サイバー攻撃",
+    "title": "【第1回】SCS評価制度を、現場の診断から読み解く - VLCセキュリティ",
+    "url": "https://vlcsecurity.com/column/20342/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "FBIは、米国およびカナダ国民の運転免許証 情報 が 漏洩 した事件について捜査を行っている。",
+    "url": "https://www.vietnam.vn/ja/fbi-dieu-tra-vu-ro-ri-du-lieu-giay-phep-lai-xe-cua-cong-dan-my-canada"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "RIZAP、外部生成AIサービスへの顧客 情報 アップロードを謝罪「当該事業者以外の第三者に閲覧 ...",
+    "url": "https://news.yahoo.co.jp/articles/5fed98e0c34a890d92e2699968579d78ad1ed0fd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
     "organization": "jiji.com",
     "identifier": "サイバー攻撃",
     "title": "【参加無料】AIが「 攻撃 者」になる時代へ―「AIエージェント×ランサムウェア 攻撃 」9月14日開催",
