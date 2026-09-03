@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-09-03",
     "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "システム障害",
+    "title": "NYの小中学校でAI利用禁止 1年間60万人に、依存を懸念 - 信濃毎日新聞",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026090301000393"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "「東横INN」で システム障害 「公式サイトとアプリの一部サービスがご利用いただけない状態」",
+    "url": "https://news.livedoor.com/article/detail/32230342/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "OBC、Cyber Governance Labと国内企業のサイバーセキュリティ強化に向けて協業を開始",
+    "url": "https://www.jiji.com/jc/article?k=000000282.000026471&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "Anthropic、報酬ハッキングAIがサンドボックス脱出・認証情報窃取・生物兵器助言を試みたと発表",
+    "url": "https://finance.biggo.jp/news/47edb0db-47e2-423b-9658-941a66a7a794"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "『 ランサムウェア 被害事例に見る、業務停止が長期化する理由』というテーマのウェビナーを開催",
+    "url": "https://www.jiji.com/jc/article?k=000005671.000054842&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "『 ランサムウェア 被害事例に見る、業務停止が長期化する理由』というテーマのウェビナーを開催",
+    "url": "https://prtimes.jp/main/html/rd/p/000005671.000054842.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "Dropbox約5000件が不正ログイン被害…Lenovo ID認証の穴突かれる（ビジネス＋IT）",
+    "url": "https://news.yahoo.co.jp/articles/c9f5acae2cc2aca5d6832cc575fb07ed8a5caa0d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ID聞き出し 不正アクセス 容疑 インフルエンサー成り済まし、男逮捕 警視庁（時事通信）",
+    "url": "https://news.yahoo.co.jp/articles/07002ebb4c1eb2b6e0c0c6bed66595b34222d29c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「プライベートな部分を知りたかった」インフルエンサーのSNS乗っ取り 不正アクセス か 34歳男逮捕",
+    "url": "https://txbiz.tv-tokyo.co.jp/hiru/news/post_348006"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "unitis.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットの情報漏洩 利用企業の法的責任とクラウド例外 - UNITIS",
+    "url": "https://unitis.jp/articles/24308/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "女性インフルエンサーになりすまし SNSのID入手し 不正アクセス か 34歳男逮捕 | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16860182"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「米本土も脅威」観測出ると…トランプ氏「 攻撃 、長くは続かない」（1） …に - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/cee9c5c6b7c1d50b4496b0e91919ab736bd9e55b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "異形の「防衛企業」NECが磨くデュアルユース 勝ち筋はセキュリティー（3ページ目）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03723/082000003/?P=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "chunichi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イランが サイバー攻撃 試行 米インフラを標的、報道 - 中日新聞",
+    "url": "https://www.chunichi.co.jp/article/1305918?rct=world"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「Linux」カーネルの脆弱性、 攻撃 で悪用を確認--修正済みだが多くが未適用（ZDNET Japan）",
+    "url": "https://news.yahoo.co.jp/articles/69f4b229383d84562ed2cfebd6730792cdcc0f8d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "不正アクセス",
     "title": "中核メンバーわずか 9 人、AI とアフィリエイト活用で数カ月でトップクラスのランサムウェア犯罪 ...",
