@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-09-03",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "【参加無料】AIが「 攻撃 者」になる時代へ―「AIエージェント×ランサムウェア 攻撃 」9月14日開催",
+    "url": "https://www.jiji.com/jc/article?k=000000045.000018723&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "日立、フィジカルAIの推進に向け「HMAX」ソリューションを拡充 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252261/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【参加無料】AIが「 攻撃 者」になる時代へ―「AIエージェント×ランサムウェア 攻撃 」9月14日開催",
+    "url": "https://prtimes.jp/main/html/rd/p/000000045.000018723.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "branc.jp",
+    "identifier": "情報漏洩",
+    "title": "サムシングファンが「生成AIポリシー」策定 出演者の肖像・声の保護と「AI不使用（Non-AI ...",
+    "url": "https://branc.jp/article/2026/09/03/3065.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏洩",
+    "title": "「社長、そのAI、会社潰します！」― 情報漏洩 ・誤判断・暴走を防ぎ - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000111.000001447.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "AIが「攻撃者」となる時代へ： ランサムウェア 対策セミナー開催",
+    "url": "https://ccsi.jp/14935/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "システム障害",
+    "title": "「東横INN」で システム障害 「公式サイトとアプリの一部サービスがご利用いただけない状態」",
+    "url": "https://www.chiba-tv.com/plus/detail/2026091971312"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "イオン爆発の調査委初会合 経産省、ガス 漏えい 検証（共同通信）",
+    "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/nation/kyodo_nor-2026090301001450?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏えい",
+    "title": "OBC、Cyber Governance Labと国内企業のサイバーセキュリティ強化に向けて協業を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000282.000026471.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "鳥取県放射線監視システム 主サーバーに サイバー攻撃 監視は継続 - 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1073299"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "オープンモデル普及で“お手軽”になる サイバー攻撃 防御側が今すべき「侵入前提」の対策",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001098/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "lnews.jp",
+    "identifier": "システム障害",
+    "title": "関通HD／OBCと協業、「奉行シリーズ」のクラウド移行とセキュリティ強化へ",
+    "url": "https://www.lnews.jp/2026/09/s0903603.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "business.nikkei.com",
+    "identifier": "システム障害",
+    "title": "アサヒ飲料近藤社長の修羅場経験 サイバー攻撃対応で磨いた胆力と決断力 - 日経ビジネス",
+    "url": "https://business.nikkei.com/atcl/NBD/19/special/02634/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "不正アクセス",
+    "title": "CMSの脆弱性公表を受けた調査で発覚 ― ホロライブのカードゲーム公式サイトに残っていた 不正 ...",
+    "url": "https://act1.co.jp/2026-09-03-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "情報漏えい",
+    "title": "イオン爆発の調査委初会合 経産省、ガス 漏えい 検証 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1534253/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
     "organization": "voix.jp",
     "identifier": "ランサムウェア",
     "title": "OBCとCGLが協力し国内企業のサイバーセキュリティ向上に向けた新たな取り組み始動 - VOIX",
