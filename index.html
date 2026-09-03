@@ -970,238 +970,485 @@
         @media (max-width: 800px) {
 
             .container {
-                width: min(100% - 28px, 1400px);
+                width: calc(100% - 24px);
+            }
+
+            /* Header */
+
+            .header-inner {
+                height: 56px;
+            }
+
+            .brand {
+                gap: 8px;
+                min-width: 0;
+            }
+
+            .brand-mark {
+                width: 32px;
+                height: 32px;
+            }
+
+            .brand-text {
+                min-width: 0;
+            }
+
+            .brand-title {
+                font-size: 14px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+            .brand-subtitle {
+                font-size: 9px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
             }
 
             .display-info {
                 font-size: 0;
+                flex-shrink: 0;
             }
 
             .display-info select {
                 margin-left: 0;
+                height: 30px;
+                padding: 0 24px 0 8px;
                 font-size: 11px;
             }
 
+
+            /* Main */
+
             main {
-                padding-top: 28px;
+                padding: 20px 0 30px;
             }
 
             .hero {
-                align-items: flex-start;
-                flex-direction: column;
+                margin-bottom: 14px;
             }
-            
+
+
+            /* Feed / Articles */
+
+            .feed-articles-grid {
+                grid-template-columns: 1fr;
+                gap: 16px;
+            }
+
+
+            /* Security Feed */
+
             .feed {
-                height: 600px;
+                height: auto;
             }
-        
+
             .feed-header {
-                height: 58px;
-                padding: 4px 16px;
+                min-height: 56px;
+                height: auto;
+                padding: 10px 14px;
             }
-        
-            .pagination {
-                height: 58px;
-                padding: 12px 16px;
+
+            .feed-header-main {
+                min-width: 0;
+                gap: 6px;
+            }
+
+            .feed-title {
+                font-size: 13px;
+                white-space: nowrap;
+            }
+
+            .feed-subtitle {
+                font-size: 9px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+
+            .feed-count {
+                flex-shrink: 0;
+                font-size: 10px;
             }
 
             .feed-columns {
                 display: none;
             }
 
-            .item {
-                
-                height: 120px;
-                min-height: 120px;
-                padding: 6px 16px;
-            
-                display: grid;
-                grid-template-columns: 1fr auto;
-                grid-template-rows: auto auto auto;
-            
-                gap: 6px 12px;
+            #disclosures {
+                height: auto;
+                overflow-y: visible;
             }
-            
+
+            .item {
+
+                height: 96px;
+                min-height: 96px;
+
+                padding: 8px 14px;
+
+                display: grid;
+
+                grid-template-columns: minmax(0, 1fr) auto;
+                grid-template-rows: 20px 20px 1fr;
+
+                gap: 2px 10px;
+
+                align-items: center;
+            }
+
             .source {
+
                 grid-column: 1;
                 grid-row: 1;
-            
-                padding-right: 40px;
-            
+
+                min-width: 0;
+
+                font-size: 11px;
+
                 overflow: hidden;
                 white-space: nowrap;
                 text-overflow: ellipsis;
             }
-            
+
             .time {
+
                 grid-column: 2;
                 grid-row: 1;
-            
-                text-align: right;
+
+                font-size: 10px;
+
                 white-space: nowrap;
+                text-align: right;
             }
-            
+
             .company {
-                grid-column: 1 / -1;
+
+                grid-column: 1;
                 grid-row: 2;
-            
+
+                min-width: 0;
+
+                font-size: 11px;
+
                 overflow: hidden;
                 white-space: nowrap;
                 text-overflow: ellipsis;
             }
-            
+
             .actions {
+
                 grid-column: 2;
-                grid-row: 1;
+                grid-row: 2 / 4;
+
+                display: flex;
+
+                align-items: center;
                 justify-content: flex-end;
-                align-items: start
+
+                flex-shrink: 0;
             }
-            
+
             .title {
-                grid-column: 1 / -1;
+
+                grid-column: 1;
                 grid-row: 3;
-            
-                padding-right: 40px;
-            
-                font-size: 12px;
+
+                min-width: 0;
+
+                padding-right: 0;
+
+                font-size: 11px;
                 line-height: 1.5;
-            
+
                 display: -webkit-box;
                 -webkit-box-orient: vertical;
                 -webkit-line-clamp: 2;
-            
+
                 overflow: hidden;
-                max-height: 36px;
+
+                max-height: 34px;
+            }
+
+            .link {
+
+                width: 30px;
+                height: 30px;
+
+                border-radius: 8px;
+
+                font-size: 12px;
+            }
+
+            .code {
+
+                margin-top: 0;
+                padding: 2px 5px;
+
+                font-size: 9px;
+            }
+
+
+            /* Pagination */
+
+            .pagination {
+
+                min-height: 48px;
+                height: auto;
+
+                padding: 8px 10px;
+
+                gap: 4px;
+
+                overflow-x: auto;
+            }
+
+            .page-button {
+
+                min-width: 30px;
+                height: 30px;
+
+                padding: 0 6px;
+
+                font-size: 11px;
+
+                flex-shrink: 0;
+            }
+
+
+            /* Security Articles */
+
+            .security-articles-section {
+                height: auto;
+            }
+
+            .security-articles-header {
+                min-height: 56px;
+                height: auto;
+
+                padding: 10px 14px;
+            }
+
+            .security-articles-title {
+                font-size: 13px;
+            }
+
+            .security-articles-subtitle {
+                font-size: 9px;
+            }
+
+            .security-articles-count {
+                font-size: 10px;
+                flex-shrink: 0;
+            }
+
+            .security-articles-columns {
+                display: none;
+            }
+
+            #security-articles {
+                height: auto;
+                min-height: 300px;
+                overflow-y: visible;
+            }
+
+            .security-article-item {
+
+                height: 72px;
+                min-height: 72px;
+                max-height: 72px;
+
+                display: grid;
+
+                grid-template-columns: minmax(0, 1fr) 30px;
+                grid-template-rows: 20px 1fr;
+
+                gap: 2px 10px;
+
+                padding: 8px 14px;
+            }
+
+            .security-article-date {
+
+                grid-column: 1;
+                grid-row: 1;
+
+                font-size: 10px;
+
+                white-space: nowrap;
+            }
+
+            .security-article-identifier {
+
+                margin-left: 5px;
+
+                padding: 2px 5px;
+
+                font-size: 9px;
+            }
+
+            .security-article-source {
+
+                grid-column: 1;
+                grid-row: 1;
+
+                margin-left: 70px;
+
+                min-width: 0;
+
+                font-size: 10px;
+
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+            }
+
+            .security-article-title {
+
+                grid-column: 1;
+                grid-row: 2;
+
+                min-width: 0;
+
+                font-size: 11px;
+                line-height: 1.5;
+
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+
+                overflow: hidden;
+
+                max-height: 34px;
+            }
+
+            .security-article-actions {
+
+                grid-column: 2;
+                grid-row: 1 / 3;
+
+                display: flex;
+
+                align-items: center;
+                justify-content: flex-end;
+            }
+
+            .security-article-actions .link {
+
+                width: 28px;
+                height: 28px;
+
+                border-radius: 7px;
+
+                font-size: 11px;
+            }
+
+
+            /* Vulnerabilities */
+
+            .bottom-grid {
+                grid-template-columns: 1fr;
+                gap: 16px;
+            }
+
+            .vulnerability-section {
+                height: 300px;
+            }
+
+            .vulnerability-header {
+                padding: 12px 14px;
+            }
+
+            .vulnerability-title {
+                font-size: 13px;
+            }
+
+            .vulnerability-subtitle {
+                font-size: 9px;
+            }
+
+            .vulnerability-count {
+                font-size: 10px;
+            }
+
+            .vulnerability-table-wrapper {
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
             }
 
             .vulnerability-table {
                 min-width: 900px;
             }
 
-            .vulnerability-header {
-                padding: 16px;
+
+            /* Overseas */
+
+            .oversea-section {
+                height: 220px;
             }
 
-            .security-articles-columns {
-                display: none;
-            }
-            
-            #security-articles {
-                height: auto;
+            .oversea-header {
+                padding: 12px 14px;
             }
 
-           .security-article-item {
-                height: 72px;
-                min-height: 72px;
-                max-height: 72px;
-            
-                grid-template-columns: 1fr auto;
-                grid-template-rows: 24px 40px;
-            
-                gap: 0 10px;
-            
-                padding: 8px 16px;
+            .oversea-title {
+                font-size: 13px;
             }
-            
-            .security-article-date {
-                grid-column: 1;
-                grid-row: 1;
-            
-                font-size: 11px;
-                white-space: nowrap;
-                overflow: hidden;
+
+            .oversea-subtitle {
+                font-size: 9px;
             }
-            
-            .security-article-identifier {
-                display: inline-block;
-                margin-left: 8px;
-                padding: 2px 6px;
-            
-                font-size: 10px;
-                line-height: 1.2;
-            
-                vertical-align: middle;
+
+            .oversea-body {
+                height: 160px;
             }
-            
-            .security-article-source {
-                grid-column: 1;
-                grid-row: 1;
-                margin-left: 80px;
-            
-                font-size: 11px;
-            
-                overflow: hidden;
-                white-space: nowrap;
-                text-overflow: ellipsis;
+
+
+            /* CVSS */
+
+            .cvss-vector-section {
+                margin-top: 16px;
             }
-            
-            .security-article-title {
-                grid-column: 1;
-                grid-row: 2;
-            
-                font-size: 12px;
-                line-height: 1.5;
-            
-                white-space: normal;
-                overflow: hidden;
-            
-                display: -webkit-box;
-                -webkit-box-orient: vertical;
-                -webkit-line-clamp: 2;
-            
-                max-height: 36px;
-            }
-            
-            .security-article-actions {
-                grid-column: 2;
-                grid-row: 2;
-            
-                display: flex;
-                align-items: flex-end;
-                justify-content: flex-end;
-            }
-            
-            .security-article-actions .link {
-                width: 28px;
-                height: 28px;
-                border-radius: 7px;
+
+            .cvss-vector-section summary {
+                padding: 12px 14px;
                 font-size: 12px;
             }
+
             .cvss-vector-columns {
                 grid-template-columns: 1fr;
                 gap: 24px;
+                padding: 16px 14px 18px;
             }
-            
+
+
+            /* Advertisement */
+
+            .original-ad {
+                margin-top: 20px;
+            }
+
             .original-ad-link {
-                gap: 12px;
-                padding: 10px 12px;
+                gap: 10px;
+                padding: 10px;
             }
-        
+
             .original-ad-thumbnail {
-                width: 120px;
-                height: 68px;
-                flex-basis: 120px;
+                width: 110px;
+                height: 62px;
+                flex-basis: 110px;
             }
-        
+
             .original-ad-title {
                 font-size: 11px;
             }
-        
+
             .original-ad-description {
                 font-size: 9px;
             }
 
-            .feed-articles-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .feed-scroll {
-                max-height: none;
-            }
-
-            .bottom-grid {
-                grid-template-columns: 1fr;
-            }
         }
     </style>
 </head>
@@ -1674,7 +1921,6 @@ function formatDate(date) {
     return `${year}${month}${day}`;
 }
 
-/* ad */
 function renderOriginalAd() {
 
     const container =
@@ -1737,6 +1983,7 @@ function renderOriginalAd() {
     `;
 }
     
+
 function parseLocalDate(value) {
 
     if (!value) {
@@ -1767,7 +2014,6 @@ function parseLocalDate(value) {
     );
 }
 
-
 function escapeHtml(value) {
 
     if (
@@ -1784,7 +2030,6 @@ function escapeHtml(value) {
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
 }
-
 
 function getDateRange() {
 
@@ -1825,7 +2070,6 @@ function getDateRange() {
     };
 }
 
-
 function getFilteredVulnerabilities() {
 
     const {
@@ -1856,7 +2100,6 @@ function getFilteredVulnerabilities() {
         }
     );
 }
-
 
 function sortDisclosures(data) {
 
@@ -1909,7 +2152,6 @@ function sortVulnerabilities(data) {
     );
 }
 
-
 async function fetchJson(filename) {
 
     try {
@@ -1952,7 +2194,6 @@ async function fetchJson(filename) {
     }
 }
 
-
 async function loadData() {
 
     try {
@@ -1989,12 +2230,14 @@ async function loadData() {
             const dateString =
                 formatDate(date);
 
+
             const feedFile =
                 `${DATA_DIR}/feed_${dateString}.json`;
 
             feedRequests.push(
                 fetchJson(feedFile)
             );
+
 
 
             const otherFile =
@@ -2004,7 +2247,6 @@ async function loadData() {
                 fetchJson(otherFile)
             );
         }
-
 
         const vulnerabilityRequest =
             fetchJson(
@@ -2022,7 +2264,6 @@ async function loadData() {
             vulnerabilityRequest
         ]);
 
-
         disclosures =
             feedResults.flat();
 
@@ -2030,7 +2271,6 @@ async function loadData() {
             sortDisclosures(
                 disclosures
             );
-
 
         securityArticles =
             otherResults.flat();
@@ -2074,6 +2314,7 @@ async function loadData() {
         `;
     }
 }
+
 
 
 function initializeDashboard() {
@@ -2806,42 +3047,50 @@ function getCvssClass(value) {
     
         return escapeHtml(vector)
     
+            // 攻撃経路
             .replace(
                 /AV:N/g,
                 '<strong class="cvss-danger-text">AV:N</strong>'
             )
     
+            // 攻撃の複雑さ
             .replace(
                 /AC:L/g,
                 '<strong class="cvss-danger-text">AC:L</strong>'
             )
 
+            // 攻撃要件
             .replace(
                 /AT:N/g,
                 '<strong class="cvss-danger-text">AT:N</strong>'
             )
     
+            // 必要な権限
             .replace(
                 /PR:N/g,
                 '<strong class="cvss-danger-text">PR:N</strong>'
             )
     
+            // ユーザー操作
             .replace(
                 /UI:N/g,
                 '<strong class="cvss-danger-text">UI:N</strong>'
             )
     
+            // 機密性
             // C:H が AC:H の中の文字列としてマッチしないようにする
             .replace(
                 /(^|\/)C:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">C:H</strong>'
             )
     
+            // 完全性
             .replace(
                 /(^|\/)I:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">I:H</strong>'
             )
     
+            // 可用性
             .replace(
                 /(^|\/)A:H(?=\/|$)/g,
                 '$1<strong class="cvss-danger-text">A:H</strong>'
@@ -3005,6 +3254,7 @@ function changeVulnerabilityPage(page) {
 
     renderVulnerabilities();
 }
+
 
 document
     .getElementById("days-select")
