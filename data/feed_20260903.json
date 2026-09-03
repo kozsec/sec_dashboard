@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "source": "海外",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800 (Draft)",
+    "title": "Recommendation for Block Cipher Modes of Operation: XTS-AES Mode for Confidentiality on Storage Devices",
+    "url": "https://csrc.nist.gov/pubs/sp/800/38/e/r1/ipd"
+  }
+]

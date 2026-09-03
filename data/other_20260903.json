@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-09-03",
     "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "トムソン・ロイターの訴訟案件システムに 不正アクセス 、米カナダの裁判所被害",
+    "url": "https://finance.yahoo.co.jp/news/detail/2f0e2047f39adf69386bd6502bec92df29edc9c2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "chukei-news.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 防御提案 月内にも ＮＥＣ、最新ＡＩ活用 - 中部経済新聞",
+    "url": "https://www.chukei-news.co.jp/news/2026/09/03/OK0002609030301_07/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イランが サイバー攻撃 試行 | 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1072781"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "times.abema.tv",
+    "identifier": "システム障害",
+    "title": "「東横INN」で システム障害 「公式サイトとアプリの一部サービスがご利用いただけない状態」 | 国内",
+    "url": "https://times.abema.tv/articles/-/10270798"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "techtarget.itmedia.co.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 の損失は1時間30億円 手作業の復旧が迎えた限界 - TechTargetジャパン",
+    "url": "https://techtarget.itmedia.co.jp/tt/article/2609/03/2000001079/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ミュトス級AI時代の脆弱性対策、オープンソースソフトを使った解決法とは | 日経クロステック Active",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/08/25/06433/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "イランが サイバー攻撃 試行 米インフラを標的、報道 - ライブドアニュース",
+    "url": "https://news.livedoor.com/article/detail/32228280/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イランが サイバー攻撃 試行 米インフラを標的、報道（共同通信） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/world/kyodo_nor-2026090301000258?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "373news.com",
+    "identifier": "サイバー攻撃",
+    "title": "【写真】イランが サイバー攻撃 試行 米インフラを標的、報道 | 国内海外のニュース - 南日本新聞",
+    "url": "https://373news.com/news/national/photo/2026090301000258/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 対策担う企業に認証制度 資本・役員・漏洩対策など安全性審査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA07BQV0X00C26A8000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-03",
+    "time": null,
     "organization": "shinmai.co.jp",
     "identifier": "システム障害",
     "title": "NYの小中学校でAI利用禁止 1年間60万人に、依存を懸念 - 信濃毎日新聞",

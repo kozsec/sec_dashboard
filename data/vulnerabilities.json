@@ -5,11 +5,11 @@
     "product": null,
     "title": "BerriAI LiteLLM Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00516,
+    "epss_current": 0.0087,
     "cvss": 8.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-48710",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02099,
+    "epss_current": 0.11042,
     "cvss": 6.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-49869",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Kestra OSS OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00991,
+    "epss_current": 0.01917,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-82329",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "JFrog Artifactory Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01242,
+    "epss_current": 0.07666,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-9586",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Sangoma Switchvox SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01088,
+    "epss_current": 0.11845,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-83548",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00266,
+    "epss_current": 0.0071,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-83549",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "SonicWall SMA1000 Appliances OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00917,
+    "epss_current": 0.01625,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-82078",
@@ -221,11 +221,11 @@
     "product": null,
     "title": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.20528,
+    "epss_current": 0.32383,
     "cvss": 8.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:L",
     "published": "2026/08/21",
-    "last_update": "2026/08/27"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-72530",
@@ -413,11 +413,11 @@
     "product": "Langflow",
     "title": "IBM Langflow Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.45213,
+    "epss_current": 0.57019,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/04",
-    "last_update": "2026/09/02"
+    "last_update": "2026/09/03"
   },
   {
     "cve": "CVE-2026-18577",
