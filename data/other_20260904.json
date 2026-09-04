@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-04",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "島根原子力発電所の放射線監視システムに サイバー攻撃 …県「ランサムウェアによる被害」と発表",
+    "url": "https://news.yahoo.co.jp/articles/09998c24e22b7ad41cbbaf3572afc6067b3bfba4/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー セキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱 ...",
+    "url": "https://news.yahoo.co.jp/articles/a9a2d32b04cba0b09612446f5ec583f63cebe721"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、AI サイバー攻撃 から重要インフラ守るため10億ドル拠出を表明 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/7752d660-335d-4eaf-9881-c1303a7bf9bc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "“ 攻撃 の民主化”が進むAI時代、Rubrikが説く「データとAIの守り方」 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252310/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "サイバー対策企業を認証 政府、資本など安全性審査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98574530T00C26A9PD0000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "大阪高裁、チームズに無関係の弁護士ら6千人を招待 「 漏洩 はない」（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/14447aaea4726c5a4d4d08a879c8646f4702ad61"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "不正アクセス",
+    "title": "[写真]Dropbox約5,000アカウントに 不正アクセス 、Lenovo IDの認証連携を悪用 - 財経新聞",
+    "url": "https://www.zaikei.co.jp/photo/868572.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
     "organization": "fnn.jp",
     "identifier": "不正アクセス",
     "title": "アカウント情報聞き出しSNSに 不正アクセス 繰り返したか 会社役員の34歳男を逮捕 被害者100人超か",
