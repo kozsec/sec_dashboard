@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-04",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "大阪高裁でオンライン会議に約６０００アカウントを誤登録 事件の 情報漏えい は確認されず",
+    "url": "https://news.infoseek.co.jp/article/abcnews_62384/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "セントラルコンサルタント コーポレートサイトに不正アクセス、外部との不正な通信も確認",
+    "url": "https://newspicks.com/news/17440475/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "OBC、Cyber Governance Labと国内企業のサイバーセキュリティー強化で協業 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d7219a0f0324e16cf1c0d08558f80527506ac9cb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "bitbank.cc",
+    "identifier": "情報漏洩",
+    "title": "ハードウェアウォレット大手Trezor、物流委託先の 情報漏洩 で米国の顧客約6万 ... - ビットバンク",
+    "url": "https://bitbank.cc/knowledge/breaking/article/ok3z0cm0o2ex"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "malwarebytes.com",
+    "identifier": "情報漏洩",
+    "title": "X 資金の分配がパスワードリセット攻撃と関連している - Malwarebytes",
+    "url": "https://www.malwarebytes.com/ja/blog/scams/2026/09/x-money-rollout-linked-to-password-reset-attacks"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "メール配信システム「める配くん」の一部サーバに 不正アクセス - NewsPicks",
+    "url": "https://newspicks.com/news/17440477/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252243/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "tradingview.com",
+    "identifier": "サイバー攻撃",
+    "title": "米国企業は サイバー攻撃 の増加に直面している — TradingView News",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44W0QS:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "不正アクセス",
+    "title": "小山の美容サロン向けICT事業のSCAT、クラウドサービス 不正 利用被害 情報漏えいは確認されず",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1416062"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
     "organization": "digitaltoday.co.kr",
     "identifier": "情報漏えい",
     "title": "個人 情報 保護委員会、2027年予算案は996億ウォン 予防強化とAI活用に重点",
