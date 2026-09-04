@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-09-04",
     "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "アカウント情報聞き出しSNSに 不正アクセス 繰り返したか 会社役員の34歳男を逮捕 被害者100人超か",
+    "url": "https://www.fnn.jp/articles/-/1107675?display=full"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "不正アクセス",
+    "title": "フロンティアAIの暴走リスク…OpenAI・アンソロピックと中国製オープンモデルの決定的な違い",
+    "url": "https://www.businessinsider.jp/article/2609-openai-anthropic-risky-different-open-weight-rivals-china/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "東京都管工事工業協同組合ウェブサイトが改ざん、CMS の脆弱性を悪用 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/04/56128/54751.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAI、次世代モデル「GPT‑6 Astra」公開 \"世界最高の知能\" - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2138177.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "株式会社ハートビーツ、AWS 環境の ランサムウェア 対策ウェビナーを9月25日に開催 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000110.000093709&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "predge.jp",
+    "identifier": "ランサムウェア",
+    "title": "『【AWS】 ランサムウェア 対策、何を導入し、どう運用するべきか整理できていますか？』という ...",
+    "url": "https://predge.jp/pr/357301/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "地区の“秋の文化祭”リストを送信ミス 実行委員130人分の個人 情報 が 漏えい か＜福島県福島市",
+    "url": "https://news.yahoo.co.jp/articles/99e3e4e4eb887e2da84b5d69a508cf5b174c1365"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "RIZAP社員、私用AIに顧客の個人 情報 入力 氏名や疾患、保険証番号など……同社が謝罪",
+    "url": "https://newspicks.com/news/17442156/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "RIZAP社員、私用AIに顧客の個人 情報 入力 氏名や疾患、保険証番号など……同社が謝罪 …",
+    "url": "https://news.yahoo.co.jp/articles/630da296f09e097790e0f672611cbb01ea1524ba"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー セキュリティ byイエラエ、「ネット de 診断」で侵入テスト機能を提供開始 AIが脆弱 ...",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2138017.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIが「GPT-6 Astra」を提供開始、 サイバー攻撃 能力懸念で一時開発停止",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03373/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252243/2/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウエア感染、なぜ多発？ 「分業」で 攻撃 進化 被害を最小限に抑える対策とは - 時事通信",
+    "url": "https://www.jiji.com/jc/v8?id=202608ransomwareP1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "島根原子力発電所の放射線監視システムに サイバー攻撃 …県「ランサムウェアによる被害」と発表",
+    "url": "https://www.yomiuri.co.jp/local/kansai/news/20260904-GYO1T00070/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "島根原子力発電所の放射線監視システムに サイバー攻撃 …県「ランサムウェアによる被害」と発表",
+    "url": "https://news.yahoo.co.jp/articles/09998c24e22b7ad41cbbaf3572afc6067b3bfba4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "会社役員の男がインフルエンサーになりすまし女性のSNSに 不正アクセス か - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32237136/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "｢防衛機密をクラウド運用｣って大丈夫？ 漠然とした不安の正体が｢錯覚｣である理由《リスクを ...",
+    "url": "https://toyokeizai.net/articles/-/956491"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "メール配信システム「める配くん」の一部サーバに 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/04/56129/54412.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "インフルエンサーになりすまし女性に接触、アカウント情報聞き出しSNSに 不正アクセス 繰り返し ...",
+    "url": "https://www.fnn.jp/articles/-/1107675"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "サイバー攻撃",
     "title": "グーグル、3週間で「Gemini 3.8 Flash」投入 サイバー 特化型も同時発表 - BigGo ファイナンス",
