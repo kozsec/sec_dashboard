@@ -17,11 +17,11 @@
     "product": null,
     "title": "Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
     "kev": "あり",
-    "epss_current": 0.11042,
+    "epss_current": 0.36257,
     "cvss": 6.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
     "published": "2026/09/02",
-    "last_update": "2026/09/03"
+    "last_update": "2026/09/04"
   },
   {
     "cve": "CVE-2026-49869",
@@ -89,11 +89,11 @@
     "product": null,
     "title": "PaperCut NG/MF Unsafe Reflection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00926,
+    "epss_current": 0.01691,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/09/01"
+    "last_update": "2026/09/04"
   },
   {
     "cve": "CVE-2026-81578",
@@ -101,11 +101,11 @@
     "product": null,
     "title": "PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00771,
+    "epss_current": 0.01617,
     "cvss": 8.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:L/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/09/01"
+    "last_update": "2026/09/04"
   },
   {
     "cve": "CVE-2021-23758",
@@ -377,11 +377,11 @@
     "product": "TeamCity",
     "title": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.87709,
+    "epss_current": 0.86518,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/05",
-    "last_update": "2026/08/28"
+    "last_update": "2026/09/04"
   },
   {
     "cve": "CVE-2026-18556",
