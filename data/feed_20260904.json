@@ -1,5 +1,15 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "Google",
+    "product": "Chromium V8",
+    "identifier": "CVE-2026-85046",
+    "title": "Google Chromium V8 Type Confusion Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-85046&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-04",
     "time": null,

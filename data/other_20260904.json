@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-04",
     "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 保護委員会、2027年予算案は996億ウォン 予防強化とAI活用に重点",
+    "url": "https://www.digitaltoday.co.kr/jp/view/100207/pipc-2027-budget-99-6-billion-won-prevention-system-ai-safety"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、AI時代の脆弱性対策サービス「BluStellar Intelligent Managed Service」を発表",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2138041.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本交通への不正アクセス、保有ファイルの一部が外部流出 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/04/56132/54452.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "ascii.jp",
+    "identifier": "情報漏えい",
+    "title": "「セキュリティ強化で仕事が増える」悩みを解決！ 中小企業 IT担当者のための新常識 - アスキー",
+    "url": "https://ascii.jp/elem/000/004/429/4429332/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏えい",
+    "title": "地区の“秋の文化祭”リストを送信ミス 実行委員130人分の個人 情報 が 漏えい か＜福島県福島市",
+    "url": "https://www.fnn.jp/articles/-/1107853"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "欧州で破壊工作、ロシアが関与か ドローン× サイバー攻撃 ハイブリッド戦強まる - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98596900U6A900C2EA4000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-04",
+    "time": null,
     "organization": "sanin-chuo.co.jp",
     "identifier": "情報漏えい",
     "title": "イオン熊本爆発調査委が初会合 ガス 漏えい 検証 経産省 - 山陰中央新報デジタル",

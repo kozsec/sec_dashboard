@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-85046",
+    "company": "Google",
+    "product": null,
+    "title": "Google Chromium V8 Type Confusion Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00462,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "published": "2026/09/04",
+    "last_update": "2026/09/04"
+  },
+  {
     "cve": "CVE-2026-59822",
     "company": "BerriAI",
     "product": null,
