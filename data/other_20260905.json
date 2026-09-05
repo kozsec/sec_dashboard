@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-05",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "大阪高裁でオンライン会議に約６０００アカウントを誤登録 事件の 情報漏えい は確認されず",
+    "url": "https://topics.smt.docomo.ne.jp/article/abcnews/region/abcnews-62384"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "サイバー攻撃",
+    "title": "PC刷新機にHPの法人向けPCと「HP Sure Click Enterprise」導入でセキュリティを抜本的に強化",
+    "url": "https://ccsi.jp/14969/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米中、AI安全で対話へ 首脳会談前、「暴走」警戒（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bf2b395e8994b024c5e6baf0a4444b32005d3171"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIは、 サイバー セキュリティ強化のための重要なインフラを支援するために10億ドルを投資 ...",
+    "url": "https://www.vietnam.vn/ja/openai-chi-1-ty-usd-ho-tro-cac-ha-tang-thiet-yeu-cung-co-an-ninh-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "サイバー攻撃",
+    "title": "英政府、 サイバー攻撃 ・国家間の緊張を見越して各家庭へ食料備蓄を呼びかけ | チバテレ＋プラス",
+    "url": "https://www.chiba-tv.com/plus/detail/amp/2026091976923"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ライザップ、病歴など生成AIに誤送信 (朝日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b05e527b2941672b24218c7853769d4bd0bac409/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "米国と中国は、AIのセキュリティリスクについて協議を行った。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/my-va-trung-quoc-doi-thoai-ve-rui-ro-an-toan-ai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-05",
+    "time": null,
     "organization": "japan.zdnet.com",
     "identifier": "サイバー攻撃",
     "title": "Perplexityの「Windows」版AIエージェントを試す--最も感心した点 - (page 2) - ZDNET Japan",
