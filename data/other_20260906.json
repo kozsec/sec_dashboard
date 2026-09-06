@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-06",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "単独のサイバー攻撃者が企業の防衛網を突破--わずか10時間の詳細経緯（ZDNET Japan）",
+    "url": "https://news.yahoo.co.jp/articles/81a28d40f3694d69cd85aadb80a1e8dcf5e143a3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ISR、セキュリティキーの統合サブスクサービス「CloudGate SKaaS」を発表 - クラウド Watch",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2138595.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIエージェントのダークサイド顕在化、システム開発で相次ぐ事故",
+    "url": "https://www.nikkei.com/article/DGXZQOUC251PF0V20C26A8000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "bunshun.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【イベントレポート】 サイバー セキュリティの大転換点 －AI時代の脅威構造と対策の最適解",
+    "url": "https://bunshun.jp/bungeishunju/articles/h12438"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "spurs.sc",
+    "identifier": "情報漏洩",
+    "title": "【試合評】アラスデア・ゴールド：“構造は改善、攻撃は迷子”    デゼルビが語った判断ミスの正体と",
+    "url": "https://spurs.sc/2026/09/07/spurs-forest-talking-points-dezerbi-mole-savio-udogie-20260906/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏洩",
+    "title": "【解説】厚労省、医療サイバー対策に137億円｜外部接続点の集約に129億円 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117621/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "情報漏洩",
     "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明 - NewsPicks",
