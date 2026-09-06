@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-06",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 からの防御支援に商機…ＩＴ各社、ＡＩで弱点検出・修正 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/ef189e2ca4644af7cf53189f37239165501b0584/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日立、熟練者の暗黙知をAI向けデータに変換―HMAXに「Data Fabric」など追加 | 財経新聞",
+    "url": "http://www.zaikei.co.jp/article/20260906/868796.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 からの防御支援に商機…ＩＴ各社、ＡＩで弱点検出・修正 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260905_gyt1t00276/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "不正アクセス",
+    "title": "[写真]読み取り専用のはずが書き込み可能に OpenAIエージェントの独Wiki利用が判明 - 財経新聞",
+    "url": "https://www.zaikei.co.jp/photo/868797.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
     "organization": "chiba-tv.com",
     "identifier": "情報漏えい",
     "title": "ふるさと納税アンケート、個人 情報 218人 漏えい 鴨川市 | チバテレ＋プラス",
