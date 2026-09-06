@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-06",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明 - NewsPicks",
+    "url": "https://newspicks.com/news/17451243/?block=categories&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "サイバー攻撃",
+    "title": "米軍がイランのタンカー3隻を 攻撃 米空母と駆逐艦への弾道ミサイル発射に対抗 (産経ニュース)",
+    "url": "https://newspicks.com/news/17451301/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "病院で相次ぐ サイバー攻撃 、厚労省が対策強化へ…外部との回線集約化に助成・攻撃時の遮断が ...",
+    "url": "https://www.yomiuri.co.jp/national/20260906-GYT1T00194/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIが変える日本の安全保障：パランティア活用と同時に、独自システム開発を - nippon.com",
+    "url": "https://www.nippon.com/ja/in-depth/d01261/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "病院で相次ぐ サイバー攻撃 、厚労省が対策強化へ…外部との回線集約化に ... - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32257895/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "単独の サイバー攻撃 者が企業の防衛網を突破--わずか10時間の詳細経緯 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252229/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAIのAIエージェントが放置wikiを乗っ取り掲示板化、問われる異常行動と事故の開示基準",
+    "url": "https://jbpress.ismedia.jp/articles/-/96874"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-06",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "宮崎県立高校西都地区生徒寮で個人 情報漏えい か - Yahoo!ニュース",
