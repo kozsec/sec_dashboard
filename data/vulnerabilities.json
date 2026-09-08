@@ -605,11 +605,11 @@
     "product": "KNX Protocol Connection Authorization Option 1",
     "title": "KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01283,
+    "epss_current": 0.01294,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/07/15",
-    "last_update": "2026/08/25"
+    "last_update": "2026/09/08"
   },
   {
     "cve": "CVE-2026-56155",
