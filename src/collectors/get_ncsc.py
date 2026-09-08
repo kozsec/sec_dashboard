@@ -122,11 +122,12 @@ def save_json(articles):
         return
 
     existing.extend(new_articles)
-
-    existing.sort(
+    
+    )
+        existing.sort(
         key=lambda x: (
-            x.get("date", ""),
-            x.get("time", "")
+            x.get("date") or "",
+            x.get("time") or ""
         ),
         reverse=True
     )
