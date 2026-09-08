@@ -1,5 +1,45 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "Adobe",
+    "product": "Commerce and Magento",
+    "identifier": "CVE-2026-75650",
+    "title": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-75650&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "Windows",
+    "identifier": "CVE-2026-81963",
+    "title": "Microsoft Windows Link Following Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-81963&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "N-able",
+    "product": "N-central",
+    "identifier": "CVE-2026-86218",
+    "title": "N-able N-central Static Code Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-86218&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "Windows",
+    "identifier": "CVE-2026-85880",
+    "title": "Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-85880&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "NCO",
     "date": "2026-09-08",
     "time": null,
