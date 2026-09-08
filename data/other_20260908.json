@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-09-08",
     "time": null,
+    "organization": "coki.jp",
+    "identifier": "情報漏洩",
+    "title": "FIXER、草加市に秘匿性高いAIサービス提供 ～自治体で初の採用、個人 情報 入力可能に",
+    "url": "https://coki.jp/article/news/92386/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "不正アクセス",
+    "title": "韓国「カンナムオンニ」22万人の情報漏えい 日本人約4万8000人も 写真や決済情報も",
+    "url": "https://news.ksb.co.jp/ann/article/16872583"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "美容医療アプリ「Unni」への 不正アクセス で22万人超の個人情報が漏洩 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32269588/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "J1京都 ファンクラブで個人 情報漏えい 事案「心より深くお詫び」 職員のファイル誤送信が原因",
+    "url": "https://news.yahoo.co.jp/articles/e0e4f513a5caea47cdb15fc245947402b87e1641"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "sponichi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "J1京都 ファンクラブで個人 情報漏えい 事案「心より深くお詫び」 職員のファイル誤送信が原因",
+    "url": "https://www.sponichi.co.jp/soccer/news/2026/09/08/kiji/20260908s00002179306000c.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "韓国「カンナムオンニ」22万人の 情報漏えい 日本人約4万8000人も 写真や決済情報も - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000531906.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
+    "url": "https://news.yahoo.co.jp/articles/bd74b9a53ee81d08d773adf8c620e3f74162439e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "【社説】想定外の挙動を示す先端AI 安全確保の国際基準を - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV982GJ6V98USPT00LM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで - BBC",
+    "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 防御拠点、東京に整備へ 自衛隊・警察、連携強化（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/5549341f63fc729b0f4b082d34500d966fd55b7c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃の「見えない入口」を可視化か グランセキュノロジーが新サービス「Mitokude.local ...",
+    "url": "https://ccsi.jp/14985/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "マクニカ、ASMで発見した未把握資産まで対象に漏洩情報を高精度に発見するダークウェブ調査 ...",
+    "url": "https://news.livedoor.com/pr_topics/detail/32270445/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "警察庁と日本マイクロソフトがサイバー事案対策で協定 ～防犯教育にマイクラの教材も提供",
+    "url": "https://news.yahoo.co.jp/articles/e3429dd58ac14896644ad0d6c25917f7454b6c5c/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携（ITmedia NEWS） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_news/trend/itmedia_news-20260908_2000001241"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIが変えた地政学リスク GMOイエラエ・奥野氏が語る「止まらない社会」の設計思想 - JBpress",
+    "url": "https://jbpress.ismedia.jp/articles/-/96797"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "｢ゴジラ｣｢国宝｣｢呪術廻戦｣大ヒット連発の裏で《東宝》は サイバー リスクから｢コンテンツ｣や｢顧客 ...",
+    "url": "https://toyokeizai.net/articles/-/956976?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "情報漏えい",
     "title": "01銀行のシステムに不正アクセス、最大100社の 情報 が 漏えい 1枚目の写真・画像",
