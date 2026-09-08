@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-08",
     "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "守るべきはデータではなく事業 ～ CTC、企業のサイバーセキュリティ・ガバナンス体系を解説",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56150.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI時代、「完全自律型SOC」は幻想か？ガートナーが語る“限界”と次の一手 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/cc132cbbf251995acc735a833d9f1cac972ddd91"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "サカタのタネへの 不正アクセス 、調査結果を公表 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56155.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "さくらインターネットへの不正アクセス、案内ページを公開 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56156.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
     "organization": "internet.watch.impress.co.jp",
     "identifier": "サイバー攻撃",
     "title": "AIによって サイバー攻撃 は本当に「高度化」したのか？ - INTERNET Watch",
