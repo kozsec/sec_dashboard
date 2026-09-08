@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "source": "NCO",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "政府情報システムのためのセキュリティ評価制度（ISMAP）運営委員会第42回会合を開催",
+    "url": "https://www.cyber.go.jp/policy/group/general/ismap/unei.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年9月8日 産業サイバーセンターは、キングモンクット工科大学ラカバン校 （KOSEN-KMITL）にて産業サイバーセキュリティの実践的な演習授業実施を支援しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/global/news20260908.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年9月8日 ランサムウェア被害から学ぶ教訓集を公開しました",
+    "url": "https://www.ipa.go.jp/security/todokede/crack-virus/ransomware_lessons_learned.html"
+  }
+]

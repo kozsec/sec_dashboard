@@ -4,6 +4,168 @@
     "date": "2026-09-08",
     "time": null,
     "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "01銀行のシステムに不正アクセス、最大100社の 情報 が 漏えい 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/07/56142/54687.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "教育ソフトウェアの休眠中のレンタルサーバに ランサムウェア 攻撃、暗号化被害と不正アクセスの ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/08/56158/54579.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「自社では見えず、攻撃者にだけ見えるセキュリティリスク」をなくす、ASMサービス「Mitokude ...",
+    "url": "https://news.yahoo.co.jp/articles/bb21c976daf80947b2ea7f18550c1fab3a6cc839/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "ランサムウェア",
+    "title": "｢ゴジラ｣｢国宝｣｢呪術廻戦｣大ヒット連発の裏で《東宝》はサイバーリスクから｢コンテンツ｣や｢顧客 ...",
+    "url": "https://toyokeizai.net/articles/-/956976?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "チェック・ポイント、OpenAIの「Daybreak」をセキュリティプラットフォーム全体に導入",
+    "url": "https://prtimes.jp/main/html/rd/p/000000547.000021207.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "韓国発の美容医療アプリ「Unni（カンナムオンニ）」個人 情報漏洩 謝罪 写真も漏洩対象",
+    "url": "https://news.livedoor.com/article/detail/32269588/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "韓国美容医療プラットフォーム 22万人の個人 情報 流出、相談写真まで 漏洩 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32268062/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "マクニカ、ASMで発見した未把握資産まで対象に 漏洩情報 を高精度に発見するダークウェブ調査 ...",
+    "url": "https://www.atpress.ne.jp/news/630825"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "韓国発の美容医療アプリ「Unni（カンナムオンニ）」個人 情報漏洩 謝罪 写真も漏洩対象 …",
+    "url": "https://news.yahoo.co.jp/articles/273dd1f76e0a9db3dd8b4c67fcab9779a87f7de8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "Magentoのゼロデイ「StyleSmuggler」が悪用され、Linuxバックドアが展開される（CVE-2026 ...",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47651/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "マクニカ、ASMで発見した未把握資産まで対象に漏洩情報を高精度に発見するダークウェブ調査 ...",
+    "url": "https://www.atpress.ne.jp/news/2150300"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "ランサムウェア",
+    "title": "マクニカ、ASMで発見した未把握資産まで対象に漏洩情報を高精度に発見するダークウェブ調査 ...",
+    "url": "https://newscast.jp/smart/news/2150300"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "afpbb.com",
+    "identifier": "ランサムウェア",
+    "title": "マクニカ、ASMで発見した未把握資産まで対象に漏洩情報を高精度に発見するダークウェブ調査 ...",
+    "url": "https://www.afpbb.com/articles/-/3651926"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "BigBearがMicrosoft 365を狙い撃ち AitM 攻撃 で企業の認証情報を窃取 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47655/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 の「被害経験なし」企業は約 6 割へ減少 ～ 東商2026年アンケート調査 - NewsPicks",
+    "url": "https://newspicks.com/news/17460192/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "lac.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "名古屋鉄道様 グループ全体の脆弱性診断と脆弱性管理コンサルティング実施事例 | LAC WATCH",
+    "url": "https://www.lac.co.jp/lacwatch/casestudy/20260908_004838.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "gmo-cybersecurity.com",
+    "identifier": "サイバー攻撃",
+    "title": "魚の骨が、抜けた日。DEF CON CTF世界一までの20年 - GMO サイバー セキュリティ byイエラエ",
+    "url": "https://gmo-cybersecurity.com/column/ctf/def-con-no1/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「うちの会社、何がつながっているか把握してる？」相次ぐ情報漏洩から生まれた新サービスを ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/3be679d3f8c793cb22934260a2b39112c8068688"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-08",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
     "identifier": "システム障害",
     "title": "守るべきはデータではなく事業 ～ CTC、企業のサイバーセキュリティ・ガバナンス体系を解説",
     "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56150.html"
