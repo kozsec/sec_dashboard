@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年9月9日 ITパスポート試験（令和8年7月実施）の合格証書は9月8日（火曜日）発送済です",
+    "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pass.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年9月9日 情報マネジメント試験・基本情報技術者試験（令和8年7月実施）の合格証書は9月8日（火曜日）発送済です",
+    "url": "https://www.ipa.go.jp/shiken/mousikomi/cbt_sg_fe.html#cbt04"
+  }
+]
