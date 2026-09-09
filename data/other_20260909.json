@@ -5,6 +5,105 @@
     "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "システム障害",
+    "title": "英国「空の道」がまひ…管制 システム障害 で 1000便が欠航・遅延 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/a78042f99b040e4845cde8636f7afd3f2a70497b/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "エヌ・イー ケムキャットの社内 システム に不正アクセス、端末でマルウェアが実行されたことが ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/09/56172/54545.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "traicy.com",
+    "identifier": "システム障害",
+    "title": "イギリス各空港、運航混乱 日本路線にも影響 - TRAICY（トライシー）",
+    "url": "https://www.traicy.com/posts/20260909381438/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "voix.jp",
+    "identifier": "ランサムウェア",
+    "title": "ジャスミーが保険代理店向けクラウド型PCセキュリティを強化し業務品質向上を実現 - VOIX",
+    "url": "https://voix.jp/money/insurance/33675/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "jutaku-s.com",
+    "identifier": "ランサムウェア",
+    "title": "大東建託、賃貸マンションに顔認証システムを導入 - 住宅新報",
+    "url": "https://www.jutaku-s.com/news/id/105569"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ジェックスに ランサムウェア 攻撃、個人情報が一時的に侵入者に閲覧可能な状態に 2枚目の写真 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/09/56171/54508.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "マクニカ、 ランサムウェア 攻撃の侵入口となる漏えい情報を発見するダークウェブ調査サービス ...",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2139104.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク",
+    "url": "https://act1.co.jp/2026-09-09-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "警察署がセミナー、 サイバー 犯罪の手口紹介「情報狙われている」 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV991DYNV99UTIL02HM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "ascii.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー犯罪は「産業化」へ、AI活用が加速するアフリカの脅威をインターポールが分析 - アスキー",
+    "url": "https://ascii.jp/elem/000/004/432/4432758/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ジェックスに ランサムウェア 攻撃、個人情報が一時的に侵入者に閲覧可能な状態に 3枚目の写真 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/09/56171/54509.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
     "title": "英各地空港で管制 システム障害 運航に乱れで300便近くが欠航（AP通信） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/226b6da3987b0a04dfaae9ab059832f3ec9f5ff4"
   },
