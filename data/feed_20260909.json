@@ -16,5 +16,14 @@
     "identifier": "セキュリティ",
     "title": "試験情報 2026年9月9日 情報マネジメント試験・基本情報技術者試験（令和8年7月実施）の合格証書は9月8日（火曜日）発送済です",
     "url": "https://www.ipa.go.jp/shiken/mousikomi/cbt_sg_fe.html#cbt04"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "IR 8536 (Final)",
+    "title": "Supply Chain Traceability: Manufacturing Meta-Framework",
+    "url": "https://csrc.nist.gov/pubs/ir/8536/final"
   }
 ]

@@ -5,11 +5,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00676,
+    "epss_current": 0.02148,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/09/08"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-81963",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Microsoft Windows Link Following Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00631,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/09/08"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-86218",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "N-able N-central Static Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00411,
+    "epss_current": 0.00744,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/08",
-    "last_update": "2026/09/08"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-85880",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00572,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/09/08"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-85046",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Google Chromium V8 Type Confusion Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01162,
+    "epss_current": 0.01427,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/09/04",
-    "last_update": "2026/09/06"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-59822",
@@ -125,11 +125,11 @@
     "product": null,
     "title": "SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0071,
+    "epss_current": 0.07447,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/03"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-83549",
@@ -137,11 +137,11 @@
     "product": null,
     "title": "SonicWall SMA1000 Appliances OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01625,
+    "epss_current": 0.13843,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/02",
-    "last_update": "2026/09/03"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-82078",
@@ -473,11 +473,11 @@
     "product": "Langflow",
     "title": "IBM Langflow Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.57019,
+    "epss_current": 0.60597,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/04",
-    "last_update": "2026/09/03"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-18577",
@@ -509,11 +509,11 @@
     "product": "FortiOS",
     "title": "Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
     "kev": "あり",
-    "epss_current": 0.2915,
+    "epss_current": 0.29601,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/27",
-    "last_update": "2026/08/24"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-16812",
@@ -845,11 +845,11 @@
     "product": "EDS5000",
     "title": "Lantronix EDS5000 Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.21985,
+    "epss_current": 0.1926,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/23",
-    "last_update": "2026/09/05"
+    "last_update": "2026/09/09"
   },
   {
     "cve": "CVE-2026-34910",
