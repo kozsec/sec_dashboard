@@ -1,5 +1,45 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "Citrix",
+    "product": "NetScaler",
+    "identifier": "CVE-2026-19490",
+    "title": "Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-19490&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "Fortinet",
+    "product": "Multiple Products",
+    "identifier": "CVE-2025-25249",
+    "title": "Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-25249&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "Google",
+    "product": "Chromium V8",
+    "identifier": "CVE-2026-87491",
+    "title": "Google Chromium V8 Out of Bounds Write Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-87491&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "Cisco",
+    "product": "Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+    "identifier": "CVE-2026-20079",
+    "title": "Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-20079&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-09",
     "time": null,

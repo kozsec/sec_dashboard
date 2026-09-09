@@ -1,5 +1,53 @@
 [
   {
+    "cve": "CVE-2026-19490",
+    "company": "Citrix",
+    "product": null,
+    "title": "Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.03372,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:L/SI:L/SA:L/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/09/09",
+    "last_update": "2026/09/09"
+  },
+  {
+    "cve": "CVE-2025-25249",
+    "company": "Fortinet",
+    "product": null,
+    "title": "Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00759,
+    "cvss": 8.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/09/09",
+    "last_update": "2026/09/09"
+  },
+  {
+    "cve": "CVE-2026-87491",
+    "company": "Google",
+    "product": null,
+    "title": "Google Chromium V8 Out of Bounds Write Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00291,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "published": "2026/09/09",
+    "last_update": "2026/09/09"
+  },
+  {
+    "cve": "CVE-2026-20079",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.35946,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/09/09",
+    "last_update": "2026/09/09"
+  },
+  {
     "cve": "CVE-2026-75650",
     "company": "Adobe",
     "product": null,
