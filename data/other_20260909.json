@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-09",
     "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【10月8日】サプライチェーン強化に向けたセキュリティ対策評価制度 - 日経クロステック Active",
+    "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/03/00463/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "s.response.jp",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、SBOM自動生成機能付き改ざん検知ソフト新版を11月に発売… サイバー攻撃 に対応",
+    "url": "https://s.response.jp/article/2026/09/09/416356.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "ryukyushimpo.jp",
+    "identifier": "情報漏えい",
+    "title": "国頭村、 情報漏えい 認める 宮城秋乃さんの国賠請求訴訟 - 琉球新報",
+    "url": "https://ryukyushimpo.jp/news/entry-5505883.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "保険代理店向けPCセキュリティ刷新 ランサムウェア 対策を4層強化、業務品質評価対応も",
+    "url": "https://ccsi.jp/15037/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "エヌ・イー ケムキャットの社内システムに 不正アクセス 、端末でマルウェアが実行されたことが原因",
+    "url": "https://newspicks.com/news/17468453/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "ai.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Google、 攻撃 者によるエージェンティックAIの悪用実態を公開 - AI Watch",
+    "url": "https://ai.watch.impress.co.jp/docs/news/2139461.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "東邦通信システムズが利用する外部ホスティングサーバに不正アクセス、一部メールアカウントで ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/09/56173.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-09",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "不正アクセス",
     "title": "DeepSeekやアリババ、米AI企業から開発用データを収集－米当局が警告 - TBS NEWS DIG",
