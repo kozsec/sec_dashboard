@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-10",
     "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "警察庁の前サイバー捜査課長を懲戒免職 領収書を偽造など捜査費170万円だまし取ったか",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000532465.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "さくらネット、不正アクセスの再発防止策公表 全サーバーを再構築 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF10AGJ0Q6A910C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "89%の日本企業がオンプレミス型セキュリティ特化型AIを開発した場合「関心がある」 2枚目の ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/09/56169/54659.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 シナリオを想定した、実地訓練を実施する。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/dien-tap-thuc-chien-cac-tinh-huong-gia-lap-tan-cong-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "警察庁、前 サイバー 捜査課長を懲戒免職 捜査費を私的流用 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/6c3678cada26005d0b107d0953f852cf91130f54"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "東京科学大学の 情報 基盤に不正アクセス、個人 情報 が 漏えい した可能性 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/10/56191/54826.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 認める 国賠訴訟受け国頭村 那覇地裁 | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1920718"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "quasa.io",
+    "identifier": "ランサムウェア",
+    "title": "Teams偽サポート攻撃、遠隔操作からWinRM横展開へ - Quasa.io",
+    "url": "https://quasa.io/ja/media/qing-shisudesu-karashe-nei-heng-zhan-kai-he-teamswei-sapotogong-ji"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "独自＞日大理工学部 教職員メール乗っ取られ、不審メール 50件送信 情報漏洩 の恐れも",
+    "url": "https://news.yahoo.co.jp/articles/ea1844a1e1a71af73f5edfc03ecdf1846ae45488/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "不正アクセス",
+    "title": "美容医療プラットフォーム「Unni」、個人情報漏えい事案で追加報告 口コミ写真などは漏えいなしか",
+    "url": "https://ccsi.jp/15091/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーション基盤の提供を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "クラウド環境の不正アクセス制限に脆弱性、入居申込者情報が流出した可能性 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/10/56185/54565.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
     "organization": "nishinippon.co.jp",
     "identifier": "情報漏洩",
     "title": "令和8年熊本地震被災地域の対象事業所に、行政書士事務所POLAIREと日本版DBS・BCP支援 ...",
