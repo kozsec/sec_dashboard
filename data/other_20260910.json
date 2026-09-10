@@ -3,6 +3,195 @@
     "source": "Web",
     "date": "2026-09-10",
     "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウエアの被害、過去最多 上半期、３５都道府県で１２３件 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/514619"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害最多、「二重恐喝」9割超 暗号解除とデータ流出で脅す - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUD061XZ0W6A900C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「Claude」による不正アクセス、4件目が判明    Anthropic、「アライメントの失敗」と評価を修正 …",
+    "url": "https://news.yahoo.co.jp/articles/d9e6cbb9de6a0941c963be1ae143e501e06d2243"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "システム障害",
+    "title": "AI見守り システム 及び警備ロボットの実証実験を東京23区の区役所で初めて開始！ - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000102.000165139.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "バックアップデータがAIの金鉱に--Cohesityが狙うセカンダリーデータの新価値 - (page 2)",
+    "url": "https://japan.zdnet.com/article/35252439/2/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエアの被害、過去最多 上半期、３５都道府県で１２３件",
+    "url": "https://www.nnn.co.jp/articles/-/796443"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエアの被害、過去最多 上半期、35都道府県で123件 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/kyodo_1470592117327397523/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエアの被害、過去最多 上半期、35都道府県で123件 - 47NEWS",
+    "url": "https://www.47news.jp/14917600.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "ランサムウェア",
+    "title": "ネット悪用詐欺が過去最多 2026年上半期の被害額1755億円 「ニセ社長詐欺」「 ランサムウェア ...",
+    "url": "https://www.fnn.jp/articles/-/1111509"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "企業狙い身代金要求「 ランサムウェア 」被害報告123件 半期の過去最多 被害は高額化・長期化の ...",
+    "url": "https://news.yahoo.co.jp/articles/7ec29b688556377ba356a1d2d9f4ceabe6b27def"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "身代金要求「ランサムウェア」被害、上半期１２３件で過去最多… サイバー攻撃 の「予兆」は前年 ...",
+    "url": "https://www.yomiuri.co.jp/national/20260910-GYT1T00128/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "東京科学大学の情報基盤に 不正アクセス 、個人情報が漏えいした可能性 3枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/10/56191/54828.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット、 不正アクセス 巡り業績への影響「限定的」（ロイター） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/6ecaf7564f0636cf7ed886beb77cd71ccf1f89dc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "「Claude」による 不正アクセス 、4件目が判明    Anthropic、「アライメントの失敗」と評価を修正",
+    "url": "https://newspicks.com/news/17476829/?block=categories&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネット、システムに 不正アクセス 136万563アカウントに影響か | 電波新聞デジタル",
+    "url": "https://dempa-digital.com/article/725106"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "不正アクセス",
+    "title": "アンソロピック、AIモデルによる新たな 不正アクセス 事例を公表 | Codebook｜Security News",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47662/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "straightpress.jp",
+    "identifier": "情報漏洩",
+    "title": "AI特有のリスクを最短1週間で診断する「AIシステム脆弱性クイック診断」を提供開始",
+    "url": "https://straightpress.jp/company_news/detail?pr=000000191.000099874"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "Trezor装う偽セキュリティ警告メールが拡散（NADA NEWS） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/eb9e2ccd530a042f718f8f4f93ac83fe75d2b368"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.jkn.co.kr",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 1000万人超で売上10%課徴金、企業に高まるセキュリティー責任 - 재경일보",
+    "url": "https://news.jkn.co.kr/post/981970"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "｢約2万人流出｣を明かしたのは委託元だった…ライザップの\"シャドーAI\"による 情報漏洩 で露呈した ...",
+    "url": "https://toyokeizai.net/articles/-/957435?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIが「全人類を滅ぼす」可能性は「10％以上」 米アンソロピック研究者が警告 - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/cm27vdrp84zo"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
     "organization": "gigazine.net",
     "identifier": "情報漏えい",
     "title": "今日は毎月恒例「Windows Update」の日、966件の脆弱性と2件のゼロデイ脆弱性を修正し ...",
