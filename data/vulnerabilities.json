@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-86060",
+    "company": "MikroTik",
+    "product": null,
+    "title": "MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00401,
+    "cvss": 9.2,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/09/10",
+    "last_update": "2026/09/10"
+  },
+  {
+    "cve": "CVE-2026-67277",
+    "company": "MikroTik",
+    "product": null,
+    "title": "MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00435,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/09/10",
+    "last_update": "2026/09/10"
+  },
+  {
     "cve": "CVE-2026-19490",
     "company": "Citrix",
     "product": null,

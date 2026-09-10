@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "MikroTik",
+    "product": "RouterOS",
+    "identifier": "CVE-2026-86060",
+    "title": "MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-86060&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "MikroTik",
+    "product": "RouterOS",
+    "identifier": "CVE-2026-67277",
+    "title": "MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-67277&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-09-10",
     "time": "11:30",

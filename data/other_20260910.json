@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-10",
     "time": null,
+    "organization": "news.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエアの被害、過去最多 上半期、35都道府県で123件 - NEWSjp",
+    "url": "https://news.jp/i/1470592117327397523"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害、過去最多 上半期１２３件、 サイバー攻撃 深刻化 - 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1077673"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "sentinelone.com",
+    "identifier": "ランサムウェア",
+    "title": "2026年のエンタープライズ向けAIサイバーセキュリティベンダー ベスト12 - SentinelOne",
+    "url": "https://www.sentinelone.com/ja/cybersecurity-101/data-and-ai/ai-cybersecurity-vendors/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
     "organization": "news.tv-asahi.co.jp",
     "identifier": "情報漏洩",
     "title": "警察庁の前サイバー捜査課長を懲戒免職 領収書を偽造など捜査費170万円だまし取ったか",
