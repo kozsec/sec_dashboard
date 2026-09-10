@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-10",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "JR九州と西鉄、 サイバー攻撃 向けBCP策定へ 鉄道インフラ防衛 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOJC097YF0Z00C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "ryukyushimpo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害１２３件最多 サイバー攻撃 深刻上半期・警察庁 不審な接続も急増",
+    "url": "https://ryukyushimpo.jp/politics/entry-5507305.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日本はマルウェア攻撃の検知件数で世界10位、NordVPN「2026年上半期サイバー脅威レポート」",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2140031.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "情報漏えい",
+    "title": "警察庁、前サイバー捜査課長を懲戒免職 - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1470650249692365174/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "ryukyushimpo.jp",
+    "identifier": "情報漏えい",
+    "title": "国頭村 情報漏えい 認める 研究者の国賠訴訟トレラン大会 - 琉球新報",
+    "url": "https://ryukyushimpo.jp/national/entry-5507374.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "独自＞日大理工学部 教職員メール乗っ取られ、不審メール50件送信 情報漏洩 の恐れも",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/sankei/nation/sankei-_affairs_crime_DOEZKPCGRBBYVMPM27EFRHQYRE"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "shikoku-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害、最多１２３件 上半期、不審接続も急増 サイバー攻撃 深刻 - 四国新聞",
+    "url": "https://www.shikoku-np.co.jp/dg/amp/article.aspx?id=K2026091100000012600"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "yama.minato-yamaguchi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害最多１２３件/上半期、 サイバー攻撃 深刻 - 山口新聞",
+    "url": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/110593"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
     "organization": "news.jp",
     "identifier": "ランサムウェア",
     "title": "ランサム ウエアの被害、過去最多 上半期、35都道府県で123件 - NEWSjp",
