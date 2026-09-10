@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-09-10",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらのレンタルサーバ」および販売管理システムへの 不正アクセス について調査結果を公開",
+    "url": "https://news.yahoo.co.jp/articles/ad0b560189412df871b0d3bff1acdff1acc069ca"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "｢約2万人流出｣を明かしたのは委託元だった…ライザップの\"シャドーAI\"による 情報漏洩 で露呈した ...",
+    "url": "https://toyokeizai.net/articles/-/957435?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏えい",
+    "title": "『M365のランサムウェア対策、標準機能だけで十分ですか？』というテーマのウェビナーを開催",
+    "url": "https://prtimes.jp/main/html/rd/p/000005703.000054842.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏えい",
+    "title": "韓国「カンナムオンニ」22万人の 情報漏えい 日本人約4万8000人も 写真や決済情報も",
+    "url": "https://news.ksb.co.jp/ann/article/16872583"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏えい",
+    "title": "きちりHD子会社の採用管理SaaSに不正アクセス マイナンバーや口座 情報 が 漏えい した可能性",
+    "url": "https://act1.co.jp/2026-09-10-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "情報漏えい",
+    "title": "さくらインターネット、不正アクセスの調査が完了--データの外部 流出 は未確認 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252489/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "さくらのレンタルサーバ」および販売管理システムへの不正アクセスについて調査結果を公開",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2139863.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "『【情シス部長・CISO向け】ダークウェブに漏洩した認証情報を把握していますか？』という ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000005699.000054842.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー犯罪摘発112件で前年比19件増（富山県警 2026年上半期） ランサムウェア の暗号データ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2935689"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "ランサムウェア",
+    "title": "Panzer ランサムウェア ：新しいRaaSがイタリアの製造業者と通信プロバイダーを襲撃 - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/panzer-ransomware-a-new-raas-hits-italian-manufacturers-and-telecom-providers/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエアの被害、過去最多 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1788163"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "不正アクセス",
+    "title": "トレザー、第三者メール配信プロバイダーの侵害でフィッシング詐欺に注意喚起",
+    "url": "https://finance.biggo.jp/news/fb58a684-f4a7-4ba1-a2af-2d0a100a20e6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "不正アクセス",
+    "title": "長野県大町市が管理するサイトが 不正アクセス を受け改ざん 一部ページがオンラインカジノへ誘導",
+    "url": "https://www.sanspo.com/article/20260910-QG36Q3CD5BJEZN7473NDL5MEDQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「オンラインカジノ」の誘導ページに…大町市のウェブサイトが 不正アクセス を受け改ざん ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2936259"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "M365 ランサムウェア 対策、標準機能で十分か？ Hornetsecurityがウェビナー開催",
+    "url": "https://ccsi.jp/15063/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "不正アクセス",
+    "title": "大町市のデジタルアーカイブに 不正アクセス サイト改ざんされサービス停止 - 信濃毎日新聞",
+    "url": "https://www.shinmai.co.jp/news/article/gf01dah7b9cvl121or84h940"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-10",
+    "time": null,
     "organization": "tokyo-np.co.jp",
     "identifier": "サイバー攻撃",
     "title": "ランサムウエアの被害、過去最多 上半期、３５都道府県で１２３件 - 東京新聞",
