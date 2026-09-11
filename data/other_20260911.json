@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-11",
     "time": null,
+    "organization": "swissinfo.ch",
+    "identifier": "サイバー攻撃",
+    "title": "プライバシーテック拠点としてのスイス サイバー 犯罪対策と経済的利益の板挟み - Swissinfo",
+    "url": "https://www.swissinfo.ch/jpn/外交/プライバシーテック拠点としてのスイス　サイバー犯罪対策と経済的利益の板挟み/92040759"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "人間が標的を設定→AIエージェントが自律的に サイバー攻撃 アンソロピックが悪用事例集を公表 ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/4443ca0fa7095d708f07962d436c2f68d5f4df82"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 ２４万件 漏えい か デジタル庁に不正アクセス (時事ドットコム)",
+    "url": "https://newspicks.com/news/17486446/?block=categories&ref=index_436189&topRef=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "【警察庁のサイバー空間をめぐる脅威の情勢等の発表を受け緊急提供】ネクストリード - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000012.000068948&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "kstyle.com",
+    "identifier": "情報漏えい",
+    "title": "韓国発の美容医療アプリ「Unni（カンナムオンニ）」一部利用者の個人 情報 が 漏えい ... - Kstyle",
+    "url": "https://kstyle.com/article.ksn?articleNo=2283856"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "kpmg.com",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃を前提とした事業継続へ - KPMG International",
+    "url": "https://kpmg.com/jp/ja/insights/2026/09/event-cyber-bcp.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "情報漏洩",
     "title": "個人 情報 ２４．６万人分 漏えい か デジタル庁運用システムに不正アクセス - NewsPicks",

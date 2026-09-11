@@ -1,5 +1,41 @@
 [
   {
+    "cve": "CVE-2026-84869",
+    "company": "ConnectWise",
+    "product": null,
+    "title": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00382,
+    "cvss": 9.9,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/09/11",
+    "last_update": "2026/09/11"
+  },
+  {
+    "cve": "CVE-2026-42016",
+    "company": "JFrog",
+    "product": null,
+    "title": "JFrog Artifactory Incorrect Authorization Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00266,
+    "cvss": 8.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N",
+    "published": "2026/09/11",
+    "last_update": "2026/09/11"
+  },
+  {
+    "cve": "CVE-2026-42018",
+    "company": "JFrog",
+    "product": null,
+    "title": "JFrog Artifactory Improper Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00349,
+    "cvss": 7.5,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "published": "2026/09/11",
+    "last_update": "2026/09/11"
+  },
+  {
     "cve": "CVE-2026-86060",
     "company": "MikroTik",
     "product": null,

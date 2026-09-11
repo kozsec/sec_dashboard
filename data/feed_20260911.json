@@ -1,5 +1,35 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "ConnectWise",
+    "product": "ScreenConnect",
+    "identifier": "CVE-2026-84869",
+    "title": "ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-84869&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "JFrog",
+    "product": "Artifactory",
+    "identifier": "CVE-2026-42016",
+    "title": "JFrog Artifactory Incorrect Authorization Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-42016&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "JFrog",
+    "product": "Artifactory",
+    "identifier": "CVE-2026-42018",
+    "title": "JFrog Artifactory Improper Authentication Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-42018&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-11",
     "time": null,
