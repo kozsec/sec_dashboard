@@ -1,5 +1,32 @@
 [
   {
+    "source": "IPA",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年9月11日 令和8年度前期試験 特別措置試験（応用情報技術者試験、高度試験、情報処理安全確保支援士試験）における点字受験以外の特別措置を希望する場合の特別措置申請の受付を終了しました",
+    "url": "https://www.ipa.go.jp/shiken/2026/r08zen_exam.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年9月11日 令和8年度前期試験 特別措置試験（情報マネジメント試験及び基本情報技術者試験）における特別措置申請の受付を終了しました",
+    "url": "https://www.ipa.go.jp/shiken/2026/r08zen_exam.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-09-11",
+    "time": "16:00",
+    "organization": "エリッツＨＤ",
+    "identifier": "5533",
+    "title": "個人情報の流出の可能性に関するお知らせ（最終報）",
+    "url": "https://www.release.tdnet.info/inbs/140120260911535165.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-09-11",
     "time": "15:30",

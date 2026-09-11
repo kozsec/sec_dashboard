@@ -3,6 +3,123 @@
     "source": "Web",
     "date": "2026-09-11",
     "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "国の機関の業務環境GSSに不正侵入、職員の氏名など24万6000件 漏洩 の恐れ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03383/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「hololive OFFICIAL CARD GAME」公式サイトに 不正アクセス 、CMSで脆弱性が公表されたこと ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/11/56208/54596.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "他人のアカウントにスマホで 不正アクセス し送金 ベトナム人ら4人逮捕 ... - FNNプライムオンライン",
+    "url": "https://www.fnn.jp/articles/-/1112309"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「個人 情報漏えい の可能性」職員採用試験で利用したシステムに不正アクセス 広島県福山市",
+    "url": "https://news.yahoo.co.jp/articles/232b86591fc9177d3eef6ed96a90072d6c085e58"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "公務員らの個人 情報 24万件超漏洩の可能性 デジタル庁のシステムに不正アクセス - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000532699.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい の疑いで麻績村職員2人を書類送検 空き家バンクの登録申込書を無断でコピーし ...",
+    "url": "https://news.ntv.co.jp/category/society/tse46430db0eab48929d841f8d908aaaaa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "政府システムに不正アクセス 個人 情報 24万件 漏洩 か（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e5676133bc9a3926e5aed887084c04a6af73ad8f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "岡山県早島町役場で情報 システム障害 各種証明書の発行業務などに遅れ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c16b7ae11a52d365c767f43e713591210343db06"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "岡山県早島町役場で情報 システム障害 各種証明書の発行業務などに遅れ - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32301776/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "津山市役所などで情報 システム障害 が発生 住民票の発行手続きなど遅れ 岡山",
+    "url": "https://news.livedoor.com/topics/detail/32300182/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "システム障害",
+    "title": "岡山県早島町役場で情報 システム障害 各種証明書の発行業務などに遅れ | KSBニュース",
+    "url": "https://news.ksb.co.jp/article/16882519"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "デジタル庁運用の システム に不正アクセス 政府職員らの個人情報約24万6000件漏えいか",
+    "url": "https://news.ntv.co.jp/category/politics/203031c83bd14f018e3fdf64026d444b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "津山市役所などで情報 システム障害 が発生 住民票の発行手続きなど遅れ 岡山（KSB瀬戸内海 ...",
+    "url": "https://news.yahoo.co.jp/articles/d7e94486ef1115ce374d804081ee2cccfcc5e67c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "tokyo-np.co.jp",
     "identifier": "ランサムウェア",
     "title": "手口は高度化、特効薬は「なし」…年々増すサイバー攻撃の脅威 企業の機密情報公開 - 東京新聞",
