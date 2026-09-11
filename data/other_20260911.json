@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-11",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報 ２４．６万人分 漏えい か デジタル庁運用システムに不正アクセス - NewsPicks",
+    "url": "https://newspicks.com/news/17486446/?ref=top-news"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "デュオファーマ・バイオテック、 サイバー攻撃 で個人情報流出の可能性 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/0f9c4429-afca-4a12-ba67-13f2b86b6c85"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "津山市役所などで情報 システム障害 が発生 住民票の発行手続きなど遅れ 岡山 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d7e94486ef1115ce374d804081ee2cccfcc5e67c/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "chugoku-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "福山市採用試験の受験者の情報流出か、事業者のサーバーに 不正アクセス | 中国新聞デジタル",
+    "url": "https://www.chugoku-np.co.jp/articles/-/893670"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "情報漏えい",
+    "title": "デジタル庁のGSSに不正アクセス、約24万6000件の個人 情報 が 漏えい した可能性",
+    "url": "https://news.mynavi.jp/techplus/article/20260911-4951397/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "国家公務員などの個人 情報 約24万6000件 漏えい か - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_348568"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏えい",
+    "title": "デジタル庁GSSに不正アクセス 職員ら24.6万件の個人 情報漏えい か - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-09-11-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府ネットに 不正アクセス 24万件超漏えいか - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/kyodo_1470981307222393752/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁GSSに 不正アクセス 、公務員ら24.6万件の個人情報流出か - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/8911e6a0-b8de-423a-9791-30186f0541f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "xtech.nikkei.com",
     "identifier": "情報漏洩",
     "title": "国の機関の業務環境GSSに不正侵入、職員の氏名など24万6000件 漏洩 の恐れ",
