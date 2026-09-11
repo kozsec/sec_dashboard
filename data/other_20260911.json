@@ -3,6 +3,195 @@
     "source": "Web",
     "date": "2026-09-11",
     "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "手口は高度化、特効薬は「なし」…年々増すサイバー攻撃の脅威 企業の機密情報公開 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/514815"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OTセキュリティ責任は経営陣へ ～ フォーティネット最新レポートが明かす現状と課題",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/11/56193.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害過去最多 １２３件 サイバー攻撃 深刻 本県など３５都道府県 警察庁上半期まとめ",
+    "url": "https://www.minpo.jp/articles/-/224900"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府の共通基盤ネット「ＧＳＳ」に サイバー攻撃 、国家公務員らの個人情報２４・６万件漏えいか ...",
+    "url": "https://www.yomiuri.co.jp/national/20260911-GYT1T00096/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "シスコ、Secure FMCの脆弱性CVE-2026-20079が 攻撃 で悪用されたことを確認 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47674/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり ...",
+    "url": "https://news.yahoo.co.jp/articles/3ce2c694bc7e5e43f5cb0c787e7495f4115a7d2b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "運転免許証1億5300万件超が闇サイトに流出 不正アクセス で - CNET Japan",
+    "url": "https://japan.cnet.com/article/35252535/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "政府職員らの個人情報24万件漏洩か デジ庁サービスに 不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9C0PWQV9CULFA00CM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府職員らの個人情報24万件漏洩か デジ庁サービスに 不正アクセス （朝日新聞）",
+    "url": "https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "政府システムに 不正アクセス 、職員の情報24万件漏洩か デジタル庁 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA1124Y0R10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府システムに 不正アクセス 、職員などの個人情報24.6万件が漏えいの可能性--デジタル庁 …が",
+    "url": "https://news.yahoo.co.jp/articles/e2f33fc4869aa0cec0a3167a3d0574a54fa9901b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ガバメントソリューションサービス（GSS）に不正アクセス、政府職員らの個人 情報 約24.6万件が ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2140157.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "政府システムに不正アクセス、職員などの個人 情報 24.6万件が 漏えい の可能性--デジタル庁",
+    "url": "https://japan.cnet.com/article/35252539/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府職員らの 情報 24万件 漏えい か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6594942"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 ２４万件 漏えい か デジタル庁に不正アクセス：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026091100453&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "digital.go.jp",
+    "identifier": "情報漏えい",
+    "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人 情報 の 漏えい の可能性 ...",
+    "url": "https://www.digital.go.jp/news/2026-0911-01"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人 情報 ２４・６万件 漏えい か ...",
+    "url": "https://news.yahoo.co.jp/articles/94dda1b9eefd8e553a7c31832405c7c75fbcfa96"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府ネットに 不正アクセス ２４万件超漏えいか｜全国のニュース - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2360372"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットが 不正アクセス の調査完了を公表 販売管理システムへの侵入は約3年間",
+    "url": "https://act1.co.jp/2026-09-11-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "【速報】デジタル庁は、政府職員らの氏名や住所など約２４．６万件の個人情報が漏えいした可能 ...",
+    "url": "https://www.jiji.com/jc/article?k=2026091100447&g=flash"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "「メンツ丸潰れ」デジタル庁が 不正アクセス 受け個人情報24.6万件流出か 「無様な醜態」SNSに ...",
+    "url": "https://www.fnn.jp/articles/-/1112450"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "businessnetwork.jp",
     "identifier": "情報漏洩",
     "title": "ソフトバンク「AGENTIC STAR」の核 AIエージェントに“通信事業者レベル”のガバナンスを",
