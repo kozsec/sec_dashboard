@@ -3,6 +3,16 @@
     "source": "CISA KEV",
     "date": "2026-09-11",
     "time": null,
+    "organization": "GitLab",
+    "product": "Community Edition and Enterprise Edition",
+    "identifier": "CVE-2026-85706",
+    "title": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-85706&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "ConnectWise",
     "product": "ScreenConnect",
     "identifier": "CVE-2026-84869",

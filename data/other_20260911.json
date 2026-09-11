@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-09-11",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 から守るセキュリティ対策 ＩＴ企業から大学生が学ぶ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bbbea69e310a9dd568aae0a9b78733b16a8d59d9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OTセキュリティ責任は経営陣へ ～ フォーティネット最新レポートが明かす現状と課題 2枚目の写真 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/11/56193/54750.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "職員採用試験で利用したサービスに 不正アクセス 申込者１４８人の個人情報流出の可能性 広島 ...",
+    "url": "https://news.yahoo.co.jp/articles/a4eace679e9475e956a16b78c1626f774f854b24"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「 ランサムウェア 」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/national/20260912-GYT1T00002/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ランサムウェア」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール",
+    "url": "https://news.yahoo.co.jp/articles/d6658df889e00fab6affbfc93a9794336efa0c25"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "政府職員らの個人 情報 約24万6000件が 漏えい か 政府ネットワークに不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/38a64240088b18a058575557b1733043007e5767"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "誤配達で個人 情報漏えい 福島市|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/14927947.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "yama.minato-yamaguchi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "２２万件 情報漏えい 恐れ/コープやまぐち、不正アクセスで | 山口新聞 電子版",
+    "url": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/110665"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "誤配達で個人 情報漏えい 福島市",
+    "url": "https://www.minpo.jp/articles/-/225566"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの不正アクセス「3年以上前からの ...",
+    "url": "https://news.yahoo.co.jp/articles/58621f3f6d4001d9ff27ce2723817dc9f1f6013e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 被害 政府は再発防止に全力挙げよ - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/editorial/20260911-GYT1T00310/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-11",
+    "time": null,
     "organization": "swissinfo.ch",
     "identifier": "サイバー攻撃",
     "title": "プライバシーテック拠点としてのスイス サイバー 犯罪対策と経済的利益の板挟み - Swissinfo",
