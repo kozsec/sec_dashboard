@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府ネットに不正アクセス 個人 情報 ２４万件 漏えい か | 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1078328"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "情報漏えい",
+    "title": "デジタル庁の運用システムに不正アクセス、公務員らの個人 情報 24.6万件 漏えい か",
+    "url": "https://dempa-digital.com/article/725234"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米、中国の衛星画像と米兵3人死亡のイラン 攻撃 との関連指摘 | The Wall Street Journal発",
+    "url": "https://diamond.jp/articles/-/399167"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "脆弱性への対応 後手に 安全性向上へ導入 政府危機感 基盤ネット被害 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/politics/20260912-GYT1T00062/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの不正アクセス「3年以上前からの ...",
+    "url": "https://news.yahoo.co.jp/articles/58621f3f6d4001d9ff27ce2723817dc9f1f6013e?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIエージェント群による サイバー攻撃 、制御不能への懸念高まる - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=WP-WSJ-0003887407&g=ws"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「人類の滅亡を招く」オープンAIが開発ペース減速を検討か 開発中AIによる サイバー攻撃 や競合 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2940528"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「人類の滅亡を招く」オープンAIが開発ペース減速を検討か 開発中AIによる サイバー攻撃 や競合 ...",
+    "url": "https://news.yahoo.co.jp/articles/4a9dbd2c4b1758aa609ecf18854196d58231940a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "chiba-tv.com",
     "identifier": "不正アクセス",
     "title": "メール23.1万件が漏えいの可能性 デジタル庁GSSに 不正アクセス | チバテレ＋プラス",
