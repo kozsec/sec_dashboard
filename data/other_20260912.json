@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "不正アクセス",
+    "title": "メール23.1万件が漏えいの可能性 デジタル庁GSSに 不正アクセス | チバテレ＋プラス",
+    "url": "https://www.chiba-tv.com/plus/detail/2026092001223"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "gifu-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府ネットに 不正アクセス 職員情報２４万件流出か | 岐阜新聞デジタル",
+    "url": "https://www.gifu-np.co.jp/articles/-/768636"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "togetter.com",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットが 不正アクセス の調査結果の続報を発表し「全サーバーの再構築による ...",
+    "url": "https://togetter.com/li/2744638"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "システム障害",
+    "title": "韓国大学入試で出願 システム障害 大教協が60分延長し公平性巡り論争 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-society/2026/09/12/MVCDCOP2B5CNLHRYP7OCDXXZOE/?outputType=amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本不正検知・防止市場、2035年に110億米ドル規模へ拡大予測 AI活用でリスク管理進化か",
+    "url": "https://ccsi.jp/15119/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー被害 政府は再発防止に全力挙げよ（読売新聞） - dニュース - NTTドコモ",
+    "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/nation/20260911-567-GYT1T00310"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "2035年に約18.8億ドル規模へ成長か 高度化するサイバー攻撃とクラウド化が需要を牽引",
+    "url": "https://ccsi.jp/15117/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "tv-tokyo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【警察庁のサイバー空間をめぐる脅威の情勢等の発表を受け緊急提供】ネクストリード、 ランサム ...",
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/241802.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "職員採用試験で利用したサービスに 不正アクセス 申込者 １４８人の個人情報流出の可能性 広島 ...",
+    "url": "https://news.yahoo.co.jp/articles/a4eace679e9475e956a16b78c1626f774f854b24/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "川崎市の関連施設でHPに 不正アクセス 22人の個人情報流出恐れ（東京新聞） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/tokyo/region/tokyo-515060?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "digital.go.jp",
+    "identifier": "不正アクセス",
+    "title": "「ガバメントソリューションサービスへの 不正アクセス による職員等の個人情報の漏えいの可能性 ...",
+    "url": "https://www.digital.go.jp/press/5fc99139-a4e2-4b7b-8b0c-d475e926143f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの 不正アクセス 「3年以上前からの ...",
+    "url": "https://news.yahoo.co.jp/articles/58621f3f6d4001d9ff27ce2723817dc9f1f6013e/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "itmedia.co.jp",
     "identifier": "不正アクセス",
     "title": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - ITmedia",
