@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「 ランサムウェア 」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール",
+    "url": "https://news.yahoo.co.jp/articles/d6658df889e00fab6affbfc93a9794336efa0c25/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「 ランサムウェア 」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260912_gyt1t00002/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの不正アクセス「3年以上前からの ...",
+    "url": "https://news.yahoo.co.jp/articles/58621f3f6d4001d9ff27ce2723817dc9f1f6013e?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "pr-free.jp",
+    "identifier": "情報漏洩",
+    "title": "DriveChecker株式会社 ／従業員の「私用AI」が招く 情報漏洩 リスクと対策 - PR-FREE",
+    "url": "https://pr-free.jp/2026/181723/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "tokyonewsmedia.com",
+    "identifier": "情報漏洩",
+    "title": "デジタル庁システムに不正アクセス、政府職員ら24.6万人分の個人 情報 が 漏えい の可能性",
+    "url": "https://tokyonewsmedia.com/archives/27779"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "個人情報２４．６万人分漏えいか＝デジタル庁運用システムに 不正アクセス | nippon.com",
+    "url": "https://www.nippon.com/ja/news/yjj2026091100453/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの 不正アクセス ｢3年以上前からの ...",
+    "url": "https://toyokeizai.net/articles/-/957684?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ガバメントソリューションサービス（GSS）に 不正アクセス 、政府職員らの個人情報約24.6万件が ...",
+    "url": "https://news.yahoo.co.jp/articles/c87df0fdb822dde66c5b0cd4dcb4e7c2c16981e3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「個人情報漏えいの可能性」職員採用試験で利用したシステムに 不正アクセス 広島県福山市",
+    "url": "https://news.ntv.co.jp/n/htv/category/society/ht81b147ba1728499a97b3381219d76a36"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "福山市採用試験の受験者の情報流出か、事業者のサーバーに 不正アクセス - 47NEWS",
+    "url": "https://www.47news.jp/14926707.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "政府システムに不正アクセス 個人 情報 24万件 漏洩 か (ABEMA TIMES) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e5676133bc9a3926e5aed887084c04a6af73ad8f/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "note.com",
+    "identifier": "情報漏洩",
+    "title": "デジタル庁GSSで24.6万件 漏洩 ――「中等度」の脆弱性に政府共通基盤が抜かれた件 - note",
+    "url": "https://note.com/kirik/n/n8e7920167c3f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "情報漏洩",
     "title": "韓国は、個人 情報 を大規模に 漏洩 した企業に対する罰則を強化した。 - Vietnam.vn",
