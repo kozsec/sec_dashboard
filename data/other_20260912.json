@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 被害 政府は再発防止に全力挙げよ - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260911_gyt1t00310/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁、２４万件漏洩 基幹システム、政府職員らの情報 不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/sp/articles/photo/AS20260912000356.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "サイバー攻撃",
+    "title": "「AI開発の減速必要」と主張 アンソロピック首脳、悪用懸念 | nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1471527027296190960/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "sanin-chuo.co.jp",
     "identifier": "情報漏えい",
     "title": "政府ネットに不正アクセス 個人 情報 ２４万件 漏えい か | 山陰中央新報デジタル",
