@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "panewslab.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAI、AIエージェントが今年5月にRubyGemsへ サイバー攻撃 を行ったことを確認 | PANews",
+    "url": "https://www.panewslab.com/ja/articles/01a0933c-953c-75c0-9f9b-de6a89483f49"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "2026年における サイバー セキュリティ保護の意識向上から実践への移行 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/chuyen-bien-tu-nhan-thuc-den-thuc-chien-trong-bao-ve-an-ninh-mang-2026"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アンソロピックCEO 安全対策が追いつくよう「AIの開発スピードを緩める必要」 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2940953?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サウジの石油パイプライン停止 重要な代替ルートにドローン 攻撃 か | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16884058"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ICAO、9.11から25年で航空保安強化 無人機や サイバー攻撃 警戒（Aviation Wire）",
+    "url": "https://news.yahoo.co.jp/articles/c1b38000c4911745df6dce824c7083245015579c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "非公開の「AI学習データ工場」に潜入 人型ロボ30台超が稼働 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/4e61545d28813674a25e6aa6e175502df607e8f4/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【情報漏えい】富士市の導入している事業者の職員採用試験システムに 不正 ... - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/sdt_2026091206327537/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの 不正アクセス ｢3年以上前からの ...",
+    "url": "https://news.infoseek.co.jp/article/toyokeizai_20260912_957684/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "entrevue.fr",
+    "identifier": "情報漏洩",
+    "title": "予算 情報漏洩 ：セバスチャン・ルコルヌ氏が報道関係者の機密保持を脅迫したとして非難される",
+    "url": "https://entrevue.fr/ja/politique/fuites-sur-le-budget-sebastien-lecornu-accuse-de-menacer-le-secret-des-sources-de-la-presse/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI開発、「囲い込み」も徒労？ 中国猛追、募る危機感 米（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c5d0ff0fbb843198c1a709cd2b896299f09b73a9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "米国がAI開発を減速→減速していない中国が技術面で先行してしまう問題 どう対策？ Anthropic ...",
+    "url": "https://japan.cnet.com/article/35252567/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "hokkaido-np.co.jp",
     "identifier": "情報漏えい",
     "title": "情報漏えい 確認されず 三浦綾子財団 専務解職を発表 - 北海道新聞デジタル",
