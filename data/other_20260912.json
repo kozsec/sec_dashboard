@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-09-12",
     "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001419/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "日本ビジネスデータープロセシングセンターに 不正アクセス 1枚目の写真・画像 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/11/56207/54621.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "neweconomy.jp",
+    "identifier": "不正アクセス",
+    "title": "トレザーのメール配信サービスに 不正アクセス 、約34.7万人にフィッシングメール | あたらしい経済",
+    "url": "https://www.neweconomy.jp/posts/607107"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "不正アクセス",
+    "title": "政府のネットワークに外部から 不正アクセス 個人情報約24万件超漏えいか - サンスポ",
+    "url": "https://www.sanspo.com/article/20260911-HIRVNDSAVVKXVKCSNPQHUD3HDY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "国の機関の業務環境GSSに不正侵入、職員の氏名など24万6000件漏洩の恐れ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03383/?i_cid=nbpnxt_new_top_it_01"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "津山市で システム障害 、介護保険証発行できず 早島町でも、窓口業務が遅延 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/454b49d5a691ef8dfcda1129ba536789b6e74da5/images/001"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府ネットに不正接続 職員ら 情報 24万件 漏えい か - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1369697/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "hokkoku.co.jp",
+    "identifier": "情報漏えい",
+    "title": "２４．６万人分 情報漏えい か デジタル庁に不正アクセス｜政治｜全国のニュース - 北國新聞",
+    "url": "https://www.hokkoku.co.jp/articles/-/2227635"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "CAGR 21.35％へ｜AI 不正 検知・デジタル本人確認・決済詐欺対策の市場機会 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/8278221"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "manegy.com",
+    "identifier": "不正アクセス",
+    "title": "10月異動期に急増する旧権限の放置と内部 不正 ・漏洩リスク - Manegy[マネジー]",
+    "url": "https://www.manegy.com/news/detail/17080/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "画像・写真：個人情報２４．６万人分漏えいか デジタル庁運用システムに 不正アクセス - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026091100453&g=pol&p=20260911at60S&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの 不正アクセス ｢3年以上前からの ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-957684"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "システムに侵入されても気付けない…さくらインターネットへの 不正アクセス ｢3年以上前からの ...",
+    "url": "https://toyokeizai.net/articles/-/957684?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府ネットに 不正アクセス 個人情報２４万件漏えいか｜朝刊・夕刊ニュース - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1420496"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "sponichi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁に 不正アクセス 個人情報24万6000件漏えいか 省庁職員の氏名など - スポニチ",
+    "url": "https://www.sponichi.co.jp/society/news/2026/09/12/kiji/20260911s00042000400000c.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁GSSに 不正アクセス ｜個人情報24.6万件が漏えいの可能性 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117763/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-12",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "ランサムウェア",
     "title": "「 ランサムウェア 」被害４１社のファイル２０００万件復元…警察庁開発の無料ツール",
