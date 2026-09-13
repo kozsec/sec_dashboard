@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "sanspo.com",
+    "identifier": "情報漏えい",
+    "title": "米アンソロピックCEO「われわれはAI開発を遅らせなければならない」 制御不能、悪用のリスク",
+    "url": "https://www.sanspo.com/article/20260913-O53AYSRGCBLNLM2LUIYWN4JAOA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "Anthropic社のCEOが、AIモデルの開発ペースを落とすよう呼びかけた。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/ceo-anthropic-keu-goi-lam-cham-qua-trinh-phat-trien-cac-mo-hinh-ai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "panewslab.com",
+    "identifier": "情報漏洩",
+    "title": "Revolut：個人 情報 が 漏洩 した顧客に連絡済み、システムと資金に影響なし - PANews",
+    "url": "https://www.panewslab.com/ja/articles/01a09893-e886-70e2-b4e0-e2059e2641f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "zaikei.co.jp",
     "identifier": "ランサムウェア",
     "title": "Cisco FMCで2件の脆弱性が悪用、Cyclops Blink設置や ランサムウェア 攻撃に発展",
