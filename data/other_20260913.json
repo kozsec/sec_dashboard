@@ -1,0 +1,29 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "panewslab.com",
+    "identifier": "不正アクセス",
+    "title": "Solana Mobile、第三者メールサービスプロバイダーBrevoのセキュリティインシデントを開示",
+    "url": "https://www.panewslab.com/ja/articles/01a0964d-2fdb-7635-b299-fb882727ffd7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "米国がAI開発を減速→中国がAIで先行してしまう問題 どう対策？ Anthropic CEOの回答は",
+    "url": "https://news.yahoo.co.jp/articles/c245099ed2b0ba7d368ff0fe376ea04eab2a4fae"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏えい",
+    "title": "【解説】デジタル庁GSS不正アクセスはなぜ防げなかったか｜入口はCVSS「中」の脆弱性",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117770/"
+  }
+]
