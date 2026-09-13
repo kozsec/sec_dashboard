@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "習主席､中国主導で｢BRICSオープンソースAIプラットフォーム｣を構築する用意があると表明",
+    "url": "https://toyokeizai.net/articles/-/957925"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "bookplus.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "世界を震撼させた先端AI「クロード・ミュトス」の正体とは - 日経BOOKプラス",
+    "url": "https://bookplus.nikkei.com/atcl/column/090300771/090300001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIエージェントによる 攻撃 出現、VPN以外も標的に ランサム 攻撃 の最新動向 | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800007/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "今さら聞けないAIエージェント、特徴付けと5つのレベル分けを知る",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03232/091000005/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "ポケトーク「新型翻訳機は次の電卓」 通信せず 漏洩 防ぐ - 日経デジタルガバナンス",
+    "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC268QT0W6A820C2000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "政府共通ネットがサイバー攻撃を受け、24万件超の個人 情報 が 流出 か - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32316001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "sanspo.com",
     "identifier": "情報漏えい",
     "title": "米アンソロピックCEO「われわれはAI開発を遅らせなければならない」 制御不能、悪用のリスク",
