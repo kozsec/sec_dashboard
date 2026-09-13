@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "Cisco FMCで2件の脆弱性が悪用、Cyclops Blink設置や ランサムウェア 攻撃に発展",
+    "url": "https://www.zaikei.co.jp/amp/article/20260913/869824.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "バオラム5区の警察は、国家機密の保護と 情報 セキュリティに関する検査を強化している。",
+    "url": "https://www.vietnam.vn/ja/cong-an-xa-bao-lam-5-tang-cuong-kiem-tra-cong-tac-bao-ve-bi-mat-nha-nuoc-an-toan-thong-tin"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米Anthropicが最新のAI脅威報告書公開、バイブハッキングなど新たな脅威警鐘 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/186934"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "digitaltoday.co.kr",
     "identifier": "不正アクセス",
     "title": "ベンジオ氏「現行の学習方式ではAI安全を担保できず」 不正 を誘発する構造に警鐘",
