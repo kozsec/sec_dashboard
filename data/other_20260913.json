@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "blogs.itmedia.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ローカル生成AIの最新動向。ヤバいぜ、日本！：永井経営塾 - オルタナティブ・ブログ",
+    "url": "https://blogs.itmedia.co.jp/mm21/2026/09/20260913.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "児童生徒の 情報 、 漏えい の恐れ…教員が私物パソコンでサポート詐欺被害 遠隔操作ツールを実行後",
+    "url": "https://news.yahoo.co.jp/articles/84dcc5a50bf7d43bd4988c3ee275a25f1abdb054/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "児童生徒の 情報 、 漏えい の恐れ…教員が私物パソコンでサポート詐欺被害 遠隔操作 ... - 47NEWS",
+    "url": "https://www.47news.jp/14932373.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "漏えい の恐れ…教員が私物パソコンでサポート詐欺被害 遠隔操作ツールを実行後、銀行に連絡し ...",
+    "url": "https://news.yahoo.co.jp/articles/84dcc5a50bf7d43bd4988c3ee275a25f1abdb054"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "AIが「制御不能になる」ことへの懸念が再び高まっている。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/noi-lo-ai-mat-kiem-soat-lai-gia-tang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "cedarnews.net",
+    "identifier": "ランサムウェア",
+    "title": "「明日は我が身」で起き得る ランサム ウエア感染。 要求に従った「身代金」支払いには",
+    "url": "https://cedarnews.net/japanese/979813/明日は我が身-で起き得るランサムウエア感染-要求/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "panewslab.com",
     "identifier": "不正アクセス",
     "title": "Solana Mobile、第三者メールサービスプロバイダーBrevoのセキュリティインシデントを開示",
