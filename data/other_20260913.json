@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "中露・北朝鮮の関与が疑われるサイバー攻撃への言及増加、警察庁がサイバー空間の脅威情勢 ...",
+    "url": "https://news.yahoo.co.jp/articles/889f8a14d63caf08733c81994776b09eb9a139a4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【人類滅亡予想も】AI各社のトップが「減速」を叫んだ日、それでも誰も止まれない開発競争を ...",
+    "url": "https://jbpress.ismedia.jp/articles/-/96989?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中露・北朝鮮の関与が疑われる サイバー攻撃 への言及増加、警察庁がサイバー空間の脅威情勢 ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2140272.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "AIエージェント量産＝マルウェア量産？約6割が「対策迷子」、押さえるべき6つの防御策",
+    "url": "https://www.sbbit.jp/article/cont1/186863"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "安全性向上が目的のはずが…政府基盤ネットがサイバー攻撃で被害、「セキュリティー管理甘い ...",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260912_gyt1t00062/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "不正アクセス",
+    "title": "サプライチェーンへのサイバー攻撃では、AIに対抗するためにAIが使われている",
+    "url": "https://www.businessinsider.jp/article/2609-supply-chain-cyberattacks-ai-to-fight-ai/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "サンメッセが利用する購買発注システム「WEB 発注システム」へサイバー攻撃 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/14/56220.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "TRUNK 従業員のメールアカウントに不正アクセス、不審メール送信も確認 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/14/56218.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正 ...",
+    "url": "https://news.yahoo.co.jp/articles/99a2166ddc479521d05878c48e72c4cf398ecfd0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/14/56223.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "情報漏えい",
+    "title": "デジタル庁GSSに不正アクセス、約24.6万件の個人 情報漏えい の可能性 VPN脆弱性を悪用",
+    "url": "https://japansecuritysummit.org/2026/09/14918/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスや報告遅れを中心に民間 98 件へ指導 ～ 個人 情報 保護委員会が第367回会合を ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/14/56211.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "toyokeizai.net",
     "identifier": "サイバー攻撃",
     "title": "習主席､中国主導で｢BRICSオープンソースAIプラットフォーム｣を構築する用意があると表明",
