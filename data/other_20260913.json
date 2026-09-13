@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-13",
     "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "不正アクセス",
+    "title": "ベンジオ氏「現行の学習方式ではAI安全を担保できず」 不正 を誘発する構造に警鐘",
+    "url": "https://www.digitaltoday.co.kr/jp/view/102847/tech-insight-current-way-of-building-ai-models-cannot-solve-ai-safety-problems"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米上院、危険なAIモデルの公開阻止を協議―先端AI開発企業に「注意義務」 | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20260913/869830.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "サイバー攻撃",
+    "title": "“AIが人間の理解や制御能力を上回る”アンソロピックCEOが警告 半年から1年後には ...",
+    "url": "https://www.fnn.jp/articles/-/1113307"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "tokyonewsmedia.com",
+    "identifier": "不正アクセス",
+    "title": "アンソロピックCEO、AI開発ペース調整を提案 第三者評価で暴走リスクに備え - 東京報道新聞",
+    "url": "https://tokyonewsmedia.com/archives/27851"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "AI大手企業が最先端システムの一時的な凍結を求めているのはなぜか？ - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/vi-sao-cac-ong-lon-ai-keu-goi-tam-thoi-dong-bang-cac-he-thong-tien-tien-nhat"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "パススルー型ネットワークセキュリティゲート市場、2032年には約9.5億ドル規模へ拡大予測",
+    "url": "https://ccsi.jp/15137/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "Cisco FMCで2件の脆弱性が悪用、Cyclops Blink設置や ランサムウェア 攻撃に発展 | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20260913/869824.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-13",
+    "time": null,
     "organization": "blogs.itmedia.co.jp",
     "identifier": "情報漏洩",
     "title": "ローカル生成AIの最新動向。ヤバいぜ、日本！：永井経営塾 - オルタナティブ・ブログ",
