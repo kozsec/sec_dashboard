@@ -1,5 +1,15 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "Cisco",
+    "product": "Secure Email Gateway",
+    "identifier": "CVE-2026-76461",
+    "title": "Cisco Secure Email Gateway SQL Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-76461&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-14",
     "time": null,
