@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-14",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "岡山・津山市の情報 システム障害 14日午前8時半に復旧完了 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32318054/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "登山地図アプリ「YAMAP」に脆弱性 情報漏えい や意図しないサイト遷移の可能性 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/asciijp_4434523/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "dreamnews.jp",
+    "identifier": "ランサムウェア",
+    "title": "レポートオーシャン株式会社プレスリリース : クラウドネットワークセキュリティ市場、2035年に ...",
+    "url": "https://www.dreamnews.jp/press/0000362444"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ゼロトラスト・ネットワーク・アクセス市場―2026年～2032年の世界市場予測 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/4762630"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "国産SIEM「ALog」、 ランサムウェア 攻撃の各段階に残る痕跡を捉える最新版「V2.1.0」を提供開始",
+    "url": "https://www.jiji.com/jc/article?k=000000247.000027033&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "「サイバーセキュリティ」が１３位にランク、上半期の ランサムウェア 被害１２３件と過去最多 ...",
+    "url": "https://news.livedoor.com/topics/detail/32319371/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏えい",
+    "title": "円谷プロの抽選システムに不正アクセス 133人の「当選」が「落選」に改ざん - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-09-14-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/14/56223/54896.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
     "organization": "chiba-tv.com",
     "identifier": "サイバー攻撃",
     "title": "警察庁が サイバー 空間の脅威情勢レポート AI、IoT機器を悪用した犯罪事例も | チバテレ＋プラス",
