@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-14",
     "time": null,
+    "organization": "topics.or.jp",
+    "identifier": "情報漏えい",
+    "title": "障害者向け講座 個人 情報漏えい 県立交流プラザ - 徳島新聞",
+    "url": "https://www.topics.or.jp/articles/-/1494276"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "国産SIEM「ALog」、 ランサムウェア 攻撃の各段階に残る痕跡を捉える最新版「V2.1.0」を提供開始",
+    "url": "https://news.livedoor.com/pr_topics/detail/32319817/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "RIZAPで「シャドーAI」、社員が顧客情報を誤投入 委託元が約2万人分被害",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900381/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "nna.jp",
+    "identifier": "サイバー攻撃",
+    "title": "製薬会社に サイバー攻撃 、個人情報流出 - NNA ASIA・マレーシア・医薬",
+    "url": "https://www.nna.jp/news/2966867"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "プルデンシャル 顧客 情報漏えい - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6595306"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "dot.asahi.com",
+    "identifier": "情報漏洩",
+    "title": "(4ページ目)〈AI開発「減速」をめぐり対立〉社員が機密 情報 をChatGPTに入力",
+    "url": "https://dot.asahi.com/articles/-/292619?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "エッジセキュリティ市場：世界市場予測、2026年～2032年 | 株式会社グローバルインフォメーション",
+    "url": "https://www.atpress.ne.jp/news/632614"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-14",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "システム障害",
     "title": "岡山・津山市の情報 システム障害 14日午前8時半に復旧完了 (KSB瀬戸内海放送)",
