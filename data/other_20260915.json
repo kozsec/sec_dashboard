@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-09-15",
     "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "RIZAPで「シャドーAI」、社員が顧客情報を誤投入 委託元が約2万人分被害",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900381/?P=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "円谷プロと抽選システム業者が 不正アクセス 被害 133人分の「当選」を「落選」に改ざん（写真 ...",
+    "url": "https://www.sankei.com/article/20260915-TWOV63ZUOVCHBP2432EF2NEVUU/photo/QT6DMTAD45OIDDPZAW3N26KAWM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "日本大学理工学部教職員のアカウントに対し巧妙に偽装されたフィッシングメール",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/15/56234.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "あいの風とやま鉄道に 不正アクセス 情報漏洩か 午後４時から会見 - 47NEWS",
+    "url": "https://www.47news.jp/14944115.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "「ウルトラマンぬいぐるみ」抽選で 不正アクセス 当選が落選に 円谷プロとシステム業者",
+    "url": "https://www.sankei.com/article/20260915-TWOV63ZUOVCHBP2432EF2NEVUU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "あいの風とやま鉄道に 不正アクセス 情報漏洩か 午後４時から会見（北國新聞社） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/a94d33cff7d89159a1529c29a050c45930845d07"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "システム障害",
+    "title": "国家サイバー統括室、重要インフラの新セキュリティガイドライン策定 10月1日施行へ",
+    "url": "https://japansecuritysummit.org/2026/09/14920/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「AIは危険だが止めない」でトランプと北京が一致、AI開発減速論が暴いた米中AI覇権の深い亀裂",
+    "url": "https://jbpress.ismedia.jp/articles/-/97033?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "サイバー攻撃",
+    "title": "飛び交う「AIによる人類滅亡説」、実際の脅威はどのように訪れるのか - Forbes JAPAN",
+    "url": "https://forbesjapan.com/articles/detail/104736"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "「AI・クラウド・人」が標的に--クラウドストライクが示す2026年の脅威動向 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252627/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "米ゼットスケーラー、 サイバー攻撃 の対処システム AIが内容選別 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC153P60V10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティ分野、AI脅威論によって“追い風”を受ける。「最大の受益者になる」",
+    "url": "https://www.businessinsider.jp/article/2609-cybersecurity-stocks-ai-apocalypse-anthropic-openai-panw-crwd-ftnt-zs/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "paymentnavi.com",
+    "identifier": "不正アクセス",
+    "title": "Keypascoと金融向けに認証・セキュリティ対策を提供（DNP） | ペイメントナビ",
+    "url": "https://paymentnavi.com/paymentnews/182533.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "TRUNK 従業員のメールアカウントに 不正アクセス 、不審メール送信も確認 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/14/56218/54829.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "銀行に 不正アクセス し現金盗んだ疑い 福岡県警、飯塚市の男2人逮捕 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1538147/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「二次被害確認されず」 政府系システムの 不正アクセス で 松本デジタル相 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/8bf88fbd781de0aa87606ba28a6b3f58cad8c172"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "ランサムウェア",
     "title": "EDR、入れただけじゃダメ？ IPAの ランサム 教訓集が経営者に刺さる理由 - Yahoo!ニュース",
