@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-15",
     "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "【解説】IPAの脆弱性届出が内閣府へ｜本体でなく付録に書いた理由 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117884/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Wiz調査：日本企業の「AI導入加速」はクラウド移行を上回る 同時に8割以上がAIによる サイバー ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000189980.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「二次被害確認されず」＝政府系システムの 不正アクセス で―松本デジタル相 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/jiji_2026091500652/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策強化を 自民党、政府に要請 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1538238/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "あいの風とやま鉄道、観光列車予約者約1400人分の情報が流出のおそれ 不正アクセス を複数回確認",
+    "url": "https://www.fnn.jp/articles/-/1114979"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "あいの風とやま鉄道、観光列車予約者約 1400人分の情報が流出のおそれ 不正アクセス を複数回確認",
+    "url": "https://news.yahoo.co.jp/articles/4cfd37925da6c7ac250c38d4a6d406b9cf70e44d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
     "organization": "levtech.jp",
     "identifier": "システム障害",
     "title": "【10/22(木)オンライン開催！】AI時代の 障害 対応訓練 ～インシデントに「強いチーム」をつくる",
