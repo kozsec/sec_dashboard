@@ -1,5 +1,23 @@
 [
   {
+    "source": "海外",
+    "date": "2026-09-15",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+    "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-15",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Iranian cyber targeting of dissidents, activists and journalists",
+    "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-15",
     "time": null,
@@ -25,5 +43,14 @@
     "identifier": "セキュリティ",
     "title": "2026年9月15日 「サイバーセキュリティお助け隊サービス（新類型）実証事業」ページを公開しました",
     "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "IR 8587 (Final)",
+    "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
+    "url": "https://csrc.nist.gov/pubs/ir/8587/final"
   }
 ]
