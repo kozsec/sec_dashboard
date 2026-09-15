@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-15",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "サイバーセキュリティ株に買い FFRIとデジタルアーツ (2026年9月15日掲載) - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32329783/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "あいの風とやま鉄道、不正アクセスで個人 情報 約1400人分流出か",
+    "url": "https://www.nikkei.com/article/DGXZQOCC158400V10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "乗客1409人の 情報漏えい か あいの風とやま鉄道 不正アクセス受け - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/641a89f6d59c5e3e7a7f1e3655ef9569ea8675d3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策強化を 自民党、政府に要請 - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1472503333370823225/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策強化を 自民党、政府に要請：東京新聞デジタル",
+    "url": "https://www.tokyo-np.co.jp/article/515619?rct=national"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "逮捕されたのは“闇バイト”か 銀行に 不正アクセス しATMから現金引き出した疑い 飯塚市の男2人を ...",
+    "url": "https://www.fnn.jp/articles/-/1114845"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策強化を 自民党、政府に要請 - 信濃毎日新聞",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026091501001125"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "あいの風とやま鉄道 1409人分の個人情報漏えいか 座席管理システムが外部から 不正アクセス 二 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2947351?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "hokkoku.co.jp",
+    "identifier": "不正アクセス",
+    "title": "乗客ら1409人の情報漏えいか あいの風とやま鉄道 不正アクセス 受け - 北國新聞",
+    "url": "https://www.hokkoku.co.jp/articles/-/2230366"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "松本尚デジタル相「手の内明かす可能性」 不正アクセス 公表まで2カ月 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA153QO0V10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "“闇バイト”で 不正アクセス か…ネットバンクから22万5000円窃盗 飯塚市の男2人逮捕",
+    "url": "https://news.yahoo.co.jp/articles/89bd59be39abb4878bbf64433fd5cf343da69df7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "銀行に 不正アクセス しATMから22万5000円現金引き出した疑い 海外に指示役か 飯塚市の男2人 ...",
+    "url": "https://news.yahoo.co.jp/articles/5c9ed2daeb1c689b164066b5fc270b4daeaed4b4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
     "organization": "xtech.nikkei.com",
     "identifier": "不正アクセス",
     "title": "RIZAPで「シャドーAI」、社員が顧客情報を誤投入 委託元が約2万人分被害",
