@@ -1,0 +1,119 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "EDR、入れただけじゃダメ？ IPAの ランサム 教訓集が経営者に刺さる理由 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2920aa38c15a3196e6be877636c0a8565f3195c5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "moomoo.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIが人類にもたらすリスクに関する新たな警告が、長年にわたる議論を再燃させている。 - Moomoo",
+    "url": "https://www.moomoo.com/ja/community/feed/a-new-warning-about-the-risks-ai-poses-to-humanity-117269167341974"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "サイバー攻撃",
+    "title": "Microsoft、AI行動規範を公表 サイバー攻撃 や核関連行為、ディープフェイクを禁止",
+    "url": "https://www.digitaltoday.co.kr/jp/view/103290/microsoft-unveils-ai-code-of-conduct-bans-hacking-nuclear-weapons-deepfakes"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "neweconomy.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か",
+    "url": "https://www.neweconomy.jp/posts/607598/amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティ株が急騰、AI大手トップがモデル開発の減速提唱 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/e663b9c0-b7de-4f42-b8ef-622d7eb574e2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "IPA「経営者のための ランサムウェア 対策ハンドブック」公開 ～ 脅威に立ち向かうには経営者の ...",
+    "url": "https://news.yahoo.co.jp/articles/2e1ba55ea357da1d5689ff2e8fe9a544bf1a4d84"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "IPA「経営者のための ランサムウェア 対策ハンドブック」公開 ～ 脅威に ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/15/56229.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "RIZAPで「シャドーAI」、社員が顧客 情報 を誤投入 委託元が約2万人分被害",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/010900381/?P=2&i_cid=nbpnxt_nextpage_child_a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "MAMAMOO JAPAN OFFICIAL FANCLUB「MOOMOO JAPAN」に不正アクセス",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/15/56232.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【インタビュー】「AIは 攻撃 者にも防御側にも強力な武器になる」――トレンドマイクロ幹部に聞く",
+    "url": "https://cloud.watch.impress.co.jp/docs/interview/2140569.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウェア被害額が平均3.5億円に拡大 なぜ企業の復旧は遅れるのか（TechTargetジャパン）",
+    "url": "https://news.yahoo.co.jp/articles/1402386827b4c2c9be7422a0c6161cf9f459e126"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "neweconomy.jp",
+    "identifier": "不正アクセス",
+    "title": "アンソロピック、中国系AIラボ7社の「Claude」 不正 利用を指摘。人民解放軍関連の入力も転送か",
+    "url": "https://www.neweconomy.jp/posts/607598"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に 不正 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/09/14/56223/54897.html"
+  }
+]
