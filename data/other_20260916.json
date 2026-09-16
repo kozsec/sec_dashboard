@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-16",
     "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 、暗号化前にバックアップを破壊か Halcyon Japanが8月レポートで警鐘",
+    "url": "https://ccsi.jp/15279/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "鳥取県環境放射線モニタリングシステムに ランサムウェア 攻撃、副サーバは被害受けず放射線 ...",
+    "url": "https://newspicks.com/news/17514378/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ムラウチドットコム、不正アクセスにより約771万件の個人 情報漏えい - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b3ff8233848099a9ccbebc904323c905e9095c9d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "Revolutの 情報漏洩 が示す、KYCデータの過剰蓄積が招く「1万ビットコイン」問題",
+    "url": "https://finance.biggo.jp/news/6a3e090b-9cec-4567-8d8f-6c5039287aaf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI脅威論に覚える嫌な既視感。予期された危機は、なぜ手遅れになるのか",
+    "url": "https://www.businessinsider.jp/article/2609-ai-threats-and-climate-change-analogy/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イラン反体制派の情報流出 政敵弾圧に サイバー攻撃 か - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/907386"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "daily-tohoku.news",
+    "identifier": "サイバー攻撃",
+    "title": "増加する サイバー攻撃 、防御策は 増田氏講演／本社政懇 - デーリー東北",
+    "url": "https://www.daily-tohoku.news/archives/CNTS2026091602416"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "情報漏えい",
     "title": "画像共有サービス「Gyazo」に不正アクセス、ユーザー 情報 約2362万件・画像メタ ... - NewsPicks",

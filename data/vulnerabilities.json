@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-76460",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/09/16",
+    "last_update": "2026/09/16"
+  },
+  {
+    "cve": "CVE-2026-87886",
+    "company": "Acronis",
+    "product": null,
+    "title": "Acronis Backup Incorrect Default Permissions Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/09/16",
+    "last_update": "2026/09/16"
+  },
+  {
     "cve": "CVE-2026-58704",
     "company": "Google",
     "product": null,
