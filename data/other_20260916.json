@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-16",
     "time": null,
+    "organization": "bookplus.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "先端AIは工場、発電所、医療機関など重要インフラを危険にさらす | 日経BOOKプラス",
+    "url": "https://bookplus.nikkei.com/atcl/column/090300771/090300002/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "不正アクセス",
+    "title": "AIがダークウェブ上の脅威を分析し、対応策まで提示 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000114618.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ムラウチドットコム、 不正アクセス により約771万件の個人情報漏えい - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2141530.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス の対策強化を要請 政府に自民 - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1422632"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 再発防止要請 自民、政府ネット巡り | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1924828"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "automaton-media.com",
+    "identifier": "不正アクセス",
+    "title": "人気スクショ共有ツール「Gyazo」に 不正アクセス 、“約2362万件”のアカウント情報大規模流出 ...",
+    "url": "https://automaton-media.com/articles/newsjp/20260916-468029/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ユーザー情報約2362万件・画像メタデータ約4.9億件が漏えい - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2141538.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "Nvidiaなど米企業がAnthropicモデルの使用制限 データ留存で機密 漏洩 懸念 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/39a46214-f73e-4c49-b7d0-b8581aadac03"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "情報漏洩",
+    "title": "「Gyazo」に不正アクセス。メールアドレスやX連携用トークンなどユーザー ... - マイナビニュース",
+    "url": "https://news.mynavi.jp/article/20260916-4978648/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「Gyazo」に不正アクセス。メールアドレスやX連携用トークンなどユーザー 情報 など約2,362万件 ...",
+    "url": "https://news.infoseek.co.jp/article/mynavi_3228275/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "画像共有サービス「Gyazo」に不正アクセス ユーザー 情報 約2362万件が 漏洩 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32342903/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "島田市で個人 情報漏えい の可能性…職員採用試験で利用したシステムに不正アクセス（静岡）",
+    "url": "https://news.livedoor.com/topics/detail/32333896/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
     "organization": "diamond.jp",
     "identifier": "サイバー攻撃",
     "title": "米向けタンカーへの サイバー攻撃 を捜査、中東紛争拡大を懸念 | The Wall Street Journal発",
