@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-16",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "画像共有サービス「Gyazo」に不正アクセス、ユーザー 情報 約2362万件・画像メタ ... - NewsPicks",
+    "url": "https://newspicks.com/news/17519823/?ref=technology"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "ccsi.jp",
+    "identifier": "ランサムウェア",
+    "title": "ハード ウェア セキュリティモジュール市場、2032年までに41億ドル規模へ拡大予測",
+    "url": "https://ccsi.jp/15283/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "グレーゾーンからの攻撃活動：表面化するロシアのハイブリッド戦 | Codebook｜Security News",
+    "url": "https://codebook.machinarecord.com/cyber-intelligence/geopolitical-risk/47749/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "techtarget.itmedia.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「最大の脆弱性は従業員」が8割 AI活用で深まるCISOの孤立と苦悩 - TechTargetジャパン",
+    "url": "https://techtarget.itmedia.co.jp/tt/article/2609/16/2000001490/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "go.sbisec.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティ関連銘柄が注目？ AI開発減速論でどうなる？ - SBI証券",
+    "url": "https://go.sbisec.co.jp/media/report/dom_em_weekly/dom_em_weekly_260916.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】全国のセブンイレブンで システム障害 一部店舗で交通系電子マネーなどが使えず 原因調査中",
+    "url": "https://news.yahoo.co.jp/articles/bf41db7775a40f816d94af6b11b8e2a76c59c356/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "wwf.or.jp",
+    "identifier": "システム障害",
+    "title": "お詫びとお知らせ： システム障害 について - WWFジャパン",
+    "url": "https://www.wwf.or.jp/news/6400.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "ecnomikata.com",
+    "identifier": "情報漏えい",
+    "title": "2026年上半期、日本の「マルウェア攻撃」世界10位 NordVPNレポート - ECのミカタ",
+    "url": "https://ecnomikata.com/ecnews/ec_site_operation/51624/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "画像共有サービス「Gyazo」に 不正アクセス 、ユーザー情報約 2362万件・画像メタデータ約 4.9億 ...",
+    "url": "https://news.yahoo.co.jp/articles/1db82810cb4215eb278a5e583027d487ff820fd9/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
     "organization": "bookplus.nikkei.com",
     "identifier": "サイバー攻撃",
     "title": "先端AIは工場、発電所、医療機関など重要インフラを危険にさらす | 日経BOOKプラス",

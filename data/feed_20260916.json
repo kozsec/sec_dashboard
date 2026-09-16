@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "Google",
+    "product": "Pixel",
+    "identifier": "CVE-2026-58704",
+    "title": "Google Pixel Improper Authorization Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-58704&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 1352 (Final)",
+    "title": "Assessing Security Requirements for Controlled Unclassified Information (CUI): NIST Special Publication 800-171A, Revision 3. Small Business Primer",
+    "url": "https://csrc.nist.gov/pubs/sp/1352/final"
+  }
+]
