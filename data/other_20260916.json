@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-16",
     "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「国が一番サイバー防御できていない」…デジタル庁の 不正アクセス 問題、システムの脆弱性に ...",
+    "url": "https://www.tokyo-np.co.jp/article/515917"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ハードウェアセキュリティモジュール市場―2026年～2032年の世界市場予測 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/633426"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "hokkoku.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "高橋洋一・政治経済ホントのところ【 サイバー 防御】首相陣頭指揮で正念場 - 北國新聞",
+    "url": "https://www.hokkoku.co.jp/articles/-/2231813"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "nna.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ジョ州主要港に サイバー攻撃 、一時業務停止 - NNA ASIA・マレーシア・運輸",
+    "url": "https://www.nna.jp/news/2967483"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "ascii.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ASCII.jp：先制的 サイバー セキュリティのため、経営者が今こそ考えるべきこと (1/4)",
+    "url": "https://ascii.jp/elem/000/004/435/4435169/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "ムラウチドットコム、不正アクセスにより約771万件の個人 情報漏えい （INTERNET Watch）",
+    "url": "https://topics.smt.docomo.ne.jp/article/internet_watch/trend/internet_watch-2141530"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "GMOあおぞらネット銀行｢週1で経営陣らセキュリティ会議｣､CISOが明かすシステム内製化に ...",
+    "url": "https://toyokeizai.net/articles/-/957301"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "ガートナーが警告「今後5年の最大課題」…AIエージェント「無秩序増殖」を防ぐ対策5選",
+    "url": "https://www.sbbit.jp/article/cont1/186885"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "サイバー攻撃",
+    "title": "クラウド狙う 攻撃 は「500倍速」に…企業に残された猶予は「1.7日」でも先手を打つ方法",
+    "url": "https://www.sbbit.jp/article/sp/186376"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
     "organization": "ccsi.jp",
     "identifier": "ランサムウェア",
     "title": "ランサムウェア 、暗号化前にバックアップを破壊か Halcyon Japanが8月レポートで警鐘",

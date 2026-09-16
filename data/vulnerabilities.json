@@ -6,8 +6,8 @@
     "title": "Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
     "kev": "あり",
     "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/16",
     "last_update": "2026/09/16"
   },
