@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-09-16",
     "time": null,
+    "organization": "diamond.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米向けタンカーへの サイバー攻撃 を捜査、中東紛争拡大を懸念 | The Wall Street Journal発",
+    "url": "https://diamond.jp/articles/-/399455"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】全国のセブンイレブンで システム障害 一部店舗で交通系電子マネーなどが使えず 原因調査中",
+    "url": "https://news.infoseek.co.jp/article/ytv_2026091609848673/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】全国のセブンイレブンで システム障害 一部店舗で交通系電子マネーなどが使えず 原因調査中",
+    "url": "https://news.ntv.co.jp/n/ytv/category/economy/yt894dd4c4e5bd4c5abc00bd9c70a9a6d1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】全国のセブンイレブンで システム障害 一部店舗で交通系電子マネーなどが使えず 原因調査中",
+    "url": "https://news.yahoo.co.jp/articles/bf41db7775a40f816d94af6b11b8e2a76c59c356"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "世界の自動化された侵害・攻撃シミュレーション市場 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/632276"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "predge.jp",
+    "identifier": "ランサムウェア",
+    "title": "『【 ランサムウェア 対策】SSL VPN/老朽化したネットワーク機器が、攻撃の侵入口に』という ...",
+    "url": "https://predge.jp/pr/358625/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア グループがVMwareの重大なRCE脆弱性を悪用開始 米CISAが警告（CVE-2026 ...",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47740/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "gizmodo.jp",
+    "identifier": "情報漏えい",
+    "title": "Nintendo Switchに本体 情報漏えい の脆弱性。アップデートしよう！ | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/nintendo-switch-vulnerability/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "project.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ガバメントAI - 日経BP",
+    "url": "https://project.nikkeibp.co.jp/jpgciof/atcl/19/00003/00031/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策強化を | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/227981"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-16",
+    "time": null,
     "organization": "47news.jp",
     "identifier": "サイバー攻撃",
     "title": "サイバー攻撃 対策学ぶ 出雲 中小企業がセキュリティー意識高めるセミナー - 47NEWS",
