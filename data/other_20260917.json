@@ -4,6 +4,105 @@
     "date": "2026-09-17",
     "time": null,
     "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "中国の化学メーカーに 情報漏洩 か ｢旭化成｣の元社員(66)を逮捕 半導体関連技術の情報を不正に ...",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/hicbc/nation/hicbc-2953109"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米中専門家がＡＩリスク巡り提言、「人間による管理」やホットライン設置 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/7e66cf4a118168d3065a7e9defd4df0ced5e9c94"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "SCSK、フロンティアAI時代の サイバー 脅威に対応する「顧客伴走型統合セキュリティサービス」を ...",
+    "url": "https://www.nikkei.com/article/DGXZRSP712811_X10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "GMOあおぞらネット銀行｢週1で経営陣らセキュリティ会議｣､CISOが明かすシステム内製化に ...",
+    "url": "https://toyokeizai.net/articles/-/957301?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "unite.ai",
+    "identifier": "ランサムウェア",
+    "title": "Black Kiteの2026製造・流通 ランサムウェア レポート：製造業は ランサムウェア の最大標的のまま",
+    "url": "https://www.unite.ai/ja/black-kites-2026-manufacturing-distribution-ransomware-report-manufacturing-remains-ransomwares-top-target/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "情報漏えい",
+    "title": "複数の米軍拠点で多大な被害、写真から判明 イランの攻撃で - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/crd68zy5d452o.amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "ナレッジコミュニケーション、Palo Alto Networksの「Prisma AIRS」の取り扱いを開始 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000096.000004474&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "blogs.itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「 情報 セキュリティ研修感想文」検索の関連ワードに出てくるリスクを主催側はよく考えた方がいい",
+    "url": "https://blogs.itmedia.co.jp/niikura/2026/09/post_43.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "ムラウチドットコムから顧客 情報 約771万件の 漏えい 氏名や住所、電話番号など - NewsPicks",
+    "url": "https://newspicks.com/news/17522733/?ref=user_1930741"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 受け個人情報流出恐れ 用瀬町ふるさと振興事業団",
+    "url": "https://www.nnn.co.jp/articles/-/800492"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "高騰「AI利用枠」を標的、闇市場で売買 認証 情報 窃盗ウイルスが猛威 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC156XG0V10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
     "identifier": "サイバー攻撃",
     "title": "ランサムウェアは「暗号化より先にバックアップを消す」、OS標準機能の悪用が前月比7割増",
     "url": "https://topics.smt.docomo.ne.jp/amp/article/internet_watch/trend/internet_watch-2141536"
