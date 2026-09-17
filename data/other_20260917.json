@@ -1,0 +1,92 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "coindesk.com",
+    "identifier": "情報漏洩",
+    "title": "盗まれたコインは返却可能です。 漏洩 した身元は返却できません。 - CoinDesk",
+    "url": "https://www.coindesk.com/ja/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "データベース内の全てのデータを削除 ～「コープやまぐちLINEミニアプリ」に 不正アクセス",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/17/56258.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "求人サービス「CINRA JOB」に 不正アクセス 、閲覧取得がなかったことを確認するに足る記録が ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/17/56252.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウェアは「暗号化より先にバックアップを消す」、OS標準機能の悪用が前月比7割増",
+    "url": "https://news.yahoo.co.jp/articles/6f6302a274d82200f745a9e2185dd5d7d79d0a38"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "システム障害",
+    "title": "GMOあおぞらネット銀行｢週1で経営陣らセキュリティ会議｣､CISOが明かす システム 内製化に ...",
+    "url": "https://toyokeizai.net/articles/-/957301?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア は、暗号化より先にバックアップを消す - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/pr_topics/detail/32341817/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "さくらインターネットが 不正アクセス 調査結果を発表「さくらのレンタルサーバ」全サーバ再構築 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/17/56259.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ムラウチドットコムから顧客 情報 約771万件の 漏えい 氏名や住所 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/5f48a1161b3bf9b86ba305067532a85f90752139"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "コロナが施工 情報 を管理するクラウドサービスに不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/17/56255.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "三菱UFJ、勘定系刷新でAI駆動開発 仕様書やPL/Iのコード生成に適用",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12034/"
+  }
+]
