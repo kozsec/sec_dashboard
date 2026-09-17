@@ -34,5 +34,14 @@
     "identifier": "試験情報",
     "title": "2026年9月17日 令和8年度前期試験におけるメモ用紙の配布について",
     "url": "https://www.ipa.go.jp/news/2026/shiken_20260917.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "IR 8623 (Draft)",
+    "title": "Cybersecurity Framework 2.0 Community Profile for Federal Agency Open Radio Access Network (O-RAN) Deployment",
+    "url": "https://csrc.nist.gov/pubs/ir/8623/ipd"
   }
 ]

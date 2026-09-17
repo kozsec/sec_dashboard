@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-09-17",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ランサムウェアは「暗号化より先にバックアップを消す」、OS標準機能の悪用が前月比7割増",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/internet_watch/trend/internet_watch-2141536"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "脆弱性管理クラウド「yamory」、「Security Days Fall 2026」大阪・福岡・名古屋会場に出展の ...",
+    "url": "https://www.jiji.com/jc/article?k=000000838.000034075&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "プラグインの脆弱性を悪用 ～ 「洛西進学教室」「進学館」に不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/17/56256.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "ja.martincid.com",
+    "identifier": "ランサムウェア",
+    "title": "コーディングAIが自らを再学習してバグを修正、安全制限を自動消去",
+    "url": "https://ja.martincid.com/technology-ja/コーディングaiが自らを再学習してバグを/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "ロート製薬の通話音声に不正アクセス｜録音されていた側の声の行方 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/117940/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "【画像】画像共有サービス「Gyazo」に 不正アクセス ユーザー情報約2362万件が漏洩",
+    "url": "https://news.livedoor.com/article/image_detail/32342903/?img_id=56422079"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "職員採用試験の録画面接システムに 不正アクセス 一宮市の受験者の個人情報漏えいか",
+    "url": "https://www.47news.jp/14958177.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "ai.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "企業AIの安全な運用基盤「Red Hat AI 3.5」一般提供開始 - AI Watch",
+    "url": "https://ai.watch.impress.co.jp/docs/news/2141857.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "中国の化学メーカーに 情報漏洩 か ｢旭化成｣の元社員(66)を逮捕 半導体関連技術の情報を不正に ...",
+    "url": "https://newsdig.tbs.co.jp/articles/cbc/2953109?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "chunichi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "職員採用試験の録画面接システムに不正アクセス 一宮市の受験者の個人 情報漏えい か",
+    "url": "https://www.chunichi.co.jp/article/1312832?rct=aichi"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "アットコスメ、ユーザー1万人超のメアド 漏えい の可能性 ファイル転送サービスの設定ミスで",
+    "url": "https://news.yahoo.co.jp/articles/cd9a180302d086c964c3df8e636519ad9999d2c1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/trend/itmedia_news-20260916_2000001527"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "AI業界トップが「開発減速」で異例の結束。トランプ政権は関与に消極的 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32341920/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "s.kabutan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ハッカーのブロックチェーン利用が急増 オープンソースＡＩで 攻撃 拡大 - 株探",
+    "url": "https://s.kabutan.jp/news/n202609180007/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "企業は サイバー攻撃 への対応方法を変える必要がある。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/doanh-nghiep-can-thay-doi-cach-ung-pho-truoc-cac-cuoc-tan-cong-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-17",
+    "time": null,
     "organization": "atpress.ne.jp",
     "identifier": "情報漏えい",
     "title": "「AI博覧会 Fukuoka 2026」カンファレンス第3弾スピーカーを発表！大分・佐賀のAI支援機関 ...",
