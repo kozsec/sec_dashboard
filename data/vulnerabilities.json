@@ -18,10 +18,10 @@
     "title": "Acronis Backup Incorrect Default Permissions Vulnerability",
     "kev": "あり",
     "epss_current": null,
-    "cvss": null,
-    "cvss_vector": null,
+    "cvss": 7.8,
+    "cvss_vector": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/16",
-    "last_update": "2026/09/16"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-58704",
