@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-18",
     "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "不正アクセス",
+    "title": "千葉銀行子会社サイトに 不正アクセス デビット特典の申込者情報が漏えいか - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-09-18-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮、 サイバー攻撃 で外貨獲得 17億円相当、IT技術者標的に - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1539633/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "不正アクセス",
+    "title": "古川デジタル相が就任会見、AI・科学技術を一体推進 「実務経験を生かす」",
+    "url": "https://dempa-digital.com/article/725854"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "新たに968人分の個人 情報漏洩 が判明 兵庫県、編集ソフトで黒塗り外せる状態に（写真・画像 1/1）",
+    "url": "https://www.sankei.com/article/20260918-55QNSYKUOBO6LBDQ5IVVRBBSIE/photo/KLUXDRLEVBJOFPSJXB2KWKU5O4/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "情報漏洩",
+    "title": "680億円の契約が弱点に！英国政府がAI導入で陥った“罠”…医療・警察・軍まで広がる「AIベンダー ...",
+    "url": "https://jbpress.ismedia.jp/articles/-/97017"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "職員採用試験の応募者の個人 情報漏えい の可能性 委託業者のシステムに不正アクセスか 奈良 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-2957699"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "システム は戻せても『個人情報』は戻らない ～ニチレイ5万件超漏えいが示した現実 ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/03b6ac10d9bd911cb2ada0e6f7b21931e7ccea86"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "nara-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい か 奈良県橿原市 職員採用試験応募者313件",
+    "url": "https://www.nara-np.co.jp/news/20260919203831.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
     "organization": "jiji.com",
     "identifier": "情報漏洩",
     "title": "生成AIパスポート、各回の受験者数が過去最多の32877名を記録。2026年8月試験の結果を発表",

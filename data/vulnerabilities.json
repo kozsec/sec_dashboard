@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2025-39682",
+    "company": "Linux",
+    "product": null,
+    "title": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00505,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/09/18",
+    "last_update": "2026/09/18"
+  },
+  {
     "cve": "CVE-2025-39964",
     "company": "Linux",
     "product": null,
@@ -29,11 +41,11 @@
     "product": null,
     "title": "Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00784,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/16",
-    "last_update": "2026/09/16"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-87886",
@@ -41,7 +53,7 @@
     "product": null,
     "title": "Acronis Backup Incorrect Default Permissions Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00281,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/16",
@@ -53,11 +65,11 @@
     "product": null,
     "title": "Google Pixel Improper Authorization Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00112,
+    "epss_current": 0.00207,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/16",
-    "last_update": "2026/09/16"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-76461",
@@ -77,11 +89,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.11957,
+    "epss_current": 0.14563,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/09/11",
-    "last_update": "2026/09/15"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-84869",
@@ -449,11 +461,11 @@
     "product": null,
     "title": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.4202,
+    "epss_current": 0.42475,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/08/24",
-    "last_update": "2026/08/25"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-69836",
@@ -533,11 +545,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.45878,
+    "epss_current": 0.49675,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/08/24"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-55040",
@@ -965,11 +977,11 @@
     "product": "Page Builder",
     "title": "Joomlack Page Builder Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.30375,
+    "epss_current": 0.30866,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/08/24"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2026-48282",
@@ -1337,11 +1349,11 @@
     "product": "Core",
     "title": "Drupal Core SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.87892,
+    "epss_current": 0.89986,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/05/22",
-    "last_update": "2026/08/26"
+    "last_update": "2026/09/18"
   },
   {
     "cve": "CVE-2025-34291",

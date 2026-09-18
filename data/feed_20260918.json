@@ -5,6 +5,16 @@
     "time": null,
     "organization": "Linux",
     "product": "Kernel",
+    "identifier": "CVE-2025-39682",
+    "title": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-39682&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "Linux",
+    "product": "Kernel",
     "identifier": "CVE-2025-39964",
     "title": "Linux Kernel Race Condition Vulnerability",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-39964&field_cve=&sort_by=field_date_added"
