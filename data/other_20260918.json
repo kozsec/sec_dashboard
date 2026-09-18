@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-09-18",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏洩",
+    "title": "生成AIパスポート、各回の受験者数が過去最多の32877名を記録。2026年8月試験の結果を発表",
+    "url": "https://www.jiji.com/jc/article?k=000000106.000121559&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "個人情報5万3000件漏えい＝ サイバー攻撃 で―ニチレイ(時事通信) - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/1d40e4d984f6ad4dba1ce2507a43ae6dd36fc357"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮、 サイバー攻撃 で外貨獲得 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1793214"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "韓国大学入試、出願 システム障害 で 354件を救済…競争率確認後の 3件は取り消し勧告",
+    "url": "https://news.yahoo.co.jp/articles/3987569ce8e2a97b6410d451ec9498bf8ae0b21b/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "chugoku-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "９７２人 情報漏えい 、兵庫 | 中国新聞デジタル",
+    "url": "https://www.chugoku-np.co.jp/articles/-/897275"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "AIエッジチップの世界市場（2026年～2032年）、市場規模（システムオンチップ - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/4612512"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "職員採用試験システムへの 不正アクセス 、全国で相次ぐ 受験者の情報漏えいか - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/6f7a4cb4118e7f1a95bc7950118c5d2cb033e649/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "新たに968人分の個人 情報漏洩 が判明 兵庫県、編集ソフトで黒塗り外せる状態に (産経新聞)",
+    "url": "https://news.yahoo.co.jp/articles/8859b793bd8eae5df8ae1046cae60c5e11564412/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "look.satv.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "近年のサイバー攻撃の傾向や対策を確認 静岡市で企業の担当者に向けたサイバーセキュリティー ...",
+    "url": "https://look.satv.co.jp/content_news/politics_economic/98340"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "CybleとUAEのCyber Security Council、国家レベルの脅威インテリジェンス能力強化に向けた ...",
+    "url": "https://www.jiji.com/jc/article?k=ebYFinT4&g=prn"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "メタ元セキュリティ責任者アレックス・ステイモス氏：オープンウェイトAIが国家規模の ...",
+    "url": "https://finance.biggo.jp/news/6b856edab3a828f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "kpmg.com",
+    "identifier": "ランサムウェア",
+    "title": "CrazyHunter Ransomware－Goベースの二重恐喝型 ランサムウェア - KPMG International",
+    "url": "https://kpmg.com/jp/ja/insights/2026/09/cyber-ti-20260120.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "kpmg.com",
+    "identifier": "ランサムウェア",
+    "title": "SafePay ランサムウェア －新たなグローバル二重恐喝型脅威 - KPMG International",
+    "url": "https://kpmg.com/jp/ja/insights/2026/09/cyber-ti-20260107.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮、 サイバー攻撃 で暗号資産不正送金 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1793186"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 、暗号化前にバックアップ破壊 「Living off the Land」が72％増、Halcyon調査",
+    "url": "https://japansecuritysummit.org/2026/09/14943/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "不正アクセス",
     "title": "職員採用試験の応募者の個人情報漏えいの可能性 委託業者のシステムに 不正アクセス か 奈良 ...",
