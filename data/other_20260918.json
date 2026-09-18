@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-18",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "酒田市役所で システム障害 発生 現在は復旧 一時業務が困難に…原因の究明進む（山形）",
+    "url": "https://news.livedoor.com/article/detail/32347643/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "realsound.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIの未来を技術者だけで決めない Google DeepMindが社会全体でAGIを議論する場「DeepMind ...",
+    "url": "https://realsound.jp/tech/2026/09/post-2527496.html/amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "半導体関連技術を中国企業に 漏えい したとして逮捕された旭化成元社員の男 別の製品に関する ...",
+    "url": "https://news.yahoo.co.jp/articles/e21ab36ebcb6e59ac42d53c6050e15e8b9b0c18f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報 の 流出 先は中国企業 ハードディスクに他の製品 情報 見つかる 漏えい 容疑で逮捕の旭化成の元社員",
+    "url": "https://news.yahoo.co.jp/articles/2d0c85779bfd5cda661230f5930949cad129d4ac"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "dempa-times.co.jp",
+    "identifier": "システム障害",
+    "title": "「ロジスティクス全国大会2026」開催 サイバー攻撃後の物流対応やAI実装、フィジカルAIを議論",
+    "url": "https://www.dempa-times.co.jp/event-information/58233/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI脅威への対応、自動車業界が議論開始ーハッキング防ぐ仕組みなど | TBS CROSS DIG with ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2953131"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "ランサムウェア",
     "title": "アレックス・ステイモス氏、AI脱走パニックは本質的脅威を見誤っていると指摘——真の危険は ...",
