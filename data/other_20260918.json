@@ -3,6 +3,195 @@
     "source": "Web",
     "date": "2026-09-18",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "職員採用試験の応募者の個人情報漏えいの可能性 委託業者のシステムに 不正アクセス か 奈良 ...",
+    "url": "https://news.infoseek.co.jp/article/mbs_2957699/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "職員採用試験の応募者の個人 情報漏えい の可能性 委託業者のシステムに不正アクセスか 奈良 ...",
+    "url": "https://news.yahoo.co.jp/articles/312c5dda6289a4042db37b98fefa5e7d41bd09c1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "職員採用試験システムへの不正アクセス、全国で相次ぐ 受験者の 情報漏えい か（アスキー）",
+    "url": "https://news.yahoo.co.jp/articles/6f7a4cb4118e7f1a95bc7950118c5d2cb033e649"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "新たに968人分の個人 情報漏洩 が判明 兵庫県、編集ソフトで黒塗り外せる状態に - 産経ニュース",
+    "url": "https://www.sankei.com/article/20260918-55QNSYKUOBO6LBDQ5IVVRBBSIE/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "新たに968人分の個人 情報漏洩 が判明 兵庫県、編集ソフトで黒塗り外せる状態に（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/8859b793bd8eae5df8ae1046cae60c5e11564412"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で (ITmedia NEWS)",
+    "url": "https://news.yahoo.co.jp/articles/6902210253989450cbd7d4d152ed9a0e4db44770/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "個人情報５万３０００件漏えい サイバー攻撃 で―ニチレイ：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026091800986&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮、 サイバー攻撃 で外貨17億円盗んだか 警察庁などが発表 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20260918-V6EGMUQB3ROZ3MELSRHFS5JYQU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮の サイバー攻撃 で17億円被害 日本含む世界各地で確認（毎日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/122c1dc2e06331317f6d24e329adbf3d191db0b7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "面接相手は「AI」だった…暗躍する北朝鮮ハッカー集団 100カ国で被害 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUD169H90W6A910C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮による サイバー攻撃 の手口を政府が公表 約17億円相当の暗号資産が送金 木原官房長官 ...",
+    "url": "https://news.yahoo.co.jp/articles/7c0950e42c0d7339a17382c2de2b3e83dd47141b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "クラウドデータセキュリティ市場：世界市場予測、2026年～2032年 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/7072175"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "シスコ、悪用が確認されたISEのゼロデイについて警告（CVE-2026-76460） | Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47786/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "ecnomikata.com",
+    "identifier": "ランサムウェア",
+    "title": "生成AIによる「データ漏えいリスク」企業の重要課題 CPR調査 - ECのミカタ",
+    "url": "https://ecnomikata.com/ecnews/marketing/51653/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202609182000001648/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "OBC、サイバー攻撃時代の事業継続と企業防衛をテーマとした無料オンラインセミナーを毎月開催",
+    "url": "https://prtimes.jp/main/html/rd/p/000000285.000026471.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "近年のサイバー攻撃の傾向や対策を確認 静岡市で企業の担当者に向けたサイバーセキュリティー ...",
+    "url": "https://news.yahoo.co.jp/articles/d32dae82761a071ed5a8e27c1f9319616bbb39fe"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "【動画】日銀総裁「政策の局面が変化」 物価、原油高で上振れリスク 利上げペース加速",
+    "url": "https://www.nippon.com/ja/news/yjj20260918n007043/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "福山市採用試験 個人情報が外部漏えい|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/14962925.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "広島県福山市の採用試験で個人 情報 が外部 漏えい - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c597407b20d9715cd7bdd1fcf1793ca8c3e914c1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "972人 情報漏えい 、兵庫 黒塗り外せる状態で開示 - 47NEWS",
+    "url": "https://www.47news.jp/14962553.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-18",
+    "time": null,
     "organization": "niigata-nippo.co.jp",
     "identifier": "情報漏えい",
     "title": "９７２人 情報漏えい 、兵庫 黒塗り外せる状態で開示 | 新潟日報",
