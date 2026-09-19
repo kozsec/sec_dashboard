@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-19",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "ニチレイ、従業員・取引先などの個人情報５万３８６６件流出を確認…７月にサイバー攻撃受ける",
+    "url": "https://news.livedoor.com/article/detail/32369713/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "亀梨和也、独立後初の全国ツアー システム障害 で開演が30分遅れ…異例の本人“前説”にファン ...",
+    "url": "https://news.yahoo.co.jp/articles/d1024f8e09ba0c3c249d9bca140345482ce042fc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "gifu-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 で１７億円盗む 北朝鮮、ＩＴ技術者標的 警察庁など発表 | 岐阜新聞デジタル",
+    "url": "https://www.gifu-np.co.jp/articles/-/772038"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
     "organization": "jiji.com",
     "identifier": "サイバー攻撃",
     "title": "米グーグルのＡＩも他社 攻撃 相次ぐ「暴走」 - 時事通信",
