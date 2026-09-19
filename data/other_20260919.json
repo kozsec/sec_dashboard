@@ -3,6 +3,186 @@
     "source": "Web",
     "date": "2026-09-19",
     "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "生成 AI「Gemini」試験中に企業 3社の システム に侵入 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/international/d7f655a72f2144dfa86bcfe77b360201"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ニチレイ、従業員・取引先などの個人 情報 ５万３８６６件 流出 を確認…７月にサイバー攻撃受ける",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260919_gyt1t00296/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "ニチレイ 5万3000件超の個人 情報 が漏洩 7月に受けたサイバー攻撃で（テレ朝NEWS） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-000534606"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "gifu-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "岐阜市民病院で 情報漏えい | 岐阜新聞デジタル",
+    "url": "https://www.gifu-np.co.jp/articles/-/772032"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "９７２人 情報漏えい 、兵庫 黒塗り外せる状態で開示 | | 全国のニュース - 佐賀新聞",
+    "url": "https://www.saga-s.co.jp/articles/gallery/1794369?ph=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "sun-tv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "約1000人分の個人 情報 が 漏えい 公文書の黒塗り処理不備 - サンテレビ",
+    "url": "https://www.sun-tv.co.jp/suntvnews/news/2026/09/19/96829/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ニチレイ、従業員・取引先などの個人 情報 ５万３８６６件 流出 を確認…７月にサイバー攻撃受ける …",
+    "url": "https://news.yahoo.co.jp/articles/2496dd97db9fec00b6f2565559dc5b2b03f61f64"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "「AI攻撃が怖い」でも実際の原因は別 中小企業の47％が経験したサイバー被害、本当の落とし穴",
+    "url": "https://topics.smt.docomo.ne.jp/article/itmedia_business/business/itmedia_business-20260902_026?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "kn.itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "AI導入は6割、でも8割超が「チャット止まり」 業務自動化まで進まない原因は？ - キーマンズネット",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "kfb.co.jp",
+    "identifier": "システム障害",
+    "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けたサイバー攻撃で | ふくしまNEWS KFB福島放送",
+    "url": "https://www.kfb.co.jp/news/article/16904259"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ニチレイ、従業員・取引先などの個人情報５万３８６６件流出を確認…７月に サイバー攻撃 受ける",
+    "url": "https://www.yomiuri.co.jp/economy/20260919-GYT1T00296/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けた サイバー攻撃 で（テレ朝NEWS） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-000534606"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けた サイバー攻撃 で - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16904245"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "マクロン氏、ロシアによる欧州へのハイブリッド 攻撃 が激化と警告 - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "グーグルのAI「ジェミニ」、試験中に他社へ サイバー攻撃 米報道 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9M4FNSV9MULZU002M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米グーグルのAIも他社 攻撃 相次ぐ「暴走」（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2f1f525998d79ff78820ef478eaf3701e3fcc53a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入… サイバー攻撃 能力調べる試験中",
+    "url": "https://www.yomiuri.co.jp/economy/20260919-GYT1T00310/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入… サイバー攻撃 能力調べる試験中",
+    "url": "https://news.yahoo.co.jp/articles/092a3d88bc5e4129c507288fc117159b8f236d45"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "ジェミニ社はサイバーセキュリティテストにおいて、誤って3社を攻撃した。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/gemini-tan-cong-nham-3-cong-ty-trong-cuoc-thu-nghiem-an-ninh-mang"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
     "organization": "news.tv-asahi.co.jp",
     "identifier": "不正アクセス",
     "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けたサイバー攻撃で - テレ朝NEWS",
