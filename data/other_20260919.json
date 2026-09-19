@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-09-19",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「AI攻撃が怖い」でも実際の原因は別 中小企業の47％が経験したサイバー被害、本当の落とし穴",
+    "url": "https://news.yahoo.co.jp/articles/dda62651f99c21d22af811058edb00080bbeca21"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "mbp-japan.com",
+    "identifier": "不正アクセス",
+    "title": "二要素認証（MFA）の必要性／生成AIは「もう一人のアシスタント」 - マイベストプロ",
+    "url": "https://mbp-japan.com/miyagi/kageyamatp/column/5236386/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "OBC、サイバー攻撃時代の事業継続と企業防衛をテーマとした無料オンラインセミナーを毎月開催",
+    "url": "https://news.livedoor.com/pr_topics/detail/32364947/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「AI攻撃が怖い」でも実際の原因は別 中小企業の 47％が経験したサイバー被害、本当の落とし穴",
+    "url": "https://news.yahoo.co.jp/articles/dda62651f99c21d22af811058edb00080bbeca21/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏洩",
+    "title": "【速報】兵庫県「黒塗り」不十分で新たに972人分の 情報漏洩 公文書公開請求の個人情報 編集 ...",
+    "url": "https://www.fnn.jp/articles/-/1117433"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
     "organization": "iotnews.jp",
     "identifier": "不正アクセス",
     "title": "DNPとKeypasco、AIエージェント時代を見据えた新認証基盤の構築で協業し「DNPマルチ ...",
