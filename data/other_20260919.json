@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-19",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "ニチレイ、サイバー攻撃による個人 情報漏えい を確認。配送先・取引先・従業員などの約5万件",
+    "url": "https://newspicks.com/news/17536387/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "GoogleのAIが3社のシステムに 不正 に侵入した。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/ai-cua-google-xam-nhap-trai-phep-he-thong-cua-ba-cong-ty"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "afpbb.com",
+    "identifier": "不正アクセス",
+    "title": "グーグルのAI「ジェミニ」、パスワードを推測して複数サイトに 不正アクセス - AFPBB News",
+    "url": "https://www.afpbb.com/articles/-/3653795"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "グーグルのAI「ジェミニ」、パスワードを推測して複数サイトに 不正アクセス - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c8074276e76bc49303d26a4a7bb618c7ca820002"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けたサイバー攻撃で（テレビ朝日系（ANN））",
+    "url": "https://news.yahoo.co.jp/articles/0716ecaf68e73283904276a0c3a8a20ae35a1d99"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "システム障害",
+    "title": "ニチレイ 5万3000件超の個人情報が漏洩 7月に受けたサイバー攻撃で",
+    "url": "https://www.khb-tv.co.jp/news/16904247"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "afpbb.com",
+    "identifier": "不正アクセス",
+    "title": "米軍、AIの誤情報で中国船へ乗り込む寸前の事態に 報道 - AFPBB News",
+    "url": "https://www.afpbb.com/articles/-/3653800"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "新たに968人分の個人情報漏洩が判明 兵庫県、編集ソフトで黒塗り外せる状態に (産経ニュース)",
+    "url": "https://newspicks.com/news/17537964/?ref=pickstream_2055"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-19",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "ランサムウェア",
     "title": "「AI攻撃が怖い」でも実際の原因は別 中小企業の47％が経験したサイバー被害、本当の落とし穴",
