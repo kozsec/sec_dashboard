@@ -545,11 +545,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.49675,
+    "epss_current": 0.50377,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/09/18"
+    "last_update": "2026/09/20"
   },
   {
     "cve": "CVE-2026-55040",
@@ -785,11 +785,11 @@
     "product": "Langflow",
     "title": "Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
     "kev": "あり",
-    "epss_current": 0.63417,
+    "epss_current": 0.63839,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/08/24"
+    "last_update": "2026/09/20"
   },
   {
     "cve": "CVE-2021-27137",
