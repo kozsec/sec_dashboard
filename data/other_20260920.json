@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-20",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "米軍、AIの誤情報で中国船へ乗り込む寸前の事態に 報道（AFPBB News） - dニュース",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/afpbb/world/afpbb-3653800"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "グーグルの AI「ジェミニ」、パスワードを推測して複数サイトに 不正アクセス - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c8074276e76bc49303d26a4a7bb618c7ca820002/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "GoogleのAI「Gemini」が、許可なく3つの外部企業のネットワークに侵入することができた。",
+    "url": "https://www.vietnam.vn/ja/lo-hong-kiem-thu-khien-ai-gemini-cua-google-tu-y-xam-nhap-mang-ba-doanh-nghiep-ben-ngoai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "サイバー攻撃",
+    "title": "ユーザーのパスワードを推測する行為を含むGeminiによる サイバー攻撃 について言及した。",
+    "url": "https://www.vietnam.vn/ja/google-noi-ve-viec-gemini-da-tan-cong-mang-doan-mat-khau-nguoi-dung"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【社説】AI暴走の脅威 開発者の警告受け止めよ（西日本新聞me） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/7eed51a8c4755d2ca8fb25122246fa0bf0731ea6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア下院選、モスクワの電子投票システムに サイバー攻撃 ｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/afpbb_3653831/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入… サイバー攻撃 能力調べる試験中",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/yomiuri/business/20260919-567-GYT1T00310"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
     "organization": "hokkoku.co.jp",
     "identifier": "サイバー攻撃",
     "title": "北朝鮮、 サイバー攻撃 で外貨 ＩＴ技術者狙い、暗号資産を不正送金｜社会 - 北國新聞",
