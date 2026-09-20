@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-20",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "韓国大学入試、 システム障害 で 354件救済も公平性に議論…出願制度見直しへ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/7de750c97ea4b40d5798608ce57a32cb6f43e572/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "kucoin.com",
+    "identifier": "不正アクセス",
+    "title": "同じ攻撃者がFetch.aiとNuNetから200万ドルを 不正 取得、NTXトークンが過去最低値に | KuCoin",
+    "url": "https://www.kucoin.com/ja/news/flash/same-attacker-drains-2m-from-fetch-ai-and-nunet-ntx-token-hits-record-low"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "borncity.com",
+    "identifier": "情報漏洩",
+    "title": "マリティムホテルでセキュリティインシデント発生。顧客データが 漏洩 。 - BornCity",
+    "url": "https://borncity.com/blog/ja/2026/09/20/sicherheitsvorfall-bei-maritim-hotels-kundendaten-abgeflossen/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
+    "organization": "dcross.impress.co.jp",
+    "identifier": "システム障害",
+    "title": "「Mythos」が見せたサイバーセキュリティの一大変革【第108回】",
+    "url": "https://dcross.impress.co.jp/docs/column/column20170918-1/004855.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-20",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "不正アクセス",
     "title": "TP-Link Tapoカメラに深刻な脆弱性があり、ユーザーが盗撮される可能性がある。 - Vietnam.vn",
