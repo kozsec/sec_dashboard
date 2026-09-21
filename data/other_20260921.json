@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-21",
     "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "情報漏えい",
+    "title": "LG U+ 情報漏えい 隠蔽疑惑、捜査長期化 パク議員が徹底解明要求",
+    "url": "https://www.digitaltoday.co.kr/jp/view/105899/lgu-plus-hacking-cover-up-probe-drags-on-park-jung-hyun-says-must-prevent-permanent-cold-case"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "不正アクセス",
+    "title": "[写真]GoogleのGemini、評価中に実在3社へ 不正アクセス テスト環境の接続設定に不備 - 財経新聞",
+    "url": "https://www.zaikei.co.jp/photo/870791.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "smartwatchlife.jp",
+    "identifier": "サイバー攻撃",
+    "title": "古川大臣の就任で日本のAI政策はどう変わるのか｜医療DXを医療AXへと語り医療情報の2次 ...",
+    "url": "https://www.smartwatchlife.jp/81148/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "afpbb.com",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア下院選、与党勝利へ ロシア軍、ドローン 攻撃 への報復表明 - AFPBB News",
+    "url": "https://www.afpbb.com/articles/biz/3653880?ctm_campaign=biz_news"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "トランプが新組織「AIフォース」構想、規制を抑えつつ悪質行為の監視と対中競争を重視",
+    "url": "https://news.yahoo.co.jp/articles/260d77d354a55995416108c82700618cdbeb3337?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ウクライナがモスクワに「最大規模」 攻撃 、3人死亡 ロシア下院選最終日 - ニューズウィーク",
+    "url": "https://www.newsweekjapan.jp/articles/-/334675?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-21",
+    "time": null,
     "organization": "blogs.itmedia.co.jp",
     "identifier": "情報漏洩",
     "title": "生成AIの投資対効果、ガバナンスなき拡大に持続性はあるか - オルタナティブ・ブログ",
