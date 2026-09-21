@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-7273",
+    "company": "Zyxel",
+    "product": null,
+    "title": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00315,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/09/21",
+    "last_update": "2026/09/21"
+  },
+  {
     "cve": "CVE-2025-39682",
     "company": "Linux",
     "product": null,

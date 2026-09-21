@@ -7,5 +7,24 @@
     "identifier": null,
     "title": "One does not simply defend agentically",
     "url": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "Zyxel",
+    "product": "GS1900 Series Switches",
+    "identifier": "CVE-2026-7273",
+    "title": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-7273&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-21",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800-82 Rev. 4 (Draft)",
+    "title": "Guide to Operational Technology (OT) Security",
+    "url": "https://csrc.nist.gov/pubs/sp/800/82/r4/ipd"
   }
 ]
