@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-22",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIが“悪意なく”人類を滅ぼす？加速度的な進化を世界は減速させられるか 研究者も危惧する最悪 ...",
+    "url": "https://news.yahoo.co.jp/articles/a9f6c17607918e05afc4a960213ffdcd650a5e2d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "サイバー攻撃",
+    "title": "KISAが韓国型セキュリティAI育成国家戦略化を提言 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-it/2026/09/22/T7L2H32YCFD5VABTC5UR7RFZ2U/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "サイバー攻撃",
+    "title": "政府、 サイバー セキュリティ特化AI基盤モデルを開発計画 HyperCLOVA Xで防御、EXAONEで 攻撃",
+    "url": "https://www.digitaltoday.co.kr/jp/view/106666/security-specialised-foundation-model-aims-for-opus-45-class-performance-with-exaone-and-hyperclovax"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "health-isac.org",
+    "identifier": "サイバー攻撃",
+    "title": "医療は 攻撃 を受けている：身元確認を防御線にせよ - Health-ISAC",
+    "url": "https://health-isac.org/ja/healthcare-is-under-attack-make-identity-the-perimeter/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-22",
+    "time": null,
     "organization": "digitaltoday.co.kr",
     "identifier": "システム障害",
     "title": "米軍施設の売店で冷蔵・冷凍設備に 障害 相次ぐ サイバー攻撃の可能性も軍当局が調査",

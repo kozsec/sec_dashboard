@@ -5,11 +5,11 @@
     "product": null,
     "title": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00315,
+    "epss_current": 0.01987,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/21",
-    "last_update": "2026/09/21"
+    "last_update": "2026/09/22"
   },
   {
     "cve": "CVE-2025-39682",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
     "kev": "あり",
-    "epss_current": 0.012,
+    "epss_current": 0.0203,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/18",
-    "last_update": "2026/09/19"
+    "last_update": "2026/09/22"
   },
   {
     "cve": "CVE-2025-39964",
@@ -101,11 +101,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.14563,
+    "epss_current": 0.09287,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/09/11",
-    "last_update": "2026/09/18"
+    "last_update": "2026/09/22"
   },
   {
     "cve": "CVE-2026-84869",
