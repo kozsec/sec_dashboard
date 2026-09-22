@@ -965,9 +965,57 @@
             border-radius: 3px;
         }
 
+        .bottom-nav {
+            position: fixed;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: min(420px, 100%);
+            height: 64px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            background: rgba(255, 255, 255, 0.94);
+            border: 1px solid #e6eaf0;
+            border-bottom: none;
+            border-radius: 18px 18px 0 0;
+            box-shadow: 0 -6px 24px rgba(30, 41, 59, 0.08);
+            backdrop-filter: blur(12px);
+            z-index: 200;
+        }
+
+        .bottom-nav a {
+            width: 25%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #8a94a6;
+            font-size: 24px;
+            text-decoration: none;
+        }
+
+        .bottom-nav a:hover {
+            color: #172033;
+        }
+
         /* Mobile */
 
         @media (max-width: 800px) {
+
+            main {
+                padding-bottom: 80px;
+            }
+
+            footer {
+                padding-bottom: 80px;
+            }
+
+            .bottom-nav {
+                width: 100%;
+                height: 60px;
+                border-radius: 16px 16px 0 0;
+            }
 
             .container {
                 width: calc(100% - 24px);
@@ -1854,6 +1902,13 @@
         <footer>
             Security Watch by koz / セキュリティを、もっと身近に
         </footer>
+
+        <nav class="bottom-nav">
+            <a href="/" aria-label="Dashboard">⌂</a>
+            <a href="/movie.html" aria-label="Movie">▶</a>
+            <a href="/post.html" aria-label="Post">✎</a>
+            <a href="/profile.html" aria-label="Profile">●</a>
+        </nav>
 
     </div>
 
