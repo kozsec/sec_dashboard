@@ -29,6 +29,13 @@ if (bottomNav) {
                 </svg>
             </a>
 
+             <a href="/sec_dashboard/link.html" aria-label="Post">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M10 13a5 5 0 0 0 7.1 0l2-2a5 5 0 0 0-7.1-7.1l-1.2 1.2"></path>
+                    <path d="M14 11a5 5 0 0 0-7.1 0l-2 2A5 5 0 0 0 12 20.1l1.2-1.2"></path>
+                </svg>
+            </a>
+
             <a href="/sec_dashboard/profile.html" aria-label="Profile">
                 <svg viewBox="0 0 24 24" aria-hidden="true">
                     <circle cx="12" cy="8" r="4"></circle>
