@@ -1,5 +1,45 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "Arista",
+    "product": "VeloCloud Orchestrator",
+    "identifier": "CVE-2026-93952",
+    "title": "Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-93952&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "F5",
+    "product": "BIG-IP APM",
+    "identifier": "CVE-2026-94127",
+    "title": "F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-94127&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "Check Point",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-93616",
+    "title": "Check Point Multiple Products Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-93616&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-22",
+    "time": null,
+    "organization": "Check Point",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-85102",
+    "title": "Check Point Multiple Products Improper Certificate Validation Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-85102&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "海外",
     "date": "2026-09-22",
     "time": "Null",
