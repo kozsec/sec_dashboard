@@ -3,6 +3,33 @@
     "source": "Web",
     "date": "2026-09-23",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「AIによる人類滅亡」は起こり得るか…生物兵器製造、インフラ 攻撃 、世界戦争など、研究者が ...",
+    "url": "https://news.yahoo.co.jp/articles/33d97ee8b6788fec67abae33dbf1554044d2c0e4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "グーグルGeminiが「3企業に侵入」、AI時代の安全管理と投資機会を検証する（Forbes JAPAN）",
+    "url": "https://news.yahoo.co.jp/articles/3956abfc3b597c12af64c340cc5a085315f98796"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "オープンAI、外部検証拡大 人工知能暴走懸念で安全策 - 信濃毎日新聞",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026092301000287"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
     "organization": "japansecuritysummit.org",
     "identifier": "サイバー攻撃",
     "title": "新たなプロンプトインジェクション「PuzzleMask」を発見 軽量AIゲートキーパーを100％回避",
