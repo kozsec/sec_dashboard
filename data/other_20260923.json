@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-23",
     "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "モサドと、シリアへの核攻撃につながった秘密。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/mossad-va-bi-mat-dan-toi-don-danh-hat-nhan-syria"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "システム障害",
+    "title": "「JCOM」で システム障害 インターネット接続サービス利用できず - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000535403.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "ハッカーたちはAIを使って100社を攻撃し、60万件のクレジットカード 情報 を盗み出した。",
+    "url": "https://www.vietnam.vn/ja/hacker-su-dung-ai-tan-cong-100-cong-ty-danh-cap-600-000-ho-so-the-tin-dung"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "gizmodo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「金融システムと世界経済がAIのせいでヤバい」イギリスの中央銀行総裁が警告",
+    "url": "https://www.gizmodo.jp/article/bank-of-england-governor-warns-ai-represents-threat-to-the-global-economy/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
     "organization": "digitaltoday.co.kr",
     "identifier": "不正アクセス",
     "title": "TVING、ゼロトラスト軸にセキュリティ体制強化",
