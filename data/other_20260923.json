@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-09-23",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "ＪＣＯＭ 一時 システム障害 北海道と九州以外 ネット接続できず - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/shimen/20260924-GYT9T00045/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "対象は258社・団体 施行迫る能動的 サイバー 防御法 - 日経デジタルガバナンス",
+    "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC193AH0Z10C26A5000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "不正アクセス",
+    "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織 ...",
+    "url": "https://toyokeizai.net/articles/-/958188"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 民間防衛で協力 オープンAIとウクライナ - サンスポ",
+    "url": "https://www.sanspo.com/article/20260924-DI7YJJ6LDVMBBEM2SUSZ7L4JXQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIで サイバー攻撃 は1000倍にも拡大、TXOneが示したOT防御の新たなモデル - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20260924-4989427/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏洩",
+    "title": "【解説】ConoHa WING byGMO 第一報｜「 漏えい なし」はどこまでか - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118142/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "もし ランサム 被害でMicrosoft 365のデータが暗号化されたら？緊迫の情シス対応を追う",
+    "url": "https://www.sbbit.jp/article/sp/186979"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イギリスの研究所「5年以内に超知能AIの可能性」早急な対策を求める",
+    "url": "https://news.yahoo.co.jp/articles/a7ebfd42c3351acb2605d66778f60fb397143cac"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIがAIを狂わせる サイバー 被害責めるほど「 攻撃 者の思うつぼ」 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9L33M4V9LULFA02SM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "サイバー攻撃",
+    "title": "警察庁、2026年上半期の サイバー 脅威情勢を公表 ランサムウェア被害123件で半期過去最多",
+    "url": "https://japansecuritysummit.org/2026/09/14950/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "米モルガン・スタンレー、投資銀行部門でIPO案件リスト 漏洩 米報道 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN240950U6A920C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
     "organization": "tradingview.com",
     "identifier": "サイバー攻撃",
     "title": "米国企業は サイバー攻撃 の増加に直面している — TradingView News",
