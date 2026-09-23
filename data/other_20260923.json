@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-23",
     "time": null,
+    "organization": "tradingview.com",
+    "identifier": "サイバー攻撃",
+    "title": "米国企業は サイバー攻撃 の増加に直面している — TradingView News",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45F0ZN:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏えい",
+    "title": "ハッカー集団ShinyHuntersが米FBIへの不正アクセスを主張、捜査官や求職者の個人 情報 を保有と表明",
+    "url": "https://finance.biggo.jp/news/9c844297-2822-425c-aa3a-0f05eff1e338"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「うちは大丈夫？」と聞いて終わりにするな、経営主導で ランサム ウエアに備えよ",
+    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00317/090900056/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁から伝わらぬ危機意識 サイバー被害、公表まで2カ月",
+    "url": "https://www.nikkei.com/article/DGXZQOCD15BYF0V10C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-23",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "情報漏洩",
     "title": "モサドと、シリアへの核攻撃につながった秘密。 - Vietnam.vn",
