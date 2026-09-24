@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-24",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIのAIがオーストラリア政府運営サイトに不正アクセス 7月には開発中のAIが外部システムに ...",
+    "url": "https://news.yahoo.co.jp/articles/1588c342fac294dbe99f7562ccb6aa1c2c195300"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中国のハッカーがAIで100社超を 攻撃 、過去最大級のAIハッキング（Forbes JAPAN）",
+    "url": "https://news.yahoo.co.jp/articles/f0433014414a052a1ee4dbdabef7e79b2489bdd6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "情報漏えい",
+    "title": "ChatGPTに入力してはいけない4つの 情報 訴訟提出や検索露出のリスクも",
+    "url": "https://www.digitaltoday.co.kr/jp/view/107371/five-things-you-should-never-entrust-to-chatgpt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「『すいませんでした』って言われても…」山里亮太、婚活サイトでの個人 情報漏えい に見解 ...",
+    "url": "https://news.yahoo.co.jp/articles/35421662d1fcc82494bca207903b2529be8d909a/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「『すいませんでした』って言われても…」山里亮太、婚活サイトでの個人 情報漏えい に見解 ...",
+    "url": "https://news.yahoo.co.jp/articles/35421662d1fcc82494bca207903b2529be8d909a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "池上通信機－後場マイナス転換 サイバー攻撃の可能性 調査を開始 - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/7ad81b63fa736bb4971b12dfdd526801e1f939ac"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "不正アクセス",
     "title": "バーチャル音楽ライブ配信アプリ「topia」の音声サーバに 不正アクセス - ScanNetSecurity",
