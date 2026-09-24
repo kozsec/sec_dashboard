@@ -3,6 +3,240 @@
     "source": "Web",
     "date": "2026-09-24",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "オープンAIのAIが豪公的医療保険関連サイトに 不正アクセス 豪首相「容認できない」",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2965478?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "株式会社北國銀行が 不正アクセス 検知サービス「Fraud Alert ログイン検知」を導入 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000005.000191038&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ロート製薬、通販システムに第三者による 不正アクセス の可能性があるとして調査実施",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2142865.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "OpenAI、豪政府の非公開情報に アクセス 「意図せず」データを収集 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGM240U60U6A920C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "不正アクセス",
+    "title": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」 首相が明かす - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/c6lyqlnpk3ego"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "オープンAI、豪政府サイトに 不正アクセス 首相は「深刻な懸念」 [AIの時代] - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9S0GKWV9SUHBI017M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "JCOMシステム障害 全サービスが復旧 ネット利用できず…原因は調査中 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000535501.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIエージェントを使用した 攻撃 でクレジットカード情報60万件分が盗まれる - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47815/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "spectee.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Spectee、「危機管理カンファレンス2026秋」で地政学リスク時代のレジリエンス戦略を講演",
+    "url": "https://spectee.co.jp/pr20260924/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 対策、被害例に学ぶ 北海道経産局、30日札幌でセミナー",
+    "url": "https://www.hokkaido-np.co.jp/article/1375934/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判 | 日本海新聞 NetNihonkai",
+    "url": "https://www.nnn.co.jp/articles/-/803550"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長 - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1427703"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判 - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1475765404592013774/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/517445?rct=national"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判 - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1375838/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ロート製薬、通販システムに第三者による不正アクセスの可能性があるとして調査実施",
+    "url": "https://news.yahoo.co.jp/articles/9f88e62e3bd958ae50c3cb95c382784825d8b95d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃受けたニチレイ、計約5万件の個人 情報流出 を確認 現時点で不正利用なし",
+    "url": "https://www.sankei.com/article/20260924-2QTKX3KQANHHLMQYPL2AOKB734/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c19e3f8294843f8d71a886ee86eb0e41c81ae1c7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "オープンAIのAIが豪公的医療保険関連サイトに 不正アクセス 豪首相「容認できない」",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2965478"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "不正アクセス",
+    "title": "米オープンAIのAIエージェント、豪政府サイトに 不正アクセス 首相が事案を公表 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187091"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "tradingview.com",
+    "identifier": "サイバー攻撃",
+    "title": "池上通信機－後場マイナス転換 サイバー攻撃 の可能性 調査を開始 — TradingView News",
+    "url": "https://www.tradingview.com/news/dzh_financial:482d9128f8457:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 受けたニチレイ、計約5万件の個人情報流出を確認 現時点で不正利用なし（写真 ...",
+    "url": "https://www.sankei.com/article/20260924-2QTKX3KQANHHLMQYPL2AOKB734/photo/53SJ4V3MU5NATJQXIERED3HL3A/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "サイバー攻撃",
+    "title": "欧州閣僚、ロシアの欧州全域での破壊工作や サイバー攻撃 に警戒 - NewsPicks",
+    "url": "https://newspicks.com/news/17556928/?ref=business"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 対策、被害例に学ぶ 北海道経産局、30日札幌でセミナー - 47NEWS",
+    "url": "https://www.47news.jp/14986613.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "【参加無料・オンライン開催】 ランサムウェア ・生成AI時代の情報セキュリティを学ぶ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000043.000183919&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "サイバー攻撃",
+    "title": "企業が サイバー攻撃 の封じ込めに苦慮する理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/105400"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "サイバー攻撃",
     "title": "OpenAIのAIがオーストラリア政府運営サイトに不正アクセス 7月には開発中のAIが外部システムに ...",
