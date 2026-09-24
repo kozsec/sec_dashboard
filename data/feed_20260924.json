@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "WSO2",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-5430",
+    "title": "WSO2 Multiple Products Path Traversal Vulnerability ",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-5430&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "Adobe",
+    "product": "Commerce and Magento ",
+    "identifier": "CVE-2026-71362",
+    "title": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-71362&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-09-24",
     "time": "12:05",

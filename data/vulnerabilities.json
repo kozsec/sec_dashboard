@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-5430",
+    "company": "WSO2",
+    "product": null,
+    "title": "WSO2 Multiple Products Path Traversal Vulnerability ",
+    "kev": "あり",
+    "epss_current": 0.00374,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/09/24",
+    "last_update": "2026/09/24"
+  },
+  {
+    "cve": "CVE-2026-71362",
+    "company": "Adobe",
+    "product": null,
+    "title": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
+    "kev": "あり",
+    "epss_current": 0.02335,
+    "cvss": 9.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
+    "published": "2026/09/24",
+    "last_update": "2026/09/24"
+  },
+  {
     "cve": "CVE-2026-93952",
     "company": "Arista",
     "product": null,

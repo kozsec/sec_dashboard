@@ -4,6 +4,60 @@
     "date": "2026-09-24",
     "time": null,
     "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【参加無料・オンライン開催】ランサムウェア・生成AI時代の情報セキュリティを学ぶ - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000043.000183919.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAIエージェントがメディケアポータルに 不正 侵入と発表——政府サイトへのAIハッキング確認 ...",
+    "url": "https://finance.biggo.jp/news/1da12635-7070-4b34-a3ac-49cc132e6235"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "システム障害",
+    "title": "Office 2019など旧版で突然アプリ消失・認証トラブル多発 - X",
+    "url": "https://x.com/i/trending/2102957047809466858"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 対策 被害例で考える 道経産局、30日札幌でセミナー - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1376188/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判｜全国のニュース - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2368717"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "nnn.co.jp",
+    "identifier": "情報漏えい",
+    "title": "山陰アラカルト 県、３人の個人 情報漏えい - 日本海新聞 NetNihonkai",
+    "url": "https://www.nnn.co.jp/articles/-/803848"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "prtimes.jp",
     "identifier": "情報漏洩",
     "title": "Secure Code Warrior、AI活用時代に求められる 全ビジネスユーザーを対象としたAIリテラシー ...",
     "url": "https://prtimes.jp/main/html/rd/p/000000067.000019103.html"
