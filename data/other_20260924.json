@@ -3,6 +3,258 @@
     "source": "Web",
     "date": "2026-09-24",
     "time": null,
+    "organization": "health-isac.org",
+    "identifier": "サイバー攻撃",
+    "title": "医療業界における サイバー攻撃 問題は悪化の一途を辿っている。 - Health-ISAC",
+    "url": "https://health-isac.org/ja/医療分野におけるサイバー攻撃問題は悪化の一途を辿っている。/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "ランサムウェア",
+    "title": "INC ランサムウェア がBYOVDと複数の身代金要求メモを使用 - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/ニつのincランサムノートの物語/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「AI暴走」で起きた損害は誰が払うのか？ サイバー保険の落とし穴と対策 ... - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/dc040d55710a983168e660f2c95deb147ab1ca6c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "メタのAI「ミューズ」日本で開始へ 買い物代行、 情報漏洩 にはリスク",
+    "url": "https://www.nikkei.com/article/DGXZQOGN24ATS0U6A920C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "hokkoku.co.jp",
+    "identifier": "情報漏えい",
+    "title": "元警視庁巡査部長、初公判 - 賭博の 情報漏えい 「間違いない」 - 北國新聞",
+    "url": "https://www.hokkoku.co.jp/articles/tym/2238732"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "函館市ふるさと納税 寄付者の 情報漏えい - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1376128/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 - 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/234584"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "es.tradingview.com",
+    "identifier": "不正アクセス",
+    "title": "3日続伸 北國銀行に 不正アクセス 検知サービス「Fraud Alert ログイン検知」を導入 - TradingView",
+    "url": "https://es.tradingview.com/news/dzh_financial:6d6b9f44f8457:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "不正アクセス",
+    "title": "全国クレカ犯罪対策連絡協議会、佐賀県警に感謝状 不正アクセス 事件で摘発した捜査を評価",
+    "url": "https://www.saga-s.co.jp/articles/-/1797680"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "times.abema.tv",
+    "identifier": "ランサムウェア",
+    "title": "オンライン面接で生成AI使い“なりすまし”…北朝鮮IT技術者が企業へ侵入？世界で6500件以上 ...",
+    "url": "https://times.abema.tv/articles/-/10274870"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "ランサムウェア",
+    "title": "グローバルグループ、支払いプランのフィッシングを用いた ランサムウェア 使用 - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/from-payment-plan-to-ransomware-inside-a-global-group-attack/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "情報漏洩",
+    "title": "Macfinger ClickFix、AMOSスティーラーを用いてmacOSを標的に - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/macfinger-clickfix-campaign/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "メタのAIエージェント「ミューズ」日本上陸へ 買い物代行で利便性と 情報漏洩 リスク",
+    "url": "https://finance.biggo.jp/news/35d178b6-caec-4473-9936-554b319e5a35"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "全日空商事でギフト不正交換 原因は第三者の不正アクセス - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/031800050/091400091/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "access-online.net",
+    "identifier": "情報漏洩",
+    "title": "放置IDが侵入口に？管理者・テスト用アカウントの 漏洩 リスクと対策 - ACCESS ONLiNE",
+    "url": "https://access-online.net/abandoned-account-unauthorized-access-risk/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる",
+    "url": "https://news.yahoo.co.jp/articles/4fe360590b612eed9807e81801745a9af7e22ebf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "「IPA10大脅威2026」へどう備える？ 「ランサム」「内部不正」「AIリスク」への解 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/sp/186797"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "AIが公的医療保険に関するシステムに 不正 侵入 オーストラリア政府が明らかに オープンAIが開発 ...",
+    "url": "https://news.yahoo.co.jp/articles/d4341b1194e254a9b00445ab4763f7408c5b73a1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ApplyNow 提供の採用管理プラットフォームに不正アクセス、マイナンバー含む個人データが ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56304.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【参加無料・オンライン開催】 ランサムウェア ・生成AI時代の情報セキュリティを学ぶ",
+    "url": "https://news.livedoor.com/pr_topics/detail/32403512/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "実行犯が示唆したダークウェブでの情報公開は確認されず ～ ワシントンホテルに ランサムウェア ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56299.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア の被害報告件数が過去最多に ～ 警察庁 サイバー警察局便り - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56296.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "賭博の 情報漏えい 「間違いない」 元警視庁巡査部長、初公判（共同通信） - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/kyodo_nor/nation/kyodo_nor-2026092401001141"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "鳥取県、国費支払い個人 情報 を 漏えい 市町村担当課で閲覧状態に - 山陰中央新報デジタル",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1085449"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "VIP・GOLDランク顧客の 情報流出 の可能性 ～ ファイブフォックスへのランサムウェア攻撃",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56300.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "カルビーのプロ野球チップス関連サービス「PhotoGoods」で個人 情報漏えい の可能性",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56305.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "今日もどこかで 情報漏えい 第52回「2026年8月の 情報漏えい 」約一割で逮捕・懲戒・行政指導",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/25/56306.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "不正アクセス",
+    "title": "「AIを人間の管理・監督下に置かれなければならない」という共同声明に22か国と欧州委員会が ...",
+    "url": "https://gigazine.net/news/20260924-frontier-ai-control/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-24",
+    "time": null,
     "organization": "prtimes.jp",
     "identifier": "サイバー攻撃",
     "title": "【参加無料・オンライン開催】ランサムウェア・生成AI時代の情報セキュリティを学ぶ - PR TIMES",
