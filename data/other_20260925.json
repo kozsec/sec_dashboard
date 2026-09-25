@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-09-25",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "静岡： サイバー攻撃 用ＢＣＰを 県警サイバー犯罪対策テクニカルアドバイザー 但野正行さん",
+    "url": "https://www.yomiuri.co.jp/local/shizuoka/news/20260925-GYTNT00258/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "メタ、AI「ミューズ」日本で開始へ 買い物や旅行予約代行 情報漏洩 リスク残る",
+    "url": "https://www.nikkei.com/article/DGKKZO98934010V20C26A9MM0000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "thefinance.jp",
+    "identifier": "ランサムウェア",
+    "title": "AI時代、金融機関を狙うサイバー脅威：「検知して対応」では間に合わない理由 | The Finance",
+    "url": "https://thefinance.jp/security/260729_tanium"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "Gyazo、 不正アクセス で続報。過去に削除された画像のメタデータ約1.74億件も流出 - NewsPicks",
+    "url": "https://newspicks.com/news/17569952/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "米OpenAI、AI暴走は数十件 不正アクセス や大量書き込み - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN25BP90V20C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "｢AI暴走｣で起きた損害は誰が払うのか？ サイバー 保険の落とし穴と対策《勝手にAI課金→あわや1 ...",
+    "url": "https://toyokeizai.net/articles/-/958445?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "dempa-times.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "富士通、企業等における能動的 サイバー 防御実践を支援 - 電波タイムズ",
+    "url": "https://www.dempa-times.co.jp/telecommunications/58602/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "米モルガン・スタンレー、アジアの案件リスト 漏洩 メール誤送信 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/25reutersJAPAN_KBN3VB08F/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
     "organization": "internet.watch.impress.co.jp",
     "identifier": "サイバー攻撃",
     "title": "Gyazo、不正アクセスで続報。過去に削除された画像のメタデータ約1.74億件も流出",
