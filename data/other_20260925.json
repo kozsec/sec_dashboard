@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-09-25",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "止まらぬ暴走AI「OpenAI、豪政府の非公開情報に アクセス 」など3本をお届けします",
+    "url": "https://www.nikkei.com/prime/minutes/article/DGXZQOCD230UO0T20C26A9000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "不正アクセス",
+    "title": "ロート製薬、通販システムに第三者による 不正アクセス の可能性があるとして調査実施 | チバテレ ...",
+    "url": "https://www.chiba-tv.com/plus/detail/2026092039182"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "yasashii.asahi.com",
+    "identifier": "不正アクセス",
+    "title": "オープンAIのAIがオーストラリア政府のウェブサイトに 不正アクセス しました - やさしい朝日新聞",
+    "url": "https://yasashii.asahi.com/articles/article_0014483.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "ランサムウェア",
+    "title": "スピアフィッシング市場：世界市場予測、2026年～2032年 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6244882"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "サイバー攻撃",
+    "title": "ChatGPTなどのAIに企業の偽の連絡先を出力させユーザーを詐欺へと導く サイバー攻撃 「Dark ...",
+    "url": "https://gigazine.net/news/20260925-dark-sourcery-hackers-manipulate-ai-scam/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "サイバー攻撃",
     "title": "ホーチミン市は、3つの重要システムに対する サイバー攻撃 への対応訓練を実施した。 - Vietnam.vn",
