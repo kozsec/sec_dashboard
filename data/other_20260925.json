@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-09-25",
     "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏えい",
+    "title": "池上通信機がサイバー攻撃を調査 ランサムウェア グループ Qilinが66GB・10万超ファイル窃取を主張",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ikegami-qilin-cyberattack-claim-2026-09-24/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "Gyazo、不正アクセスで続報。過去に削除された画像のメタデータ約1.74億件も 流出 …",
+    "url": "https://news.yahoo.co.jp/articles/b24b9270a2c5da09fa00def3786d4ed4bcab2766"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ニュージーランド「Cyber Threat Report 2026」、AIでサイバー攻撃が高速化 2027年初頭に高度 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/new-zealand-2026-2027-ai-status-report/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "｢AI暴走｣で起きた損害は誰が払うのか？ サイバー保険の落とし穴と対策《勝手にAI課金→あわや1 ...",
+    "url": "https://toyokeizai.net/articles/-/958445?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "Gyazo、不正アクセスで続報。過去に削除された画像のメタデータ約 1.74億件も 流出",
+    "url": "https://news.yahoo.co.jp/articles/b24b9270a2c5da09fa00def3786d4ed4bcab2766/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏えい",
+    "title": "OTネットワークのIT・IoT混在で横展開リスク-OT機器を含むOT専用セグメントは13%",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ot-network-13-segment-status/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI「人類滅亡論」に反論…専門家「5年以内の可能性はほぼゼロ」 [韓国記者コラム]",
+    "url": "https://news.yahoo.co.jp/articles/04f96d53950ae18b99e5dc5326bcec930d4b13c8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "kumanichi.com",
+    "identifier": "サイバー攻撃",
+    "title": "レイメイ藤井が特別損失1億2千万円 サイバー攻撃 で2年ぶり減益 26年6月期決算 - 熊本日日新聞社",
+    "url": "https://kumanichi.com/articles/2039646"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "富士通とKELA、能動的 サイバー 防御支援サービスを開始（ZDNET Japan） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/7a1e0011a339b31912a76664e579679dda0cd7e1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "池上通信機に サイバー攻撃 の可能性 外部の情報提供受け情報漏えい範囲を調査",
+    "url": "https://act1.co.jp/2026-09-25-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "富士通、能動的 サイバー 防御サービスを提供 イスラエル発企業と協業 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC253MD0V20C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "不正アクセス",
     "title": "止まらぬ暴走AI「OpenAI、豪政府の非公開情報に アクセス 」など3本をお届けします",
