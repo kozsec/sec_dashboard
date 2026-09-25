@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-25",
     "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Gyazo、不正アクセスで続報。過去に削除された画像のメタデータ約1.74億件も流出",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2143465.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "health-isac.org",
+    "identifier": "サイバー攻撃",
+    "title": "医療 サイバー セキュリティは集団防衛の時代に突入する - Health-ISAC",
+    "url": "https://health-isac.org/ja/healthcare-cybersecurity-is-entering-the-era-of-collective-defense/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "WordPressの重大な脆弱性、公開直後に悪用される（CVE-2026-87902） | Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47839/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAIのAIエージェント、豪政府の医療統計サイトに 不正アクセス ―国連安保理で安全対策を ...",
+    "url": "https://www.zaikei.co.jp/article/20260925/871254.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "sphericalinsights.com",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃は2026年に増加:グローバル脅威の運転は? : 球面分析によるエキスパートビュー",
+    "url": "https://www.sphericalinsights.com/jp/blogs/cyber-attacks-increase-in-2026-what-s-driving-the-global-threat"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
+    "organization": "ecnomikata.com",
+    "identifier": "情報漏洩",
+    "title": "関通HD達城利元が「中堅中小企業のセキュリティ対策2026」登壇 - ECのミカタ",
+    "url": "https://ecnomikata.com/pr/51768/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-25",
+    "time": null,
     "organization": "rocket-boys.co.jp",
     "identifier": "情報漏えい",
     "title": "池上通信機がサイバー攻撃を調査 ランサムウェア グループ Qilinが66GB・10万超ファイル窃取を主張",

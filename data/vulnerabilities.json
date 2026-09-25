@@ -1,15 +1,39 @@
 [
   {
+    "cve": "CVE-2026-67279",
+    "company": "MikroTik",
+    "product": null,
+    "title": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.0071,
+    "cvss": 6.9,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/09/25",
+    "last_update": "2026/09/25"
+  },
+  {
+    "cve": "CVE-2026-65660",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft SharePoint Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01221,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/09/25",
+    "last_update": "2026/09/25"
+  },
+  {
     "cve": "CVE-2026-5430",
     "company": "WSO2",
     "product": null,
     "title": "WSO2 Multiple Products Path Traversal Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.00374,
+    "epss_current": 0.0058,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/24",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-71362",
@@ -17,11 +41,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.02335,
+    "epss_current": 0.89616,
     "cvss": 9.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/09/24",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-93952",
@@ -41,11 +65,11 @@
     "product": null,
     "title": "F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01293,
+    "epss_current": 0.02226,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/22",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-93616",
@@ -53,11 +77,11 @@
     "product": null,
     "title": "Check Point Multiple Products Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02421,
+    "epss_current": 0.19654,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/22",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-85102",
@@ -149,11 +173,11 @@
     "product": null,
     "title": "Google Pixel Improper Authorization Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00308,
+    "epss_current": 0.00591,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/16",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-76461",
@@ -161,11 +185,11 @@
     "product": null,
     "title": "Cisco Secure Email Gateway SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02018,
+    "epss_current": 0.28269,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/14",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-85706",
@@ -173,11 +197,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.09287,
+    "epss_current": 0.91425,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/09/11",
-    "last_update": "2026/09/22"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-84869",
@@ -665,11 +689,11 @@
     "product": "Ray",
     "title": "Ray-Project Ray Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.2729,
+    "epss_current": 0.62459,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/17",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-20349",
@@ -1037,11 +1061,11 @@
     "product": "SP Page Builder",
     "title": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.15086,
+    "epss_current": 0.88512,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/09/11"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-55255",
@@ -1373,11 +1397,11 @@
     "product": "PAN-OS",
     "title": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
     "kev": "あり",
-    "epss_current": 0.96895,
+    "epss_current": 0.96382,
     "cvss": 7.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:H/SI:H/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:A/V:D/RE:M/U:Red",
     "published": "2026/05/29",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/25"
   },
   {
     "cve": "CVE-2026-48027",
