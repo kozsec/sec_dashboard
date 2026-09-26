@@ -5,11 +5,11 @@
     "product": null,
     "title": "WordPress Core Remote File Inclusion Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02877,
+    "epss_current": 0.18166,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/25",
-    "last_update": "2026/09/25"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2026-67279",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0071,
+    "epss_current": 0.01027,
     "cvss": 6.9,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/25",
-    "last_update": "2026/09/25"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2026-65660",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Microsoft SharePoint Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01221,
+    "epss_current": 0.02101,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/25",
-    "last_update": "2026/09/25"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2026-5430",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "WSO2 Multiple Products Path Traversal Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.0058,
+    "epss_current": 0.00588,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/24",
-    "last_update": "2026/09/25"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2026-71362",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.89616,
+    "epss_current": 0.87507,
     "cvss": 9.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/09/24",
-    "last_update": "2026/09/25"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2026-93952",
@@ -113,11 +113,11 @@
     "product": null,
     "title": "Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01286,
+    "epss_current": 0.02501,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/21",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/26"
   },
   {
     "cve": "CVE-2025-39682",
