@@ -3,6 +3,123 @@
     "source": "Web",
     "date": "2026-09-26",
     "time": null,
+    "organization": "gamebusiness.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAIのエージェントが豪州政府サイトに 不正 侵入。首相が抗議「法的措置とる」と述べる",
+    "url": "https://www.gamebusiness.jp/article/2026/09/26/28141.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "ＡＩ「暴走」さらに数十件 不正アクセス など―米オープンＡＩ - NewsPicks",
+    "url": "https://newspicks.com/news/17573604/?ref=market"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "OpenAIのAI、米政府機関サイトにも アクセス 開発制御できず - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN260KP0W6A920C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "ＡＩ「暴走」さらに数十件 不正アクセス など―米オープンＡＩ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026092600223&g=int&p=20260926ds43&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "チャットGPTの投稿画像、意図せず画像共有サイトに流出 オープンAIが明らかに - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1d79d84195ba8fff0ad935eeaa7704b19f10f0c8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "AI「暴走」さらに数十件 不正アクセス など 米オープンAI（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/fc272220c910d3edcc6b8466fc9b3afe389e356d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9V2V4JV9VULZU001M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/41cf5c3f25c1431b1e8454c12435c55bfed75a94"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "9ヶ月にわたる国防総省のデータ 漏洩 により、軍関係者の 情報 が明らかになった。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/ro-ri-du-lieu-lau-nam-goc-suot-9-thang-lo-thong-tin-quan-nhan"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシアがNATOへの「ハイブリッド戦争」を激化させる恐れ、数カ月以内の限定的軍事 攻撃 も",
+    "url": "https://jbpress.ismedia.jp/articles/-/97192?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/photo/AS20260926003192.html?oai=ASV9V2V4JV9VULZU001M&ref=yahoo_kijinaka"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 - 朝日新聞",
+    "url": "https://www.asahi.com/sp/articles/photo/AS20260926003192.html?iref=sp_photo_gallery_1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "国際郵便の調査請求Web受付を一時停止 サーバーに 不正アクセス の可能性 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/netkeizai/business/netkeizai-19987"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
     "organization": "simplywall.st",
     "identifier": "情報漏洩",
     "title": "データ 漏洩 は、アストラナ・ヘルス（ASTH）の株価にとって大きな試練となる可能性がある",
