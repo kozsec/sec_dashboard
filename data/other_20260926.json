@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-09-26",
     "time": null,
+    "organization": "simplywall.st",
+    "identifier": "情報漏洩",
+    "title": "データ 漏洩 は、アストラナ・ヘルス（ASTH）の株価にとって大きな試練となる可能性がある",
+    "url": "https://simplywall.st/ja/stocks/us/healthcare/nasdaq-asth/astrana-health/news/460e963771cef201/amp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "レゴランド・ジャパン・ホテル、Amadeus予約基盤への不正アクセスで1557件の個人 情報 へ影響",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/legoland-japan-amadeus-booking-platform-unauthorized-access/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "OpenAI、AIエージェントがユーザー画像53件を 漏洩 、数十の外部サイトに不正アクセスと発表",
+    "url": "https://finance.biggo.jp/news/80fa5181-092b-497d-8c2a-f8a0f4672ee0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": null,
+    "title": "工場で起点とすべきはサイバーより“現場リスク” ―― 生成 AI時代にフォーティネットが推進する ...",
+    "url": "https://news.yahoo.co.jp/articles/ec653ef51b2aba8b24303c95b61c8a69cd49cd53"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.bitcoin.com",
+    "identifier": "情報漏洩",
+    "title": "検察当局によると、サイバー犯罪者が刑務所から260万ドル相当の仮想通貨を盗み出した",
+    "url": "https://news.bitcoin.com/ja/regulation-and-legal/kensatsu-tokyoku-niyoruto-saiba-hanzaisha-ga-keimusho-kara-260man-doru-soutou-no-kasoutsuka-o-nusumidashita/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "韓国大統領はウクライナが「最高機密」を 漏洩 したと非難した。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/tong-thong-han-quoc-cao-buoc-ukraine-tiet-lo-dieu-tuyet-mat"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "楽天で一時 システム障害 銀行預金が証券口座へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO98955490W6A920C2EA4000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア、対NATO限定 攻撃 も デンマークが動向分析 - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1376789/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIは人類に破局的被害をもたらすのか 世界の研究者・政治指導者の発言と最新調査を検証",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/global-ai-2-group-evaluation/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア、対ＮＡＴＯ限定 攻撃 も - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1797112"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Eストアー ショップサーブへの サイバー攻撃 による個人情報漏洩 まとめ PFU・キングジムなど影響 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/shopserve-data-breach-company-list-2026/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "チャットGPTの投稿画像、意図せず画像共有サイトに流出 オープンAIが明らかに",
+    "url": "https://news.ntv.co.jp/category/international/5db536133c6c4e8281e735075eeabd92"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "情報漏えい",
     "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ 流出 （ITmedia NEWS）",
