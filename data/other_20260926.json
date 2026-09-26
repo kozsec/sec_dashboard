@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-09-26",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "京王電鉄、 ランサム ウエア攻撃で決済障害 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/kyodo_1476582587618886258/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットに アクセス - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "recordchina.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "台湾への サイバー攻撃 、1日平均約260万回、「脅威を商機に」とデジタル相 - Record China",
+    "url": "https://www.recordchina.co.jp/newsinfo?id=993464"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Kiteworks、差し迫った サイバー攻撃 の恐れで顧客に9時間のシステム停止を勧告",
+    "url": "https://finance.biggo.jp/news/89913cff-17e9-4121-96d5-e51783a31823"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "京王電鉄にランサムウェアによるサイバー攻撃 一部グループ会社の営業システムに障害、鉄道 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/keio-ransomware-system-outage/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "京王電鉄グループにランサムウェア攻撃、ホテルや小売店で 障害 発生…鉄道運行は別系統で影響なし",
+    "url": "https://news.yahoo.co.jp/articles/041c98bafdc8bb3bd1b892643e8d111911a615b6/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "京王電鉄グループに ランサムウェア 攻撃、ホテルや小売店で障害発生…鉄道運行は別系統で影響なし",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20260927_gyt1t00003/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-26",
+    "time": null,
     "organization": "jomo-news.co.jp",
     "identifier": "情報漏えい",
     "title": "児童生徒の 情報 3789件 不正アクセスで 漏えい か 群馬・伊勢崎市 | 上毛新聞電子版",
