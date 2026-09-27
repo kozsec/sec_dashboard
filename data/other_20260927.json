@@ -3,6 +3,42 @@
     "source": "Web",
     "date": "2026-09-27",
     "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "オープンAI暴走数十件 開発モデル 政府や大学にアクセス | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1932098"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIエージェント悪用で小売サイトを大規模 攻撃 、27社以上侵害・カード情報60万件超流出",
+    "url": "https://www.zaikei.co.jp/article/20260926/871339.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "京王電鉄にランサム 攻撃 鉄道に影響なしもホテルやスーパーに障害 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC270LL0X20C26A9000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "東京メトロ、メールアドレス ５万 ９０００件 漏えい の可能性…委託業者が不正アクセス被害",
+    "url": "https://news.yahoo.co.jp/articles/16e942e4ef78ddbdce855738e2f7f54f8612004b/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏洩",
     "title": "東京メトロ メアド5.9万件 漏洩 か - Yahoo!ニュース",
