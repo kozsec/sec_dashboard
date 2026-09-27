@@ -3,6 +3,51 @@
     "source": "Web",
     "date": "2026-09-27",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "東京メトロ メアド5.9万件 漏洩 か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6596712"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": null,
+    "title": "マイクロソフト、個人用AIチャットボット競争から撤退－Copilot刷新 - NewsPicks",
+    "url": "https://newspicks.com/news/17572742/?block=categories&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカーのWebサイトに不正アクセス 免許情報・本人確認書類など個人 情報漏えい の可能性",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/timescar-unauthorized-access-personal-data/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "佐賀大学が「ランサムウェア」とみられる被害…事務情報システムの一部でデータが暗号化される",
+    "url": "https://news.yahoo.co.jp/articles/e8ec7c60ce4909660e570cf802a648c0486e9d2a/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "東京メトロ、サイバー攻撃でメトポのメールアドレス約5万9000件が漏洩した可能性 委託先 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/tokyo-metro-metpo-59000-data-status-report/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
     "organization": "tech-noisy.com",
     "identifier": "情報漏洩",
     "title": "ChatGPT セキュリティ履歴 - ログインや認証設定の変更を後から確認できる新機能",
