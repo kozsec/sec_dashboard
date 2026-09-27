@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-09-27",
     "time": null,
+    "organization": "news.jp",
+    "identifier": "不正アクセス",
+    "title": "東京メトロ、会員情報流出か 不正アクセス 、5万9千件 - NEWSjp",
+    "url": "https://news.jp/i/1476875390773724080"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "forest.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～ 不正アクセス ・情報漏えい - 窓の杜",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143577.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "東京メトロに 不正アクセス 、メールアドレス5万9000件流出か ポイントサービス会員（写真・画像 ...",
+    "url": "https://www.sankei.com/article/20260927-Z5CTJ532W5LXTBJSMQIMA2ZD24/photo/R72IRREBAROYLFN32HFLOMHXOM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "不正アクセス",
+    "title": "東京メトロ「メトポ」会員のメールアドレス約5万9000件が 不正アクセス で流出か",
+    "url": "https://finance.biggo.jp/news/e8cdc3bb-dc2e-4b83-ba23-b0de2b34fac3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "東京メトロに 不正アクセス 、メールアドレス5万9000件流出か ポイントサービス会員 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20260927-Z5CTJ532W5LXTBJSMQIMA2ZD24/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "東京メトロ、メールアドレス５万９０００件 漏えい の可能性…委託業者が不正アクセス被害",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/yomiuri/nation/20260927-567-GYT1T00133"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～不正アクセス・ 情報漏えい （窓の杜）",
+    "url": "https://news.yahoo.co.jp/articles/9f2753474a94bd3ae37045149c20d57edafa27e4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "情報漏えい",
+    "title": "画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～不正アクセス・ 情報漏えい ／過去画像は ...",
+    "url": "https://www.chiba-tv.com/plus/detail/2026092049460"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "東京メトロ メアド約 5万 9000件漏洩の可能性 “国外”からの不正アクセスを確認",
+    "url": "https://news.yahoo.co.jp/articles/5e6f67aacf60e257ddb0e27ac037bc0460da3db1/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "東京メトロ、会員 情報流出 か 不正アクセス、５万９千件 | | 全国のニュース | 佐賀新聞",
+    "url": "https://www.saga-s.co.jp/articles/-/1799515"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
     "organization": "okinawatimes.co.jp",
     "identifier": "サイバー攻撃",
     "title": "オープンAI暴走数十件 開発モデル 政府や大学にアクセス | 沖縄タイムス＋プラス",

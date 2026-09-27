@@ -65,11 +65,11 @@
     "product": null,
     "title": "Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00895,
+    "epss_current": 0.01062,
     "cvss": 9.5,
     "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/22",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/27"
   },
   {
     "cve": "CVE-2026-94127",
