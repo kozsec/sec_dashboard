@@ -1,0 +1,56 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "tech-noisy.com",
+    "identifier": "情報漏洩",
+    "title": "ChatGPT セキュリティ履歴 - ログインや認証設定の変更を後から確認できる新機能",
+    "url": "https://tech-noisy.com/2026/09/26/chatgpt-security-history-login-logs/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【画像】京王電鉄グループが ランサムウェア 攻撃を受け、ホテル予約などに障害",
+    "url": "https://news.livedoor.com/article/image_detail/32420016/?img_id=56612131"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "ランサムウェア",
+    "title": "［佐賀県］佐賀大システムで ランサム ウエア被害の疑い|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/14998177.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "hashout.jp",
+    "identifier": "不正アクセス",
+    "title": "「怒涛の勢い」――OpenAIのAIエージェントが画像53枚を流出、米政府サイトにも アクセス していた",
+    "url": "https://hashout.jp/ai/11450/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本郵便、国際郵便「調査請求Web受付」で不正アクセスの可能性 9月25日15時ごろ発覚",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/japan-post-international-mail-web-inquiry-unauthorized-access/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "佐賀大学が「ランサムウェア」とみられる被害…事務情報システムの一部でデータが暗号化される",
+    "url": "https://news.yahoo.co.jp/articles/e8ec7c60ce4909660e570cf802a648c0486e9d2a"
+  }
+]
