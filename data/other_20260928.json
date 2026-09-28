@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-28",
     "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AIエージェントの暴走を防ぐデータガバナンスとは？ 構築の勘所を詳しく解説",
+    "url": "https://active.nikkeibp.co.jp/atcl/wp/b/26/09/17/06463/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "佐賀大で ランサムウェア 被害か 事務部門の保存ファイルが暗号化 (朝日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3ad5df0cfb30f69c054311e17cdbdb26ab8b3a23/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」Webシステムで660万件の 情報漏えい を発表 会員、退会済み者も「深くお詫び ...",
+    "url": "https://newspicks.com/news/17581777/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカー個人 情報 約660万件が 流出 ウェブシステムに不正アクセス - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000536300.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "oricon.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカー」Webシステムで660万件の 情報漏えい を発表 会員、退会済み者も「深くお詫び ...",
+    "url": "https://www.oricon.co.jp/news/2482998/full/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカー 会員情報流出 不正アクセス で660万件 - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_349419"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "手間いらず「TEMAIRAZU」に 不正アクセス 宿泊者情報が閲覧・取得された可能性",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/temairazu-unauthorized-access-phishing-reservation-data/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカーで個人 情報漏えい 不正アクセスで６６０万件 | | 全国のニュース - 佐賀新聞",
+    "url": "https://www.saga-s.co.jp/articles/-/1800014"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカーで 情報漏えい | 全国のニュース | 福井新聞Ｄ刊",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2709211"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
     "organization": "watch.impress.co.jp",
     "identifier": "不正アクセス",
     "title": "タイムズカー、660万件の情報漏えい 住所や免許情報など - Impress Watch",
