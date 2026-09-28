@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-09-28",
     "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカー、660万件の情報漏えい 住所や免許情報など - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2143794.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "PCデポのメールドメインの認証情報を 不正 利用 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/28/56316.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "「タイムズカー」で個人情報最大660万件漏洩 運転免許証画像など - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9X2GDMV9XULFA01FM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「タイムズカー」運転免許情報など… 不正アクセス で約660万件の個人情報漏えい",
+    "url": "https://news.ntv.co.jp/category/economy/9c9448e9b4a74c85bb6063a0cfab46f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「タイムズカー」のシステムに 不正アクセス 、個人情報６６０万件漏えい…クレカ情報は含まれず",
+    "url": "https://www.yomiuri.co.jp/national/20260928-GYT1T00291/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "kahoku.news",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」Webシステムで660万件の 情報漏えい を発表 会員、退会済み者も「深くお詫び ...",
+    "url": "https://kahoku.news/entertainment/ori2482998.html?format=slide"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカーWebサイト」に不正アクセス、運転免許 情報 など含む約660万件の 情報 が 流出",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2143777.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "国立大にまたサイバー攻撃 佐賀大で ランサムウェア 被害、NASのファイルが暗号化 - NewsPicks",
+    "url": "https://newspicks.com/news/17580738/?ref=technology"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "OWASP Top 10とは？2025年版の10大リスクと企業のセキュア開発への活用方法",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/what-owasp-top-10/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "佐賀大で ランサムウェア 被害か 事務部門の保存ファイルが暗号化 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASV9X32FNV9XTTHB00JM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカー」会員 情報 約660万件 漏えい 運転免許画像など 不正アクセスで - NewsPicks",
+    "url": "https://newspicks.com/news/17582781/?ref=news-summary_1431679"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "cybertrust.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「旭川セキュリティシンポジウム 2026」協賛と出展のお知らせ【11 月 5 日 - サイバートラスト",
+    "url": "https://www.cybertrust.co.jp/info/2026/0928-asahikawa-security-symposium.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "タイムズカーで個人情報漏えい 不正アクセス で660万件 - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1477203805084090887/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「タイムズカー」のシステムに 不正アクセス 、個人情報６６０万件漏えい…クレカ情報は含まれず …",
+    "url": "https://news.yahoo.co.jp/articles/0d6276a118551f8cb03fed5840bb247c4c085c05"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」Webシステムで660万件の 情報漏えい を発表 会員、退会済み者も「深くお詫び ...",
+    "url": "https://www.saga-s.co.jp/articles/-/1799952"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカーで個人 情報漏えい 不正アクセスで６６０万件 - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/914303"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "情報漏洩",
     "title": "韓国は、北朝鮮兵士の移送に関する 情報 を 漏洩 したとして、ウクライナに謝罪を要求した。",

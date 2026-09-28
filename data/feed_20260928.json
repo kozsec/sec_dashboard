@@ -1,5 +1,32 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-09-28",
+    "time": "17:00",
+    "organization": "フクビ化学工業",
+    "identifier": "7871",
+    "title": "第三者の不正アクセスによるシステム障害に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260928541262.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-09-28",
+    "time": "13:30",
+    "organization": "パーク２４",
+    "identifier": "4666",
+    "title": "連結子会社における不正アクセスの発生および個人情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260928540919.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-28",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+    "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway"
+  },
+  {
     "source": "IPA",
     "date": "2026-09-28",
     "time": null,
@@ -25,14 +52,5 @@
     "identifier": "セキュリティ",
     "title": "2026年9月28日 「AIセキュリティ短信 2026年9月号」を公開しました",
     "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-09-28",
-    "time": "13:30",
-    "organization": "パーク２４",
-    "identifier": "4666",
-    "title": "連結子会社における不正アクセスの発生および個人情報漏えいに関するお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120260928540919.pdf"
   }
 ]
