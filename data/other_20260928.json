@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-09-28",
     "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "韓国は、北朝鮮兵士の移送に関する 情報 を 漏洩 したとして、ウクライナに謝罪を要求した。",
+    "url": "https://www.vietnam.vn/ja/han-quoc-yeu-cau-ukraine-xin-loi-vi-tiet-lo-tin-chuyen-giao-binh-linh-trieu-tien"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "世界のニュース 9月28日：韓国、ウクライナに「機密 情報漏洩 」について謝罪を要求。シンガポール",
+    "url": "https://www.vietnam.vn/ja/tin-tuc-the-gioi-28-9-han-quoc-yeu-cau-ukraine-xin-loi-vi-lo-mat-singapore-neu-de-xuat-quan-ly-ai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "president.jp",
+    "identifier": "サイバー攻撃",
+    "title": "習近平の最強の切り札が｢自爆装置｣に変わる…アメリカのAI開発減速にほくそ笑む中国に迫る ...",
+    "url": "https://president.jp/articles/-/119519?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "group.gmo",
+    "identifier": "サイバー攻撃",
+    "title": "LockBit（ロックビット）とは｜ランサムウェア／RaaSの仕組み・被害・2024年の摘発と企業の ...",
+    "url": "https://group.gmo/security/cybersecurity/cyberattack/blog/lockbit/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "NTTやソフトバンク、 サイバー 防御を自国完結 機密データの流出防ぐ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC24BD90U6A720C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "システム障害",
+    "title": "なぜ金融機関は急ぐのか？｢フロンティアAI・量子・コーディングAI｣時代の\"中期経営計画＆来期 ...",
+    "url": "https://toyokeizai.net/articles/-/959033?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "情報漏えい",
+    "title": "ハードウェアで多層防御を検知をかいくぐるローレイヤー攻撃まで守れる、日本HPのPC ...",
+    "url": "https://japan.zdnet.com/extra/hp_202609/35252185/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "インシデント対応の迅速化を支援する「LANセキュリティ」を提供開始 | NTTドコモビジネス株式会社",
+    "url": "https://www.atpress.ne.jp/news/636015"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "bs10.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＧＣＨＱ：英国 サイバー 諜報局 シーズン２ ＃３［吹］ - 【BS10プレミアム】洋画・邦画・音楽 ...",
+    "url": "https://www.bs10.jp/premium/program/43432/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "ampmedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "企業に求められる新時代の サイバー 防衛へ。「AironWorks Frontliners 2026」 | AMP[アンプ]",
+    "url": "https://ampmedia.jp/2026/09/28/aironworks-frontliners-2026/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "bs10.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＧＣＨＱ：英国 サイバー 諜報局 シーズン２ ＃１［吹］ - 【BS10プレミアム】洋画・邦画・音楽 ...",
+    "url": "https://www.bs10.jp/premium/program/43429/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "国立大にまた サイバー攻撃 佐賀大でランサムウェア被害、NASのファイルが暗号化",
+    "url": "https://news.yahoo.co.jp/articles/870894aa371103198a83ccb939c21b9e77a0de63"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「オズモール」に 不正アクセス 、個人情報約45万件が漏えいの可能性 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2143664.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "約5万9000件の会員メールアドレスが流出か 国外から 不正アクセス メール配信サービス不具合で ...",
+    "url": "https://www.fnn.jp/articles/-/1122062"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "東京メトロ「メトポ」に不正アクセス 会員メールアドレス約5.9万件流出の可能性",
+    "url": "https://act1.co.jp/2026-09-28-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "生成AIサービスの不正利用が目的か、顧客 情報漏えい は確認されず - 合同会社ロケットボーイズ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/kingprinters-generative-ai-credential-abuse/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "[パーク２４ 4666.T] 連結子会社における不正アクセスの発生および個人 情報漏えい に関する ...",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260928540919"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ファインズの予約システムに不正アクセス 約153万6322件の個人 情報漏洩 の恐れ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/fines-reservation-system-unauthorized-acess-data-leak/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "NetScalerのRCEゼロデイ2件、 攻撃 での悪用をCitrixが確認（CVE-2026-88771 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47848/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-28",
+    "time": null,
     "organization": "japansecuritysummit.org",
     "identifier": "サイバー攻撃",
     "title": "警察庁など4カ国、北朝鮮系「WaterPlum」の 攻撃 手口とIT労働者の活動を公表",
