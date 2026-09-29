@@ -5,7 +5,7 @@
     "product": null,
     "title": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00812,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/09/29",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "WordPress Core Remote File Inclusion Vulnerability",
     "kev": "あり",
-    "epss_current": 0.18166,
+    "epss_current": 0.19756,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/25",
-    "last_update": "2026/09/26"
+    "last_update": "2026/09/29"
   },
   {
     "cve": "CVE-2026-67279",
@@ -113,11 +113,11 @@
     "product": null,
     "title": "Check Point Multiple Products Improper Certificate Validation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00988,
+    "epss_current": 0.07546,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/22",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/29"
   },
   {
     "cve": "CVE-2026-7273",
@@ -773,11 +773,11 @@
     "product": "TeamCity",
     "title": "JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.09763,
+    "epss_current": 0.8957,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/05",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/29"
   },
   {
     "cve": "CVE-2026-18556",
@@ -1337,11 +1337,11 @@
     "product": "LiteLLM",
     "title": "BerriAI LiteLLM Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.12754,
+    "epss_current": 0.9257,
     "cvss": 8.7,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/08",
-    "last_update": "2026/09/24"
+    "last_update": "2026/09/29"
   },
   {
     "cve": "CVE-2026-50751",

@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-09-29",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "扶桑電通が社外関係者と利用していた共有フォルダに不正アクセス - NewsPicks",
+    "url": "https://newspicks.com/news/17587082/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "郵便局業務で知った個人 情報 、探偵に 漏えい か 加重収賄疑いで帯広の局員逮捕 - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1378821/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "Azureで100超のストレージアカウント削除を試行、約7分の攻撃をMicrosoftが分析 | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20260930/871645.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "ランサムウェア",
+    "title": "脆弱性診断やチケット制インシデント対応、最新セキュリティー対策が集結 | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900030/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "セイコーマート、不正アクセスで約57万アカウントの会員情報漏えいの可能性 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2144062.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "免許証画像などの漏えい160万件 パーク24、対象者に通知開始（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/212594e41c9ee08313d040d9827fdac2a93235bd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "システム障害",
     "title": "ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り",
