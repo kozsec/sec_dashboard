@@ -1,0 +1,110 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "システム障害",
+    "title": "AIが誤った生体認証を行った場合、ベンダーが責任を負うべきであると提案する。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/de-xuat-nha-cung-cap-chiu-trach-nhiem-neu-ai-xac-thuc-sinh-trac-hoc-sai"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ユーザー認証 情報流出 の恐れ 佐賀大、ランサムウエア被害 使用は確認されず",
+    "url": "https://www.saga-s.co.jp/articles/-/1800195"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスにより 情報漏えい 発生の「Gyazo」、サービスを再開 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2143888.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカー」Webシステムで 660万件の 情報漏えい を発表 会員、退会済み者も「深くお詫び ...",
+    "url": "https://news.yahoo.co.jp/articles/2627088c85cce785ef7746a2485ab46e44ee8fb0/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報 ６６０万件、 漏洩 「タイムズカー」会員ら - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16556137.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシアの「ハイブリッド 攻撃 」対策 EUが新ルールを協議 NATO補完し連携強化へ - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000536478.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "タイムズカー、最大660万件の情報漏えい 運転免許証の画像も（毎日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c5bceb021d29fadc6df3de514917cf06f0fef937"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "求職者やエンジニアを狙うヘッドハンティング型 攻撃 ～ 警察庁が注意喚起する「WaterPlum」の ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/29/56320.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "さくらインターネットに不正アクセス、136万超の会員情報に影響 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00598/011300383/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "両毛システムズの ランサムウェア によるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ryomo-systems-ransomware-supply-chain-impact-summary-2026/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "モンベル・グローバルサイトに不正アクセス、最大15名分の個人情報が第三者に ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/09/29/56332.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "パーク24、不正アクセスでカーシェアの顧客 情報 660万件が 漏えい - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e015903e7dbad9a7f9e7384c25289c27f66168c7"
+  }
+]
