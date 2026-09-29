@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "source": "CISA KEV",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "Apple",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-86950",
+    "title": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-86950&field_cve=&sort_by=field_date_added"
+  }
+]

@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-86950",
+    "company": "Apple",
+    "product": null,
+    "title": "Apple Multiple Products Out-of-Bounds Write Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "published": "2026/09/29",
+    "last_update": "2026/09/29"
+  },
+  {
     "cve": "CVE-2026-87902",
     "company": "WordPress",
     "product": null,

@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-09-29",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ヤマト運輸「クロネコ代金後払い」、不正アクセスでサービス停止、宅急便などは通常通り",
+    "url": "https://news.yahoo.co.jp/articles/46cdb94687f50c55961d3a7cb994a3809a3456a9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏洩",
+    "title": "アイデンティティセキュリティ基盤「Josys」、MCPサーバーを提供開始 | ジョーシス株式会社の ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000092.000099889.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "タイムズカーの 情報漏洩 、免許証など本人確認書類流出は160万件 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2144279.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "「イープラス」不正アクセスで個人 情報漏えい メールアドレスや口座番号など 1463件が漏えい",
+    "url": "https://news.livedoor.com/article/detail/32442370/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "チケット販売の「イープラス」で口座情報など個人 情報漏えい - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/da51c80a6ee74b94b22af44e12ebb512"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】探偵に 情報漏えい か、郵便局勤務の女逮捕 - 47NEWS",
+    "url": "https://www.47news.jp/15010760.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人 情報漏えい で考え ...",
+    "url": "https://news.yahoo.co.jp/articles/7d037fd7522971354c349db56f1b81d2a28c0728"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "東洋紡せんいのメールアカウントに 不正アクセス -社内外へ約1500件のフィッシングメール送信",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/toyobo-textile-email-account-unauthorized-access-phishing/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "times.abema.tv",
+    "identifier": "不正アクセス",
+    "title": "「イープラス」 不正アクセス で個人情報漏えい メールアドレスや口座番号など 1463件が漏えい",
+    "url": "https://times.abema.tv/articles/-/10275719"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
     "organization": "kfb.co.jp",
     "identifier": "サイバー攻撃",
     "title": "ロシアの「ハイブリッド 攻撃 」対策 EUが新ルールを協議 NATO補完し連携強化へ - KFB福島放送",
