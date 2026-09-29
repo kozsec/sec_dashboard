@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-09-29",
     "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカー個人情報660万件漏洩 “リスク高い”運転免許証の画像も 何が危険？ - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000536632.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "gentosha-go.com",
+    "identifier": "情報漏洩",
+    "title": "生成AIの 情報漏洩 リスク、日本企業の懸念が突出。「業務で認められれば使いたい」現場の声は4割超",
+    "url": "https://gentosha-go.com/articles/-/81955"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 「無害化」あすから可 警察・自衛隊、相手ＰＣに侵入し対処 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16556963.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "免許証画像160万件流出 タイムズカー 不正アクセス - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1477658425688621673/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "tsuhannews.jp",
+    "identifier": "不正アクセス",
+    "title": "セイコーマート、 不正アクセス で公式通販サイトなどのログイン停止",
+    "url": "https://www.tsuhannews.jp/news/detail/75955"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "免許証画像などの 漏えい １６０万件＝パーク２４、対象者に通知開始（時事通信）",
+    "url": "https://topics.smt.docomo.ne.jp/article/jiji/business/jiji-2026092901164"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報 ５７万件 漏洩 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16556938.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "不正アクセス",
+    "title": "企業のSNSアカウントに 不正アクセス した疑いで女（28）を逮捕 岡山県警 | KSBニュース",
+    "url": "https://news.ksb.co.jp/article/16924107"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "北海道：セコマ、個人 情報漏えい か…最大５７万件、サーバーへの不正アクセスで - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/local/hokkaido/news/20260930-GYTNT00012/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "2年2カ月にわたり複数回提供か 帯広郵便局員の 情報漏えい 疑惑 住民に不安",
+    "url": "https://www.hokkaido-np.co.jp/article/1378922/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-29",
+    "time": null,
     "organization": "newspicks.com",
     "identifier": "ランサムウェア",
     "title": "扶桑電通が社外関係者と利用していた共有フォルダに不正アクセス - NewsPicks",
