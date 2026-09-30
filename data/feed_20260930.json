@@ -1,5 +1,68 @@
 [
   {
+    "source": "NCO",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "「サイバー対処能力強化法及び同整備法の施行に関する関係省庁会議」を開催",
+    "url": "https://www.cyber.go.jp/pdf/press/siryou_20260930.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年9月30日 新試験制度における情報マネジメント試験と基本情報技術者試験のシラバス案、プロフェッショナルデジタルスキル試験（仮称）及び情報処理安全確保支援士試験の科目A-1 共通知識のシラバス案を掲載しました",
+    "url": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260630.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年9月30日 「情報セキュリティ白書2026」PDF版の公開",
+    "url": "https://www.ipa.go.jp/publish/wp-security/2026.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年9月30日 ICSCoEの活動を紹介する「ICSCoE REPORT」第28号を公開しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/icscoereport.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-09-30",
+    "time": "17:30",
+    "organization": "フクビ化学工業",
+    "identifier": "7871",
+    "title": "第三者の不正アクセスによるシステム障害に関する続報",
+    "url": "https://www.release.tdnet.info/inbs/140120260930543544.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-09-30",
+    "time": "17:00",
+    "organization": "キーウェア",
+    "identifier": "3799",
+    "title": "グローバルセキュリティエキスパート株式会社との資本業務提携に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260930542870.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-09-30",
+    "time": "16:10",
+    "organization": "池上通",
+    "identifier": "6771",
+    "title": "当社に対するサイバー攻撃に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260930543349.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-09-30",
     "time": "10:00",

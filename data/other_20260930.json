@@ -3,6 +3,132 @@
     "source": "Web",
     "date": "2026-09-30",
     "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "ランサムウェア",
+    "title": "なぜ｢被害前の状態に戻す｣は間違いなのか？ サイバー攻撃を受けた後に､ビジネスを再始動する ...",
+    "url": "https://toyokeizai.net/articles/-/954855"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサム 攻撃者の侵入経路に異変 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/091400342/?P=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」への不正アクセス 約160万件で「運転免許証画像」など 本人確認書類 情報 が ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2976038"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "免許証画像160万件流出 タイムズカー 不正アクセス - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1543333/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "不正アクセス",
+    "title": "2026年9月のサイバー攻撃・ 不正アクセス まとめ、タイムズカーや京王、東京メトロなど",
+    "url": "https://news.mynavi.jp/techplus/article/20260930-5050581/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「イープラス」 不正アクセス で個人情報漏えい メールアドレスや口座番号など 1463件が漏えい",
+    "url": "https://topics.smt.docomo.ne.jp/article/abematimes/nation/abematimes-10275719?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "techno-edge.net",
+    "identifier": "不正アクセス",
+    "title": "OpenAがオーストラリアに謝罪。豪政府サイト 不正アクセス 問題を「深くお詫び」 | テクノエッジ ...",
+    "url": "https://www.techno-edge.net/article/2026/09/30/5538.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "郵便局アプリに 不正アクセス 個人情報漏えいか（アスキー） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1f2a367d24d1bf7466e8121296bd4aaf78f23cea"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "郵便局アプリに不正アクセス｜日本郵政・日本郵便が19名分69件の取得を発表 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118359/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "dreamnews.jp",
+    "identifier": "ランサムウェア",
+    "title": "高度な脅威対策と防衛ネットワークの拡大が新たな戦略的セキュリティ機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000364020"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "情報漏洩",
+    "title": "新たなSpectre v2攻撃「BTR」により、Intel・AMD・Arm製CPUがデータ 漏洩 リスクに晒される恐れ",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47855/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "帯広郵便局の従業員を逮捕 居住者 情報 を探偵へ 漏えい し7万5000円受領の疑い",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/obihiro-post-office-insider-leak-detective-75000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "ryutsuu.biz",
+    "identifier": "情報漏洩",
+    "title": "吉野家HD／採用管理プラットフォームで 情報漏洩 、応募者・従業員の情報5784件流出",
+    "url": "https://www.ryutsuu.biz/strategy/s093080.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "サンポー食品のWebサイトに不正アクセス 管理者権限取得とサイト改ざんを確認",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/sanpo-foods-website-unauthorized-access-defacement/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-09-30",
+    "time": null,
     "organization": "news.ntv.co.jp",
     "identifier": "情報漏えい",
     "title": "「セイコーマート」に不正アクセス、約57万件の個人 情報流出 か - 日テレNEWS NNN",
