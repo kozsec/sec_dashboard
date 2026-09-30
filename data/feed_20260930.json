@@ -36,6 +36,16 @@
     "url": "https://www.release.tdnet.info/inbs/140120260930542549.pdf"
   },
   {
+    "source": "CISA KEV",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "Cisco",
+    "product": "Catalyst SD-WAN Manager",
+    "identifier": "CVE-2026-76504",
+    "title": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-76504&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "NCO",
     "date": "2026-09-30",
     "time": null,
@@ -79,5 +89,14 @@
     "identifier": "CSWP 37B (Final)",
     "title": "Automation of the NIST Cryptographic Module Validation Program: April 2025 Status Report",
     "url": "https://csrc.nist.gov/pubs/cswp/37/b/automation-of-the-cmvp-april-2025-status-report/final"
+  },
+  {
+    "source": "海外",
+    "date": "2026-09-30",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "CSWP 36G (Draft)",
+    "title": "False Base Station: Applying 5G Cybersecurity and Privacy Capabilities",
+    "url": "https://csrc.nist.gov/pubs/cswp/36/g/false-base-station-applying-5g-cybersecurity-and-p/ipd"
   }
 ]

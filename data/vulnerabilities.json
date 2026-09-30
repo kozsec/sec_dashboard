@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-76504",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/09/30",
+    "last_update": "2026/09/30"
+  },
+  {
     "cve": "CVE-2026-86950",
     "company": "Apple",
     "product": null,
