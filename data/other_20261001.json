@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-10-01",
     "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏洩",
+    "title": "ベネフィット・ワンが個人 情報漏えい を公表｜対象は2,322企業・団体の13,460名 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118411/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「原子力機構」の研究用原子炉サイトに不正アクセス、１７５人分の運転免許証など個人 情報漏えい",
+    "url": "https://news.yahoo.co.jp/articles/bfdca66710e4ba4a864964996863dc52d906812d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "佐川急便が不正アクセスで 情報 流出の可能性 件数や範囲などは現在調査中 | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16932040"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【11月4日】日本企業を狙う国際サイバー攻撃、脅威インテリジェンスを起点に",
+    "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/07/00466/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "タイムズカー 情報漏えい で集団訴訟の呼びかけ 1日で希望者2000人超 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32464248/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "佐川急便に不正アクセス 個人 情報 が外部に流出した可能性 - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32465411/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【実態調査公開】セキュリティ対策費用の説明に悩む企業が8割 - ライブドアニュース",
+    "url": "https://news.livedoor.com/pr_topics/detail/32462154/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "宿泊予約管理サービス「TEMAIRAZU」に不正アクセス、予約者に不審なメッセージがあり判明",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2144711.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
     "organization": "rocket-boys.co.jp",
     "identifier": "ランサムウェア",
     "title": "極東開発工業の子会社 日本トレクス、不正アクセスから復旧―停止業務を再開",
