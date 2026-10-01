@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-10-01",
     "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "極東開発工業の子会社 日本トレクス、不正アクセスから復旧―停止業務を再開",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/nippon-trex-security-incident-report-updated/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "ランサムウェア",
+    "title": "通販大手アスクル､40代の成松新社長が説く､ ランサムウェア 被害を克服した後の｢小売業を超えた ...",
+    "url": "https://toyokeizai.net/articles/-/959143?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "何者？ ランサムウェア 集団を攻撃するサイバー犯罪集団「ShinyHunters」 FBI捜査官の個人情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/750d9d3e9306c986dca4efba736d3398c3489b4e/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/572f581c34dc6bb0123ac518dd5189ae467ae8ff"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "ランサムウェア",
+    "title": "通販大手アスクル､40代の成松新社長が説く､ ランサムウェア 被害を克服した後の｢小売業を超えた ...",
+    "url": "https://toyokeizai.net/articles/-/959143?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "何者？ ランサムウェア 集団を攻撃するサイバー犯罪集団「ShinyHunters」 FBI捜査官の個人情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/750d9d3e9306c986dca4efba736d3398c3489b4e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "タイムズカーだけじゃない…不正アクセスが相次ぐ異常事態が発生していた - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32454972/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "london3.jp",
+    "identifier": "情報漏洩",
+    "title": "日本郵便に不正アクセスで個人 情報漏洩 | IT中小企業診断士村上知也",
+    "url": "https://london3.jp/2026/10/yusei-fusei/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「能動的 サイバー 防御」きょう開始 警察や自衛隊 攻撃 サーバー侵入し無害化措置 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_politics/articles/000537102.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「能動的 サイバー 防御」きょう開始 警察や自衛隊 攻撃 サーバー侵入し無害化措置 | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16930695"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "中国のAIモデルが生物兵器の製造方法を表示、セキュリティーテスト中に安全策を突破と - BBC",
+    "url": "https://www.bbc.com/japanese/articles/cqp803lnzpn6o"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「能動的 サイバー 防御」 警察・自衛隊が 攻撃 元のサーバーなどにアクセスして無害化可能にする ...",
+    "url": "https://news.yahoo.co.jp/articles/d941909ab4ba422772deefe22bd75c7d52e31ddd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「能動的 サイバー 防御」始動、警察・自衛隊による「 攻撃 元の無害化」可能に…高市首相「脅威は ...",
+    "url": "https://www.yomiuri.co.jp/politics/20261001-GYT1T00267/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「情報漏えい」最多…約8割がAI関連インシデント経験、調査で見えたセキュリティ実態 …",
+    "url": "https://news.yahoo.co.jp/articles/cb01e79bd0292522a8749c8299406bab3b0d902a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "佐川急便「お荷物問い合わせサービス」に 不正アクセス ―アクセスを一部制限",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/sagawa-tracking-service-unauthorized-access-20260930/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "佐川急便「お荷物問い合わせサービス」に 不正アクセス 荷物追跡が利用しづらい可能性",
+    "url": "https://news.yahoo.co.jp/articles/61c3fec8d62f3b4d1280a601a35626121fffadbf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-01",
+    "time": null,
     "organization": "47news.jp",
     "identifier": "情報漏えい",
     "title": "誤送付で１人の個人 情報漏えい いわき市|47NEWS（よんななニュース）",

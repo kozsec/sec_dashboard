@@ -4,6 +4,33 @@
     "date": "2026-10-01",
     "time": null,
     "organization": "国家サイバー統括室",
+    "identifier": "報道発表資料",
+    "title": "サイバー対処能力強化法及び同整備法の施行について",
+    "url": "https://www.cyber.go.jp/pdf/press/houdou_20261001.pdf"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0 PDF版を公開しました。",
+    "url": "https://security-portal.cyber.go.jp/guidance/law-handbook/index.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月1日 情報セキュリティ早期警戒パートナーシップガイドライン2026年版を公開しました",
+    "url": "https://www.ipa.go.jp/security/guide/vuln/partnership_guide.html"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "国家サイバー統括室",
     "identifier": "新着情報",
     "title": "重要インフラ統一基準及び安全基準等策定ガイドラインが施行されました",
     "url": "https://www.cyber.go.jp/policy/group/infra/policy.html"
