@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-104286",
+    "company": "Fortinet",
+    "product": null,
+    "title": "Fortinet FortiMail Path Traversal Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/10/01",
+    "last_update": "2026/10/01"
+  },
+  {
     "cve": "CVE-2026-76504",
     "company": "Cisco",
     "product": null,
@@ -534,10 +546,10 @@
     "title": "Red Hat Libuser Race Condition Vulnerability",
     "kev": "あり",
     "epss_current": 0.08799,
-    "cvss": 5.1,
-    "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss": 7.4,
+    "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/26",
-    "last_update": "2026/08/27"
+    "last_update": "2026/10/01"
   },
   {
     "cve": "CVE-2015-5287",

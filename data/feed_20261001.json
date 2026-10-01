@@ -1,5 +1,15 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-01",
+    "time": null,
+    "organization": "Fortinet",
+    "product": "FortiMail",
+    "identifier": "CVE-2026-104286",
+    "title": "Fortinet FortiMail Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-104286&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "NCO",
     "date": "2026-10-01",
     "time": null,
