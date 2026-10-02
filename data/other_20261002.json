@@ -3,6 +3,330 @@
     "source": "Web",
     "date": "2026-10-02",
     "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "JPCERT/CCが30周年、代表理事がコメント発表 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2144773.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 より怖い？ ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」で ...",
+    "url": "https://news.yahoo.co.jp/articles/a3993ab81e6bee4cfdd5ecb18826664466867b12"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ高度化 サイバー攻撃 急増に防御の必要性を強調＝仏タレスＣＥＯ(ロイター) - Yahoo ...",
+    "url": "https://finance.yahoo.co.jp/news/detail/99c24a4d581dde2570b8c94db9ff92e4fb9183cc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.kabutan.jp",
+    "identifier": "情報漏洩",
+    "title": "テリロジーサービスウェアが業務自動化AIエージェント「palton AI」の提供を開始 - 株探",
+    "url": "https://s.kabutan.jp/news/n202610020294/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "9月下旬に教育機関3組織で不正アクセス―西日本調理製菓専門学校・修道学園・関西国際大学",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/2026-09-education-institutions-unauthorized-access-3cases/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "当選を落選に書き換え ～ デジタル整理券システム「mogily」に不正アクセス 4枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/02/56375/54998.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "「紙齢をつなぐ」—— ランサムウェア 被害に地域紙はどう立ち向かったか? 長野日報社の2か月",
+    "url": "https://newspicks.com/news/17616531/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "tsuhannews.jp",
+    "identifier": "不正アクセス",
+    "title": "佐川急便、 不正アクセス で顧客情報が流出か…「飛脚宅配便受付」などのウェブサービス停止",
+    "url": "https://www.tsuhannews.jp/news/detail/75966"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "中古アニメグッズの買取・販売のらしんばん、 不正アクセス によるサイバー攻撃で個人情報漏えい ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ashinbang-unauthorized-access-personal-data-20261001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "不正アクセス",
+    "title": "Gポイントに 不正アクセス 会員識別子最大約7万件が漏えいの可能性、サービス停止",
+    "url": "https://act1.co.jp/2026-10-01-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "日本トレクスの情報システムに 不正アクセス 、一部業務が停止 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/02/56377.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス で個人情報流出の可能性 荷物追跡APIなど9サービス停止、集荷・配達は通常通り …",
+    "url": "https://news.yahoo.co.jp/articles/5a5ae2254e715d54031f335f496a64511162d1af"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "佐川急便、 不正アクセス で個人情報流出か 住所や氏名など",
+    "url": "https://www.nikkei.com/article/DGXZQOUC020KD0S6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "名もない サイバー セキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の ...",
+    "url": "https://news.yahoo.co.jp/articles/c3a978e624cabb01afed278a3846461ba2cb2e42"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "Fortinet、ゼロデイ 攻撃 で悪用されているFortiMailの重大な脆弱性について警告：CVE-2026-104286",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47886/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ高度化 サイバー攻撃 急増に防御の必要性を強調＝仏タレスＣＥＯ - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/02reutersJAPAN_KBN3VI03P/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "nikkankeisatsu.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "滋賀県警で サイバー テロ対策協議会総会 官民連携の推進へ - 日刊警察",
+    "url": "https://nikkankeisatsu.co.jp/news/261002-1.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ高度化 サイバー攻撃 急増に防御の必要性を強調＝仏タレスＣＥＯ - NewsPicks",
+    "url": "https://newspicks.com/news/17617446/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "巧妙化する サイバー攻撃 警察側が〝逆侵入〟して無力化へ（写真・画像 1/1） - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261001-2MKIFBVFE5MVJF6ZDENU57AQWM/photo/65X4LTGCSROXHIZ7WF6NZCYCK4/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "日本エネルギー経済研究所にフィッシング攻撃、所員6名のMicrosoft 365 アカウントに不正 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/02/56376.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "japantimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "当社グループ管理サーバーへの不正アクセスに関するお知らせ - The Japan Times",
+    "url": "https://www.japantimes.co.jp/press/2026/10/02/noticeransomware-incident-jp/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日本原子力研究開発機構で175人分の個人 情報漏えい マイナンバー含む6人分も（アスキー）",
+    "url": "https://news.yahoo.co.jp/articles/19974fc3c15b0d41a323a41ba7d485f0fdc20083"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "信用情報へ注意喚起を行う「本人申告」のスマホ申込を停止 パーク24の 情報漏えい で殺到 …とで",
+    "url": "https://news.yahoo.co.jp/articles/14eec1746b1053e565b8bd5236aa66e1de214138"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」への不正アクセス、約160万件の運転免許証画像等の本人確認書類が 漏えい",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/02/56371.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "不正アクセス",
+    "title": "当社グループ管理サーバーへの 不正アクセス に関するお知らせ | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/9550075"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "当選を落選に書き換え ～ デジタル整理券システム「mogily」に 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/02/56375.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で大規模 システム障害 、終日休講｜全国のニュース - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2374602"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 - 終日休講 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1801156"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 終日休講、復旧見通し不明 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1544557/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 終日休講、復旧見通し不明 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/519168?rct=national"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "履修修正の締め切り当日に システム障害 、大阪公立大 全授業を休講する事態に …",
+    "url": "https://news.yahoo.co.jp/articles/9799a421e11f34e28dbf45319de34969bb36de78"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 終日休講、復旧見通し不明 - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1478606677275493047/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 終日休講、復旧見通し不明 - 47NEWS",
+    "url": "https://www.47news.jp/15025751.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大で大規模 システム障害 復旧のめど立たず、終日休講に…付属病院には影響なし",
+    "url": "https://www.sankei.com/article/20261002-MU6IPIU2BBLHJFNZIMDUULS5NM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で情報 システム障害 2日の授業をすべて休講 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bd854027f4321e12aecc65f5d6f49b3b9ca437a1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大で情報 システム障害 2日の授業をすべて休講 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB21PBQVB2PTIL00JM.html?iref=comtop_BreakingNews_list"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
     "organization": "ai.watch.impress.co.jp",
     "identifier": "情報漏洩",
     "title": "「生成AIパスポート」シラバスを大幅改訂、2027年2月より適用 - AI Watch",
