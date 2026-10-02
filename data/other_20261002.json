@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-10-02",
     "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "第一ライフグループ 個人 情報 12万人分流出か 人事システムに不正アクセス | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16936976"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ高度化 サイバー攻撃 急増に防御の必要性を強調＝仏タレスＣＥＯ | ニューズウィーク日本版 ...",
+    "url": "https://www.newsweekjapan.jp/articles/-/335749?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "佐川急便「お荷物問い合わせサービス」不正アクセスにより情報流出の可能性 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/acd256e9f6d4eaad4121a9b48781ea83ebb783ce/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "中国系ハッカー集団が小泉進次郎防衛相装いフィッシングメール 日米の研究者ら標的",
+    "url": "https://www.sankei.com/article/20261002-OVQ4266BUJNARCTQ3VIQVNEW2I/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 で大阪公立大休講 ８日まで、原因不明 | 全国のニュース | 福井新聞Ｄ刊",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2713215"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で大規模 システム障害 全授業が８日まで１週間休講に 「図書館に入れなかった」学生 ...",
+    "url": "https://news.yahoo.co.jp/articles/09c9b9545622e70765eac80ce13ff753678a7b8b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大学で「原因不明の大規模な システム障害 」…復旧見込み立たず全ての学部・研究科で８ ...",
+    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261002-GYO1T00191/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国のShinhan Bankハッキングサーバーから中国製AI浸透ツールの痕跡…自律型 攻撃 の現実化に懸念",
+    "url": "https://finance.biggo.jp/news/130fe137-4c91-488a-9dc9-c0cfe89a9ab4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
+    "organization": "carview.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "CIC、信用情報の開示殺到 パーク24の 情報漏えい で注意喚起申し出急増が原因か - carview!",
+    "url": "https://carview.yahoo.co.jp/news/detail/5877ceb7fc5ba9055e38b2d354a96f395afafba1/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-02",
+    "time": null,
     "organization": "finance.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "第一ライフグループ、従業員の個人 情報流出 か＝不正アクセスで12万人分 - Yahoo!ファイナンス",
