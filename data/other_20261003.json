@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-10-03",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "Layer8の自律型AI「Trident」、HackerOneのVDPランキングで世界1位を獲得 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000005.000179810&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「アバハウス」全顧客の 情報漏えい か 会員・受注DBに不正アクセス 「不審な返金メール届いた ...",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_news/trend/itmedia_news-20261003_2000001981"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「アバハウス」全顧客の 情報漏えい か 会員・受注DBに不正アクセス 「不審な返金メール届いた ...",
+    "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "第一ライフGに 不正アクセス 12万人の個人情報流出か（ABEMA TIMES）",
+    "url": "https://topics.smt.docomo.ne.jp/article/abematimes/nation/abematimes-10276603"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "社内データに 不正アクセス - アバハウス、顧客情報流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGKKZO99097380T01C26A0EA5000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国Hyundai Capitalがハッキング被害、住宅ローン募集人146人の個人情報流出…一般顧客へ ...",
+    "url": "https://finance.biggo.jp/news/01e26cbd-f0fa-45f1-a87f-5a2bd39d0e5d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AI「暴走」、他企業などに影響100件超か オープンAIが発表、カリフォルニア州も調査",
+    "url": "https://www.nikkei.com/article/DGKKZO99094920T01C26A0EAF000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "不正アクセス",
+    "title": "現代キャピタルで 不正アクセス 住宅ローン募集人146人の個人情報流出 - Chosunbiz",
+    "url": "https://biz.chosun.com/jp/jp-finance/2026/10/03/AJCSB7WRINGU7HWDVPVMD7S5VI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
     "organization": "zaikei.co.jp",
     "identifier": "サイバー攻撃",
     "title": "英中銀、AIの想定外行動と関連債務の拡大に警戒 ベイリー総裁はモデル検証を重視 | 財経新聞",
