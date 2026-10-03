@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-10-03",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "「アバハウス」全顧客の 情報漏えい か 会員・受注DBに不正アクセス 「不審な返金メール届いた ...",
+    "url": "https://newspicks.com/news/17625583/?ref=news-summary_4212306"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "ランサムウェア",
+    "title": "AIでOTセキュリティ運用を自動化、NTTドコモビジネスとPKTが新システムを開発",
+    "url": "https://news.mynavi.jp/techplus/article/20261002-5063094/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "不正アクセス",
+    "title": "第一ライフグループに 不正アクセス 12万人分の情報流出か - FNNプライムオンライン",
+    "url": "https://www.fnn.jp/articles/-/1125935"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大学で大規模な システム障害 授業はすべて『終日休講』に 学生は「起こりえないと思っ ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-2986363"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1937018"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大学で大規模な システム障害 、8日まで全授業を休講―原因は調査中",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/osaka-metropolitan-university-system-outage-202610/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ムーンスター、不正アクセスで顧客の個人 情報漏洩 の恐れ-氏名・住所・注文情報など",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/moonstar-customer-data-status-report/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "jprime.jp",
+    "identifier": "情報漏洩",
+    "title": "『タイムズカーシェア』660万件の個人 情報漏えい で「資金や口座が悪用」弁護士に聞いた“自衛法 ...",
+    "url": "https://www.jprime.jp/articles/-/43890?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "アバハウスに不正アクセス、会員の個人 情報漏洩 の恐れ―実際の注文内容と一致する「返金」詐欺 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/abahouse-unauthorized-access-data-leak-20261003/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "ランサムウェア",
+    "title": "英国、欧州で国家支援型サイバー活動が最多 AIで攻撃準備が短期化",
+    "url": "https://www.digitaltoday.co.kr/jp/view/110451/uk-most-exposed-in-europe-to-state-backed-geopolitical-cyber-threats"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "不正アクセス",
     "title": "ヤマト運輸の後払いサービスに 不正アクセス 、顧客情報が流出した恐れ - ライブドアニュース",
