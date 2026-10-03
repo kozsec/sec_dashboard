@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-10-03",
     "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "英中銀、AIの想定外行動と関連債務の拡大に警戒 ベイリー総裁はモデル検証を重視 | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20261003/872257.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "Datadogのマリナ・ペッツェル氏：AIアプリは「200 OK」を返しても完全に間違っている可能性が ...",
+    "url": "https://finance.biggo.jp/news/6bd270a3e135f150"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "サイバー攻撃",
+    "title": "Raonsecure AIセキュリティをWeb3で内在化 独ファモコンソーシアム参画 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-it/2026/10/03/KLBGVP4UDJFUJPQBHDQUT5DPUQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "《660万件の個人情報漏えい》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と ...",
+    "url": "https://news.yahoo.co.jp/articles/7440b2691e4bb8375dcafae0a2a3a71d62a47452"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "AIがオーストラリア政府のデータに 不正アクセス した。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/ai-truy-cap-trai-phep-du-lieu-chinh-phu-australia"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "システム障害",
+    "title": "韓国の大手証券10社、3年間の システム障害 113件…賠償金約8.2億円に迫る",
+    "url": "https://finance.biggo.jp/news/8b939185-b0ed-4454-8bc1-d9a6ead74444"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
     "organization": "london3.jp",
     "identifier": "ランサムウェア",
     "title": "贈与税の申告書が漏れた！ KSK2リニューアルでe-Taxの情報漏洩 | IT中小企業診断士村上知也",
