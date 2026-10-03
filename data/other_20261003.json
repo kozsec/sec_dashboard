@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-10-03",
     "time": null,
+    "organization": "london3.jp",
+    "identifier": "ランサムウェア",
+    "title": "贈与税の申告書が漏れた！ KSK2リニューアルでe-Taxの情報漏洩 | IT中小企業診断士村上知也",
+    "url": "https://london3.jp/2026/10/e-tax-rouei/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "第一ライフGに 不正アクセス 12万人の個人情報流出か（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/88fc7259b0bad992930f54c3fafec37baa33427d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "第一ライフ 社員と元社員の個人 情報流出 か 最大12万人分 不正アクセス受け - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/tbs_2986983/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "第一ライフに不正アクセス 従業員 情報漏えい か | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1936910"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "ムーンスター、不正アクセス被害確認から半年後に個人 情報漏えい の疑いが発覚 - NewsPicks",
+    "url": "https://newspicks.com/news/17626879/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "第一ライフグループに不正アクセス 12万人分の 情報流出 か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e05a734c80da101333f9bd139c369d943d90cf56"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "不正アクセス",
+    "title": "AIがナポレオン時代の秘密文書をわずか6時間で解読。 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/ai-giai-ma-buc-thu-mat-thoi-napoleon-chi-trong-6-gio"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "靴のムーンスター、顧客情報漏えいの可能性 氏名や住所、注文情報など - NewsPicks",
+    "url": "https://newspicks.com/news/17625816/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "大阪公立大学で「原因不明の大規模なシステム障害」…復旧見込み立たず全ての学部・研究科で８ ...",
+    "url": "https://news.yahoo.co.jp/articles/9ca9922730bb4d48b5df416a436ee1ffa048a40f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "tokyonewsmedia.com",
+    "identifier": "サイバー攻撃",
+    "title": "中国系 サイバー 集団が日米の専門家を標的に偽装メール 攻撃 小泉防衛相をかたる手口も判明",
+    "url": "https://tokyonewsmedia.com/archives/28714"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "OpenAIの｢暴走｣問題、影響100件超の可能性 カリフォルニア州も調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN02CC70S6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "潜む サイバー 脅威、官民で探索 政府、インフラ防護へ手法共有（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/a2568d6a074a232631efc69cb621a4871f4f2725"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-03",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "情報漏洩",
     "title": "《660万件の個人 情報漏えい 》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と ...",

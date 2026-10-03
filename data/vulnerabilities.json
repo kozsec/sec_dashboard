@@ -5,11 +5,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00262,
+    "epss_current": 0.00629,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/02"
+    "last_update": "2026/10/03"
   },
   {
     "cve": "CVE-2026-102489",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Session Fixation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00582,
+    "epss_current": 0.01396,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/02"
+    "last_update": "2026/10/03"
   },
   {
     "cve": "CVE-2026-104286",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Fortinet FortiMail Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01779,
+    "epss_current": 0.02201,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/01",
-    "last_update": "2026/10/02"
+    "last_update": "2026/10/03"
   },
   {
     "cve": "CVE-2026-76504",
@@ -1349,11 +1349,11 @@
     "product": "Chromium V8",
     "title": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0219,
+    "epss_current": 0.02515,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/06/09",
-    "last_update": "2026/06/09"
+    "last_update": "2026/10/03"
   },
   {
     "cve": "CVE-2026-7473",
