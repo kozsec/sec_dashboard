@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-10-04",
     "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "情報漏洩",
+    "title": "一連のデータ 漏洩 事件にAIが関与している疑いが浮上し、韓国で緊急会議が開かれた。",
+    "url": "https://www.vietnam.vn/ja/nghi-van-ai-trong-loat-vu-lo-du-lieu-khien-han-quoc-hop-khan"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/asahi/business/ASVB42PT2VB4ULLI001M?fm=topics&fm_topics_id=e5967e3c216d46bb405978e6b3a16ae6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件 不正 送信 (朝日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/fec98fa0eaaced970de2195988bd35a08be171fe/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカー 運転免許証など約160万件漏洩 専門家「再発行だけで被害防ぐのは困難」",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-900201137?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "日経新聞に サイバー攻撃 業務ソフトに不正ログイン、なりすましメール約9000件送信か",
+    "url": "https://www.sankei.com/article/20261004-V5OKGAQ4DZNKJLNFYGWIPKQJWY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "chosun.com",
+    "identifier": "情報漏えい",
+    "title": "AIハッキング、金融業界全般に拡大",
+    "url": "https://www.chosun.com/jp/economy-jp/2026/10/05/WCDXUYT7N5HQDFBCP57S6BV5JQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】日経新聞にサイバー攻撃 取材先などに不審メール9000件 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000537860.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日経に サイバー攻撃 不審メール9000件（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/908947d5366eed0599b6fdc7407938fa48708e7b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経新聞にサイバー攻撃｜信濃毎日新聞デジタル 信州・長野県のニュースサイト",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026100401000999"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日経新聞に サイバー攻撃 不審メール9000件を送信 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2d35b75959fe1b0e30efe86eb8a9019bc6e0a66d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
     "organization": "rocket-boys.co.jp",
     "identifier": "ランサムウェア",
     "title": "防衛組織に「自律戦闘司令部」新設へ―AI・ドローン・ロボット戦力を統合、2027年の発足目指す",
