@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-10-04",
     "time": null,
+    "organization": "mezha.net",
+    "identifier": "情報漏えい",
+    "title": "韓国の李在明大統領が金融機関の 情報流出 調査を指示、当局はサイバー対策を強化",
+    "url": "https://mezha.net/jp/news/4c1d1445_south_korea_orders/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日経新聞にサイバー攻撃｜全国の記事｜京都新聞 ON BUSINESS",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1802345"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件 不正 送信 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/asahi/nation/ASVB42PT2VB4ULLI001M"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 で 日経新聞が被害 なりすましメール９千件 | 全国のニュース | 福井新聞Ｄ刊",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2714441"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "remio.ai",
+    "identifier": "情報漏えい",
+    "title": "韓国銀行へのAIサイバー攻撃が全国的な見直しを促すも、AIが犯行主体とはまだ立証されず",
+    "url": "https://www.remio.ai/ja/post/korean-bank-ai-cyberattacks-trigger-a-nationwide-review-but-ai-is-not-yet-the-ja"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "情報漏えい",
+    "title": "【青森】米国有名IPAからの最北県醸造ビール飲み比べ（前編） 酔いどれ編集長の ... - サンスポ",
+    "url": "https://www.sanspo.com/article/20261004-V7E5LRAGG5INXG6MM3XUFJ72P4/photo/ZJ7D4BZUNZMOZGRQ3CTVLV64GA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ついに始まった「脆弱性の嵐」で担当者が燃え尽きる、体制づくりが急務",
+    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00806/090300003/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Fortinet「FortiMail」に重大な脆弱性CVE-2026-104286、 サイバー攻撃 で悪用-認証不要で任意 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/fortimail-cve-2026-104286-zero-day/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「身代金を払わない」だけでは足りない、ランサムウェア犯と交渉しないという選択（森井昌克）",
+    "url": "https://news.yahoo.co.jp/expert/articles/50f26f3df624d0ec067a1fb38d8302315da8c828"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2145149.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "中国関連脅威アクター「TA419」、日米のシンクタンク・大学などを狙う認証 情報 フィッシング",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/ta419-proofpoint-japan-phishing-20261003/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-04",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "情報漏洩",
     "title": "一連のデータ 漏洩 事件にAIが関与している疑いが浮上し、韓国で緊急会議が開かれた。",
