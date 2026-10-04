@@ -641,11 +641,11 @@
     "product": null,
     "title": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.70915,
+    "epss_current": 0.73192,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/08/24",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/04"
   },
   {
     "cve": "CVE-2026-69836",
@@ -1349,11 +1349,11 @@
     "product": "Chromium V8",
     "title": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02515,
+    "epss_current": 0.0244,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/06/09",
-    "last_update": "2026/10/03"
+    "last_update": "2026/10/04"
   },
   {
     "cve": "CVE-2026-7473",
