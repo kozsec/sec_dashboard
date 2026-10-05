@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-10-05",
     "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "「焼肉きんぐ」会員、１０７８万件 情報漏洩 アプリに不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16561099.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "大阪公立大学 大規模システム障害は「サイバー攻撃」 だった…根幹サーバーがランサムウェア ...",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/2990964?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "【金融庁が警鐘】相次ぐ「 情報漏えい 」…AI攻撃が爆速化する前に銀行が今やるべきこと",
+    "url": "https://www.sbbit.jp/article/fj/187111"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "大和証券、１１万人分 情報漏洩 か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16561092.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "見えないAIはガバナンスできない - (page 3) - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35252975/3/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新提供中 ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/ranking/2145837.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "サイバー攻撃",
     "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェア ...",
