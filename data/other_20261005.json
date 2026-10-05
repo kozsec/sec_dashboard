@@ -3,6 +3,231 @@
     "source": "Web",
     "date": "2026-10-05",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェア ...",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/2990268?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "大阪公立大でシステム障害 サイバー攻撃 、１３万人分流出恐れ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026100500874&g=soc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェア ...",
+    "url": "https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "「焼肉きんぐ」アプリ、ほぼ全員分の会員情報が流出 不正アクセス で1079万件 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253253/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "大和証、22万件漏えいか 不正アクセス 、個人情報も - 47NEWS",
+    "url": "https://www.47news.jp/15038372.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「焼き肉きんぐ」に 不正アクセス 公式アプリ利用者の個人情報1000万件以上漏えい",
+    "url": "https://news.ntv.co.jp/category/economy/72504ff749494d5a97ad8e43ac981ec3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「焼肉きんぐ」アプリに 不正アクセス …会員1078万人分の個人情報漏えい メアドや電話番号など",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2714952"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大、 障害 はサーバー攻撃 システム 復旧見通し立たず - NEWSjp",
+    "url": "https://news.jp/i/1479749436790850469"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェア ...",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/2990268"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "焼肉きんぐ、ほぼ全会員の個人 情報 1000万件超が流出 第三者の不正アクセスで",
+    "url": "https://www.sankei.com/article/20261005-BWOBT7GNLJLT5DXHLR35YV54BY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "「焼肉きんぐ」、個人 情報 1078万件が流出 アプリに不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB53JHLVB5ULFA022M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "「焼肉きんぐ」、顧客 情報漏洩 不正アクセスで1000万件超 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC057340V01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ホワイトエッセンス、不正アクセスによるサイバー攻撃で約105万アカウントの個人 情報漏洩",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/white-essence-data-breach-1-05m/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "大阪公立大学にランサム攻撃 個人 情報 、13万人流出恐れ",
+    "url": "https://www.nikkei.com/article/DGXZQOUF057NR0V01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ不正アクセス、企業や政府機関でも 情報漏洩 AI悪用の影に「一刻の猶予もない」",
+    "url": "https://www.sankei.com/article/20261005-EDPPV6MAB5NNDBA4L5RTAUGZRU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "kobe-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "関西国際大 学内システムで 不正アクセス 確認 学生の出欠登録などアクセスできず 兵庫",
+    "url": "https://www.kobe-np.co.jp/news/society/202610/0020896647.shtml"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "大起水産に 不正アクセス 17万人の情報漏洩か - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF05A6D0V01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大の大規模 システム障害 、サイバー攻撃が原因か 13万人超の個人情報流出恐れ …",
+    "url": "https://news.yahoo.co.jp/articles/1e966e2a30901f1b5a4a5d0c4031d6576a8ec1a2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "大和証券の委託先に不正アクセス 約11万人分の顧客 情報漏えい か - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-05-03/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "大阪公立大学にサイバー攻撃か サーバー500台停止し全学部休講 13万件の個人 情報流出 の有無を調査",
+    "url": "https://news.yahoo.co.jp/articles/228ef694a3cd11af5e77a8a8056f74f55e4477b7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "大和証券、問い合わせ管理サービスへの不正アクセスで約11万人の利用者 情報漏えい の可能性",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2145818.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経で相次ぐ不正アクセス 1646人分の個人 情報漏えい 、「なりすましメール」約9000件送信も …",
+    "url": "https://news.yahoo.co.jp/articles/5c4682fb67b324f94644080cacbdbb80a9484ef0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】焼肉きんぐ会員 情報 1078万件漏洩 アプリ登録者ほぼ全員 流出 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000538069.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「焼肉きんぐ」公式アプリ、１０７８万件の個人 情報漏えい …詐欺などに悪用される恐れ - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/national/20261005-GYT1T00387/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「焼肉きんぐ」アプリ、ほぼ全員分の会員 情報 が 流出 不正アクセスで1079万件（CNET Japan）",
+    "url": "https://news.yahoo.co.jp/articles/91a9f6acf41786ef472f53de3459c3393b08ab6e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
     "organization": "chiba-tv.com",
     "identifier": "情報漏えい",
     "title": "日経新聞社、Microsoft 365アカウントの 情報漏えい と、Google Workspaceからの情報 ... - 千葉テレビ",
