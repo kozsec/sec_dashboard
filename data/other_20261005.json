@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-10-05",
     "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "情報漏えい",
+    "title": "日経新聞社、Microsoft 365アカウントの 情報漏えい と、Google Workspaceからの情報 ... - 千葉テレビ",
+    "url": "https://www.chiba-tv.com/plus/detail/2026102074562"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "情報漏えい",
+    "title": "大和証、22万件 漏えい か 不正アクセス、個人 情報 も - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1479689812820738732/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大、 システム障害 で1週間近く休講に 出願期間中で入試にも影響 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/itmedia_news_202610052000002001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "city.shibuya.tokyo.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 に伴う窓口の縮小対応について | 住民票の写しの請求・閲覧 - 渋谷区",
+    "url": "https://www.city.shibuya.tokyo.jp/kurashi/jumin/utsushi/system_trouble.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "渋谷区で システム障害 、窓口業務を縮小 復旧の見通し立たず（ITmedia NEWS） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b355d433b343404955178768c3784ada2bc3c44d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏えい",
+    "title": "第一生命の人事システムに不正アクセス 退職者含む約12万人分の従業員 情報流出 か",
+    "url": "https://act1.co.jp/2026-10-05-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏えい",
+    "title": "講談社BECK、旧講談社ビーシーのメールアカウントに不正アクセス-50件の不審メール送信",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/kodansha-beck-email-unauthorized-access-202610/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "大和証券 不正アクセスで11万分人の個人 情報漏えい か - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/b96bdecc6b864a5985df85c906ac53ab"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "LEAN BODY が利用する分析ツール「Metabase」の脆弱性を悪用した不正アクセス 6枚目の写真 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/05/56382/55096.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ不正アクセス、AIが原因？ 専門家に聞く（アスキー） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/4acdfc2018efa7cbb3b5ae994bc913012a7880c9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "大和証券、22万件 漏洩 か 不正アクセス、11万件はメルアドや証券口座などの個人 情報 も",
+    "url": "https://www.sankei.com/article/20261005-4KQ3QTABJFNEZNNIWZ4TRMZONU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "愛知・みよし市の機械メーカーから製品に関する 情報 を 漏洩 か 48歳男と60歳女を逮捕 男は女の元 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/cbc/2989094?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "大和証、11万人分の顧客 情報漏洩 の可能性 外部委託先に不正アクセス - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/791d722d7b91e40bf2fbaeb199bd94d06926c864"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "22万件の顧客 情報漏えい 可能性－委託先に不正アクセス | TBS CROSS DIG with Bloomberg",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2989477"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】大和証券に不正アクセス、22万件 漏えい か - 47NEWS",
+    "url": "https://www.47news.jp/15038299.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人 情報漏えい 悪用リスクは ...",
+    "url": "https://news.ntv.co.jp/category/society/080f05fe5cd94d7a9b39131d0ee1a7d1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-05",
+    "time": null,
     "organization": "rocket-boys.co.jp",
     "identifier": "サイバー攻撃",
     "title": "AIの自律型 サイバー攻撃 が実環境へ、日本は中国国家支援型攻撃の標的3位-Microsoft Digital ...",
