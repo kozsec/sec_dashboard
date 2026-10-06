@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-06",
     "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【11月10日】AIで武装強化された ランサム ウエア攻撃が拡大 - 日経クロステック Active",
+    "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/11/00470/?i_cid=nbpnxta_sied_under_tag"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "国際ハッカー集団「Qilin」メンバーを日本で拘束 接触試みると…？「AIで1日100万件 攻撃 できる ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2994191"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "タイムズカー 情報漏えい 、借金や身に覚えのない請求…不正利用を防ぐには？ 弁護士が解説",
+    "url": "https://topics.smt.docomo.ne.jp/article/bengoshi/life/bengoshi-topics-21014"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「楽天ドライブ」に 不正アクセス 約1.5万件の保存データなど流出「再発防止に取り組む」 …",
+    "url": "https://news.yahoo.co.jp/articles/37bd9c94e68a2cedaf5b4a4a043725b869db95ad"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大規模 システム障害 の大阪公立大学、「ランサムウェア」のサイバー攻撃か…学生・卒業生ら １３ ...",
+    "url": "https://news.yahoo.co.jp/articles/b0386798ede132e1311889b36320b85a37c932e2/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "韓国で相次ぐ 金融機関への サイバー攻撃 -7社で関連IP、AI侵入ツール「ARTEX AI」の痕跡も",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/south-korea-financial-cyberattacks-artex-ai-20261006/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【 情報 まとめ】タイムズカー、焼肉きんぐ、ミスターマックス…大手企業で不正アクセス相次ぐ ...",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/900201246.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「楽天ドライブ」、不正アクセスにより約1.5万アカウントのデータなどが 漏えい - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2146152.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「おわび」装う二次被害にも注意 不正アクセス で個人情報流出 福岡でも相次ぐ 対策は",
+    "url": "https://news.ntv.co.jp/n/fbs/category/life/fsd7d6f0a5de074beeafbacac2bc15f730"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "生活に関わる大企業が相次ぎ サイバー攻撃 被害 目的はっきりせず - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32498348/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換され ...",
+    "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00386/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "情報漏えいの当事者になったら「不正使用」のチェックを 漏えい情報使った詐欺にも注意 企業への ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/fnn/nation/fnn-1127350?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "焼肉きんぐ・MrMax・infoQ・タイムズカーなどでサイバー攻撃や不正アクセスによる大規模な個人 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/recent-large-data-breaches-personal-warning-20261006/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "plus-web3.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大が システム障害 で約1週間休講 10月8日まで授業停止 - Plus Web3",
+    "url": "https://plus-web3.com/media/latestnews_1000_10922/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃で企業・団体の 情報漏えい 被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ ...",
+    "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "不正アクセス",
     "title": "西鉄系のニモカ、 不正アクセス で約500件の顧客情報流出 - 日本経済新聞",
