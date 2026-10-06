@@ -3,6 +3,249 @@
     "source": "Web",
     "date": "2026-10-06",
     "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「焼肉きんぐ」システムに不正アクセス、1000万件超の個人 情報 流出 - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/05reutersJAPAN_KBN3VL0T1/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "焼肉きんぐ』1000万件超の 情報漏洩 なぜ今、飲食店アプリが狙われるのか？ #エキスパートトピ …",
+    "url": "https://news.yahoo.co.jp/expert/articles/94aa22afd409a477513dc595f7717cb983121126"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大にランサムウェア攻撃か サーバー500台停止で全授業休講 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-06-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "yasashii.asahi.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大学、 システム障害 は「ランサムウェアによる攻撃」と発表しました | やさしい朝日新聞",
+    "url": "https://yasashii.asahi.com/articles/article_0015078.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 ＝サイバー攻撃、１３万人分流出恐れ | nippon.com",
+    "url": "https://www.nippon.com/ja/news/yjj2026100500874/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "回転ずしの大起水産、17万人分の個人 情報 が流出か 不正アクセスで - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB53VGWVB5PLFA00KM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ニモカ利用者521人の 情報流出 、生年月日やメアドなど 履歴照会サービスに不正アクセス",
+    "url": "https://www.nishinippon.co.jp/item/1545944/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏えい",
+    "title": "最大173万人分 情報流出 MrMax、不正アクセス メールアドレスや電話番号など - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261006-QENMXFY2YBPCFK734JJGVGLWSQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカーで「 情報 漏洩」被害に遭った人が、今すぐやるべきこと",
+    "url": "https://diamond.jp/articles/-/400620"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏えい",
+    "title": "660万件の個人 情報 が 流出 ！タイムズカー事件が「いつもの 情報 漏洩」よりずっと怖い理由",
+    "url": "https://diamond.jp/articles/-/400619"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "焼肉きんぐ 公式アプリに不正アクセスによるサイバー攻撃 - 合同会社ロケットボーイズ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/yakiniku-king-app-data-breach-10788963/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "シチズン、顧客 情報 10万人 漏洩 か 業務委託先に不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC067OW0W6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐサイバー攻撃に“AI利用”か…『焼肉きんぐ』1000万件超が 情報漏えい - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/900201225.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "シチズン時計 約10万人分の 情報漏洩 の可能性 委託先に不正アクセス 決済情報も流出か",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000538252.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "chugoku-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "広島・修道学園に 不正アクセス 、中高や大学の個人情報流出か | 中国新聞デジタル",
+    "url": "https://www.chugoku-np.co.jp/articles/-/905554"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天ドライブに 不正アクセス 、保存データを含む1万5382アカウントの情報漏洩",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-drive-unauthorized-access-15382-accounts-20261006/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "不正アクセス",
+    "title": "焼肉きんぐ 公式アプリに 不正アクセス 、1078万件の個人情報漏えい - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187306"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】シチズンに 不正アクセス 10万人分漏えいか - 47NEWS",
+    "url": "https://www.47news.jp/15044694.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "国内 不正アクセス 過去最多ペース - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6597763"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か",
+    "url": "https://www.sbbit.jp/article/cont1/187311"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "システム障害",
+    "title": "スタディサプリの「仕様不備」突く不正アクセス ユーザーのメアド3687件を第三者が特定か",
+    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002019/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大で システム障害 サイバー攻撃、１３万人分流出恐れ - 時事通信",
+    "url": "https://www.jiji.com/sp/article?k=2026100500874&g=soc&p=20261005ds66&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "相次ぐ個人情報漏えい、大和証券は顧客１１万人分の口座番号含む２２万件…大阪公立大は学生 ...",
+    "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00050/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "「焼肉きんぐ」やGMOグループ会社も…相次ぐ不正アクセス 大阪公立大学では大規模な システム ...",
+    "url": "https://news.yahoo.co.jp/articles/043f90b244a12f74c39e3700c8f9139ced812f64"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大の大規模 システム障害 、サイバー攻撃が原因か 13万人超の個人情報流出恐れ（写真 ...",
+    "url": "https://www.sankei.com/article/20261005-SB3YXUISI5PD3MCX3O6OSITCZU/photo/WTDIYI5OPJMDVGXQC4Z2GVJNDM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "大阪公立大がサーバー攻撃を受け システム障害 、ランサムウエアの可能性も - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32493377/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "不正アクセス",
     "title": "ムラウチドットコムに 不正アクセス 、7,716,811件の個人情報が漏えい | ScanNetSecurity",
