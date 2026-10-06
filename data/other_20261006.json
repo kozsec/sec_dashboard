@@ -3,6 +3,294 @@
     "source": "Web",
     "date": "2026-10-06",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "西鉄系のニモカ、 不正アクセス で約500件の顧客情報流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOJC065GQ0W6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "企業標的、 不正アクセス 相次ぐ ＧＭＯ、会員ポイントに被害―ＡＩ普及が影 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026100600930&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「楽天ドライブ」で 不正アクセス 、保存データ1万5382件が閲覧・取得 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2146088.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "企業に相次ぐ サイバー攻撃 警察庁警戒、不審なアクセスは過去最多 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB63HFNVB6ULZU001M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「いきなり増えた」専門家が指摘する サイバー攻撃 の新手法 焼肉きんぐ1080万件など相次ぐ情報漏洩",
+    "url": "https://news.ntv.co.jp/category/economy/15e09ecf3a04485d938a071ac561e04c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "相次ぐ 不正アクセス 受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け …",
+    "url": "https://news.yahoo.co.jp/articles/c2724bdce06d1c1c23e13ee208bdd27b2155e79b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "メールアカウントへの 不正アクセス により個人情報漏えいの疑い。日経新聞社への攻撃が影響",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2146104.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「焼肉きんぐ」顧客 情報漏えい 不正アクセスで1000万件超｜テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_349961"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "youtube.com",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 相次ぐ背景に生成AIか「不正アクセスに気づいていない企業も多いのでは ...",
+    "url": "https://www.youtube.com/post/UgkxVD7vXamL7AQfpVxB-ZzqYe-6QNuSU9tk"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人 情報流出 か",
+    "url": "https://news.yahoo.co.jp/articles/f1ffff65a0b143135eea95ec26027176171482ee"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】旭化成系、最大55万人の 情報漏えい か - 47NEWS",
+    "url": "https://www.47news.jp/15045980.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ミスターマックス、最大173万人分の会員 情報流出 不正アクセスで - ITmedia NEWS",
+    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002030/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "関西国際大に不正アクセス、学内 システム など一部利用できず - Infoseek 楽天",
+    "url": "https://news.infoseek.co.jp/article/asciijp_4440274/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大起水産 約１７万５０００人分の個人情報漏えいした可能性 公式アプリの システム に不正アクセス ...",
+    "url": "https://news.yahoo.co.jp/articles/86d2757bea1ffed1521be49c9ba2d18d23d48f06"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "ハッカー集団「キリン」メンバーを拘束 ドイツに引き渡し―アサヒ攻撃で声明も・捜査当局",
+    "url": "https://www.jiji.com/jc/article?k=2026100600755&g=soc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【情報まとめ】タイムズカー、焼肉きんぐ、ミスターマックス…大手企業で不正アクセス相次ぐ ...",
+    "url": "https://news.yahoo.co.jp/articles/a5a5953fbd395abb74bd5dd50bc8d9af0edcc439?page=7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "韓国FSC、銀行情報漏洩事件の捜査急ぐ 攻撃 へのAI利用が疑われる中 - Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/47931/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "金融庁、ＡＩ 攻撃 踏まえた サイバー 防御演習開始…銀行・証券会社など過去最多１８１金融機関が ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261006-GYT1T00299/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 企業被害、官房長官「大変深刻に受け止めている」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA067840W6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "ハッカー集団「キリン」メンバーを拘束 ドイツに引き渡し―アサヒ攻撃で声明も・捜査当局",
+    "url": "https://newspicks.com/news/17643617/?block=headline&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "ランサムウェア",
+    "title": "【速報】 ランサム 攻撃集団のメンバー、日本で拘束 - 47NEWS",
+    "url": "https://www.47news.jp/15044569.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【金融庁が警鐘】相次ぐ「情報漏えい」…AI攻撃が爆速化する前に銀行が今やるべきこと",
+    "url": "https://news.yahoo.co.jp/articles/eab906847ad090de15ef6da82f7a386d00b41fec"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏えい 急増 本人になりすまし“勝手に契約”やポイントの不正利用も 悪用の実態と対処法は ...",
+    "url": "https://news.ntv.co.jp/category/society/9e1fccf1e08744c199ffa34b331fbbfa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "システム障害",
+    "title": "「楽天ドライブ」写真流出 文書も、不正アクセスで - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1480181677891780820/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco&p=20261006at26S&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 が6日も相次ぎ判明 MrMax、GMO、シチズン時計…政府は被害把握急ぐ - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261006-NTA2VC46ZRIW5OSDWRTGFMCJ74/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "旭化成系、医療従事者向けサイトで 情報漏洩 か 最大約56万人",
+    "url": "https://www.nikkei.com/article/DGXZQOUC068JJ0W6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「いきなり増えた」専門家が指摘するサイバー攻撃の新手法 焼肉きんぐ1080万件など相次ぐ 情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/df5b6902cbad4117bca39fbceed9d4eb9e5c7ba9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバーセキュリティクラウド、相次ぐ企業の情報漏えい・サイバー攻撃を受け",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1939227"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「GMO」グループ会社で情報漏えい 会員ポイントの不正交換も 相次ぐ情報 ... - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/b5798946dc314d6ba1b945fe3f153f40"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 による情報流出続発、「大変深刻に受け止め」＝官房長官 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261006093"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "旭化成子会社のサイトに サイバー攻撃 最大55万8000人分の情報流出の可能性",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2994121"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-06",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "情報漏洩",
     "title": "「焼肉きんぐ」システムに不正アクセス、1000万件超の個人 情報 流出 - Infoseek 楽天",

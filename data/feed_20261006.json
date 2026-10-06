@@ -1,14 +1,5 @@
 [
   {
-    "source": "IPA",
-    "date": "2026-10-06",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "試験情報",
-    "title": "2026年10月6日 （お詫び）令和8年度前期試験の申込受付におけるアクセス集中について",
-    "url": "https://www.ipa.go.jp/news/2026/shiken_20261006-2.html"
-  },
-  {
     "source": "適時開示",
     "date": "2026-10-06",
     "time": "19:00",
@@ -18,13 +9,13 @@
     "url": "https://www.release.tdnet.info/inbs/140120261006546782.pdf"
   },
   {
-    "source": "IPA",
+    "source": "海外",
     "date": "2026-10-06",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "試験情報",
-    "title": "2026年10月6日 令和8年度前期試験の申込受付を開始しました",
-    "url": "https://www.ipa.go.jp/shiken/2026/r08zen_exam.html"
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Incident affecting ASOS customers",
+    "url": "https://www.ncsc.gov.uk/news/incident-affecting-asos-customers"
   },
   {
     "source": "適時開示",
@@ -34,5 +25,23 @@
     "identifier": "8203",
     "title": "不正アクセスによる情報流出に関するお詫びとお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261006546323.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月6日 （お詫び）令和8年度前期試験の申込受付におけるアクセス集中について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261006-2.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-06",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月6日 令和8年度前期試験の申込受付を開始しました",
+    "url": "https://www.ipa.go.jp/shiken/2026/r08zen_exam.html"
   }
 ]

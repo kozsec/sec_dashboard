@@ -5,11 +5,11 @@
     "product": null,
     "title": "Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00534,
+    "epss_current": 0.00592,
     "cvss": 8.7,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/04",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/06"
   },
   {
     "cve": "CVE-2026-102490",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01575,
+    "epss_current": 0.01819,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/30",
-    "last_update": "2026/10/02"
+    "last_update": "2026/10/06"
   },
   {
     "cve": "CVE-2026-86950",
@@ -677,11 +677,11 @@
     "product": null,
     "title": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.11946,
+    "epss_current": 0.71663,
     "cvss": 8.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:L",
     "published": "2026/08/21",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/06"
   },
   {
     "cve": "CVE-2026-72530",
@@ -1481,11 +1481,11 @@
     "product": "PAN-OS",
     "title": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
     "kev": "あり",
-    "epss_current": 0.96382,
+    "epss_current": 0.96895,
     "cvss": 7.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:N/VA:N/SC:H/SI:H/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:A/V:D/RE:M/U:Red",
     "published": "2026/05/29",
-    "last_update": "2026/09/25"
+    "last_update": "2026/10/06"
   },
   {
     "cve": "CVE-2026-48027",
