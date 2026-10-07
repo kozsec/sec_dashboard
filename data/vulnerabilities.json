@@ -629,11 +629,11 @@
     "product": null,
     "title": "Microsoft SQL Server Remote Code Execution Vulnerability",
     "kev": "あり",
-    "epss_current": 0.56999,
+    "epss_current": 0.57273,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/26",
-    "last_update": "2026/10/01"
+    "last_update": "2026/10/07"
   },
   {
     "cve": "CVE-2026-60004",
