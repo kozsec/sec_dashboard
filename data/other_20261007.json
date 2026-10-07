@@ -3,6 +3,249 @@
     "source": "Web",
     "date": "2026-10-07",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": null,
+    "title": "ハッカー集団「キリン」メンバーを拘束 ドイツに引き渡し―アサヒ攻撃で声明も・捜査当局",
+    "url": "https://newspicks.com/news/17643617/?ref=technology&tabKey=C:3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "joqr.co.jp",
+    "identifier": "不正アクセス",
+    "title": "相次ぐ 不正アクセス 。問われる個人情報の取り扱い…。大竹「個人情報は守られてないって思った ...",
+    "url": "https://www.joqr.co.jp/news/article/183604/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「IDCFクラウド」東日本第1リージョンで 不正アクセス による障害発生 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2146385.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "委託先 スカラコミュニケーションズへの 不正アクセス で約10万人の個人情報漏洩の可能性",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/citizen-scala-communications-data-breach-20261006/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "相次ぐ 不正アクセス 、「パスワードを使い回さないで」--各社が注意喚起（CNET Japan）",
+    "url": "https://news.yahoo.co.jp/articles/96b7bdcc42270e6a872ac493df3a2caa214a773b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "HIS子会社 最大620人余のパスポート 情報漏えい か タイにある子会社に不正アクセス - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000538485.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "yts.co.jp",
+    "identifier": "情報漏えい",
+    "title": "県公安委員会が運転免許証の再交付受け付け タイムズカーの個人 情報漏えい 問題",
+    "url": "https://www.yts.co.jp/news/news-243132/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "HIS子会社 最大620人余のパスポート 情報漏えい か タイにある子会社に不正アクセス",
+    "url": "https://www.khb-tv.co.jp/news/16947138"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/07/56403.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【 情報漏えい 】同時多発、異例の事態 「顧客囲い込み」標的 - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1939625"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカー個人 情報漏えい 被害者 免許再交付認める…岐阜県公安委 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/local/chubu/news/20261007-GYTNT00045/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】損保ジャパン、6万件の顧客 情報漏えい か - 47NEWS",
+    "url": "https://www.47news.jp/15049544.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "【解説】楽天ドライブ・ミスターマックスに不正アクセス、Qilin中心メンバーとみられる男の ...",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118651/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "ai.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "Anthropic、「サイバー検証プログラム」を拡張 - AI Watch",
+    "url": "https://ai.watch.impress.co.jp/docs/news/2146342.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "旭化成セラピューティクスに不正アクセス 医療従事者約51万人分漏えいか - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-07-01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "IDCFクラウドに不正アクセス、東日本第1リージョンで障害―暗号化・スナップショット破壊を ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/idcf-cloud-unauthorized-access-east-japan-region1/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "個人 情報漏洩 が6日も相次ぐ MrMax173万人、GMO子会社95万件、政府はAI悪用の可能性を分析",
+    "url": "https://finance.biggo.jp/news/505f1154-6d76-4ece-9b5f-d453c8fae552"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "冷凍食品メーカー「アクティブ」の通販サイトにサイバー攻撃 - 合同会社ロケットボーイズ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/active-pro-sql-injection-data-breach-20261007/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "上場企業「個人 情報漏えい 」、過去最悪ペース ～ 100万件以上、2026年はすでに10件の異常事態",
+    "url": "https://news.yahoo.co.jp/articles/9c6fa2c3fe91a88390ed8b455d31c80e25123daf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "スカラコミュニケーションズの「i-ask」に 不正アクセス 、最大71万3126件の個人情報漏洩の恐れ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/scala-communications-i-ask-cyberattack-summary/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "デンマーク版「マイナンバー」人口超える880万人分に 不正アクセス 死亡者や国外転出者含め1100 ...",
+    "url": "https://news.yahoo.co.jp/articles/5fd35802b1f4e236be3b6db538539533b25ad8fb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ソフトバンク子会社に 不正アクセス 法人向けクラウドサービスで障害 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC076WG0X01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "企業、問われるデータ管理 長期保管でタイムズ被害拡大― 不正アクセス - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026100600874&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "焼肉きんぐ 情報漏洩 しなかった2万人は「メアド未登録」（山口健太） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/expert/articles/a41492ac484e49d7724d550f9a1aa80fa74cae4d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "HISのタイ現地法人に不正アクセス パスポート画像など流出 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB72HY8VB7ULFA01CM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "企業に相次ぐサイバー攻撃 警察庁警戒、不審なアクセスは過去最多（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/4c47742967a0fd4ce48719a4a26b9208a3d8a124"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク子会社に ランサムウェア 攻撃か 自治体でシステム障害 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB72QB4VB7UJHB009M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
     "organization": "prtimes.jp",
     "identifier": "ランサムウェア",
     "title": "『「認証なんて分かっている」と思っていませんか？』というテーマのウェビナーを開催 - PR TIMES",
