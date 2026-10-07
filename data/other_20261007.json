@@ -3,6 +3,231 @@
     "source": "Web",
     "date": "2026-10-07",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "九州電子 台湾子会社に ランサムウェア 攻撃、事業運営に必要なシステム環境の復旧を完了",
+    "url": "https://newspicks.com/news/17647121/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "戸田建設へ不正アクセスによる サイバー攻撃 -取引先と従業員の個人情報漏洩",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/toda-construction-data-breach-2026/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "aws.amazon.com",
+    "identifier": "サイバー攻撃",
+    "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ...",
+    "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "事業者は不要な個人データ消去を 個情委、 漏洩 相次ぎ注意喚起",
+    "url": "https://www.nikkei.com/article/DGXZQOUA079RG0X01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "chosun.com",
+    "identifier": "ランサムウェア",
+    "title": "製造現場にフィジカルAI、 ランサム ウエア被害続出",
+    "url": "https://www.chosun.com/jp/economy-jp/2026/10/08/SHENY3BFPVA7DFXMW6XXJ547AM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク子会社に ランサムウェア 攻撃か 自治体でシステム障害 (朝日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/c915b7b7984485b28c88c0660b4c195888d74736/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "小池酸素工業に サイバー攻撃 の可能性 影響範囲と情報漏えいを調査中 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-07-03/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」個人 情報流出 集団訴訟の準備サイトに約6万4000人が登録 不正アクセスで約660 ...",
+    "url": "https://news.yahoo.co.jp/articles/c9ad2990e3a3d50b0ecc5ad084a24e12834468e4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "食品大手ニッスイ グループ会社への 不正アクセス で入荷・出荷できず（テレ朝NEWS）",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-000538550"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2995228?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "ランサムウェア",
+    "title": "テレ朝NEWS on X: \"SB子会社に ランサムウェア 攻撃 茨城県と県警のHP閲覧不可に https://t.co ...",
+    "url": "https://x.com/tv_asahi_news/status/2107856104655106386"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "クラウド事業者へ攻撃 ４９５自治体・企業に障害 ランサムウェア - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/national/20261008-GYT1T00067/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ニッスイ子会社出荷できず システム障害 復旧メドたたず - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/833176601b22ac6e5ce9e3a4348c1449d0941ebd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "茨城：「県のＨＰ見られない」 システム障害 問い合わせ相次ぐ - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/local/ibaraki/news/20261007-GYTNT00236/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/tbs/business/tbs-2995228"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 、茨城県ＨＰ障害 ソフトバンク子会社のクラウドサービス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16562374.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "HIS子会社からパスポート情報流出か、最大627人分 昨年の 不正アクセス を公表 …",
+    "url": "https://news.yahoo.co.jp/articles/2d8e268323809cc405d360e2c6dba1fd65d1c79b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "システム障害",
+    "title": "SB子会社にランサムウェア攻撃 茨城県と県警のHP閲覧不可に | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16948424"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "ニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も",
+    "url": "https://newsdig.tbs.co.jp/articles/-/2997269?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "損保J 顧客 情報 6万件が 漏えい か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6597901"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "＜主張＞企業の 情報漏洩 AI悪用への対策進めよ 社説 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261008-HSLDQ4UDARJSTCPABW5JS6GNLI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "HIS子会社に“不正アクセス” 最大627人分のパスポート 情報 など流出か - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/dae764db9ef149da93eaccaf296463e2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "サイバー攻撃",
+    "title": "OrcaRouter、AI サイバー 防御モデルを活用した被害組織向け復旧支援プログラム「OrcaCyber ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000108.000138449.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "｢世界で サイバー攻撃 増殖中 トランプ氏は動くか｣を解説 - 日経デジタルガバナンス",
+    "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC022ZB0S6A001C2000000?n_cid=DSPRM1OTR01_NKD_Prime"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 の被害相次ぐ ソフトバンク子会社「IDCフロンティア」や食品大手ニッスイグループ ...",
+    "url": "https://news.ntv.co.jp/category/economy/168ef3b30275479298f704b387d80efa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-07",
+    "time": null,
     "organization": "finance.yahoo.co.jp",
     "identifier": "不正アクセス",
     "title": "ソフトバンク子会社に 不正アクセス ＝自治体や企業、サイト見られず(時事通信) - Yahoo ...",
