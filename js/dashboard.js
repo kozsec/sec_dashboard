@@ -805,13 +805,12 @@ function renderDisclosureItem(item) {
 
 
     if (
-        item.source === "適時開示"
+        item.source === "適時開示" || item.source === "海外" || item.source === "IPA"
     ) {
 
         postText =
             `[${item.organization}] ` +
             `${item.title}\n` +
-            `${item.date}\n` +
             `${item.url || ""}`;
 
     } else if (
@@ -819,28 +818,8 @@ function renderDisclosureItem(item) {
     ) {
 
         postText =
-            `[${item.identifier}] KEVC: ` +
+            `[${item.identifier}] ` +
             `${item.title}\n` +
-            `${item.date}\n` +
-            `${item.url || ""}`;
-
-    } else if (
-        item.source === "IPA"
-    ) {
-
-        postText =
-            `[IPA] ` +
-            `${item.title}\n` +
-            `${item.date}\n` +
-            `${item.url || ""}`;
-    
-        } else if (
-        item.source === "NCSC"
-    ) {
-        postText =
-            `[NCSC] ` +
-            `${item.title}\n` +
-            `${item.date}\n` +
             `${item.url || ""}`;
 
     } else if (
@@ -849,7 +828,6 @@ function renderDisclosureItem(item) {
 
         postText =
             `${item.title}\n` +
-            `${item.date}\n` +
             `${item.url || ""}`;
     }
 
