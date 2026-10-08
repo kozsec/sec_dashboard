@@ -22,7 +22,7 @@ if (bottomNav) {
                 </svg>
             </a>
 
-            <a href="/sec_dashboard/post.html" aria-label="Toy">
+            <a href="/sec_dashboard/toy.html" aria-label="Toy">
                 <svg viewBox="0 0 24 24" aria-hidden="true">
                     <path d="M7 8h10a4 4 0 0 1 3.8 5.2l-1.1 4a2 2 0 0 1-3.7.4L14.8 15H9.2l-1.2 2.6a2 2 0 0 1-3.7-.4l-1.1-4A4 4 0 0 1 7 8z"></path>
                     <path d="M7 11v4"></path>
