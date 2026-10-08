@@ -1030,6 +1030,7 @@ footer {
 
 .movie-description {
     padding: 8px 4px;
+    margin: 0 auto;
 }
 
 .movie-description h2 {
