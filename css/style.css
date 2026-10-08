@@ -883,10 +883,10 @@ footer {
 footer::before {
     content: "";
     position: absolute;
-    top: -20px;
+    top: 5px;
     left: -5%;
     width: 110%;
-    height: 90px;
+    height: 170px;
     background: rgba(21, 183, 220, 0.45);
     transform: rotate(-2deg);
     pointer-events: none;
@@ -895,10 +895,10 @@ footer::before {
 footer::after {
     content: "";
     position: absolute;
-    top: -15px;
+    top: 10px;
     left: -5%;
     width: 110%;
-    height: 75px;
+    height: 160px;
     background: rgba(44, 57, 230, 0.2);
     transform: rotate(-0.5deg);
     pointer-events: none;
