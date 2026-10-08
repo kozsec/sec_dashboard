@@ -872,7 +872,7 @@ display: flex;
 footer {
     position: relative;
     margin-top: 24px;
-    padding: 24px 0 70px;
+    padding: 40px 0 70px;
     background: #dff6ff;
     color: #0c1a20;
     font-size: 11px;
@@ -888,9 +888,9 @@ footer::before {
     height: 180px;
     background:
         radial-gradient(
-            circle at 90px 90px,
+            circle at 40px 90px,
             #f6f8fb 0 90px,
-            transparent 90.5px
+            transparent 90px
         ) repeat-x;
     background-size: 160px 180px;
     pointer-events: none;
