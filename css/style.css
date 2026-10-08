@@ -872,9 +872,9 @@ display: flex;
 footer {
     position: relative;
     margin-top: 40px;
-    padding: 28px 0 80px;
+    padding: 10px 0 80px;
     background: #dff6ff;
-    color: #7aa5b5;
+    color: #0c1a20;
     font-size: 11px;
     text-align: center;
 }
