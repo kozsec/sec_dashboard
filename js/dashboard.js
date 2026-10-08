@@ -7,6 +7,12 @@ const ORIGINAL_ADS = [
         videoId: "R5OE7UMDobg",
         title: "ひらけ！ばっくどあ",
         description: "セキュリティ啓発ソング"
+    },
+    {
+        url: "https://www.youtube.com/watch?v=V0ma_q2a174",
+        videoId: "V0ma_q2a174",
+        title: "貴方だけをネライウチ",
+        description: "セキュリティ啓発ソング"
     }
 ];
 
