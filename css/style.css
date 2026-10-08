@@ -1003,6 +1003,7 @@ footer {
 
 .movie-list {
     width: 70%;
+    align-items: center;
 }
 
 .movie-item {
@@ -1017,7 +1018,7 @@ footer {
 }
 
 .movie-container {
-    width: 512px;
+    width: 30%;
     aspect-ratio: 16 / 9;
 }
 
@@ -1545,6 +1546,9 @@ footer {
         grid-template-columns: 1fr;
         gap: 16px;
         padding: 16px;
+    }
+    .movie-container {
+        width: 70%;
     }
 
 
