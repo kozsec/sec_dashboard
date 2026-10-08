@@ -890,7 +890,7 @@ footer::before {
         radial-gradient(
             ellipse 60px 30px at 60px 30px,
             #f6f8fb 0 60px,
-            transparent 60.5px
+            transparent 60px
         ) repeat-x;
     background-size: 100px 60px;
     pointer-events: none;
