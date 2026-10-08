@@ -1003,7 +1003,6 @@ footer {
 
 .movie-list {
     width: 70%;
-    align-items: center;
 }
 
 .movie-item {
@@ -1018,7 +1017,7 @@ footer {
 }
 
 .movie-container {
-    width: 256px;
+    width: 100%;
     aspect-ratio: 16 / 9;
 }
 
