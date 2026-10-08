@@ -1021,7 +1021,8 @@ footer {
 }
 
 .movie-description {
-    text-align: center;
+    text-align: left;
+    overflow-wrap: break-word;
 }
 
 .movie-description h2 {
