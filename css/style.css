@@ -1007,12 +1007,18 @@ footer {
 }
 
 .movie-item {
-    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 20px;
     background: #ffffff;
     border: 1px solid #e6eaf0;
     border-radius: 20px;
-    overflow: hidden;
     box-shadow: 0 12px 40px rgba(30, 41, 59, 0.05);
+}
+
+.movie-container {
+    flex: 0 0 400px;
 }
 
 .movie-container iframe {
@@ -1022,7 +1028,7 @@ footer {
 }
 
 .movie-description {
-    padding: 16px 20px;
+    flex: 1;
     text-align: center;
     overflow-wrap: break-word;
 }
@@ -1537,12 +1543,12 @@ footer {
     }
     
     .movie-item {
-        grid-template-columns: 1fr;
-        gap: 16px;
-        padding: 16px;
+        flex-direction: column;
     }
+
     .movie-container {
-        width: 70%;
+        width: 100%;
+        flex: none;
     }
 
 
