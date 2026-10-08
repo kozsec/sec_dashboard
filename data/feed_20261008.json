@@ -9,6 +9,15 @@
     "url": "https://www.release.tdnet.info/inbs/140120261008548127.pdf"
   },
   {
+    "source": "海外",
+    "date": "2026-10-08",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
+    "url": "https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-08",
     "time": null,
@@ -16,5 +25,14 @@
     "identifier": "試験情報",
     "title": "2026年10月8日 プレス発表 令和8年度前期試験の申込受付におけるアクセス集中による障害発生について",
     "url": "https://www.ipa.go.jp/pressrelease/2026/press20261008.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800-185 Rev. 1 (Draft)",
+    "title": "SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash",
+    "url": "https://csrc.nist.gov/pubs/sp/800/185/r1/ipd"
   }
 ]

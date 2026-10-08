@@ -17,11 +17,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00629,
+    "epss_current": 0.00579,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/03"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-102489",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Session Fixation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01396,
+    "epss_current": 0.01255,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/03"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-104286",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "WordPress Core Remote File Inclusion Vulnerability",
     "kev": "あり",
-    "epss_current": 0.46117,
+    "epss_current": 0.39979,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/25",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-67279",
@@ -545,11 +545,11 @@
     "product": null,
     "title": "PaperCut NG/MF Unsafe Reflection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.61394,
+    "epss_current": 0.63532,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/10/01"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-81578",
@@ -557,11 +557,11 @@
     "product": null,
     "title": "PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.84594,
+    "epss_current": 0.85581,
     "cvss": 8.8,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:H/VA:L/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/31",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2021-23758",
@@ -905,11 +905,11 @@
     "product": "FortiOS",
     "title": "Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
     "kev": "あり",
-    "epss_current": 0.29601,
+    "epss_current": 0.29499,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/27",
-    "last_update": "2026/09/09"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-16812",
@@ -953,11 +953,11 @@
     "product": "Core",
     "title": "WordPress Core SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.05906,
+    "epss_current": 0.05323,
     "cvss": 5.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/07/21",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-63030",
@@ -965,11 +965,11 @@
     "product": "Core",
     "title": "WordPress Core Interpretation Conflict Vulnerability",
     "kev": "あり",
-    "epss_current": 0.10119,
+    "epss_current": 0.10649,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/21",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-0770",
@@ -1241,11 +1241,11 @@
     "product": "EDS5000",
     "title": "Lantronix EDS5000 Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.1926,
+    "epss_current": 0.19956,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/06/23",
-    "last_update": "2026/09/09"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-34910",
@@ -1409,11 +1409,11 @@
     "product": "Security Gateway",
     "title": "Check Point Security Gateway Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.06416,
+    "epss_current": 0.85338,
     "cvss": 9.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/06/08",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/08"
   },
   {
     "cve": "CVE-2026-28318",
