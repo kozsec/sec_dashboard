@@ -1002,7 +1002,7 @@ footer {
 }
 
 .movie-list {
-    max-width: 400px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
@@ -1019,6 +1019,19 @@ footer {
 
 .movie-container {
     flex: 0 0 400px;
+}
+
+.movie-container iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: block;
+}
+
+.movie-description {
+    flex: 1;
+    min-width: 0;
+    text-align: center;
+    overflow-wrap: break-word;
 }
 
 .movie-container iframe {
