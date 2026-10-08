@@ -874,7 +874,7 @@ footer {
     margin-top: 24px;
     padding: 24px 0 80px;
     background: #dff6ff;
-    color: #ffffff;
+    color: #030a3e;
     font-size: 11px;
     text-align: center;
     overflow: hidden;
@@ -887,7 +887,7 @@ footer::before {
     left: -5%;
     width: 110%;
     height: 170px;
-    background: rgba(21, 183, 220, 0.45);
+    background: rgba(65, 189, 217, 0.45);
     transform: rotate(-2deg);
     pointer-events: none;
 }
@@ -899,7 +899,7 @@ footer::after {
     left: -5%;
     width: 110%;
     height: 160px;
-    background: rgba(44, 57, 230, 0.2);
+    background: rgba(43, 99, 184, 0.2);
     transform: rotate(-0.5deg);
     pointer-events: none;
 }
