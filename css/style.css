@@ -1034,18 +1034,6 @@ footer {
     overflow-wrap: break-word;
 }
 
-.movie-container iframe {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    display: block;
-}
-
-.movie-description {
-    flex: 1;
-    text-align: center;
-    overflow-wrap: break-word;
-}
-
 .movie-description h2 {
     margin: 0 0 12px;
     font-size: 20px;
