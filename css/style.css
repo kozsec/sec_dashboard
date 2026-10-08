@@ -869,24 +869,13 @@ display: flex;
 
 /* Footer */
 
-footer {
-    position: relative;
-    margin-top: 24px;
-    padding: 24px 0 70px;
-    background: #dff6ff;
-    color: #fafafa;
-    font-size: 11px;
-    text-align: center;
-    overflow: visible;
-}
-
 footer::before {
     content: "";
     position: absolute;
-    top: 5px;
+    top: -20px;
     left: -5%;
     width: 110%;
-    height: 70px;
+    height: 90px;
     background: rgba(21, 183, 220, 0.45);
     transform: rotate(-2deg);
     pointer-events: none;
@@ -895,10 +884,10 @@ footer::before {
 footer::after {
     content: "";
     position: absolute;
-    top: 10px;
+    top: -15px;
     left: -5%;
     width: 110%;
-    height: 60px;
+    height: 75px;
     background: rgba(44, 57, 230, 0.2);
     transform: rotate(-0.5deg);
     pointer-events: none;
