@@ -873,7 +873,7 @@ footer {
     position: relative;
     margin-top: 24px;
     padding: 24px 0 70px;
-    background: #dff6ff;
+    background: #169fd5;
     color: #0c1a20;
     font-size: 11px;
     text-align: center;
@@ -886,7 +886,7 @@ footer::before {
     top: -35px;
     left: -5%;
     width: 110%;
-    height: 70px;
+    height: 100px;
     background: rgba(255, 255, 255, 0.45);
     transform: rotate(-3deg);
     pointer-events: none;
@@ -898,9 +898,9 @@ footer::after {
     top: -30px;
     left: -5%;
     width: 110%;
-    height: 60px;
+    height: 80px;
     background: rgba(255, 255, 255, 0.2);
-    transform: rotate(2deg);
+    transform: rotate(-1deg);
     pointer-events: none;
 }
 
