@@ -871,10 +871,14 @@ display: flex;
 
 /* Footer */
 
+/* Footer */
+
+/* Footer */
+
 footer {
     position: relative;
-    margin-top: 40px;
-    padding: 10px 0 70px;
+    margin-top: 24px;
+    padding: 8px 0 70px;
     background: #dff6ff;
     color: #0c1a20;
     font-size: 11px;
@@ -884,21 +888,18 @@ footer {
 footer::before {
     content: "";
     position: absolute;
-    top: -25px;
+    top: -18px;
     left: 0;
     width: 100%;
-    height: 25px;
+    height: 36px;
     background:
-        radial-gradient(circle at 5% 100%, #dff6ff 0 20px, transparent 21px),
-        radial-gradient(circle at 15% 100%, #dff6ff 0 14px, transparent 15px),
-        radial-gradient(circle at 25% 100%, #dff6ff 0 22px, transparent 23px),
-        radial-gradient(circle at 35% 100%, #dff6ff 0 16px, transparent 17px),
-        radial-gradient(circle at 45% 100%, #dff6ff 0 21px, transparent 22px),
-        radial-gradient(circle at 55% 100%, #dff6ff 0 15px, transparent 16px),
-        radial-gradient(circle at 65% 100%, #dff6ff 0 23px, transparent 24px),
-        radial-gradient(circle at 75% 100%, #dff6ff 0 16px, transparent 17px),
-        radial-gradient(circle at 85% 100%, #dff6ff 0 21px, transparent 22px),
-        radial-gradient(circle at 95% 100%, #dff6ff 0 15px, transparent 16px);
+        radial-gradient(
+            circle at 18px 18px,
+            #f6f8fb 0 18px,
+            transparent 18.5px
+        ) repeat-x;
+    background-size: 32px 36px;
+    pointer-events: none;
 }
 
 /* Ad */
