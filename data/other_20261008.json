@@ -3,6 +3,195 @@
     "source": "Web",
     "date": "2026-10-08",
     "time": null,
+    "organization": "nippon.com",
+    "identifier": "サイバー攻撃",
+    "title": "茨城県、暫定版HPを開設 サイバー攻撃 影響続く - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1480902530399978065/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク子会社が ランサムウェア 攻撃、約500の契約先で利用できず - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32519468/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府、 情報漏えい で会議へ 不正アクセスに対応 - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/920878"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "なぜ影響拡大？ サイバー攻撃で495の企業や自治体に影響 食品大手も被害…生活への影響は ...",
+    "url": "https://news.ntv.co.jp/category/economy/5493021fb09c4775b9e25e4aa4430f19"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報漏洩 の報道で危機感が高まった大企業は9割 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000128.000026519&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "不正アクセスで 情報漏えい 相次ぐ GMO子会社やミスターマックス - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/nms/news/post_350046"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "政府、相次ぐ個人 情報漏えい で企業に脆弱性対策・認証強化を要請へ―NCOに被害情報を集約",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/government-cyber-incident-meeting-individual-responsibility/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "八十二長野銀行でメールアカウントに 不正アクセス 個人情報流出の可能性も | SBC NEWS",
+    "url": "https://newsdig.tbs.co.jp/articles/sbc/3000414?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "世界4000社 攻撃 のハッカー集団「キリン」 中心メンバーを逮捕（毎日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9291ae3d1c4df513b8991ffe83bbb99135fd26c9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム集団キリン、国内53の企業や病院で被害 中心メンバー逮捕 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB83HNDVB8UTIL01HM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ 情報漏えい 、攻撃側のAI活用「間違いない」 防御側はどう使うか 傾向と対策を ... - ITmedia",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002136/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "ローソンに不正アクセス…利用者 情報 215万件 漏洩 第一興商は872万件",
+    "url": "https://www.sankei.com/article/20261008-HQHRG42X3ZNUPMUCZEKI2MILCU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "不正アクセスが世界で急増、9月以降に 情報漏洩 3億人 攻撃にAIの影",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0728W0X01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "韓国の銀行に サイバー攻撃 、中国系がアンソロAI悪用の可能性 米調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN08C0G0Y6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ソフトバンク系のクラウドサービスに サイバー攻撃 、４９５自治体・企業に障害…茨城では県 ...",
+    "url": "https://news.yahoo.co.jp/articles/7d02308a523d3e0ed06cf0bad2ad7f9760efed9b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "corp.wingarc.com",
+    "identifier": "情報漏えい",
+    "title": "当社ユーザー向け交流サイト「nest Portal」における個人 情報漏えい の可能性に関するお詫びとご ...",
+    "url": "https://corp.wingarc.com/public/202610/news3042.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "不正アクセス",
+    "title": "政府、情報漏えいで会議へ 不正アクセス に対応 | 全国のニュース | 福井新聞Ｄ刊",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2717407"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "システム障害 、エンジニアの6割「対応しきれない」 複雑化が要因に",
+    "url": "https://www.nikkei.com/article/DGXZQOUC085M30Y6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏洩",
+    "title": "サイバーセキュリティーの常識が崩れた…「個人 情報 」の流出を防ぐ“身も蓋もない方法”",
+    "url": "https://diamond.jp/articles/-/400815"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "個人 情報 874万件 漏えい のおそれ カラオケ手掛ける第一興商で - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000538851.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "広島県警巡査長（28）を逮捕 警察署で得た個人データを知人男（29）に 漏洩 か 見返りに10万円 ...",
+    "url": "https://news.yahoo.co.jp/articles/6371dbdd151b71f662f979c9b0308714de0f2d8f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-08",
+    "time": null,
     "organization": "47news.jp",
     "identifier": "情報漏えい",
     "title": "【速報】第一興商、約872万件個人 情報漏えい 恐れ - 47NEWS",

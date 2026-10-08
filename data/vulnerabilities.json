@@ -1,5 +1,65 @@
 [
   {
+    "cve": "CVE-2015-5477",
+    "company": "ISC",
+    "product": null,
+    "title": " ISC BIND Data Processing Errors Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.91284,
+    "cvss": 7.5,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "published": "2026/10/08",
+    "last_update": "2026/10/08"
+  },
+  {
+    "cve": "CVE-2016-3081",
+    "company": "Apache",
+    "product": null,
+    "title": "Apache Struts Command Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.93352,
+    "cvss": 8.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/10/08",
+    "last_update": "2026/10/08"
+  },
+  {
+    "cve": "CVE-2023-22894",
+    "company": "Strapi",
+    "product": null,
+    "title": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01658,
+    "cvss": 4.9,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N",
+    "published": "2026/10/08",
+    "last_update": "2026/10/08"
+  },
+  {
+    "cve": "CVE-2021-3199",
+    "company": "ONLYOFFICE",
+    "product": null,
+    "title": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.08215,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/10/08",
+    "last_update": "2026/10/08"
+  },
+  {
+    "cve": "CVE-2015-3306",
+    "company": "ProFTPD",
+    "product": null,
+    "title": "ProFTPD Improper Access Control Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.96752,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/10/08",
+    "last_update": "2026/10/08"
+  },
+  {
     "cve": "CVE-2026-88779",
     "company": "Citrix",
     "product": null,

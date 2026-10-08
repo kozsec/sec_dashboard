@@ -1,5 +1,55 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "ISC",
+    "product": "BIND",
+    "identifier": "CVE-2015-5477",
+    "title": " ISC BIND Data Processing Errors Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2015-5477&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "Apache",
+    "product": "Struts",
+    "identifier": "CVE-2016-3081",
+    "title": "Apache Struts Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2016-3081&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "Strapi",
+    "product": "Strapi",
+    "identifier": "CVE-2023-22894",
+    "title": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2023-22894&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "ONLYOFFICE",
+    "product": "Docs",
+    "identifier": "CVE-2021-3199",
+    "title": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2021-3199&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-08",
+    "time": null,
+    "organization": "ProFTPD",
+    "product": "ProFTPD",
+    "identifier": "CVE-2015-3306",
+    "title": "ProFTPD Improper Access Control Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2015-3306&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-08",
     "time": "18:30",
