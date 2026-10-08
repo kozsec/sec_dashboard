@@ -882,17 +882,17 @@ footer {
 footer::before {
     content: "";
     position: absolute;
-    top: -90px;
+    top: -30px;
     left: 0;
     width: 100%;
-    height: 180px;
+    height: 60px;
     background:
         radial-gradient(
-            circle at 40px 90px,
-            #f6f8fb 0 90px,
-            transparent 90px
+            ellipse 60px 30px at 60px 30px,
+            #f6f8fb 0 60px,
+            transparent 60.5px
         ) repeat-x;
-    background-size: 160px 180px;
+    background-size: 100px 60px;
     pointer-events: none;
 }
 
