@@ -1,4 +1,3 @@
-
 fetch("config/link.json")
     .then(response => {
         if (!response.ok) {
@@ -14,6 +13,16 @@ fetch("config/link.json")
         search.className = "link-search";
         search.placeholder = "キーワードで検索";
         search.setAttribute("aria-label", "リンクをキーワードで検索");
+
+        const tagFilters = document.createElement("div");
+        tagFilters.className = "link-tag-filters";
+        tagFilters.setAttribute("aria-label", "タグで絞り込み");
+
+        const selectedTags = new Set();
+
+        const tags = [...new Set(
+            links.flatMap(link => link.tags || [])
+        )].sort();
 
         const count = document.createElement("p");
         count.className = "link-count";
@@ -37,19 +46,55 @@ fetch("config/link.json")
 
         const tbody = document.createElement("tbody");
 
+        tags.forEach(tag => {
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = "link-tag-filter";
+            button.textContent = tag;
+            button.setAttribute("aria-pressed", "false");
+
+            button.addEventListener("click", () => {
+                if (selectedTags.has(tag)) {
+                    selectedTags.delete(tag);
+                } else {
+                    selectedTags.add(tag);
+                }
+
+                button.classList.toggle(
+                    "is-selected",
+                    selectedTags.has(tag)
+                );
+                button.setAttribute(
+                    "aria-pressed",
+                    String(selectedTags.has(tag))
+                );
+
+                render();
+            });
+
+            tagFilters.appendChild(button);
+        });
+
         function render() {
             const keyword = search.value.trim().toLowerCase();
 
             const filtered = links.filter(link => {
+                const linkTags = link.tags || [];
+
                 const searchable = [
                     link.title,
                     link.organization,
-                    link.type,
                     link.description,
-                    ...(link.tags || [])
+                    ...linkTags
                 ].join(" ").toLowerCase();
 
-                return searchable.includes(keyword);
+                const matchesKeyword = searchable.includes(keyword);
+
+                const matchesTags = [...selectedTags].every(tag =>
+                    linkTags.includes(tag)
+                );
+
+                return matchesKeyword && matchesTags;
             });
 
             tbody.replaceChildren();
@@ -77,7 +122,9 @@ fetch("config/link.json")
                 const tagsCell = document.createElement("td");
                 tagsCell.className = "link-tags";
 
-                (link.tags || []).forEach(tag => {
+                linkTags = link.tags || [];
+
+                linkTags.forEach(tag => {
                     const badge = document.createElement("span");
                     badge.className = "link-tag";
                     badge.textContent = tag;
@@ -103,7 +150,7 @@ fetch("config/link.json")
 
         table.append(thead, tbody);
         wrapper.appendChild(table);
-        container.append(search, count, wrapper);
+        container.append(search, tagFilters, count, wrapper);
 
         search.addEventListener("input", render);
         render();
