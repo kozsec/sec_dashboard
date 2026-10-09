@@ -16,8 +16,7 @@
         "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
         "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
         "tags": [
-            "Vulnerability Management",
-            "Patch Management"
+            "Vulnerability Management"
         ],
         "last_checked": "2026/10/09"
     },
@@ -39,7 +38,6 @@
         "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
         "tags": [
             "Certifications",
-            "CISA",
             "Audit"
         ],
         "last_checked": "2026/10/09"
@@ -50,8 +48,7 @@
         "url": "https://www.isc2.org/",
         "description": "サイバーセキュリティ専門家向けの非営利組織",
         "tags": [
-            "Certifications",
-            "CISSP"
+            "Certifications"
         ],
         "last_checked": "2026/10/09"
     },
@@ -85,9 +82,7 @@
         "url": "https://gchq.github.io/CyberChef/",
         "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
         "tags": [
-            "Encoding",
-            "Forensics",
-            "Data Analysis"
+            "Forensics"
         ],
         "last_checked": ""
     },
@@ -109,9 +104,7 @@
         "url": "https://testssl.sh/",
         "description": "TLSやSSLの設定、対応プロトコル、暗号スイートなどを検査するツール",
         "tags": [
-            "TLS",
-            "Configuration Assessment",
-            "Vulnerability Scanning"
+            "Tools"
         ],
         "last_checked": ""
     },
@@ -121,9 +114,7 @@
         "url": "https://trivy.dev/",
         "description": "コンテナイメージ、依存パッケージ、設定ファイルなどのセキュリティ検査を行うツール",
         "tags": [
-            "Container Security",
-            "SCA",
-            "Misconfiguration"
+            "Container Security"
         ],
         "last_checked": ""
     },
@@ -213,7 +204,6 @@
         "url": "https://www.nist.gov/cyberframework",
         "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
         "tags": [
-            "Framework",
             "Guidelines"
         ],
         "last_checked": "2026/10/09"
@@ -235,7 +225,6 @@
         "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
         "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
         "tags": [
-            "Security Controls",
             "Guidelines"
         ],
         "last_checked": "2026/10/09"
@@ -257,8 +246,7 @@
         "url": "https://www.meti.go.jp/policy/netsecurity/wg1/factorysystems_guideline.html",
         "description": "工場システムの構成や生産活動への影響を踏まえ、サイバー・フィジカル両面のセキュリティ対策を検討するためのガイドライン",
         "tags": [
-            "OT Security",
-            "ICS",
+            "OT",
             "Japan",
             "Guidelines"
         ],
@@ -271,7 +259,6 @@
         "description": "OTや産業用制御システムの特性を踏まえ、脅威、脆弱性、セキュリティ対策を整理したガイド",
         "tags": [
             "OT",
-            "ICS",
             "Guidelines"
         ],
         "last_checked": "2026/10/09"
