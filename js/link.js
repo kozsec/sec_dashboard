@@ -1,4 +1,4 @@
-fetch("data/link.json")
+fetch("config/link.json")
     .then(response => response.json())
     .then(links => {
         const container = document.getElementById("link-list");
