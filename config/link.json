@@ -318,5 +318,95 @@
             "Japan"
         ],
         "last_checked": "2026/10/09"
+    },
+    {
+        "title": "MITRE ATT&CK Groups",
+        "organization": "MITRE",
+        "url": "https://attack.mitre.org/groups/",
+        "description": "攻撃グループの別名、標的、利用ツール、攻撃手法、関連キャンペーンなどを整理したデータベース",
+        "tags": [
+            "Threat Actors"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "CISA Cybersecurity Advisories",
+        "organization": "CISA",
+        "url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+        "description": "攻撃グループ、攻撃手法、侵害指標、推奨対策などを掲載するサイバーセキュリティアドバイザリー",
+        "tags": [
+            "Threat Actors"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "ThreatFox",
+        "organization": "abuse.ch",
+        "url": "https://threatfox.abuse.ch/",
+        "description": "マルウェアやボットネットに関連するIPアドレス、ドメイン、URL、ファイルハッシュなどのIOCを検索・共有するサービス",
+        "tags": [
+            "Threat Intelligence"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "URLhaus",
+        "organization": "abuse.ch",
+        "url": "https://urlhaus.abuse.ch/",
+        "description": "マルウェア配布に利用されるURLを追跡・共有する脅威情報サービス",
+        "tags": [
+            "IOC"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "MalwareBazaar",
+        "organization": "abuse.ch",
+        "url": "https://bazaar.abuse.ch/",
+        "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース",
+        "tags": [
+            "Malware Analysis"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "AlienVault Open Threat Exchange (OTX)",
+        "organization": "LevelBlue",
+        "url": "https://otx.alienvault.com/",
+        "description": "コミュニティが共有する脅威情報から、攻撃キャンペーンや関連IOCを調査するプラットフォーム",
+        "tags": [
+            "IOC"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "MISP",
+        "organization": "MISP Project",
+        "url": "https://www.misp-project.org/",
+        "description": "脅威情報を構造化して共有・関連付けするためのオープンソース脅威インテリジェンスプラットフォーム",
+        "tags": [
+            "IOC"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "StopRansomware",
+        "organization": "CISA",
+        "url": "https://www.cisa.gov/stopransomware",
+        "description": "ランサムウェアの攻撃グループ、攻撃手法、IOC、予防策、インシデント対応に関する情報を提供するポータル",
+        "tags": [
+            "Threat Actors"
+        ],
+        "last_checked": ""
+    },
+    {
+        "title": "Google Threat Intelligence",
+        "organization": "Google",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence",
+        "description": "攻撃者、攻撃キャンペーン、マルウェア、標的業界などに関する脅威分析レポートを掲載するブログ",
+        "tags": [
+            "Threat Actors"
+        ],
+        "last_checked": ""
     }
 ]
