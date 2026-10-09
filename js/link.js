@@ -1,3 +1,4 @@
+```javascript
 fetch("config/link.json")
     .then(response => {
         if (!response.ok) {
@@ -23,6 +24,20 @@ fetch("config/link.json")
         const tags = [...new Set(
             links.flatMap(link => link.tags || [])
         )].sort();
+
+        const sortSelect = document.createElement("select");
+        sortSelect.className = "link-sort";
+        sortSelect.setAttribute("aria-label", "リンクの並び順");
+
+        [
+            { value: "title", label: "タイトル順" },
+            { value: "organization", label: "組織順" }
+        ].forEach(option => {
+            const element = document.createElement("option");
+            element.value = option.value;
+            element.textContent = option.label;
+            sortSelect.appendChild(element);
+        });
 
         const count = document.createElement("p");
         count.className = "link-count";
@@ -97,6 +112,16 @@ fetch("config/link.json")
                 return matchesKeyword && matchesTags;
             });
 
+            const sortKey = sortSelect.value;
+
+            filtered.sort((a, b) =>
+                (a[sortKey] || "").localeCompare(
+                    b[sortKey] || "",
+                    "ja",
+                    { numeric: true, sensitivity: "base" }
+                )
+            );
+
             tbody.replaceChildren();
 
             filtered.forEach(link => {
@@ -117,12 +142,12 @@ fetch("config/link.json")
                 titleCell.append(anchor, description);
 
                 const organizationCell = document.createElement("td");
-                organizationCell.textContent = link.organization;
+                organizationCell.textContent = link.organization || "";
 
                 const tagsCell = document.createElement("td");
                 tagsCell.className = "link-tags";
 
-                linkTags = link.tags || [];
+                const linkTags = link.tags || [];
 
                 linkTags.forEach(tag => {
                     const badge = document.createElement("span");
@@ -150,16 +175,19 @@ fetch("config/link.json")
 
         table.append(thead, tbody);
         wrapper.appendChild(table);
-        container.append(search, tagFilters, count, wrapper);
+        container.append(search, sortSelect, tagFilters, count, wrapper);
 
         search.addEventListener("input", render);
+        sortSelect.addEventListener("change", render);
+
         render();
     })
     .catch(error => {
         const container = document.getElementById("link-list");
         const message = document.createElement("p");
         message.className = "error";
-        message.textContent = "リンク一覧を読み込めませんでした。JSONファイルの配置と形式をご確認ください。";
+        message.textContent = "リンク一覧を読み込めませんでした。";
         container.appendChild(message);
         console.error("Failed to load config/link.json:", error);
     });
+```
