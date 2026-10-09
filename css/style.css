@@ -1181,6 +1181,38 @@ footer::after {
     line-height: 1.5;
 }
 
+.link-tag-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 10px 0;
+}
+
+.link-tag-filter {
+    padding: 5px 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 16px;
+    background: #fff;
+    color: #334155;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.link-tag-filter:hover {
+    background: #f1f5f9;
+}
+
+.link-tag-filter.is-selected {
+    background: #2563eb;
+    border-color: #2563eb;
+    color: #fff;
+}
+
+.link-tag-filter:focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 2px;
+}
+
 
 /* Mobile */
 
