@@ -395,5 +395,49 @@
             "Threat Actors"
         ],
         "last_checked": ""
+    },
+    {
+        "title": "警察庁 サイバー警察局",
+        "organization": "警察庁",
+        "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/about.html",
+        "description": "サイバー事案、官民連携、捜査支援などに関する情報",
+        "tags": [
+            "Japan",
+            "Official Resource"
+        ],
+        "last_checked": "2026-10-09"
+    },
+    {
+        "title": "AISI（AIセーフティ・インスティテュート）",
+        "organization": "AISI",
+        "url": "https://aisi.go.jp/",
+        "description": "AIの安全性評価、評価手法、ガイドラインなどに関する情報",
+        "tags": [
+            "Japan",
+            "Official Resource"
+        ],
+        "last_checked": "2026-10-09"
+    },
+    {
+        "title": "NICTER",
+        "organization": "情報通信研究機構（NICT）",
+        "url": "https://www.nicter.jp/",
+        "description": "ダークネット観測に基づくサイバー攻撃の分析・観測情報",
+        "tags": [
+            "Japan",
+            "Official Resource"
+        ],
+        "last_checked": "2026-10-09"
+    },
+    {
+        "title": "JVN iPedia",
+        "organization": "IPA",
+        "url": "https://jvndb.jvn.jp/",
+        "description": "国内外の脆弱性対策情報を検索できるデータベース",
+        "tags": [
+            "Japan",
+            "Vulnerability Management"
+        ],
+        "last_checked": "2026-10-09"
     }
 ]
