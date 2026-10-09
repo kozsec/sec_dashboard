@@ -3,6 +3,186 @@
     "source": "Web",
     "date": "2026-10-09",
     "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏洩",
+    "title": "「ブックオフ」最大で643万件の会員 情報漏洩 か ソフトバンク子会社へのサイバー攻撃で495の ...",
+    "url": "https://www.fnn.jp/articles/-/1129738"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "LINEヤフー、データ検索ツール「DS.INSIGHT」で個人 情報漏洩 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC09AUO0Z01C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "ncctv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 受け東京都が緊急の対策会議 - NCC長崎文化放送",
+    "url": "https://www.ncctv.co.jp/news/article/16955151"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "tv-tokyo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 等の緊急顧客対応を支援するVAAP 緊急AI問い合わせ窓口の試行提供開始",
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/273224.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏えい",
+    "title": "コミュニティーサイト運営、約30万人分の 情報流出 スズキなど委託 [不正アクセス] - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB92W0JVB9ULFA01GM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ブックオフ643万件 漏えい か SB子会社「データ復元困難」 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000539000.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "県から委託受けた放送局が個人 情報 を 漏えい 物価高騰に対する賃上げを支援する ... - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3003028"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセス、相次ぐ個人 情報流出 … ホントに危険なのはどれ？ 直近2週間の事案を振り返り ...",
+    "url": "https://news.yahoo.co.jp/articles/ffa606af802887696bc5c8e7583eb289b4098371"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "免許証再交付の申請が急増 タイムズカー 不正アクセス の発覚後 福岡県 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3003311"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「予想を上回る速さで被害増加」相次ぐサイバー攻撃…“ ランサムウェア 被害”は統計開始以降で ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3003402"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ブックオフ、不正アクセスで住所など会員データ最大６４３万件が漏えいか…氏名・生年月日 ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261009-GYT1T00127/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "不正アクセス被害やまず 第一興商で800万件超 ローソンで200万件超 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000538935.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大が対面授業再開 ランサム攻撃で 障害 続く - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1547133/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "fashionsnap.com",
+    "identifier": "システム障害",
+    "title": "ジュンが不正アクセス被害 メールアドレス流出の可能性も - Fashionsnap.com",
+    "url": "https://www.fashionsnap.com/article/2026-10-09/jun-system-failure/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃で個人 情報 などの 流出 が判明した企業・団体の一覧 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/national/20261009-GYT1T00299/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "国家サイバー統括室、 情報漏えい 対策を呼びかけ 委託先管理や不要データ削除も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2147073.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "「漏洩連絡が来た…」自分の個人情報が流出したら？ 二次被害を防ぐ、対処法と日頃の備え",
+    "url": "https://www.sankei.com/article/20261010-TWUAS7AM7NMPNEJAH5XUGPTYDY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "急増する情報漏えい サイバー攻撃 に立ち向かう最前線【The追跡】｜テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/wbs/tsuiseki/post_350281"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "ソフトバンク子会社へ サイバー攻撃 の波紋、物流や身近なサービスにも [不正アクセス] - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB855TBVB8ULFA01ZM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】格安航空会社・Ｐｅａｃｈ メール配信で システム障害 が発生 システムのサーバーが一時 ...",
+    "url": "https://news.yahoo.co.jp/articles/a5f692670a5f18caa2ee8b789128e941c76e00e4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-09",
+    "time": null,
     "organization": "fukuishimbun.co.jp",
     "identifier": "情報漏えい",
     "title": "政府、企業に 情報漏えい 対策要請 「経営リスク」に発展の可能性も | 全国のニュース - 福井新聞",
