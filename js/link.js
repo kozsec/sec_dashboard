@@ -24,20 +24,6 @@ fetch("config/link.json")
             links.flatMap(link => link.tags || [])
         )].sort();
 
-        const sortSelect = document.createElement("select");
-        sortSelect.className = "link-sort";
-        sortSelect.setAttribute("aria-label", "リンクの並び順");
-
-        [
-            { value: "title", label: "タイトル順" },
-            { value: "organization", label: "組織順" }
-        ].forEach(option => {
-            const element = document.createElement("option");
-            element.value = option.value;
-            element.textContent = option.label;
-            sortSelect.appendChild(element);
-        });
-
         const count = document.createElement("p");
         count.className = "link-count";
 
@@ -177,10 +163,9 @@ fetch("config/link.json")
 
         table.append(thead, tbody);
         wrapper.appendChild(table);
-        container.append(search, sortSelect, tagFilters, count, wrapper);
+        container.append(search, tagFilters, count, wrapper);
 
         search.addEventListener("input", render);
-        sortSelect.addEventListener("change", render);
 
         render();
     })
