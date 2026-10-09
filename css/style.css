@@ -1174,6 +1174,13 @@ footer::after {
     white-space: nowrap;
 }
 
+.link-description {
+    margin-top: 4px;
+    color: #687386;
+    font-size: 11px;
+    line-height: 1.5;
+}
+
 
 /* Mobile */
 
@@ -1672,7 +1679,7 @@ footer::after {
     .original-ad-description {
         font-size: 9px;
     }
-    
+
     .link-table {
         min-width: 680px;
     }
