@@ -6,8 +6,7 @@
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
         "type": "Catalog",
         "description": "実際に悪用が確認された脆弱性を掲載するカタログ",
-        "tags": ["Vulnerability Management", "KEV"],
-        "last_checked": ""
+        "last_checked": "2026/10/09"
     },
     {
         "title": "CISA BOD 26-04",
@@ -15,8 +14,7 @@
         "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
         "type": "Directive",
         "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
-        "tags": ["Vulnerability Management", "Patch Management"],
-        "last_checked": ""
+        "last_checked": "2026/10/09"
     },
     {
         "title": "事業継続のための高回復力システム基盤導入ガイド 概要編",
@@ -24,7 +22,6 @@
         "url": "https://www.ipa.go.jp/archive/files/000004631.pdf",
         "type": "Guide",
         "description": "事業継続のための高回復力システム基盤に関する導入ガイド",
-        "tags": ["IT-BCP", "Resilience"],
         "last_checked": ""
     },
     {
@@ -33,8 +30,7 @@
         "url": "https://www.isaca.org/",
         "type": "Organization",
         "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
-        "tags": ["Certifications", "Audit", "Governance"],
-        "last_checked": ""
+        "last_checked": "2026/10/09"
     },
     {
         "title": "ISC2",
@@ -42,7 +38,110 @@
         "url": "https://www.isc2.org/",
         "type": "Organization",
         "description": "サイバーセキュリティ専門家向けの非営利組織",
-        "tags": ["Certifications", "Cybersecurity"],
+        "last_checked": "2026/10/09"
+    },
+    {
+        "title": "Nmap",
+        "organization": "Nmap Project",
+        "url": "https://nmap.org/",
+        "type": "Network Scanner",
+        "description": "ネットワーク上のホスト、開放ポート、稼働サービスなどを調査するツール",
+        "last_checked": ""
+    },
+    {
+        "title": "Wireshark",
+        "organization": "Wireshark Foundation",
+        "url": "https://www.wireshark.org/",
+        "type": "Protocol Analyzer",
+        "description": "ネットワークパケットを取得・解析し、通信内容や接続上の問題を調査するツール",
+        "last_checked": ""
+    },
+    {
+        "title": "CyberChef",
+        "organization": "GCHQ",
+        "url": "https://gchq.github.io/CyberChef/",
+        "type": "Data Analysis",
+        "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
+        "last_checked": ""
+    },
+    {
+        "title": "Ghidra",
+        "organization": "NSA",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "type": "Reverse Engineering",
+        "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
+        "last_checked": ""
+    },
+    {
+        "title": "testssl.sh",
+        "organization": "testssl.sh Project",
+        "url": "https://testssl.sh/",
+        "type": "TLS Scanner",
+        "description": "TLSやSSLの設定、対応プロトコル、暗号スイートなどを検査するツール",
+        "last_checked": ""
+    },
+    {
+        "title": "Trivy",
+        "organization": "Aqua Security",
+        "url": "https://trivy.dev/",
+        "type": "Security Scanner",
+        "description": "コンテナイメージ、依存パッケージ、設定ファイルなどのセキュリティ検査を行うツール",
+        "last_checked": ""
+    },
+    {
+        "title": "DomainTools",
+        "organization": "DomainTools",
+        "url": "https://www.domaintools.com/",
+        "type": "Domain Intelligence",
+        "description": "ドメインの登録情報、DNS、履歴などを用いてドメインや関連インフラを調査するサービス",
+        "last_checked": ""
+    },
+    {
+        "title": "urlscan.io",
+        "organization": "urlscan.io",
+        "url": "https://urlscan.io/",
+        "type": "URL Scanner",
+        "description": "Webページをスキャンし、接続先ドメイン・IP・読み込まれたリソース・画面表示などを分析するサービス",
+        "last_checked": ""
+    },
+    {
+        "title": "aguse.jp",
+        "organization": "株式会社アグスネット",
+        "url": "https://www.aguse.jp/",
+        "type": "Website Analyzer",
+        "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
+        "last_checked": ""
+    },
+    {
+        "title": "IPA",
+        "organization": "IPA",
+        "url": "https://www.ipa.go.jp/security/",
+        "type": "Official Resource",
+        "description": "国内の脆弱性情報、セキュリティ対策、注意喚起、ガイドライン、調査レポートなど",
+        "last_checked": ""
+    },
+    {
+        "title": "JPCERT/CC",
+        "organization": "JPCERT/CC",
+        "url": "https://www.jpcert.or.jp/",
+        "type": "Incident Response",
+        "description": "サイバー攻撃の注意喚起、インシデント対応、脆弱性情報、技術レポートなど",
+        "last_checked": ""
+    },
+    {
+        "title": "National Cyber Security Centre",
+        "organization": "NCSC UK",
+        "url": "https://www.ncsc.gov.uk/",
+        "type": "Official Resource",
+        "description": "英国のサイバーセキュリティ機関による脅威情報、対策ガイダンス、技術資料など",
+        "last_checked": ""
+    },
+    {
+        "title": "NIST Cybersecurity",
+        "organization": "NIST",
+        "url": "https://www.nist.gov/cybersecurity",
+        "type": "Standards & Guidelines",
+        "description": "サイバーセキュリティの標準、フレームワーク、リスク管理、技術ガイドラインなど",
         "last_checked": ""
     }
 ]
