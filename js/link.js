@@ -1,4 +1,3 @@
-```javascript
 fetch("config/link.json")
     .then(response => {
         if (!response.ok) {
@@ -112,11 +111,14 @@ fetch("config/link.json")
                 return matchesKeyword && matchesTags;
             });
 
-            const sortKey = sortSelect.value;
-
             filtered.sort((a, b) =>
-                (a[sortKey] || "").localeCompare(
-                    b[sortKey] || "",
+                (a.organization || "").localeCompare(
+                    b.organization || "",
+                    "ja",
+                    { numeric: true, sensitivity: "base" }
+                ) ||
+                (a.title || "").localeCompare(
+                    b.title || "",
                     "ja",
                     { numeric: true, sensitivity: "base" }
                 )
@@ -190,4 +192,3 @@ fetch("config/link.json")
         container.appendChild(message);
         console.error("Failed to load config/link.json:", error);
     });
-```
