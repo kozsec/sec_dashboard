@@ -5,6 +5,69 @@
     "time": null,
     "organization": "国家サイバー統括室",
     "identifier": "注意喚起",
+    "title": "中国政府関連のサイバー攻撃グループを支援する企業に関する国際アドバイザリーへの共同署名について",
+    "url": "https://www.cyber.go.jp/pdf/press/20261009_press.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月9日 「情報セキュリティサービス基準適合サービスリスト」にサービスを追加しました",
+    "url": "https://www.ipa.go.jp/security/service_list.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-09",
+    "time": "17:30",
+    "organization": "リゾートトラ",
+    "identifier": "4681",
+    "title": "当社ウェブサイトへの一部不正アクセスによる 個人情報漏洩に関するお詫びとご報告",
+    "url": "https://www.release.tdnet.info/inbs/140120261009548970.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-09",
+    "time": "17:00",
+    "organization": "手間いらず",
+    "identifier": "2477",
+    "title": "当社システムへの不正アクセスに関する調査状況および対応について",
+    "url": "https://www.release.tdnet.info/inbs/140120261009548929.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-09",
+    "time": "16:30",
+    "organization": "ａｂｃ",
+    "identifier": "8783",
+    "title": "サイバーセキュリティ事業の検討開始および推進組織新設に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261009548812.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-09",
+    "time": "15:30",
+    "organization": "ユニリタ",
+    "identifier": "3800",
+    "title": "不正アクセス発生および情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261006546597.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-09",
+    "time": "12:00",
+    "organization": "Ｇ－アドベンチャー",
+    "identifier": "6030",
+    "title": "不正アクセスによるお客様情報の流出に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261008548235.pdf"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-10-09",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "注意喚起",
     "title": "不正アクセスによる漏えい等の事案を踏まえた対応について",
     "url": "https://www.cyber.go.jp/pdf/press/taiou.pdf"
   },
