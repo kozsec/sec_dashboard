@@ -1,42 +1,48 @@
+
 [
     {
-        "category": "Vulnerability Management",
         "title": "Known Exploited Vulnerabilities Catalog",
         "organization": "CISA",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
         "type": "Catalog",
-        "description": "実際に悪用が確認された脆弱性を掲載するカタログ"
+        "description": "実際に悪用が確認された脆弱性を掲載するカタログ",
+        "tags": ["Vulnerability Management", "KEV"],
+        "last_checked": ""
     },
     {
-        "category": "Vulnerability Management",
         "title": "CISA BOD 26-04",
         "organization": "CISA",
         "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
         "type": "Directive",
-        "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令"
+        "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
+        "tags": ["Vulnerability Management", "Patch Management"],
+        "last_checked": ""
     },
     {
-        "category": "IT-BCP",
         "title": "事業継続のための高回復力システム基盤導入ガイド 概要編",
         "organization": "IPA",
         "url": "https://www.ipa.go.jp/archive/files/000004631.pdf",
         "type": "Guide",
-        "description": "事業継続のための高回復力システム基盤に関する導入ガイド"
+        "description": "事業継続のための高回復力システム基盤に関する導入ガイド",
+        "tags": ["IT-BCP", "Resilience"],
+        "last_checked": ""
     },
     {
-        "category": "Certifications",
         "title": "ISACA",
         "organization": "ISACA",
         "url": "https://www.isaca.org/",
         "type": "Organization",
-        "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織"
+        "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
+        "tags": ["Certifications", "Audit", "Governance"],
+        "last_checked": ""
     },
     {
-        "category": "Certifications",
         "title": "ISC2",
         "organization": "ISC2",
         "url": "https://www.isc2.org/",
         "type": "Organization",
-        "description": "サイバーセキュリティ専門家向けの非営利組織"
+        "description": "サイバーセキュリティ専門家向けの非営利組織",
+        "tags": ["Certifications", "Cybersecurity"],
+        "last_checked": ""
     }
 ]
