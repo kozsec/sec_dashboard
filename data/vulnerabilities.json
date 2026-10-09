@@ -5,11 +5,11 @@
     "product": null,
     "title": " ISC BIND Data Processing Errors Vulnerability",
     "kev": "あり",
-    "epss_current": 0.91284,
+    "epss_current": 0.91807,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2016-3081",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Apache Struts Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.93352,
+    "epss_current": 0.94506,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2023-22894",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01658,
+    "epss_current": 0.03432,
     "cvss": 4.9,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/10/08",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2021-3199",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08215,
+    "epss_current": 0.14548,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2015-3306",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "ProFTPD Improper Access Control Vulnerability",
     "kev": "あり",
-    "epss_current": 0.96752,
+    "epss_current": 0.98033,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2026-88779",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00579,
+    "epss_current": 0.0055,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/08"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2026-102489",
@@ -425,11 +425,11 @@
     "product": null,
     "title": "Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.03859,
+    "epss_current": 0.03802,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/09",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2026-87491",
@@ -485,11 +485,11 @@
     "product": null,
     "title": "N-able N-central Static Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.12928,
+    "epss_current": 0.14509,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/08",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/09"
   },
   {
     "cve": "CVE-2026-85880",
