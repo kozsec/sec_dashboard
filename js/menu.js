@@ -3,7 +3,7 @@ const bottomNav = document.getElementById("bottom-nav");
 if (bottomNav) {
     bottomNav.innerHTML = `
         <footer>
-            Security Watch by koz / セキュリティを、もっと身近に
+            Security Dashboard by koz / セキュリティを、もっと身近に
         </footer>
         <nav class="bottom-nav">
             <a href="/sec_dashboard/" aria-label="Dashboard">
