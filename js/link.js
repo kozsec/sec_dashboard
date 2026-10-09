@@ -58,12 +58,18 @@ fetch("config/link.json")
                 const row = document.createElement("tr");
 
                 const titleCell = document.createElement("td");
+
                 const anchor = document.createElement("a");
                 anchor.href = link.url;
                 anchor.target = "_blank";
                 anchor.rel = "noopener noreferrer";
                 anchor.textContent = link.title;
-                titleCell.appendChild(anchor);
+
+                const description = document.createElement("div");
+                description.className = "link-description";
+                description.textContent = link.description || "";
+
+                titleCell.append(anchor, description);
 
                 const organizationCell = document.createElement("td");
                 organizationCell.textContent = link.organization;
