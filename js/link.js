@@ -7,6 +7,8 @@ fetch("config/link.json")
         return response.json();
     })
     .then(links => {
+        const ITEMS_PER_PAGE = 5;
+        let currentPage = 1;
         const container = document.getElementById("link-list");
 
         const search = document.createElement("input");
@@ -277,13 +279,11 @@ fetch("config/link.json")
             currentPage = 1;render();
         });
 
-        render();
         currentPage = 1;
+        render();
     })
     .catch(error => {
         const container = document.getElementById("link-list");
-        const ITEMS_PER_PAGE = 5;
-        let currentPage = 1;
         const message = document.createElement("p");
         message.className = "error";
         message.textContent = "リンク一覧を読み込めませんでした。";
