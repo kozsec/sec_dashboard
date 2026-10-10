@@ -1,3 +1,4 @@
+
 fetch("config/link.json")
     .then(response => {
         if (!response.ok) {
@@ -14,15 +15,96 @@ fetch("config/link.json")
         search.placeholder = "キーワードで検索";
         search.setAttribute("aria-label", "リンクをキーワードで検索");
 
-        const tagFilters = document.createElement("div");
-        tagFilters.className = "link-tag-filters";
-        tagFilters.setAttribute("aria-label", "タグで絞り込み");
+        const filters = document.createElement("div");
+        filters.className = "link-filters";
 
-        const selectedTags = new Set();
+        const selected = {
+            category: new Set(),
+            topics: new Set(),
+            region: new Set()
+        };
 
-        const tags = [...new Set(
-            links.flatMap(link => link.tags || [])
-        )].sort();
+        const filterDefinitions = [
+            { key: "category", label: "リンクの種類" },
+            { key: "topics", label: "技術・目的" },
+            { key: "region", label: "地域" }
+        ];
+
+        filterDefinitions.forEach(({ key, label }) => {
+            const section = document.createElement("section");
+            section.className = "link-filter-section";
+
+            const heading = document.createElement("h3");
+            heading.textContent = label;
+
+            const options = document.createElement("div");
+            options.className = "link-tag-filters";
+
+            const values = [...new Set(
+                links.flatMap(link => {
+                    const value = link[key];
+                    return Array.isArray(value)
+                        ? value
+                        : value
+                            ? [value]
+                            : [];
+                })
+            )].sort((a, b) => a.localeCompare(b, "ja"));
+
+            values.forEach(value => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "link-tag-filter";
+                button.textContent = value;
+                button.setAttribute("aria-pressed", "false");
+
+                button.addEventListener("click", () => {
+                    if (selected[key].has(value)) {
+                        selected[key].delete(value);
+                    } else {
+                        selected[key].add(value);
+                    }
+
+                    button.classList.toggle(
+                        "is-selected",
+                        selected[key].has(value)
+                    );
+                    button.setAttribute(
+                        "aria-pressed",
+                        String(selected[key].has(value))
+                    );
+
+                    render();
+                });
+
+                options.appendChild(button);
+            });
+
+            section.append(heading, options);
+            filters.appendChild(section);
+        });
+
+        const controls = document.createElement("div");
+        controls.className = "link-filter-controls";
+
+        const clearButton = document.createElement("button");
+        clearButton.type = "button";
+        clearButton.textContent = "絞り込みを解除";
+        clearButton.className = "link-filter-clear";
+
+        clearButton.addEventListener("click", () => {
+            Object.values(selected).forEach(set => set.clear());
+
+            filters.querySelectorAll("button").forEach(button => {
+                button.classList.remove("is-selected");
+                button.setAttribute("aria-pressed", "false");
+            });
+
+            search.value = "";
+            render();
+        });
+
+        controls.appendChild(clearButton);
 
         const count = document.createElement("p");
         count.className = "link-count";
@@ -36,7 +118,7 @@ fetch("config/link.json")
         const thead = document.createElement("thead");
         const headerRow = document.createElement("tr");
 
-        ["タイトル", "公開組織", "タグ", "最終確認日"].forEach(label => {
+        ["タイトル", "公開組織", "分類", "最終確認日"].forEach(label => {
             const th = document.createElement("th");
             th.textContent = label;
             headerRow.appendChild(th);
@@ -46,55 +128,43 @@ fetch("config/link.json")
 
         const tbody = document.createElement("tbody");
 
-        tags.forEach(tag => {
-            const button = document.createElement("button");
-            button.type = "button";
-            button.className = "link-tag-filter";
-            button.textContent = tag;
-            button.setAttribute("aria-pressed", "false");
-
-            button.addEventListener("click", () => {
-                if (selectedTags.has(tag)) {
-                    selectedTags.delete(tag);
-                } else {
-                    selectedTags.add(tag);
-                }
-
-                button.classList.toggle(
-                    "is-selected",
-                    selectedTags.has(tag)
-                );
-                button.setAttribute(
-                    "aria-pressed",
-                    String(selectedTags.has(tag))
-                );
-
-                render();
-            });
-
-            tagFilters.appendChild(button);
-        });
-
         function render() {
             const keyword = search.value.trim().toLowerCase();
 
             const filtered = links.filter(link => {
-                const linkTags = link.tags || [];
+                const topics = link.topics || [];
+                const category = link.category || "";
+                const region = link.region || "";
 
                 const searchable = [
                     link.title,
                     link.organization,
                     link.description,
-                    ...linkTags
+                    category,
+                    region,
+                    ...topics
                 ].join(" ").toLowerCase();
 
                 const matchesKeyword = searchable.includes(keyword);
 
-                const matchesTags = [...selectedTags].every(tag =>
-                    linkTags.includes(tag)
-                );
+                const matchesCategory =
+                    selected.category.size === 0 ||
+                    selected.category.has(category);
 
-                return matchesKeyword && matchesTags;
+                const matchesTopics =
+                    selected.topics.size === 0 ||
+                    [...selected.topics].some(topic =>
+                        topics.includes(topic)
+                    );
+
+                const matchesRegion =
+                    selected.region.size === 0 ||
+                    selected.region.has(region);
+
+                return matchesKeyword &&
+                    matchesCategory &&
+                    matchesTopics &&
+                    matchesRegion;
             });
 
             filtered.sort((a, b) =>
@@ -135,12 +205,14 @@ fetch("config/link.json")
                 const tagsCell = document.createElement("td");
                 tagsCell.className = "link-tags";
 
-                const linkTags = link.tags || [];
-
-                linkTags.forEach(tag => {
+                [
+                    link.category,
+                    ...(link.topics || []),
+                    link.region
+                ].filter(Boolean).forEach(value => {
                     const badge = document.createElement("span");
                     badge.className = "link-tag";
-                    badge.textContent = tag;
+                    badge.textContent = value;
                     tagsCell.appendChild(badge);
                 });
 
@@ -163,7 +235,13 @@ fetch("config/link.json")
 
         table.append(thead, tbody);
         wrapper.appendChild(table);
-        container.append(search, tagFilters, count, wrapper);
+        container.append(
+            search,
+            filters,
+            controls,
+            count,
+            wrapper
+        );
 
         search.addEventListener("input", render);
 
