@@ -40,14 +40,14 @@
 }
 
 .profile-identity {
-    display: flex;
-    align-items: flex-start;
-    gap: 16px;
+    display: grid;
+    grid-template-columns: 58px minmax(0, 1fr);
+    column-gap: 16px;
+    align-items: start;
     margin-bottom: 0;
 }
 
 .profile-identity > div:last-child {
-    flex: 1;
     min-width: 0;
 }
 
@@ -102,7 +102,7 @@
     align-items: center;
     justify-content: space-between;
     gap: 12px;
-    margin-left: calc(-58px - 16px);
+    margin-left: 0;
     padding-top: 12px;
     border-top: 1px solid #374151;
     color: #48e0dc;
@@ -345,8 +345,13 @@
     }
 
     .profile-identity {
-        gap: 12px;
-        margin-bottom: 14px;
+        grid-template-columns: 48px minmax(0, 1fr);
+        column-gap: 12px;
+        margin-bottom: 0;
+    }
+
+    .profile-contact {
+        margin-left: -60px;
     }
 
     .profile-mark {
