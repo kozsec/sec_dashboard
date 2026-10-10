@@ -6,7 +6,7 @@
     "description": "悪用が確認された脆弱性のカタログ",
     "category": "Official Resource",
     "topics": ["Vulnerability"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -16,7 +16,7 @@
     "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
     "category": "Official Resource",
     "topics": ["Vulnerability"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -76,7 +76,7 @@
     "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
     "category": "Tools",
     "topics": ["Analysis"],
-    "region": "Global",
+    "region": "UK",
     "last_checked": "2026-10-10"
   },
   {
@@ -86,7 +86,7 @@
     "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
     "category": "Tools",
     "topics": ["Analysis"],
-    "region": "Global",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -116,7 +116,7 @@
     "description": "ドメインの登録情報、DNS、履歴などを用いてドメインや関連インフラを調査するサービス",
     "category": "Threat Intelligence",
     "topics": ["OSINT", "Analysis"],
-    "region": "Global",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -176,7 +176,7 @@
     "description": "サイバーセキュリティの標準、フレームワーク、リスク管理、技術ガイドラインなど",
     "category": "Official Resource",
     "topics": ["Risk Management"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -186,7 +186,7 @@
     "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
     "category": "Guidelines",
     "topics": ["Risk Management"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -206,7 +206,7 @@
     "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
     "category": "Guidelines",
     "topics": ["Audit", "Incident Response"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -216,7 +216,7 @@
     "description": "インシデント対応を組織のサイバーセキュリティリスク管理に組み込むためのガイダンス",
     "category": "Guidelines",
     "topics": ["Incident Response", "Risk Management"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -236,7 +236,7 @@
     "description": "OTや産業用制御システムの特性を踏まえ、脅威、脆弱性、セキュリティ対策を整理したガイド",
     "category": "Guidelines",
     "topics": ["OT"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -266,7 +266,7 @@
     "description": "ユーザー、端末、リソースなどを基準にアクセスを制御するゼロトラストアーキテクチャの指針",
     "category": "Guidelines",
     "topics": ["Zero Trust"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -296,7 +296,7 @@
     "description": "攻撃グループ、攻撃手法、侵害指標、推奨対策などを掲載するサイバーセキュリティアドバイザリー",
     "category": "Official Resource",
     "topics": ["Threat Intelligence", "Incident Response"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
@@ -356,7 +356,7 @@
     "description": "ランサムウェアの攻撃グループ、攻撃手法、IOC、予防策、インシデント対応に関する情報を提供するポータル",
     "category": "Official Resource",
     "topics": ["IOC", "Threat Intelligence", "Incident Response"],
-    "region": "USA",
+    "region": "US",
     "last_checked": "2026-10-10"
   },
   {
