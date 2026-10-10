@@ -89,7 +89,7 @@ fetch("config/link.json")
 
         const clearButton = document.createElement("button");
         clearButton.type = "button";
-        clearButton.textContent = "絞り込みを解除";
+        clearButton.textContent = "条件をクリア ↺";
         clearButton.className = "link-filter-clear";
 
         clearButton.addEventListener("click", () => {
@@ -236,8 +236,8 @@ fetch("config/link.json")
         table.append(thead, tbody);
         wrapper.appendChild(table);
         container.append(
-            search,
             filters,
+            search,
             controls,
             count,
             wrapper
