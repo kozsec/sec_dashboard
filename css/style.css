@@ -1768,7 +1768,7 @@ footer::after {
 
     
     .link-filters {
-        grid-template-columns: 100px 180px minmax(0, 1fr);
+        grid-template-columns: 100px minmax(0, 1fr);
         gap: 8px;
     }
 
