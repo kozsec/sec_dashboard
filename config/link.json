@@ -71,7 +71,7 @@
         "description": "ネットワークパケットを取得・解析し、通信内容や接続上の問題を調査するツール",
         "tags": [
             "Network",
-            "Packet Analysis",
+            "Analysis",
             "Tools"
         ],
         "last_checked": ""
@@ -92,7 +92,6 @@
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
         "tags": [
-            "Reverse Engineering",
             "Analysis"
         ],
         "last_checked": ""
@@ -278,7 +277,7 @@
         "url": "https://owasp.org/www-project-application-security-verification-standard/",
         "description": "Webアプリケーションのセキュリティ要件を定義し、開発やセキュリティ検証に活用するための標準",
         "tags": [
-            "Application Security",
+            "Application",
             "Guidelines"
         ],
         "last_checked": "2026/10/09"
