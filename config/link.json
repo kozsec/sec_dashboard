@@ -93,7 +93,7 @@
         "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
         "tags": [
             "Reverse Engineering",
-            "Analysis",
+            "Analysis"
         ],
         "last_checked": ""
     },
