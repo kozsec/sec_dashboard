@@ -41,40 +41,19 @@
 
 .profile-identity {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 16px;
-    margin-bottom: 18px;
+    margin-bottom: 0;
 }
 
-.profile-mark {
-    display: flex;
-    flex-shrink: 0;
-    align-items: center;
-    justify-content: center;
-    width: 58px;
-    height: 58px;
-    color: #111827;
-    background: #48e0dc;
-    border-radius: 12px;
-    font-size: 1.5rem;
-    font-weight: 800;
-}
-
-.profile-identity h1 {
-    margin: 0;
-    font-size: clamp(1.4rem, 3vw, 2rem);
-    line-height: 1.3;
-}
-
-.profile-identity p {
-    margin: 4px 0 0;
-    color: #cbd5e1;
-    font-size: 0.9rem;
+.profile-identity > div:last-child {
+    flex: 1;
+    min-width: 0;
 }
 
 .profile-product {
-    padding-top: 16px;
-    border-top: 1px solid #374151;
+    padding-top: 0;
+    border-top: none;
 }
 
 .profile-product-header {
@@ -123,6 +102,7 @@
     align-items: center;
     justify-content: space-between;
     gap: 12px;
+    margin-left: calc(-58px - 16px);
     padding-top: 12px;
     border-top: 1px solid #374151;
     color: #48e0dc;
@@ -324,13 +304,9 @@
 
 .profile-links {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 22px;
-    background: #eaf1f8;
-    border: 1px solid #d9e4ef;
-    border-radius: 14px;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 16px;
 }
 
 .profile-social-links {
