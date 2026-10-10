@@ -1096,7 +1096,7 @@ footer::after {
 
 .link-filters {
     display: grid;
-    grid-template-columns: 120px 140px minmax(0, 1fr);
+    grid-template-columns: 120px 220px minmax(0, 1fr);
     gap: 16px;
     margin-bottom: 12px;
 }
@@ -1811,7 +1811,7 @@ footer::after {
 
     
     .link-filters {
-        grid-template-columns: 100px 120px minmax(0, 1fr);
+        grid-template-columns: 100px 180px minmax(0, 1fr);
         gap: 8px;
     }
 
