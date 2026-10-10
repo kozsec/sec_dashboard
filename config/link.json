@@ -93,8 +93,7 @@
         "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
         "tags": [
             "Reverse Engineering",
-            "Malware Analysis",
-            "Binary Analysis"
+            "Analysis",
         ],
         "last_checked": ""
     },
@@ -135,7 +134,7 @@
         "url": "https://urlscan.io/",
         "description": "Webページをスキャンし、接続先ドメイン・IP・読み込まれたリソース・画面表示などを分析するサービス",
         "tags": [
-            "URL Analysis",
+            "Analysis",
             "OSINT"
         ],
         "last_checked": ""
@@ -146,7 +145,7 @@
         "url": "https://www.aguse.jp/",
         "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
         "tags": [
-            "URL Analysis",
+            "Analysis",
             "OSINT"
         ],
         "last_checked": ""
@@ -312,7 +311,7 @@
         "url": "https://attack.mitre.org/groups/",
         "description": "攻撃グループの別名、標的、利用ツール、攻撃手法、関連キャンペーンなどを整理したデータベース",
         "tags": [
-            "Threat Actors"
+            "Threat Intelligence"
         ],
         "last_checked": ""
     },
@@ -322,7 +321,7 @@
         "url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
         "description": "攻撃グループ、攻撃手法、侵害指標、推奨対策などを掲載するサイバーセキュリティアドバイザリー",
         "tags": [
-            "Threat Actors"
+            "Threat Intelligence"
         ],
         "last_checked": ""
     },
@@ -342,7 +341,7 @@
         "url": "https://urlhaus.abuse.ch/",
         "description": "マルウェア配布に利用されるURLを追跡・共有する脅威情報サービス",
         "tags": [
-            "IOC"
+            "Analysis"
         ],
         "last_checked": ""
     },
@@ -350,11 +349,11 @@
         "title": "MalwareBazaar",
         "organization": "abuse.ch",
         "url": "https://bazaar.abuse.ch/",
-        "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース",
+        "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース。DLファイルは取扱注意",
         "tags": [
-            "Malware Analysis"
+            "Analysis"
         ],
-        "last_checked": ""
+        "last_checked": "2026/10/10"
     },
     {
         "title": "AlienVault Open Threat Exchange (OTX)",
@@ -362,7 +361,7 @@
         "url": "https://otx.alienvault.com/",
         "description": "コミュニティが共有する脅威情報から、攻撃キャンペーンや関連IOCを調査するプラットフォーム",
         "tags": [
-            "IOC"
+            "Analysis"
         ],
         "last_checked": ""
     },
@@ -372,7 +371,7 @@
         "url": "https://www.misp-project.org/",
         "description": "脅威情報を構造化して共有・関連付けするためのオープンソース脅威インテリジェンスプラットフォーム",
         "tags": [
-            "IOC"
+            "Analysis"
         ],
         "last_checked": ""
     },
@@ -382,7 +381,7 @@
         "url": "https://www.cisa.gov/stopransomware",
         "description": "ランサムウェアの攻撃グループ、攻撃手法、IOC、予防策、インシデント対応に関する情報を提供するポータル",
         "tags": [
-            "Threat Actors"
+            "Threat Intelligence"
         ],
         "last_checked": ""
     },
@@ -392,7 +391,7 @@
         "url": "https://cloud.google.com/blog/topics/threat-intelligence",
         "description": "攻撃者、攻撃キャンペーン、マルウェア、標的業界などに関する脅威分析レポートを掲載するブログ",
         "tags": [
-            "Threat Actors"
+            "Threat Intelligence"
         ],
         "last_checked": ""
     },
