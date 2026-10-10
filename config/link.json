@@ -34,7 +34,7 @@
     "organization": "ISACA",
     "url": "https://www.isaca.org/",
     "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
-    "category": "Organization",
+    "category": "Official Resource",
     "topics": ["Certifications", "Audit", "Governance", "Risk Management"],
     "region": "Global",
     "last_checked": "2026-10-10"
@@ -44,7 +44,7 @@
     "organization": "ISC2",
     "url": "https://www.isc2.org/",
     "description": "サイバーセキュリティ専門家向けの非営利組織",
-    "category": "Organization",
+    "category": "Official Resource",
     "topics": ["Certifications", "Cybersecurity"],
     "region": "Global",
     "last_checked": "2026-10-10"
@@ -65,7 +65,7 @@
     "url": "https://www.wireshark.org/",
     "description": "ネットワークパケットを取得・解析し、通信内容や接続上の問題を調査するツール",
     "category": "Tools",
-    "topics": ["Network", "Traffic Analysis", "Troubleshooting"],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -75,7 +75,7 @@
     "url": "https://gchq.github.io/CyberChef/",
     "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
     "category": "Tools",
-    "topics": ["Encoding", "Decoding", "Cryptography", "Forensics"],
+    "topics": ["Analysis],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -85,7 +85,7 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
     "category": "Tools",
-    "topics": ["Reverse Engineering", "Malware Analysis", "Binary Analysis"],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -125,7 +125,7 @@
     "url": "https://urlscan.io/",
     "description": "Webページをスキャンし、接続先ドメイン・IP・読み込まれたリソース・画面表示などを分析するサービス",
     "category": "Tools",
-    "topics": ["Web Analysis", "OSINT", "Network Analysis"],
+    "topics": ["Analysis", "OSINT"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -135,7 +135,7 @@
     "url": "https://www.aguse.jp/",
     "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
     "category": "Tools",
-    "topics": ["URL Analysis", "OSINT", "Phishing"],
+    "topics": ["Analysis", "OSINT"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -175,7 +175,7 @@
     "url": "https://www.nist.gov/cybersecurity",
     "description": "サイバーセキュリティの標準、フレームワーク、リスク管理、技術ガイドラインなど",
     "category": "Official Resource",
-    "topics": ["Guidelines", "Risk Management", "Cybersecurity Standards"],
+    "topics": [""Risk Management"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -185,7 +185,7 @@
     "url": "https://www.nist.gov/cyberframework",
     "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
     "category": "Guidelines",
-    "topics": ["Governance", "Risk Management", "Cybersecurity Framework"],
+    "topics": ["Risk Management"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -195,7 +195,7 @@
     "url": "https://www.ipa.go.jp/security/economics/csm-practice.html",
     "description": "サイバーセキュリティに関する経営者の責任、組織体制、対策の実践を整理したガイドラインと実践プラクティス集",
     "category": "Guidelines",
-    "topics": ["Governance", "Risk Management", "Japan"],
+    "topics": ["Risk Management"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -205,7 +205,7 @@
     "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
     "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
     "category": "Guidelines",
-    "topics": ["Security Controls", "Access Control", "Audit", "Privacy"],
+    "topics": ["Audit"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -215,7 +215,7 @@
     "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
     "description": "インシデント対応を組織のサイバーセキュリティリスク管理に組み込むためのガイダンス",
     "category": "Guidelines",
-    "topics": ["Incident Response", "Risk Management", "Cybersecurity"],
+    "topics": ["Incident Response", "Risk Management"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -225,7 +225,7 @@
     "url": "https://www.meti.go.jp/policy/netsecurity/wg1/factorysystems_guideline.html",
     "description": "工場システムの構成や生産活動への影響を踏まえ、サイバー・フィジカル両面のセキュリティ対策を検討するためのガイドライン",
     "category": "Guidelines",
-    "topics": ["OT", "ICS", "Industrial Cybersecurity", "Supply Chain"],
+    "topics": ["OT"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -235,7 +235,7 @@
     "url": "https://csrc.nist.gov/pubs/sp/800/82/r3/final",
     "description": "OTや産業用制御システムの特性を踏まえ、脅威、脆弱性、セキュリティ対策を整理したガイド",
     "category": "Guidelines",
-    "topics": ["OT", "ICS", "Industrial Cybersecurity"],
+    "topics": ["OT"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -245,7 +245,7 @@
     "url": "https://www.cisecurity.org/controls/v8-1",
     "description": "資産管理、脆弱性管理、ログ管理など、優先順位を付けて実施するセキュリティ対策をまとめた指針",
     "category": "Guidelines",
-    "topics": ["Security Controls", "Asset Management", "Vulnerability Management", "Logging"],
+    "topics": ["Vulnerability Management"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -255,7 +255,7 @@
     "url": "https://owasp.org/www-project-application-security-verification-standard/",
     "description": "Webアプリケーションのセキュリティ要件を定義し、開発やセキュリティ検証に活用するための標準",
     "category": "Guidelines",
-    "topics": ["Application Security", "Web Security", "Secure Development"],
+    "topics": ["Web"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -265,7 +265,7 @@
     "url": "https://www.nist.gov/publications/zero-trust-architecture",
     "description": "ユーザー、端末、リソースなどを基準にアクセスを制御するゼロトラストアーキテクチャの指針",
     "category": "Guidelines",
-    "topics": ["Zero Trust", "Access Control", "Identity Management"],
+    "topics": ["Zero Trust"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -275,7 +275,7 @@
     "url": "https://www.ipa.go.jp/security/guide/sme/about.html",
     "description": "中小企業向けに、情報セキュリティ対策の進め方や実践手順、インシデント対応などを整理したガイドライン",
     "category": "Guidelines",
-    "topics": ["SME", "Risk Management", "Incident Response"],
+    "topics": ["Risk Management", "Incident Response"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -285,7 +285,7 @@
     "url": "https://attack.mitre.org/groups/",
     "description": "攻撃グループの別名、標的、利用ツール、攻撃手法、関連キャンペーンなどを整理したデータベース",
     "category": "Threat Intelligence",
-    "topics": ["Threat Actors", "MITRE ATT&CK", "TTPs"],
+    "topics": ["Threat Intelligence"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -295,7 +295,7 @@
     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
     "description": "攻撃グループ、攻撃手法、侵害指標、推奨対策などを掲載するサイバーセキュリティアドバイザリー",
     "category": "Official Resource",
-    "topics": ["Threat Intelligence", "Threat Actors", "Incident Response"],
+    "topics": ["Threat Intelligence", "Incident Response"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -305,7 +305,7 @@
     "url": "https://threatfox.abuse.ch/",
     "description": "マルウェアやボットネットに関連するIPアドレス、ドメイン、URL、ファイルハッシュなどのIOCを検索・共有するサービス",
     "category": "Threat Intelligence",
-    "topics": ["IOC", "Malware", "Botnets"],
+    "topics": ["IOC"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -315,7 +315,7 @@
     "url": "https://urlhaus.abuse.ch/",
     "description": "マルウェア配布に利用されるURLを追跡・共有する脅威情報サービス",
     "category": "Threat Intelligence",
-    "topics": ["Malware", "Malicious URLs", "IOC"],
+    "topics": ["IOC"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -325,7 +325,7 @@
     "url": "https://bazaar.abuse.ch/",
     "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース。検体のダウンロードや実行には注意が必要",
     "category": "Threat Intelligence",
-    "topics": ["Malware", "Malware Analysis", "IOC"],
+    "topics": ["Malware", "Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -335,7 +335,7 @@
     "url": "https://otx.alienvault.com/",
     "description": "コミュニティが共有する脅威情報から、攻撃キャンペーンや関連IOCを調査するプラットフォーム",
     "category": "Threat Intelligence",
-    "topics": ["IOC", "Threat Hunting", "Threat Campaigns"],
+    "topics": ["IOC"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -345,7 +345,7 @@
     "url": "https://www.misp-project.org/",
     "description": "脅威情報を構造化して共有・関連付けするためのオープンソース脅威インテリジェンスプラットフォーム",
     "category": "Tools",
-    "topics": ["Threat Intelligence", "IOC", "Information Sharing"],
+    "topics": ["Threat Intelligence", "IOC"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -355,7 +355,7 @@
     "url": "https://www.cisa.gov/stopransomware",
     "description": "ランサムウェアの攻撃グループ、攻撃手法、IOC、予防策、インシデント対応に関する情報を提供するポータル",
     "category": "Official Resource",
-    "topics": ["Ransomware", "Threat Intelligence", "Incident Response"],
+    "topics": ["IOC", "Threat Intelligence", "Incident Response"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -365,7 +365,7 @@
     "url": "https://cloud.google.com/blog/topics/threat-intelligence",
     "description": "攻撃者、攻撃キャンペーン、マルウェア、標的業界などに関する脅威分析レポートを掲載するブログ",
     "category": "Threat Intelligence",
-    "topics": ["Threat Actors", "Malware", "Threat Campaigns"],
+    "topics": ["Malware", "Threat Intelligence"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -375,7 +375,7 @@
     "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/about.html",
     "description": "サイバー事案、官民連携、捜査支援などに関する情報",
     "category": "Official Resource",
-    "topics": ["Cybercrime", "Incident Response", "Public-Private Partnership"],
+    "topics": ["Threat Intelligence"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -385,7 +385,7 @@
     "url": "https://aisi.go.jp/",
     "description": "AIの安全性評価、評価手法、ガイドラインなどに関する情報",
     "category": "Official Resource",
-    "topics": ["AI Safety", "AI Security", "Guidelines"],
+    "topics": ["AI"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -395,7 +395,7 @@
     "url": "https://www.nicter.jp/",
     "description": "ダークネット観測に基づくサイバー攻撃の分析・観測情報",
     "category": "Official Resource",
-    "topics": ["Threat Intelligence", "Darknet Monitoring", "Cyber Attack Observation"],
+    "topics": ["Threat Intelligence"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -405,7 +405,7 @@
     "url": "https://jvndb.jvn.jp/",
     "description": "国内外の脆弱性対策情報を検索できるデータベース",
     "category": "Official Resource",
-    "topics": ["Vulnerability Management", "CVE", "Security Advisories"],
+    "topics": ["Vulnerability Management"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   }
