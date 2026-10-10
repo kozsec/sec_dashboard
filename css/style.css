@@ -1766,10 +1766,17 @@ footer::after {
         flex: none;
     }
 
-    
     .link-filters {
-        grid-template-columns: 100px minmax(0, 1fr);
-        gap: 8px;
+        grid-template-columns: max-content max-content minmax(0, 1fr);
+        gap: 6px;
+    }
+
+    .link-filter-section:nth-child(1) .link-tag-filters,
+    .link-filter-section:nth-child(2) .link-tag-filters {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
     }
 
     .link-filter-section h3 {
