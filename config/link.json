@@ -408,5 +408,65 @@
     "topics": ["Vulnerability Management"],
     "region": "Japan",
     "last_checked": "2026-10-10"
+  },
+  {
+    "title": "AI事業者ガイドライン",
+    "organization": "総務省・経済産業省",
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/",
+    "description": "AIの開発・提供・利用に関わる事業者向けのAIガバナンスとリスク管理の指針",
+    "category": "Guidelines",
+    "topics": ["AI", "Risk Management"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
+    "organization": "デジタル庁",
+    "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+    "description": "行政機関における生成AIの調達・利活用、ガバナンス、リスク管理に関するガイドライン",
+    "category": "Guidelines",
+    "topics": ["AI", "Risk Management"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "テキスト生成AIの導入・運用ガイドライン",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2024/generative-ai-guideline.html",
+    "description": "組織における生成AIの導入・運用、利用ルールの策定、セキュリティリスク管理に関する実践的な指針",
+    "category": "Guidelines",
+    "topics": ["AI", "Risk Management"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "AI Risk Management Framework",
+    "organization": "NIST",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "description": "AIに関するリスクの特定、評価、測定、管理を支援するフレームワーク",
+    "category": "Guidelines",
+    "topics": ["AI", "Risk Management"],
+    "region": "US",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "Generative Artificial Intelligence Profile",
+    "organization": "NIST",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "description": "生成AIに特有のリスクと、その管理に向けた対策をまとめたAIリスク管理フレームワークの補足文書",
+    "category": "Guidelines",
+    "topics": ["AI", "Risk Management"],
+    "region": "US",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "Recommendation on the Ethics of Artificial Intelligence",
+    "organization": "UNESCO",
+    "url": "https://www.unesco.org/ethics-ai/en/recommendation",
+    "description": "人権、透明性、公平性、安全性、プライバシーなどを扱うAI倫理に関する国際的な勧告",
+    "category": "Guidelines",
+    "topics": ["AI"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
   }
 ]
