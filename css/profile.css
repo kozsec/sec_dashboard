@@ -40,20 +40,39 @@
 }
 
 .profile-identity {
-    display: grid;
-    grid-template-columns: 58px minmax(0, 1fr);
-    column-gap: 16px;
-    align-items: start;
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
     margin-bottom: 0;
 }
 
-.profile-identity > div:last-child {
+.profile-details {
+    flex: 1;
     min-width: 0;
 }
 
 .profile-product {
     padding-top: 0;
     border-top: none;
+}
+
+.profile-contact {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-left: 0;
+    padding-top: 12px;
+    border-top: 1px solid #374151;
+    color: #48e0dc;
+    font-size: 0.85rem;
+}
+
+.profile-contact span:first-child {
+    color: #9ca3af;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
 }
 
 .profile-product-header {
@@ -95,25 +114,6 @@
     color: #f8fafc;
     font-size: 0.95rem;
     font-weight: 600;
-}
-
-.profile-contact {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    margin-left: 0;
-    padding-top: 12px;
-    border-top: 1px solid #374151;
-    color: #48e0dc;
-    font-size: 0.85rem;
-}
-
-.profile-contact span:first-child {
-    color: #9ca3af;
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
 }
 
 .profile-section {
