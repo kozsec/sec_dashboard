@@ -75,7 +75,7 @@
     "url": "https://gchq.github.io/CyberChef/",
     "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
     "category": "Tools",
-    "topics": ["Analysis],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -175,7 +175,7 @@
     "url": "https://www.nist.gov/cybersecurity",
     "description": "サイバーセキュリティの標準、フレームワーク、リスク管理、技術ガイドラインなど",
     "category": "Official Resource",
-    "topics": [""Risk Management"],
+    "topics": ["Risk Management"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
