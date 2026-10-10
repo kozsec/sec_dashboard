@@ -112,6 +112,9 @@ fetch("config/link.json")
 
         const wrapper = document.createElement("div");
         wrapper.className = "link-table-wrapper";
+        
+        const pagination = document.createElement("div");
+        pagination.className = "pagination";
 
         const table = document.createElement("table");
         table.className = "link-table";
@@ -181,9 +184,18 @@ fetch("config/link.json")
                 )
             );
 
+            const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
+
+            if (currentPage > totalPages) {
+                currentPage = Math.max(totalPages, 1);
+            }
+
+            const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+            const pageItems = filtered.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+
             tbody.replaceChildren();
 
-            filtered.forEach(link => {
+            pageItems.forEach(link => {
                 const row = document.createElement("tr");
 
                 const titleCell = document.createElement("td");
@@ -221,17 +233,33 @@ fetch("config/link.json")
                 dateCell.className = "link-date";
                 dateCell.textContent = link.last_checked || "未確認";
 
-                row.append(
-                    titleCell,
-                    organizationCell,
-                    tagsCell,
-                    dateCell
-                );
-
+                row.append(titleCell, organizationCell, tagsCell, dateCell);
                 tbody.appendChild(row);
             });
 
             count.textContent = `${filtered.length} / ${links.length} 件`;
+
+            pagination.replaceChildren();
+
+            if (totalPages > 1) {
+                for (let page = 1; page <= totalPages; page++) {
+                    const button = document.createElement("button");
+                    button.type = "button";
+                    button.className = "page-button";
+                    button.textContent = page;
+
+                    if (page === currentPage) {
+                        button.classList.add("active");
+                    }
+
+                    button.addEventListener("click", () => {
+                        currentPage = page;
+                        render();
+                    });
+
+                    pagination.appendChild(button);
+                }
+            }
         }
 
         table.append(thead, tbody);
@@ -241,15 +269,21 @@ fetch("config/link.json")
             search,
             controls,
             count,
-            wrapper
+            wrapper,
+            pagination
         );
 
-        search.addEventListener("input", render);
+        search.addEventListener("input", () => {
+            currentPage = 1;render();
+        });
 
         render();
+        currentPage = 1;
     })
     .catch(error => {
         const container = document.getElementById("link-list");
+        const ITEMS_PER_PAGE = 5;
+        let currentPage = 1;
         const message = document.createElement("p");
         message.className = "error";
         message.textContent = "リンク一覧を読み込めませんでした。";
