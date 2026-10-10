@@ -1,412 +1,258 @@
-[
-  {
-    "title": "Known Exploited Vulnerabilities Catalog",
-    "organization": "CISA",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-    "description": "悪用が確認された脆弱性のカタログ",
-    "category": "Official Resource",
-    "topics": ["Vulnerability"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "CISA BOD 26-04",
-    "organization": "CISA",
-    "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
-    "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
-    "category": "Official Resource",
-    "topics": ["Vulnerability"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "事業継続のための高回復力システム基盤導入ガイド 概要編",
-    "organization": "IPA",
-    "url": "https://www.ipa.go.jp/archive/files/000004631.pdf",
-    "description": "事業継続のための高回復力システム基盤に関する導入ガイド",
-    "category": "Guidelines",
-    "topics": ["IT-BCP"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "ISACA",
-    "organization": "ISACA",
-    "url": "https://www.isaca.org/",
-    "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
-    "category": "Official Resource",
-    "topics": ["Certifications", "Audit"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "ISC2",
-    "organization": "ISC2",
-    "url": "https://www.isc2.org/",
-    "description": "サイバーセキュリティ専門家向けの非営利組織",
-    "category": "Official Resource",
-    "topics": ["Certifications"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "Nmap",
-    "organization": "Nmap Project",
-    "url": "https://nmap.org/",
-    "description": "ネットワーク探索・セキュリティ監査ツール",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "Wireshark",
-    "organization": "Wireshark Foundation",
-    "url": "https://www.wireshark.org/",
-    "description": "ネットワークパケットを取得・解析し、通信内容や接続上の問題を調査するツール",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "CyberChef",
-    "organization": "GCHQ",
-    "url": "https://gchq.github.io/CyberChef/",
-    "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "UK",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "Ghidra",
-    "organization": "NSA",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "description": "実行ファイルの逆アセンブル、逆コンパイルなどを行うソフトウェア解析フレームワーク",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "testssl.sh",
-    "organization": "testssl.sh Project",
-    "url": "https://testssl.sh/",
-    "description": "TLSやSSLの設定、対応プロトコル、暗号スイートなどを検査するツール",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "Trivy",
-    "organization": "Aqua Security",
-    "url": "https://trivy.dev/",
-    "description": "コンテナイメージ、依存パッケージ、設定ファイルなどのセキュリティ検査を行うツール",
-    "category": "Tools",
-    "topics": ["Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "DomainTools",
-    "organization": "DomainTools",
-    "url": "https://www.domaintools.com/",
-    "description": "ドメインの登録情報、DNS、履歴などを用いてドメインや関連インフラを調査するサービス",
-    "category": "Threat Intelligence",
-    "topics": ["OSINT", "Analysis"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "urlscan.io",
-    "organization": "urlscan.io",
-    "url": "https://urlscan.io/",
-    "description": "Webページをスキャンし、接続先ドメイン・IP・読み込まれたリソース・画面表示などを分析するサービス",
-    "category": "Tools",
-    "topics": ["OSINT", "Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "aguse.jp",
-    "organization": "株式会社アグスネット",
-    "url": "https://www.aguse.jp/",
-    "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
-    "category": "Tools",
-    "topics": ["OSINT", "Analysis"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "IPA",
-    "organization": "IPA",
-    "url": "https://www.ipa.go.jp/security/",
-    "description": "国内の脆弱性情報、セキュリティ対策、注意喚起、ガイドライン、調査レポートなど",
-    "category": "Official Resource",
-    "topics": ["Vulnerability"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "JPCERT/CC",
-    "organization": "JPCERT/CC",
-    "url": "https://www.jpcert.or.jp/",
-    "description": "サイバー攻撃の注意喚起、インシデント対応、脆弱性情報、技術レポートなど",
-    "category": "Official Resource",
-    "topics": ["Incident Response", "Vulnerability", "Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "National Cyber Security Centre",
-    "organization": "NCSC UK",
-    "url": "https://www.ncsc.gov.uk/",
-    "description": "英国のサイバーセキュリティ機関による脅威情報、対策ガイダンス、技術資料など",
-    "category": "Official Resource",
-    "topics": ["Threat Intelligence", "Incident Response"],
-    "region": "UK",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST Cybersecurity",
-    "organization": "NIST",
-    "url": "https://www.nist.gov/cybersecurity",
-    "description": "サイバーセキュリティの標準、フレームワーク、リスク管理、技術ガイドラインなど",
-    "category": "Official Resource",
-    "topics": ["Risk Management"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST Cybersecurity Framework (CSF) 2.0",
-    "organization": "NIST",
-    "url": "https://www.nist.gov/cyberframework",
-    "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
-    "category": "Guidelines",
-    "topics": ["Risk Management"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "サイバーセキュリティ経営ガイドライン Ver.3.0",
-    "organization": "経済産業省・IPA",
-    "url": "https://www.ipa.go.jp/security/economics/csm-practice.html",
-    "description": "サイバーセキュリティに関する経営者の責任、組織体制、対策の実践を整理したガイドラインと実践プラクティス集",
-    "category": "Guidelines",
-    "topics": ["Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST SP 800-53 Rev.5",
-    "organization": "NIST",
-    "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
-    "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
-    "category": "Guidelines",
-    "topics": ["Audit", "Incident Response"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST SP 800-61 Rev.3",
-    "organization": "NIST",
-    "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
-    "description": "インシデント対応を組織のサイバーセキュリティリスク管理に組み込むためのガイダンス",
-    "category": "Guidelines",
-    "topics": ["Incident Response", "Risk Management"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "工場システムにおけるサイバー・フィジカル・セキュリティ対策ガイドライン",
-    "organization": "経済産業省",
-    "url": "https://www.meti.go.jp/policy/netsecurity/wg1/factorysystems_guideline.html",
-    "description": "工場システムの構成や生産活動への影響を踏まえ、サイバー・フィジカル両面のセキュリティ対策を検討するためのガイドライン",
-    "category": "Guidelines",
-    "topics": ["OT"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST SP 800-82 Rev.3 — Guide to OT Security",
-    "organization": "NIST",
-    "url": "https://csrc.nist.gov/pubs/sp/800/82/r3/final",
-    "description": "OTや産業用制御システムの特性を踏まえ、脅威、脆弱性、セキュリティ対策を整理したガイド",
-    "category": "Guidelines",
-    "topics": ["OT"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "CIS Critical Security Controls v8.1",
-    "organization": "CIS",
-    "url": "https://www.cisecurity.org/controls/v8-1",
-    "description": "資産管理、脆弱性管理、ログ管理など、優先順位を付けて実施するセキュリティ対策をまとめた指針",
-    "category": "Guidelines",
-    "topics": ["Vulnerability"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "OWASP Application Security Verification Standard (ASVS)",
-    "organization": "OWASP",
-    "url": "https://owasp.org/www-project-application-security-verification-standard/",
-    "description": "Webアプリケーションのセキュリティ要件を定義し、開発やセキュリティ検証に活用するための標準",
-    "category": "Guidelines",
-    "topics": ["Web"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NIST SP 800-207 — Zero Trust Architecture",
-    "organization": "NIST",
-    "url": "https://www.nist.gov/publications/zero-trust-architecture",
-    "description": "ユーザー、端末、リソースなどを基準にアクセスを制御するゼロトラストアーキテクチャの指針",
-    "category": "Guidelines",
-    "topics": ["Zero Trust"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "中小企業の情報セキュリティ対策ガイドライン 第4.0版",
-    "organization": "IPA",
-    "url": "https://www.ipa.go.jp/security/guide/sme/about.html",
-    "description": "中小企業向けに、情報セキュリティ対策の進め方や実践手順、インシデント対応などを整理したガイドライン",
-    "category": "Guidelines",
-    "topics": ["Risk Management", "Incident Response"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "MITRE ATT&CK Groups",
-    "organization": "MITRE",
-    "url": "https://attack.mitre.org/groups/",
-    "description": "攻撃グループの別名、標的、利用ツール、攻撃手法、関連キャンペーンなどを整理したデータベース",
-    "category": "Threat Intelligence",
-    "topics": ["Threat Intelligence"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "CISA Cybersecurity Advisories",
-    "organization": "CISA",
-    "url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
-    "description": "攻撃グループ、攻撃手法、侵害指標、推奨対策などを掲載するサイバーセキュリティアドバイザリー",
-    "category": "Official Resource",
-    "topics": ["Threat Intelligence", "Incident Response"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "ThreatFox",
-    "organization": "abuse.ch",
-    "url": "https://threatfox.abuse.ch/",
-    "description": "マルウェアやボットネットに関連するIPアドレス、ドメイン、URL、ファイルハッシュなどのIOCを検索・共有するサービス",
-    "category": "Threat Intelligence",
-    "topics": ["IOC"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "URLhaus",
-    "organization": "abuse.ch",
-    "url": "https://urlhaus.abuse.ch/",
-    "description": "マルウェア配布に利用されるURLを追跡・共有する脅威情報サービス",
-    "category": "Threat Intelligence",
-    "topics": ["IOC"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "MalwareBazaar",
-    "organization": "abuse.ch",
-    "url": "https://bazaar.abuse.ch/",
-    "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース。検体のダウンロードや実行には注意が必要",
-    "category": "Threat Intelligence",
-    "topics": ["Malware", "Analysis"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "AlienVault Open Threat Exchange (OTX)",
-    "organization": "LevelBlue",
-    "url": "https://otx.alienvault.com/",
-    "description": "コミュニティが共有する脅威情報から、攻撃キャンペーンや関連IOCを調査するプラットフォーム",
-    "category": "Threat Intelligence",
-    "topics": ["IOC"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "MISP",
-    "organization": "MISP Project",
-    "url": "https://www.misp-project.org/",
-    "description": "脅威情報を構造化して共有・関連付けするためのオープンソース脅威インテリジェンスプラットフォーム",
-    "category": "Tools",
-    "topics": ["Threat Intelligence", "IOC"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "StopRansomware",
-    "organization": "CISA",
-    "url": "https://www.cisa.gov/stopransomware",
-    "description": "ランサムウェアの攻撃グループ、攻撃手法、IOC、予防策、インシデント対応に関する情報を提供するポータル",
-    "category": "Official Resource",
-    "topics": ["IOC", "Threat Intelligence", "Incident Response"],
-    "region": "US",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "Google Threat Intelligence",
-    "organization": "Google",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence",
-    "description": "攻撃者、攻撃キャンペーン、マルウェア、標的業界などに関する脅威分析レポートを掲載するブログ",
-    "category": "Threat Intelligence",
-    "topics": ["Malware", "Threat Intelligence"],
-    "region": "Global",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "警察庁 サイバー警察局",
-    "organization": "警察庁",
-    "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/about.html",
-    "description": "サイバー事案、官民連携、捜査支援などに関する情報",
-    "category": "Official Resource",
-    "topics": ["Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "AISI（AIセーフティ・インスティテュート）",
-    "organization": "AISI",
-    "url": "https://aisi.go.jp/",
-    "description": "AIの安全性評価、評価手法、ガイドラインなどに関する情報",
-    "category": "Official Resource",
-    "topics": ["AI"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "NICTER",
-    "organization": "情報通信研究機構（NICT）",
-    "url": "https://www.nicter.jp/",
-    "description": "ダークネット観測に基づくサイバー攻撃の分析・観測情報",
-    "category": "Official Resource",
-    "topics": ["Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  },
-  {
-    "title": "JVN iPedia",
-    "organization": "IPA",
-    "url": "https://jvndb.jvn.jp/",
-    "description": "国内外の脆弱性対策情報を検索できるデータベース",
-    "category": "Official Resource",
-    "topics": ["Vulnerability Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
-  }
-]
+
+fetch("config/link.json")
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+        return response.json();
+    })
+    .then(links => {
+        const container = document.getElementById("link-list");
+
+        const search = document.createElement("input");
+        search.type = "search";
+        search.className = "link-search";
+        search.placeholder = "キーワードで検索";
+        search.setAttribute("aria-label", "リンクをキーワードで検索");
+
+        const filters = document.createElement("div");
+        filters.className = "link-filters";
+
+        const selected = {
+            category: new Set(),
+            topics: new Set(),
+            region: new Set()
+        };
+
+        const filterDefinitions = [
+            { key: "region", label: "地域" },
+            { key: "category", label: "カテゴリ" },
+            { key: "topics", label: "技術・目的" }
+            
+        ];
+
+        filterDefinitions.forEach(({ key, label }) => {
+            const section = document.createElement("section");
+            section.className = "link-filter-section";
+
+            const heading = document.createElement("h3");
+            heading.textContent = label;
+
+            const options = document.createElement("div");
+            options.className = "link-tag-filters";
+
+            const values = [...new Set(
+                links.flatMap(link => {
+                    const value = link[key];
+                    return Array.isArray(value)
+                        ? value
+                        : value
+                            ? [value]
+                            : [];
+                })
+            )].sort((a, b) => a.localeCompare(b, "ja"));
+
+            values.forEach(value => {
+                const button = document.createElement("button");
+                button.type = "button";
+                button.className = "link-tag-filter";
+                button.textContent = value;
+                button.setAttribute("aria-pressed", "false");
+
+                button.addEventListener("click", () => {
+                    if (selected[key].has(value)) {
+                        selected[key].delete(value);
+                    } else {
+                        selected[key].add(value);
+                    }
+
+                    button.classList.toggle(
+                        "is-selected",
+                        selected[key].has(value)
+                    );
+                    button.setAttribute(
+                        "aria-pressed",
+                        String(selected[key].has(value))
+                    );
+
+                    render();
+                });
+
+                options.appendChild(button);
+            });
+
+            section.append(heading, options);
+            filters.appendChild(section);
+        });
+
+        const controls = document.createElement("div");
+        controls.className = "link-filter-controls";
+
+        const clearButton = document.createElement("button");
+        clearButton.type = "button";
+        clearButton.textContent = "条件をクリア ↺";
+        clearButton.className = "link-filter-clear";
+
+        clearButton.addEventListener("click", () => {
+            Object.values(selected).forEach(set => set.clear());
+
+            filters.querySelectorAll("button").forEach(button => {
+                button.classList.remove("is-selected");
+                button.setAttribute("aria-pressed", "false");
+            });
+
+            search.value = "";
+            render();
+        });
+
+        controls.appendChild(clearButton);
+
+        const count = document.createElement("p");
+        count.className = "link-count";
+
+        const wrapper = document.createElement("div");
+        wrapper.className = "link-table-wrapper";
+
+        const table = document.createElement("table");
+        table.className = "link-table";
+
+        const thead = document.createElement("thead");
+        const headerRow = document.createElement("tr");
+
+        ["タイトル", "公開組織", "分類", "最終確認日"].forEach(label => {
+            const th = document.createElement("th");
+            th.textContent = label;
+            headerRow.appendChild(th);
+        });
+
+        thead.appendChild(headerRow);
+
+        const tbody = document.createElement("tbody");
+
+        function render() {
+            const keyword = search.value.trim().toLowerCase();
+
+            const filtered = links.filter(link => {
+                const topics = link.topics || [];
+                const category = link.category || "";
+                const region = link.region || "";
+
+                const searchable = [
+                    link.title,
+                    link.organization,
+                    link.description,
+                    category,
+                    region,
+                    ...topics
+                ].join(" ").toLowerCase();
+
+                const matchesKeyword = searchable.includes(keyword);
+
+                const matchesCategory =
+                    selected.category.size === 0 ||
+                    selected.category.has(category);
+
+                const matchesTopics =
+                    selected.topics.size === 0 ||
+                    [...selected.topics].some(topic =>
+                        topics.includes(topic)
+                    );
+
+                const matchesRegion =
+                    selected.region.size === 0 ||
+                    selected.region.has(region);
+
+                return matchesKeyword &&
+                    matchesCategory &&
+                    matchesTopics &&
+                    matchesRegion;
+            });
+
+            filtered.sort((a, b) =>
+                (a.organization || "").localeCompare(
+                    b.organization || "",
+                    "ja",
+                    { numeric: true, sensitivity: "base" }
+                ) ||
+                (a.title || "").localeCompare(
+                    b.title || "",
+                    "ja",
+                    { numeric: true, sensitivity: "base" }
+                )
+            );
+
+            tbody.replaceChildren();
+
+            filtered.forEach(link => {
+                const row = document.createElement("tr");
+
+                const titleCell = document.createElement("td");
+
+                const anchor = document.createElement("a");
+                anchor.href = link.url;
+                anchor.target = "_blank";
+                anchor.rel = "noopener noreferrer";
+                anchor.textContent = link.title;
+
+                const description = document.createElement("div");
+                description.className = "link-description";
+                description.textContent = link.description || "";
+
+                titleCell.append(anchor, description);
+
+                const organizationCell = document.createElement("td");
+                organizationCell.textContent = link.organization || "";
+
+                const tagsCell = document.createElement("td");
+                tagsCell.className = "link-tags";
+
+                [
+                    link.category,
+                    ...(link.topics || []),
+                    link.region
+                ].filter(Boolean).forEach(value => {
+                    const badge = document.createElement("span");
+                    badge.className = "link-tag";
+                    badge.textContent = value;
+                    tagsCell.appendChild(badge);
+                });
+
+                const dateCell = document.createElement("td");
+                dateCell.className = "link-date";
+                dateCell.textContent = link.last_checked || "未確認";
+
+                row.append(
+                    titleCell,
+                    organizationCell,
+                    tagsCell,
+                    dateCell
+                );
+
+                tbody.appendChild(row);
+            });
+
+            count.textContent = `${filtered.length} / ${links.length} 件`;
+        }
+
+        table.append(thead, tbody);
+        wrapper.appendChild(table);
+        container.append(
+            filters,
+            search,
+            controls,
+            count,
+            wrapper
+        );
+
+        search.addEventListener("input", render);
+
+        render();
+    })
+    .catch(error => {
+        const container = document.getElementById("link-list");
+        const message = document.createElement("p");
+        message.className = "error";
+        message.textContent = "リンク一覧を読み込めませんでした。";
+        container.appendChild(message);
+        console.error("Failed to load config/link.json:", error);
+    });
