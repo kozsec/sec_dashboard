@@ -405,7 +405,7 @@
     "url": "https://jvndb.jvn.jp/",
     "description": "国内外の脆弱性対策情報を検索できるデータベース",
     "category": "Official Resource",
-    "topics": ["Vulnerability Management"],
+    "topics": ["Vulnerability"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -466,6 +466,236 @@
     "description": "人権、透明性、公平性、安全性、プライバシーなどを扱うAI倫理に関する国際的な勧告",
     "category": "Guidelines",
     "topics": ["AI"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "個人情報保護法・法令・ガイドライン一覧",
+    "organization": "個人情報保護委員会",
+    "url": "https://www.ppc.go.jp/personalinfo/legal/",
+    "description": "個人情報保護法、施行令、施行規則、各種ガイドライン、Q&Aなどの公式資料",
+    "category": "Guidelines",
+    "topics": ["PII", "Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "個人情報保護法ガイドライン（通則編）",
+    "organization": "個人情報保護委員会",
+    "url": "https://www.ppc.go.jp/personalinfo/legal/",
+    "description": "個人情報の取得、利用、安全管理措置、漏えい等への対応などに関する基本的な指針",
+    "category": "Guidelines",
+    "topics": ["PII", "Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "個人情報保護法ガイドライン（外国にある第三者への提供編）",
+    "organization": "個人情報保護委員会",
+    "url": "https://www.ppc.go.jp/personalinfo/legal/",
+    "description": "外国の第三者への個人データ提供に関する制度や確認事項を調べるための公式資料",
+    "category": "Guidelines",
+    "topics": ["PII", "Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "個人情報の保護に関する法律",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/415AC0000000057",
+    "description": "個人情報の取扱いに関する基本法令。個人データの安全管理や第三者提供などの確認に使用",
+    "category": "Laws",
+    "topics": ["PII", "Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "不正アクセス行為の禁止等に関する法律",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/411AC0000000128",
+    "description": "不正アクセス行為や識別符号の不正取得・提供などに関する法令",
+    "category": "Laws",
+    "topics": ["Legal", "Incident Response"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "サイバーセキュリティ基本法",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/426AC0000000104",
+    "description": "国や地方公共団体、重要社会基盤事業者などのサイバーセキュリティに関する基本的な枠組み",
+    "category": "Laws",
+    "topics": ["Legal", "Risk Management"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "電気通信事業法",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/359AC0000000086",
+    "description": "電気通信事業に関する法令。通信サービスや関連事業のセキュリティ・プライバシー上の義務を確認する際に参照",
+    "category": "Laws",
+    "topics": ["Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "不正競争防止法",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/405AC0000000047",
+    "description": "営業秘密の保護などに関係する法令。情報資産の管理や秘密情報の漏えい対策に関連",
+    "category": "Laws",
+    "topics": ["Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "刑法",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/140AC0000000045",
+    "description": "電子計算機を利用した犯罪や情報システムに関連する犯罪を検討する際の基本法令",
+    "category": "Laws",
+    "topics": ["Legal", "Incident Response"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "著作権法",
+    "organization": "e-Gov法令検索",
+    "url": "https://laws.e-gov.go.jp/law/345AC0000000048",
+    "description": "ソフトウェア、プログラム、データなどの利用・複製に関連する法令",
+    "category": "Laws",
+    "topics": ["Legal"],
+    "region": "Japan",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "VirusTotal",
+    "organization": "Google",
+    "url": "https://www.virustotal.com/",
+    "description": "ファイル、URL、ドメイン、IPアドレスなどの評価や脅威情報を調べるサービス。機密情報を送信しないよう注意",
+    "category": "Tools",
+    "topics": ["Threat Intelligence", "Malware", "Analysis", "OSINT"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "AbuseIPDB",
+    "organization": "AbuseIPDB",
+    "url": "https://www.abuseipdb.com/",
+    "description": "IPアドレスに関する不正利用報告や評価情報を調査するサービス",
+    "category": "Tools",
+    "topics": ["Threat Intelligence", "IOC", "OSINT"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "Shodan",
+    "organization": "Shodan",
+    "url": "https://www.shodan.io/",
+    "description": "インターネットに公開された機器やサービス、ポート、バナーなどの情報を調査する検索サービス",
+    "category": "Tools",
+    "topics": ["OSINT"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "crt.sh",
+    "organization": "Sectigo",
+    "url": "https://crt.sh/",
+    "description": "公開された証明書透明性ログを検索し、ドメインやサブドメインの調査に活用するサービス",
+    "category": "Tools",
+    "topics": ["OSINT", "Analysis"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27001:2022",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/27001",
+    "description": "情報セキュリティマネジメントシステム（ISMS）の要求事項を定める国際規格",
+    "category": "Standards",
+    "topics": ["Risk Management"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27002:2022",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/75652.html",
+    "description": "情報セキュリティ管理策の実施に関する指針。アクセス制御、暗号化、インシデント対応などを扱う",
+    "category": "Standards",
+    "topics": ["Risk Management"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27005:2022",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/80585.html",
+    "description": "情報セキュリティリスクの特定、分析、評価、対応などのリスク管理に関する指針",
+    "category": "Standards",
+    "topics": ["Risk Management"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27017",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/27017",
+    "description": "クラウドサービスにおける情報セキュリティ管理策に関する指針",
+    "category": "Standards",
+    "topics": ["Risk Management"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27018",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/76559.html",
+    "description": "パブリッククラウドで処理される個人識別可能情報（PII）の保護に関する指針。最新版の状態は公式ページで確認",
+    "category": "Standards",
+    "topics": ["Risk Management", "PII"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27701:2025",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/27701",
+    "description": "プライバシー情報マネジメントシステム（PIMS）の要求事項と指針",
+    "category": "Standards",
+    "topics": ["Privacy"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO/IEC 27035-1:2023",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/78973.html",
+    "description": "情報セキュリティインシデントの準備、検知、報告、評価、対応、教訓の反映に関する指針",
+    "category": "Standards",
+    "topics": ["Incident Response"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO 22301:2019",
+    "organization": "ISO",
+    "url": "https://www.iso.org/standard/75106.html",
+    "description": "事業継続マネジメントシステム（BCMS）の要求事項を定める規格。IT-BCPや事業継続計画の整備に関連",
+    "category": "Standards",
+    "topics": ["IT-BCP"],
+    "region": "Global",
+    "last_checked": "2026-10-10"
+  },
+  {
+    "title": "ISO 19011:2026",
+    "organization": "ISO",
+    "url": "https://committee.iso.org/standard/19011",
+    "description": "マネジメントシステム監査の原則、監査プログラムの管理、監査の実施、監査員の力量評価に関する指針",
+    "category": "Standards",
+    "topics": ["Audit"],
     "region": "Global",
     "last_checked": "2026-10-10"
   }
