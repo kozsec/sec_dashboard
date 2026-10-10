@@ -92,6 +92,19 @@ header {
     text-transform: uppercase;
 }
 
+.profile-mark {
+    width: 58px;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    background: #172033;
+    color: #48e0dc;
+    font-size: 24px;
+    font-weight: 800;
+}
+
 .display-info {
     font-size: 12px;
     color: #8a94a6;
