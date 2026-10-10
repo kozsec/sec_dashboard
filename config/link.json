@@ -5,7 +5,7 @@
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
     "description": "悪用が確認された脆弱性のカタログ",
     "category": "Official Resource",
-    "topics": ["Vulnerability Management", "KEV"],
+    "topics": ["Vulnerability"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -15,7 +15,7 @@
     "url": "https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk",
     "description": "リスクに基づくセキュリティ更新の優先順位付けに関する指令",
     "category": "Official Resource",
-    "topics": ["Vulnerability Management", "Risk Management"],
+    "topics": ["Vulnerability"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -25,7 +25,7 @@
     "url": "https://www.ipa.go.jp/archive/files/000004631.pdf",
     "description": "事業継続のための高回復力システム基盤に関する導入ガイド",
     "category": "Guidelines",
-    "topics": ["IT-BCP", "Resilience", "Business Continuity"],
+    "topics": ["IT-BCP"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -35,7 +35,7 @@
     "url": "https://www.isaca.org/",
     "description": "ITガバナンス、監査、リスク、セキュリティ等の専門組織",
     "category": "Official Resource",
-    "topics": ["Certifications", "Audit", "Governance", "Risk Management"],
+    "topics": ["Certifications", "Audit"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -45,7 +45,7 @@
     "url": "https://www.isc2.org/",
     "description": "サイバーセキュリティ専門家向けの非営利組織",
     "category": "Official Resource",
-    "topics": ["Certifications", "Cybersecurity"],
+    "topics": ["Certifications"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -55,7 +55,7 @@
     "url": "https://nmap.org/",
     "description": "ネットワーク探索・セキュリティ監査ツール",
     "category": "Tools",
-    "topics": ["Network", "Scanning"],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -95,7 +95,7 @@
     "url": "https://testssl.sh/",
     "description": "TLSやSSLの設定、対応プロトコル、暗号スイートなどを検査するツール",
     "category": "Tools",
-    "topics": ["TLS", "SSL", "Cryptography", "Configuration Assessment"],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -105,7 +105,7 @@
     "url": "https://trivy.dev/",
     "description": "コンテナイメージ、依存パッケージ、設定ファイルなどのセキュリティ検査を行うツール",
     "category": "Tools",
-    "topics": ["Container Security", "Vulnerability Management", "Software Supply Chain"],
+    "topics": ["Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -115,7 +115,7 @@
     "url": "https://www.domaintools.com/",
     "description": "ドメインの登録情報、DNS、履歴などを用いてドメインや関連インフラを調査するサービス",
     "category": "Threat Intelligence",
-    "topics": ["DNS", "OSINT", "Domain Investigation"],
+    "topics": ["OSINT", "Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -125,7 +125,7 @@
     "url": "https://urlscan.io/",
     "description": "Webページをスキャンし、接続先ドメイン・IP・読み込まれたリソース・画面表示などを分析するサービス",
     "category": "Tools",
-    "topics": ["Analysis", "OSINT"],
+    "topics": ["OSINT", "Analysis"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
@@ -135,7 +135,7 @@
     "url": "https://www.aguse.jp/",
     "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
     "category": "Tools",
-    "topics": ["Analysis", "OSINT"],
+    "topics": ["OSINT", "Analysis"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -145,7 +145,7 @@
     "url": "https://www.ipa.go.jp/security/",
     "description": "国内の脆弱性情報、セキュリティ対策、注意喚起、ガイドライン、調査レポートなど",
     "category": "Official Resource",
-    "topics": ["Guidelines", "Vulnerability Management", "Risk Management"],
+    "topics": ["Vulnerability"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -155,7 +155,7 @@
     "url": "https://www.jpcert.or.jp/",
     "description": "サイバー攻撃の注意喚起、インシデント対応、脆弱性情報、技術レポートなど",
     "category": "Official Resource",
-    "topics": ["Incident Response", "Vulnerability Management", "Threat Intelligence"],
+    "topics": ["Incident Response", "Vulnerability", "Threat Intelligence"],
     "region": "Japan",
     "last_checked": "2026-10-10"
   },
@@ -165,7 +165,7 @@
     "url": "https://www.ncsc.gov.uk/",
     "description": "英国のサイバーセキュリティ機関による脅威情報、対策ガイダンス、技術資料など",
     "category": "Official Resource",
-    "topics": ["Guidelines", "Threat Intelligence", "Incident Response"],
+    "topics": ["Threat Intelligence", "Incident Response"],
     "region": "UK",
     "last_checked": "2026-10-10"
   },
@@ -205,7 +205,7 @@
     "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
     "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
     "category": "Guidelines",
-    "topics": ["Audit"],
+    "topics": ["Audit", "Incident Response"],
     "region": "USA",
     "last_checked": "2026-10-10"
   },
@@ -245,7 +245,7 @@
     "url": "https://www.cisecurity.org/controls/v8-1",
     "description": "資産管理、脆弱性管理、ログ管理など、優先順位を付けて実施するセキュリティ対策をまとめた指針",
     "category": "Guidelines",
-    "topics": ["Vulnerability Management"],
+    "topics": ["Vulnerability"],
     "region": "Global",
     "last_checked": "2026-10-10"
   },
