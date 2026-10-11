@@ -1031,7 +1031,7 @@ footer::after {
 }
 
 .movie-container {
-    flex: 0 0 400px;
+    flex: 0 0 300px;
 }
 
 .movie-container iframe {
