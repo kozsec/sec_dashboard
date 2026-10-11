@@ -1,1 +1,89 @@
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>Articles - Security Dashboard by koz</title>
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/post.css">
+
+    <style>
+        .article-list {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .article-list h1 {
+            margin-bottom: 8px;
+        }
+
+        .article-list-description {
+            margin-bottom: 28px;
+            color: #666;
+        }
+
+        .article-card {
+            display: block;
+            padding: 20px;
+            margin-bottom: 16px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            color: inherit;
+            text-decoration: none;
+            transition: background-color 0.2s;
+        }
+
+        .article-card:hover {
+            background-color: #f8f8f8;
+        }
+
+        .article-date {
+            margin-bottom: 8px;
+            color: #777;
+            font-size: 0.85rem;
+        }
+
+        .article-card h2 {
+            margin: 0 0 10px;
+            font-size: 1.15rem;
+        }
+
+        .article-card p {
+            margin: 0;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 600px) {
+            .article-list {
+                margin: 24px auto;
+                padding: 0 14px;
+            }
+
+            .article-card {
+                padding: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main class="article-list">
+        <h1>Articles</h1>
+        <p class="article-list-description">セキュリティに関する記事</p>
+
+        <a class="article-card" href="20261011_BOD26-04/index.html">
+            <div class="article-date">2026/10/11</div>
+            <h2>BOD 26-04：脆弱性対応の優先順位を考える</h2>
+            <p>自組織のリスクに応じて優先順位を決める考え方を知ろう。</p>
+        </a>
+    </main>
+
+    <div id="bottom-nav"></div>
+    <script src="../js/main.js"></script>
+</body>
+</html>
+```
