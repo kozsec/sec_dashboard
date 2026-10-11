@@ -1,7 +1,12 @@
 const DATA_DIR = "data";
 
 const ORIGINAL_ADS = [
-    
+    {
+        url: "https://www.youtube.com/watch?v=936nKQd23Y0",
+        videoId: "936nKQd23Y0",
+        title: "打ち抜け⭐︎ペリメーター",
+        description: "セキュリティ啓発ソング"
+    },
     {
         url: "https://www.youtube.com/watch?v=R5OE7UMDobg",
         videoId: "R5OE7UMDobg",
