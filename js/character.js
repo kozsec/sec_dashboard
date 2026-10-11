@@ -3,11 +3,11 @@ const character = document.getElementById("character-image");
 const buttons = document.querySelectorAll("[data-expression]");
 
 const expressions = {
-    normal: "images/character/normal.png"
+    normal: "../asset/character/normal.png"
 };
 
 const blinkImages = {
-    normal: "images/character/blink-normal.png"
+    normal: "../asset/character/blink-normal.png"
 };
 
 let currentExpression = "normal";
