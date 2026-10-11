@@ -1,0 +1,33 @@
+
+.character {
+    width: 240px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.character img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.character-controls {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.character-controls button {
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: white;
+    color: #222;
+    cursor: pointer;
+}
+
+.character-controls button:hover {
+    background: #eee;
+}
