@@ -1,5 +1,5 @@
 
-fetch("config/link.json")
+fetch("../config/link.json")
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
