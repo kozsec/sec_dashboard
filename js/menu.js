@@ -24,11 +24,8 @@ if (bottomNav) {
 
             <a href="https://kozamon.com/article.html" aria-label="Toy">
                 <svg viewBox="0 0 24 24" aria-hidden="true">
-                    <path d="M7 8h10a4 4 0 0 1 3.8 5.2l-1.1 4a2 2 0 0 1-3.7.4L14.8 15H9.2l-1.2 2.6a2 2 0 0 1-3.7-.4l-1.1-4A4 4 0 0 1 7 8z"></path>
-                    <path d="M7 11v4"></path>
-                    <path d="M5 13h4"></path>
-                    <circle cx="16.5" cy="12" r="1"></circle>
-                    <circle cx="18.5" cy="14" r="1"></circle>
+                    <path d="M12 20h9"></path>
+                    <path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L8 18l-4 1 1-4Z"></path>
                 </svg>
             </a>
 
