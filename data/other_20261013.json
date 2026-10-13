@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-13",
     "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "漏洩恐れの発表相次ぐ、九州各地の自治体 アルカディアへの 不正アクセス で - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261013-75AUG5ZMWFNBTAFLVIDIFZADJI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "townnews.co.jp",
+    "identifier": "情報漏えい",
+    "title": "横須賀市 個人 情報漏えい 防災・防犯メールに不正アクセス - タウンニュース",
+    "url": "https://www.townnews.co.jp/0501/2026/10/14/857369.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "冷蔵庫が温度 50℃に フランス各地でスーパーマーケット数百店舗に大規模 サイバー攻撃 食品 ...",
+    "url": "https://news.yahoo.co.jp/articles/50c58915a6da6f4f9115ac6ca475c52fb016c836"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "防災メールに 不正アクセス 複数自治体、情報漏えいの可能性 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026101301047&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカーへの 不正アクセス 、漏えい問題受け 免許証の再交付受け付け 福島県公安委",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3009325"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ブックオフ、会員管理システムへ不正アクセスによるサイバー攻撃、最大約643万件の個人 情報 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/bookoff_customer_data_breach_20261013/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "美馬市の「情報発信システム」で個人 情報漏洩 の可能性 委託事業者に不正アクセス【徳島】",
+    "url": "https://news.ntv.co.jp/n/jrt/category/society/jrf5708a84310244008b17d56f74c33ad1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ 情報漏洩 、公開アプリ解析からサーバー攻撃 NICTが注意喚起 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/19c0ef62-e26c-446b-84c5-8c810fa9fb0a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "smhn.info",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ 情報漏洩 、手法は「アプリを解析してサーバーを攻撃」。総務省が「A2B攻撃」の対策を要請",
+    "url": "https://smhn.info/202610-nict-a2b-attack-app-to-backend-warning"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "滋賀・彦根でも 情報漏洩 か、システム管理のアルカディアに不正アクセス - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261013-ZFTM6JG74NMCHJQYIR4CYUUTAA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "ランサムウェア",
+    "title": "〈相次ぐ不正アクセス〉アサヒのサイバー被害400億円の爪痕が暴く日本企業の｢見せかけの対策｣と ...",
+    "url": "https://toyokeizai.net/articles/-/960625?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "情報漏えい",
+    "title": "福井市の防災気象 情報 メール、不正アクセス受け配信停止 登録者メールアドレス 漏えい 可能性",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2720916"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "社説： 不正アクセス 格段に増したＡＩ悪用の脅威 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/editorial/20261013-GYT1T00385/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報漏洩 恐れの発表相次ぐ 佐賀市、大分県、佐世保市…九州各地、不正アクセスで",
+    "url": "https://www.sankei.com/article/20261013-O24HKGTRIRKANJPXSHZF7DKQBI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "テクマトリックス、米Halcyon Techの ランサムウェア 対策特化プラットフォームを提供",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2147666.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "不正アクセス",
     "title": "【 不正アクセス 】防災メール配信システム担う業者に 1000件の登録「情報漏えいの有無は不明 ...",
