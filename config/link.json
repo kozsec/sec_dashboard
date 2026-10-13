@@ -934,7 +934,7 @@
     "organization": "ANY.RUN",
     "url": "https://any.run/",
     "description": "マルウェアや不審ファイルの挙動を調査するインタラクティブなサンドボックス",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Analysis"],
     "region": "Global",
     "last_checked": ""
@@ -944,7 +944,7 @@
     "organization": "Volatility Foundation",
     "url": "https://github.com/volatilityfoundation/volatility3",
     "description": "メモリダンプを解析してデジタルフォレンジックを行うフレームワーク",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Forensics", "Incident Response"],
     "region": "Global",
     "last_checked": ""
@@ -1024,7 +1024,7 @@
     "organization": "PortSwigger",
     "url": "https://portswigger.net/burp",
     "description": "Webアプリケーションのセキュリティテストに利用するツール群",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -1034,7 +1034,7 @@
     "organization": "OWASP",
     "url": "https://www.zaproxy.org/",
     "description": "Webアプリケーションの脆弱性検査を支援するオープンソースツール",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -1044,7 +1044,7 @@
     "organization": "Nmap Project",
     "url": "https://nmap.org/",
     "description": "ネットワーク上のホストや開放ポートなどを調査するネットワーク探索ツール",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Network"],
     "region": "Global",
     "last_checked": ""
@@ -1054,7 +1054,7 @@
     "organization": "sqlmap",
     "url": "https://sqlmap.org/",
     "description": "SQLインジェクションの検出と検証を自動化するオープンソースツール",
-    "category": "Tool",
+    "category": "Tools",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
