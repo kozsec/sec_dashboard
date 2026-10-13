@@ -594,7 +594,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/27001",
     "description": "情報セキュリティマネジメントシステム（ISMS）の要求事項を定める国際規格",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Risk Management"],
     "region": "Global",
     "last_checked": "2026/10/13"
@@ -604,7 +604,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/75652.html",
     "description": "情報セキュリティ管理策の実施に関する指針。アクセス制御、暗号化、インシデント対応などを扱う",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Risk Management"],
     "region": "Global",
     "last_checked": ""
@@ -614,7 +614,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/80585.html",
     "description": "情報セキュリティリスクの特定、分析、評価、対応などのリスク管理に関する指針",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Risk Management"],
     "region": "Global",
     "last_checked": ""
@@ -624,7 +624,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/27017",
     "description": "クラウドサービスにおける情報セキュリティ管理策に関する指針",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Risk Management"],
     "region": "Global",
     "last_checked": ""
@@ -634,7 +634,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/76559.html",
     "description": "パブリッククラウドで処理される個人識別可能情報（PII）の保護に関する指針。最新版の状態は公式ページで確認",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Risk Management", "PII"],
     "region": "Global",
     "last_checked": ""
@@ -644,7 +644,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/27701",
     "description": "プライバシー情報マネジメントシステム（PIMS）の要求事項と指針",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Privacy"],
     "region": "Global",
     "last_checked": ""
@@ -654,7 +654,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/78973.html",
     "description": "情報セキュリティインシデントの準備、検知、報告、評価、対応、教訓の反映に関する指針",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Incident Response"],
     "region": "Global",
     "last_checked": ""
@@ -664,7 +664,7 @@
     "organization": "ISO",
     "url": "https://www.iso.org/standard/75106.html",
     "description": "事業継続マネジメントシステム（BCMS）の要求事項を定める規格。IT-BCPや事業継続計画の整備に関連",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["IT-BCP"],
     "region": "Global",
     "last_checked": ""
@@ -674,7 +674,7 @@
     "organization": "ISO",
     "url": "https://committee.iso.org/standard/19011",
     "description": "マネジメントシステム監査の原則、監査プログラムの管理、監査の実施、監査員の力量評価に関する指針",
-    "category": "Standards",
+    "category": "Guidelines",
     "topics": ["Audit"],
     "region": "Global",
     "last_checked": ""
