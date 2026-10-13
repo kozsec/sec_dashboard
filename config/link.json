@@ -794,7 +794,7 @@
     "organization": "OWASP",
     "url": "https://owasp.org/www-project-juice-shop/",
     "description": "実際のWebアプリケーションに近い脆弱性を学べる演習環境",
-    "category": "Lab",
+    "category": "Education",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -804,7 +804,7 @@
     "organization": "OWASP",
     "url": "https://owasp.org/www-project-webgoat/",
     "description": "Webアプリケーションの脆弱性と対策を学ぶ教育用アプリケーション",
-    "category": "Lab",
+    "category": "Education",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -814,7 +814,7 @@
     "organization": "DVWA",
     "url": "https://github.com/digininja/DVWA",
     "description": "Webアプリケーションの代表的な脆弱性を試せる意図的に脆弱な環境",
-    "category": "Lab",
+    "category": "Education",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -824,7 +824,7 @@
     "organization": "徳丸浩",
     "url": "https://github.com/ockeghem/badtodo",
     "description": "Webアプリケーションの脆弱性学習に利用できるサンプルアプリケーション",
-    "category": "Lab",
+    "category": "Education",
     "topics": ["Web"],
     "region": "JP",
     "last_checked": ""
@@ -834,7 +834,7 @@
     "organization": "Vulhub",
     "url": "https://vulhub.org/",
     "description": "Dockerを利用して既知の脆弱性を再現するための環境集",
-    "category": "Lab",
+    "category": "Education",
     "topics": ["Vulnerability"],
     "region": "Global",
     "last_checked": ""
