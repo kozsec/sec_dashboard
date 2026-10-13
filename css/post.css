@@ -542,7 +542,6 @@ h1 {
     }
 }
 @media print {
-    footer,
     .footer,
     .bottom-menu,
     .fixed-menu,
@@ -556,49 +555,119 @@ h1 {
     }
 }
 
+
 @media screen and (max-width: 600px) {
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        overflow-x: clip;
+    }
+
     .book {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+        margin: 0;
         padding: 8px 0;
     }
 
     .page {
         width: calc(100% - 16px);
+        max-width: calc(100% - 16px);
+        min-width: 0;
         height: auto;
         min-height: 0;
-        margin: 0 auto 12px;
-        padding: 24px 18px;
+        margin: 0 8px 12px;
+        padding: 20px 14px;
         overflow: visible;
     }
 
-    .page-header {
+    .page-header,
+    .page-footer {
         position: static;
+        width: 100%;
+        max-width: 100%;
     }
 
     .page-footer {
-        position: static;
         margin-top: 24px;
+        gap: 8px;
+        flex-wrap: wrap;
     }
 
-    .article-image {
-        width: 100%;
-        margin: 8px 0 16px;
-    }
-
-    .chat-content {
-        max-width: 82%;
-        min-width: 0;
-    }
-
-    .vuln-decision-flow,
-    .vuln-flow {
-        width: 100%;
-        min-width: 0;
-    }
-
-    .article-section,
-    .conversation,
-    .note-box {
+    .page-header *,
+    .page-footer *,
+    .article-section *,
+    .conversation *,
+    .note-box * {
+        max-width: 100%;
         min-width: 0;
         overflow-wrap: anywhere;
     }
+
+    h1 {
+        font-size: 22pt;
+    }
+
+    .article-image,
+    .image-right,
+    .image-left {
+        float: none;
+        width: 100%;
+        max-width: 100%;
+        margin: 8px 0 16px;
+    }
+
+    .article-image img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .chat-row {
+        max-width: 100%;
+        gap: 8px;
+    }
+
+    .avatar {
+        flex: 0 0 40px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .chat-content {
+        flex: 1 1 0;
+        width: 0;
+        max-width: calc(100% - 48px);
+    }
+
+    .bubble {
+        max-width: 100%;
+        overflow-wrap: anywhere;
+    }
+
+    .vuln-flow,
+    .vuln-decision-flow {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+    }
+
+    .vdf-results {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .vdf-indicators {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .note-box {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 16px;
+        padding: 12px;
+    }
 }
+
