@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "Ivanti",
+    "product": "Connect Secure",
+    "identifier": "CVE-2026-104935",
+    "title": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-104935&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "Windows",
+    "identifier": "CVE-2026-96951",
+    "title": "Microsoft Windows Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-96951&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-13",
     "time": null,

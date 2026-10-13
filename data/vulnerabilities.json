@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-104935",
+    "company": "Ivanti",
+    "product": null,
+    "title": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 8.6,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L",
+    "published": "2026/10/13",
+    "last_update": "2026/10/13"
+  },
+  {
+    "cve": "CVE-2026-96951",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft Windows Command Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "published": "2026/10/13",
+    "last_update": "2026/10/13"
+  },
+  {
     "cve": "CVE-2015-5477",
     "company": "ISC",
     "product": null,
@@ -329,11 +353,11 @@
     "product": null,
     "title": "Cisco Secure Email Gateway SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.28269,
+    "epss_current": 0.29543,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/14",
-    "last_update": "2026/09/25"
+    "last_update": "2026/10/13"
   },
   {
     "cve": "CVE-2026-85706",

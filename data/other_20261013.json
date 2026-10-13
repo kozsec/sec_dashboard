@@ -3,6 +3,204 @@
     "source": "Web",
     "date": "2026-10-13",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【 不正アクセス 】防災メール配信システム担う業者に 1000件の登録「情報漏えいの有無は不明 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3009309"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "神奈川・横須賀市「防災情報メール」などの個人情報漏洩の可能性 不正アクセス で",
+    "url": "https://www.khb-tv.co.jp/news/16961275"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "sakigake.jp",
+    "identifier": "不正アクセス",
+    "title": "横手市が学校連絡メールの配信停止 1万6900人の情報漏えいか【 不正アクセス 】 - 秋田魁新報",
+    "url": "https://www.sakigake.jp/news/article/20261013AK0018/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ゆうパックなど顧客情報４８００件が一時閲覧可能、日本郵便の法人向けサービス…「 サイバー ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261013-GYT1T00388/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報流出 で注目の｢サイバーセキュリティ｣関連と｢本人確認･eKYC/ICチップ･マイ ...",
+    "url": "https://diamond.jp/zai/articles/-/1074046"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "「銀のさら」で 情報漏えい 個人情報最大650万件 - 47NEWS",
+    "url": "https://www.47news.jp/15076290.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "富山県内 4市町 情報漏えい の恐れ 不正アクセスで防災情報など配信停止 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/n/knb/category/society/knaf286899f3d84efeb31480957a854035"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "熊本県警察本部長に大野敬氏が着任 トクリュウ対策、サイバー犯罪の取り締まりに意欲",
+    "url": "https://newsdig.tbs.co.jp/articles/rkk/3006962?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "職員2000人分の個人 情報漏洩 の恐れ 「アルカディア」サイバー攻撃で 兵庫・加古川市（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/678c5b7997683169cd9b6823a4acfa97c9b91af8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "デンマーク880万件 情報漏洩 、原因はパスワード「123456」か - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGR139YB0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "「銀のさら」で 情報漏洩 住所やメアドなど個人情報最大650万件 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261013-VXBIIZ454JORTPWNLNSXRWDPWM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏えい 一因は「A2B攻撃」 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6598659"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "「銀のさら」顧客情報最大650万件漏洩か 外部サーバーに 不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC138WT0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【 不正アクセス 】数日前から兆候を確認…「函館市ANSINメール」を緊急停止_ 復旧めど立たず",
+    "url": "https://news.yahoo.co.jp/articles/692ad99e5dd3c8b2917cc170da294e95fe78f1a2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「銀のさら」で 情報漏えい 個人情報最大６５０万件",
+    "url": "https://www.tokyo-np.co.jp/article/521394"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏えい",
+    "title": "【急増】 情報漏えい 被害1億件超か…なぜ日本で相次ぐ？対策は？専門家「個人情報は“流出を ...",
+    "url": "https://www.fnn.jp/articles/-/1131965"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "宮崎県の防災防犯メール運用企業に 不正アクセス 個人情報約3.9万件流出か 被害確認はなし",
+    "url": "https://newsdig.tbs.co.jp/articles/mrt/3009244?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "仏スーパー サイバー攻撃 で“冷蔵庫50℃” 日本は大丈夫？ - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000539865.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "楽天モバイルでシステム脆弱性、第三者に住所や電話番号など閲覧される可能性",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2147800.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【長崎】佐世保市のメール配信サービス運用事業者に不正アクセス 市民や市職員約１万１８００人 ...",
+    "url": "https://news.yahoo.co.jp/articles/77c042bd6d4a914e593eebc2b62750b555231c82"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「銀のさら」で 情報漏えい 個人情報最大６５０万件 - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2382157"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ＪＲ東海、顧客 情報漏えい か １万５０００人、不正アクセス - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/521383"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "システム障害",
     "title": "ミズノ、 システム障害 で公式サイト閲覧できず 原因は「調査中」 - 日本経済新聞",
