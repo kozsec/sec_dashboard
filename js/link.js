@@ -244,7 +244,46 @@ fetch("config/link.json")
             pagination.replaceChildren();
 
             if (totalPages > 1) {
-                for (let page = 1; page <= totalPages; page++) {
+                const pages = [];
+
+                pages.push(1);
+
+                let start = Math.max(2, currentPage - 2);
+                let end = Math.min(totalPages - 1, currentPage + 2);
+
+                if (currentPage <= 3) {
+                    start = 2;
+                    end = Math.min(totalPages - 1, 5);
+                }
+
+                if (currentPage >= totalPages - 2) {
+                    start = Math.max(2, totalPages - 4);
+                    end = totalPages - 1;
+                }
+
+                if (start > 2) {
+                    pages.push("ellipsis");
+                }
+
+                for (let page = start; page <= end; page++) {
+                    pages.push(page);
+                }
+
+                if (end < totalPages - 1) {
+                    pages.push("ellipsis");
+                }
+
+                pages.push(totalPages);
+
+                pages.forEach(page => {
+                    if (page === "ellipsis") {
+                        const span = document.createElement("span");
+                        span.className = "pagination-ellipsis";
+                        span.textContent = "...";
+                        pagination.appendChild(span);
+                        return;
+                    }
+
                     const button = document.createElement("button");
                     button.type = "button";
                     button.className = "page-button";
@@ -260,7 +299,7 @@ fetch("config/link.json")
                     });
 
                     pagination.appendChild(button);
-                }
+                });
             }
         }
 
