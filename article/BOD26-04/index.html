@@ -29,7 +29,7 @@
 
                 <h2>CISAのBOD 26-04</h2>
                 <p>
-                    　米国のサイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、2026年6月に<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk" target="_blank">BOD 26-04: Prioritizing Security Updates Based on Risk</a>を公開しました。
+                    　米国のサイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、2026年6月に<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk" target="_blank" rel="noopener noreferrer">BOD 26-04: Prioritizing Security Updates Based on Risk</a>を公開しました。
                 </p>
                 <p>
                     　BOD（Binding Operational Directive）は、米国連邦政府の対象機関に対する拘束力のあるサイバーセキュリティ指令です。BOD 26-04は<b>脆弱性の対応期限をリスクに基づいて決定する考え方</b>が示されています。
@@ -86,7 +86,7 @@
              <section class="article-section">
                 <h2>優先順位の設定</h2>
                 <p>
-                    　脆弱性対応の優先順位をつけるためにこれまではCVSS(危険度)やEPSS(発生確率)が使用されていましたが、BOD26-04ではこれらの指標ではなく<b>自組織の状況に応じた優先順位付けが重要</b>であることが示されました。
+                    　脆弱性対応の優先順位をつけるためにこれまではCVSS(深刻度)やEPSS(悪用確率)が使用されていましたが、BOD26-04ではこれらの指標ではなく<b>自組織の状況に応じた優先順位付けが重要</b>であることが示されました。
                 </p>
             </section>
 
@@ -99,7 +99,7 @@
 
                 <h2>2. 悪用実績（KEV）</h2>
                 <p>
-                    　CISAが公開する<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">KEV（Known Exploited Vulnerabilities）カタログ</a>に、対象のCVEが登録されているかを確認します。KEVは実際に悪用されたことが確認されている脆弱性をまとめたカタログです。悪用情報は対応の優先順位を判断する上で重要な材料になります。
+                    　CISAが公開する<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener noreferrer">KEV（Known Exploited Vulnerabilities）カタログ</a>に、対象のCVEが登録されているかを確認します。KEVは実際に悪用されたことが確認されている脆弱性をまとめたカタログです。悪用情報は対応の優先順位を判断する上で重要な材料になります。
                 </p>
 
                 <h2>3. 悪用の自動化可能性</h2>
@@ -151,7 +151,7 @@
 
                 <h2>ケースB: 中程度のCVSSスコアだが悪用が確認されている場合</h2>
                 <p>
-                    　CVSSスコアは中程度であるものの、対象システムが<b>インターネットに公開され</b>、<b>脆弱性が実際の攻撃で悪用されている</b>というケースを考えます。自組織が被害にあう可能性があるた早急な対応が必要と考えられます。この脆弱性は数日以内に対応することが望ましいです。
+                    　CVSSスコアは中程度であるものの、対象システムが<b>インターネットに公開され</b>、<b>脆弱性が実際の攻撃で悪用されている</b>というケースを考えます。自組織が被害にあう可能性があるため早急な対応が必要と考えられます。この脆弱性は数日以内に対応することが望ましいです。
                 </p>
             </section>
 
@@ -206,8 +206,6 @@
                     </div>
                 </div>
                     
-                </div>
-
             </section>
 
             <footer class="page-footer">
@@ -292,19 +290,19 @@
                 <h2>1. 資産情報を整備する</h2>
                 <p>
                     　BOD26-04を取り入れるためには、前提として<b>自組織の資産を管理する</b>必要があります。対象資産が特定できなければ、脆弱性情報を収集しても適切な判断ができません。管理すべき項目は次のようなものです。
-
-                    <aside class="note-box">
-                        <h3>管理すべき項目の一例</h3>
-                        <ul>
-                            <li>自社で使用している製品</li>
-                            <li>現在のバージョン</li>
-                            <li>資産の管理者</li>
-                            <li>用途</li>
-                            <li>設置場所（ネットワーク上の位置）</li>
-                            <li>外部公開状況</li> など
-                        </ul>
-                    </aside>
                 </p>
+
+                <aside class="note-box">
+                    <h3>管理すべき項目の一例</h3>
+                    <ul>
+                        <li>自社で使用している製品</li>
+                        <li>現在のバージョン</li>
+                        <li>資産の管理者</li>
+                        <li>用途</li>
+                        <li>設置場所（ネットワーク上の位置）</li>
+                        <li>外部公開状況</li> など
+                    </ul>
+                </aside>
 
                 <p>
                     　資産管理の方法には、外部のツールを使う方法や、独自のツールを作成して会社標準マシンのスタートアップに登録する方法などが考えられます。
@@ -350,15 +348,12 @@
                     　とはいえ、事業運営上やむを得ない事情等で定めた期限を超過する場合も考えられます。各システムの担当者が独断で脆弱性を放置しないよう、例外承認のルールも定めます。対応を延期する場合、延期の根拠、承認者、再評価の時期を管理し、リスクを継続的に把握します。
                 </p>
 
-                </div>
-
                 <h2>4. 対応状況を継続的に確認する</h2>
                 <p>
                     　修正が完了していない案件、期限を超過した案件、対応を延期している脆弱性は重点的に管理し、必要に応じて優先順位を見直します。システム構成を自動で一元管理できる仕組みを導入していれば、その情報と関連付けて修正の進捗を確認するような対応が重要です。
                 </p>
 
             </section>  
-
 
 
             <section class="conversation">
@@ -430,11 +425,10 @@
             </header>
             <section class="article-section">
 
-                <p>
-                    <ul>
+                <ul>
                     <li>CISAのBOD 26-04は、資産の外部公開状況、悪用実績、悪用の自動化可能性、技術的影響を踏まえて、セキュリティ更新の優先順位を決める考え方を示しています。</li>
                     <li>CVSSのスコアだけで判断せず、利用環境や現実の攻撃状況まで含めて評価することで実効性のある脆弱性マネジメントを実現します。</li>
-                </p>
+                </ul>
 
                 <h2>脆弱性マネジメントの流れ</h2>
 
@@ -500,11 +494,12 @@
 
 
 
-<!-- 6ページ目! -->
+<!-- 8ページ目! -->
 
         <article class="page">
             <header class="page-header">
                 <p class="chapter-label">CHAPTER 06</p>
+            </header>
 
             <section class="article-section">
                 <h2>参考資料</h2>
@@ -522,7 +517,7 @@
 
             <footer class="page-footer">
                 <span>SECURITY POST BY KOZ</span>
-                <span>07</span>
+                <span>08</span>
             </footer>
         </article>
     </main>
