@@ -1147,9 +1147,36 @@ footer::after {
 }
 
 .link-table {
-    width: 100%;
+    width: 1000px;
+    height: 64px;
+    table-layout: fixed;
     border-collapse: collapse;
     font-size: 12px;
+}
+
+.link-table th:nth-child(1),
+.link-table td:nth-child(1) {
+    width: 620px;
+}
+
+.link-table th:nth-child(2),
+.link-table td:nth-child(2) {
+    width: 140px;
+}
+
+.link-table th:nth-child(3),
+.link-table td:nth-child(3) {
+    width: 60px;
+}
+
+.link-table th:nth-child(4),
+.link-table td:nth-child(4) {
+    width: 320px;
+}
+
+.link-table th:nth-child(5),
+.link-table td:nth-child(5) {
+    width: 110px;
 }
 
 .link-table th,
@@ -1168,20 +1195,20 @@ footer::after {
     white-space: nowrap;
 }
 
-.link-table tbody tr:hover {
-    background: #fafbfd;
-}
-
-.link-table tbody tr:last-child td {
-    border-bottom: none;
+.link-table td {
+    overflow: hidden;
+    height: 64px;
 }
 
 .link-table td:first-child {
-    min-width: 220px;
     line-height: 1.6;
 }
 
 .link-table td:first-child a {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
     color: #1769aa;
     font-weight: 600;
 }
@@ -1191,7 +1218,8 @@ footer::after {
 }
 
 .link-tags {
-    min-width: 180px;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 .link-tag {
@@ -1207,16 +1235,19 @@ footer::after {
 }
 
 .link-date {
-    min-width: 100px;
     color: #687386;
     white-space: nowrap;
 }
 
 .link-description {
+    display: block;
     margin-top: 4px;
     color: #687386;
     font-size: 11px;
     line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .link-tag-filters {
