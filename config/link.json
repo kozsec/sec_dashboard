@@ -114,7 +114,7 @@
     "organization": "DomainTools",
     "url": "https://whois.domaintools.com/",
     "description": "ドメインの登録情報、DNS、履歴などを用いてドメインや関連インフラを調査するサービス",
-    "category": "Threat Intelligence",
+    "category": "Tools",
     "topics": ["OSINT", "Analysis"],
     "region": "US",
     "last_checked": "2026/10/13"
@@ -304,7 +304,7 @@
     "organization": "abuse.ch",
     "url": "https://threatfox.abuse.ch/",
     "description": "マルウェアやボットネットに関連するIPアドレス、ドメイン、URL、ファイルハッシュなどのIOCを検索・共有するサービス",
-    "category": "Threat Intelligence",
+    "category": "Tools",
     "topics": ["IOC"],
     "region": "Global",
     "last_checked": ""
@@ -314,7 +314,7 @@
     "organization": "abuse.ch",
     "url": "https://urlhaus.abuse.ch/",
     "description": "マルウェア配布に利用されるURLを追跡・共有する脅威情報サービス",
-    "category": "Threat Intelligence",
+    "category": "Tools",
     "topics": ["IOC"],
     "region": "Global",
     "last_checked": ""
@@ -324,10 +324,10 @@
     "organization": "abuse.ch",
     "url": "https://bazaar.abuse.ch/",
     "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース。検体のダウンロードや実行には注意が必要",
-    "category": "Threat Intelligence",
+    "category": "Tools",
     "topics": ["Malware", "Analysis"],
     "region": "Global",
-    "last_checked": ""
+    "last_checked": "2026/10/13"
   },
   {
     "title": "MISP",
@@ -906,16 +906,6 @@
     "description": "Webや暗号などの問題を通してセキュリティ技術を学ぶCTF",
     "category": "Training",
     "topics": ["CTF", "Web", "Cryptography"],
-    "region": "JP",
-    "last_checked": ""
-  },
-  {
-    "title": "CpawCTF",
-    "organization": "CpawCTF",
-    "url": "https://ctf.cpaw.site/",
-    "description": "CTF初心者向けにセキュリティの基礎を学べる問題集",
-    "category": "Training",
-    "topics": ["CTF"],
     "region": "JP",
     "last_checked": ""
   },
