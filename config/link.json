@@ -984,7 +984,7 @@
     "organization": "JPCERT/CC・IPA",
     "url": "https://jvn.jp/",
     "description": "国内向けの脆弱性対策情報や注意喚起を提供",
-    "category": "Vulnerability Intelligence",
+    "category": "Official Resource",
     "topics": ["Vulnerability"],
     "region": "JP",
     "last_checked": "2026/10/13"
@@ -1004,7 +1004,7 @@
     "organization": "The Hacker News",
     "url": "https://thehackernews.com/",
     "description": "サイバー攻撃、脆弱性、セキュリティ業界のニュースを配信",
-    "category": "News",
+    "category": "Threat Intelligence",
     "topics": ["Threat Intelligence"],
     "region": "Global",
     "last_checked": ""
