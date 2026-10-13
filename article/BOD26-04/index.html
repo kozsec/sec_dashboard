@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Post by koz</title>
+    <link rel="stylesheet" href="../../css/post.css">
+    <link rel="stylesheet" href="../../css/style.css">
+</head>
+<body>
+    <main class="book">
+
+<!-- 1ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="book-label">Last update: 2026/10/11</p>
+                <p class="chapter-label">CHAPTER 01</p>
+                <h1>BOD26-04</h1>
+                <p class="lead">自組織のリスクに応じて優先順位を決める考え方を知ろう。</p>
+            </header>
+
+            <section class="article-section">
+                <h2>脆弱性マネジメントの限界</h2>
+                <p>
+                    　脆弱性マネジメントは、日々公開される脆弱性情報を収集し、影響を評価したうえで、必要なセキュリティ対策を適用する活動です。しかし、管理対象のシステムが増えるほど対処すべき脆弱性も増え、すべての脆弱性に同じスピードで対応することは難しくなります。また、昨今はAI技術の進化もあって脆弱性の発見/報告数が増加しており、優先順位をつけて対処しなければ対応が間に合いません。
+                </p>
+
+                <h2>CISAのBOD 26-04</h2>
+                <p>
+                    　米国のサイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、2026年6月に<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk" target="_blank">BOD 26-04: Prioritizing Security Updates Based on Risk</a>を公開しました。
+                </p>
+                <p>
+                    　BOD（Binding Operational Directive）は、米国連邦政府の対象機関に対する拘束力のあるサイバーセキュリティ指令です。BOD 26-04は<b>脆弱性の対応期限をリスクに基づいて決定する考え方</b>が示されています。
+                </p>
+                <aside class="note-box">
+                    <h3>日本には指令が適用されないけれど考え方は参考にしよう</h3>
+                    本指令の遵守義務が適用されるのは対象となる米国連邦政府機関ですが、リスクに応じて優先順位を決める考え方は、一般企業の脆弱性マネジメントを考えるうえでも参考になります。
+                </aside>
+            </section>
+
+            <section class="conversation">
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            パッチが出たら全部適用すればいいじゃない
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-right">
+                    
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            パッチを適用すると思わぬ影響が出るかもしれないので、バックアップを取ったりシステム停止調整をしたり、準備が大変なのです・・・
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>01</span>
+            </footer>
+        </article>
+
+<!-- 2ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 02</p>
+                <h1>優先順位を決める4つの要素</h1>
+                <p class="lead">脆弱性そのものだけでなく、自組織の環境や攻撃の性質を考えよう。</p>
+            </header>
+             <section class="article-section">
+                <h2>優先順位の設定</h2>
+                <p>
+                    　脆弱性対応の優先順位をつけるためにこれまではCVSS(危険度)やEPSS(発生確率)が使用されていましたが、BOD26-04ではこれらの指標ではなく<b>自組織の状況に応じた優先順位付けが重要</b>であることが示されました。
+                </p>
+            </section>
+
+
+            <section class="article-section">
+                <h2>1. 資産の外部公開状況</h2>
+                <p>
+                    　脆弱性を持つ資産が<b>インターネットからアクセス可能な状態にあるか</b>を確認します。外部公開されたサーバーやサービスは攻撃者が直接アクセスできる可能性があるため優先的な対応が必要です。公開範囲やネットワーク上の位置を把握することが重要です。
+                </p>
+
+                <h2>2. 悪用実績（KEV）</h2>
+                <p>
+                    　CISAが公開する<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">KEV（Known Exploited Vulnerabilities）カタログ</a>に、対象のCVEが登録されているかを確認します。KEVは実際に悪用されたことが確認されている脆弱性をまとめたカタログです。悪用情報は対応の優先順位を判断する上で重要な材料になります。
+                </p>
+
+                <h2>3. 悪用の自動化可能性</h2>
+                <p>
+                    　脆弱性を悪用する手順を自動化できるかを評価します。悪用を自動化できる場合、攻撃者が多数のシステムに対して効率的に攻撃を仕掛けられる可能性があります。
+                </p>
+
+                <h2>4. 技術的影響</h2>
+                <p>
+                    　脆弱性が悪用された場合、攻撃者が対象資産をどの程度制御できるようになるかを評価します。システムの完全な制御を許す場合と、限定的な制御にとどまる場合では、想定される影響が異なります。
+                </p>
+            </section>
+
+            <aside class="note-box">
+                <h3>4つの要素を組み合わせて優先順位を設定する</h3>
+                <ul>
+                    <li>Asset Exposure：資産の外部公開状況</li>
+                    <li>KEV Status：既知の悪用実績</li>
+                    <li>Exploit Automation：悪用の自動化可能性</li>
+                    <li>Technical Impact：技術的影響</li>
+                </ul>
+            </aside>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>02</span>
+            </footer>
+        </article>
+
+<!-- 3ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 03</p>
+                <h1>優先順位設定の考え方</h1>
+                <p class="lead">深刻度ではなく、組織にとっての優先対応すべきものを見極めよう。</p>
+            </header>
+
+            <section class="article-section">
+                <h2>各組織の事情で優先順位を設定</h2>
+                <p>
+                    　CVSSは脆弱性の技術的な深刻度を評価するための重要な指標です。しかし、CVSSのスコアだけでは、個々の組織における対応優先度を適切に判断できない場合があります。先ほどの4つの指標を活用して判断できる体制づくりが重要です。
+                </p>
+
+                <h2>ケースA: 高いCVSSスコアだが露出が限定的な場合</h2>
+                <p>
+                    　CVSSスコアは高いものの、対象システムは<b>外部に公開されておらず</b>、<b>悪用実績も確認されていない</b>というケースを考えます。実際の設定やネットワーク構成を確認して、問題なければ優先度を下げることが考えられます。<b><u>ただし放置して良い訳ではありません</u></b>。深刻度が高いので数週間等のスパンで対応することが望ましいです。
+                </p>
+
+                <h2>ケースB: 中程度のCVSSスコアだが悪用が確認されている場合</h2>
+                <p>
+                    　CVSSスコアは中程度であるものの、対象システムが<b>インターネットに公開され</b>、<b>脆弱性が実際の攻撃で悪用されている</b>というケースを考えます。自組織が被害にあう可能性があるた早急な対応が必要と考えられます。この脆弱性は数日以内に対応することが望ましいです。
+                </p>
+            </section>
+
+            <section class="conversation">
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            結局、どの脆弱性を何日で適用すればいいのでしょう？
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            4つの指標を使って組織内でルールを作るといいよ<br>判断基準によって3営業日以内、1週間以内、2週間以内..のようにね
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            BOD26-04にある通り、暦日で頼む
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-right">
+                    
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            ・・・精進します
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+                    
+                </div>
+
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>03</span>
+            </footer>
+        </article>
+
+
+<!-- 4ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 04</p>
+                <h1>パッチ適用だけで大丈夫？</h1>
+                <p class="lead">「悪用が確認されていること」の意味を考えよう。</p>
+            </header>
+
+            <section class="article-section">
+                <h2>侵害の対処</h2>
+                <p>
+                    　脆弱性の対処では、パッチ適用やバージョンアップによって攻撃に利用される経路を塞ぐことが重要です。しかし、パッチ適用前に脆弱性がすでに悪用されていた場合、パッチを適用するだけでは十分とは限りません。
+                </p>
+
+                <p>
+                    　例えば、パッチ適用前に攻撃者が脆弱性を悪用してサーバーに侵入し、不正なプログラムを設置していたとします。この場合、脆弱性を修正しても、攻撃者が作成したアカウントや不正なプログラムが残っている可能性があります。また、窃取された認証情報が悪用されることもあり得ます。
+                </p>
+
+                <h2>侵害の恐れがあるときは追加調査</h2>
+                <p>
+                    　優先順位の高い脆弱性では、パッチ適用に加えて、侵害の有無や影響範囲を確認することが必要です。ログやシステムの状況に応じて、デジタルフォレンジックによる証拠の保全・分析も検討します。
+                </p>
+                <p>
+                    　ただし、すべての脆弱性対応で本格的なフォレンジックが必要になるわけではありません。前のチャプターで記載した4つの指標や、実際のシステムの状況を踏まえ、調査の必要性や調査範囲を判断します。
+                </p>
+            </section>
+
+            <section class="conversation">
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            でもフォレンジックって外部に依頼すると1台あたり何百万円もお金が掛かりますよ・・・
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            特に危険と判断した脆弱性については、パッチ適用だけでなく<b>不審なアカウントやプログラムの有無、ログの調査等</b>もセットで実施しよう<br>
+                            自分たちで調査できる能力を有しておくと外部支出を抑えられるね
+                        </div>
+                    </div>
+                </div>
+            </section>
+        
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>04</span>
+            </footer>
+        </article>
+
+
+<!-- 5ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 05</p>
+                <h1>実務適用</h1>
+                <p class="lead">BOD26-04の考え方を取り入れてみよう。</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. 資産情報を整備する</h2>
+                <p>
+                    　BOD26-04を取り入れるためには、前提として<b>自組織の資産を管理する</b>必要があります。対象資産が特定できなければ、脆弱性情報を収集しても適切な判断ができません。管理すべき項目は次のようなものです。
+
+                    <aside class="note-box">
+                        <h3>管理すべき項目の一例</h3>
+                        <ul>
+                            <li>自社で使用している製品</li>
+                            <li>現在のバージョン</li>
+                            <li>資産の管理者</li>
+                            <li>用途</li>
+                            <li>設置場所（ネットワーク上の位置）</li>
+                            <li>外部公開状況</li> など
+                        </ul>
+                    </aside>
+                </p>
+
+                <p>
+                    　資産管理の方法には、外部のツールを使う方法や、独自のツールを作成して会社標準マシンのスタートアップに登録する方法などが考えられます。
+                </p>
+
+                <h2>2. 情報を収集する</h2>
+                <p>
+                    　自社資産を脅かす脆弱性情報を集めます。CVSSに加え、KEVへの登録状況やEPSS(悪用可能性)などを確認します。それぞれの情報が示す意味を理解し、単一の指標だけで判断しないことが大切です。
+                </p>
+                <p>
+                    　情報収集は日々Webで見るだけでなく、プログラムや外部サービスを活用して自動収集することが可能です。CVSSはNISTが「NVD API」、EPSSはFIRSTが「EPSS API」を公開していたり、CISA KEVは「JSONファイル」を用意していますので、活用を検討します。
+                </p>
+            </section>  
+        
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>05</span>
+            </footer>
+        </article>
+
+
+
+<!-- 6ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 05</p>
+            </header>
+            <section class="article-section">
+
+                <h2>3. 判定基準と期限を定義する</h2>
+
+                <figure class="article-image image-right">
+                    <img src="./BOD_26-04_Timelines.png" alt="判断フローの例 CISA BOD26-04より">
+                    <figcaption>図1：判断フローの例（<a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk">BOD26-04</a>の図より）</figcaption>
+                </figure>
+
+                
+                <p>
+                    　収集した情報で判断できるように判断基準を設け、目標の対応期限を設定します。図1はBOD26-04にて掲載されている判断フローの例です。これを参考に自組織のルールで日付等を設定することが望ましいです。特に優先度の高い脆弱性では、対応期限の日数だけでなく追加調査を実施することを定めておくと、より効果的な対応をスピーディに実施できるようになります。
+                </p>
+                <p>
+                    　とはいえ、事業運営上やむを得ない事情等で定めた期限を超過する場合も考えられます。各システムの担当者が独断で脆弱性を放置しないよう、例外承認のルールも定めます。対応を延期する場合、延期の根拠、承認者、再評価の時期を管理し、リスクを継続的に把握します。
+                </p>
+
+                </div>
+
+                <h2>4. 対応状況を継続的に確認する</h2>
+                <p>
+                    　修正が完了していない案件、期限を超過した案件、対応を延期している脆弱性は重点的に管理し、必要に応じて優先順位を見直します。システム構成を自動で一元管理できる仕組みを導入していれば、その情報と関連付けて修正の進捗を確認するような対応が重要です。
+                </p>
+
+            </section>  
+
+
+
+            <section class="conversation">
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            Excel管理でもいいですか？
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            "ちゃんと" 管理できるならExcelでもいいよ<br>
+                            でも<b>更新漏れ、管理業務の属人化、リアルタイム性の欠如等のリスク</b>があるわね
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            ツールは今度の予算にしよう。今度ね
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            その予算いつですか・・・
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+            </section>
+        
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>06</span>
+            </footer>
+        </article>
+
+
+
+<!-- 7ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 06</p>
+                <h1>まとめ</h1>
+            </header>
+            <section class="article-section">
+
+                <p>
+                    <ul>
+                    <li>CISAのBOD 26-04は、資産の外部公開状況、悪用実績、悪用の自動化可能性、技術的影響を踏まえて、セキュリティ更新の優先順位を決める考え方を示しています。</li>
+                    <li>CVSSのスコアだけで判断せず、利用環境や現実の攻撃状況まで含めて評価することで実効性のある脆弱性マネジメントを実現します。</li>
+                </p>
+
+                <h2>脆弱性マネジメントの流れ</h2>
+
+                <div class="vuln-flow">
+                    <div class="vuln-flow-step">
+                        <strong>1. 脆弱性情報を収集</strong>
+                        <span>CVSS・KEV・EPSS など</span>
+                    </div>
+
+                    <div class="vuln-flow-arrow">↓</div>
+
+                    <div class="vuln-flow-step">
+                        <strong>2. 自社資産との照合</strong>
+                        <span>対象製品・バージョン・外部公開状況</span>
+                    </div>
+
+                    <div class="vuln-flow-arrow">↓</div>
+
+                    <div class="vuln-flow-step">
+                        <strong>3. リスクを評価</strong>
+                        <span>外部公開・悪用実績・自動化可能性・技術的影響</span>
+                    </div>
+
+                    <div class="vuln-flow-arrow">↓</div>
+
+                    <div class="vuln-flow-step">
+                        <strong>4. 優先度を決定</strong>
+                        <span>組織が定めた判定基準に照らして判断</span>
+                    </div>
+
+                    <div class="vuln-flow-arrow">↓</div>
+
+                    <div class="vuln-flow-step">
+                        <strong>5. 対応期限を設定</strong>
+                        <span>例：3日以内・7日以内・14日以内</span>
+                    </div>
+
+                    <div class="vuln-flow-arrow">↓</div>
+
+                    <div class="vuln-flow-step">
+                        <strong>6. 対応・完了確認</strong>
+                        <span>修正の適用と対応結果を確認</span>
+                    </div>
+
+                    <div class="vuln-flow-branch">
+                        <span class="vuln-flow-branch-label">期限内に対応できない場合</span>
+                        <div class="vuln-flow-arrow">↓</div>
+                        <div class="vuln-flow-exception">
+                            <strong>例外承認・継続管理</strong>
+                            <span>延期理由・承認者・代替策・再評価日を記録</span>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+        
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>07</span>
+            </footer>
+        </article>
+
+
+
+<!-- 6ページ目! -->
+
+        <article class="page">
+            <header class="page-header">
+                <p class="chapter-label">CHAPTER 06</p>
+            </header>
+            </header>
+            <section class="article-section">
+
+
+
+            <section class="article-section">
+                <h2>参考資料</h2>
+                <ul>
+                    <li>
+                        CISA, BOD 26-04: Prioritizing Security Updates Based on Risk<br>
+                        <a href="https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk" target="_blank" rel="noopener noreferrer">https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk</a>
+                    </li>
+                    <li>
+                        CISA, Known Exploited Vulnerabilities Catalog<br>
+                        <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener noreferrer">https://www.cisa.gov/known-exploited-vulnerabilities-catalog</a>
+                    </li>
+                </ul>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>07</span>
+            </footer>
+        </article>
+    </main>
+
+    <div id="bottom-nav"></div>
+
+    <script src="../../js/menu.js"></script>
+</body>
+</html>
