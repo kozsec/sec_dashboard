@@ -7,7 +7,7 @@
     "category": "Official Resource",
     "topics": ["Vulnerability"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "CISA BOD 26-04",
@@ -17,7 +17,7 @@
     "category": "Official Resource",
     "topics": ["Vulnerability"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "事業継続のための高回復力システム基盤導入ガイド 概要編",
@@ -26,8 +26,8 @@
     "description": "事業継続のための高回復力システム基盤に関する導入ガイド",
     "category": "Guidelines",
     "topics": ["IT-BCP"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "ISACA",
@@ -37,7 +37,7 @@
     "category": "Official Resource",
     "topics": ["Certifications", "Audit"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISC2",
@@ -47,7 +47,7 @@
     "category": "Official Resource",
     "topics": ["Certifications"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Nmap",
@@ -57,7 +57,7 @@
     "category": "Tools",
     "topics": ["Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Wireshark",
@@ -67,7 +67,7 @@
     "category": "Tools",
     "topics": ["Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "CyberChef",
@@ -76,8 +76,8 @@
     "description": "エンコード、デコード、データ変換、ハッシュ計算などをブラウザ上で実行するツール",
     "category": "Tools",
     "topics": ["Analysis"],
-    "region": "UK",
-    "last_checked": "2026-10-10"
+    "region": "Global",
+    "last_checked": ""
   },
   {
     "title": "Ghidra",
@@ -87,7 +87,7 @@
     "category": "Tools",
     "topics": ["Analysis"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "testssl.sh",
@@ -97,7 +97,7 @@
     "category": "Tools",
     "topics": ["Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Trivy",
@@ -107,7 +107,7 @@
     "category": "Tools",
     "topics": ["Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "DomainTools",
@@ -117,7 +117,7 @@
     "category": "Threat Intelligence",
     "topics": ["OSINT", "Analysis"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "urlscan.io",
@@ -127,7 +127,7 @@
     "category": "Tools",
     "topics": ["OSINT", "Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "aguse.jp",
@@ -136,8 +136,8 @@
     "description": "URLを指定して、サイト情報や安全性に関する情報を調査するサービス",
     "category": "Tools",
     "topics": ["OSINT", "Analysis"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "IPA",
@@ -146,8 +146,8 @@
     "description": "国内の脆弱性情報、セキュリティ対策、注意喚起、ガイドライン、調査レポートなど",
     "category": "Official Resource",
     "topics": ["Vulnerability"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "JPCERT/CC",
@@ -156,8 +156,8 @@
     "description": "サイバー攻撃の注意喚起、インシデント対応、脆弱性情報、技術レポートなど",
     "category": "Official Resource",
     "topics": ["Incident Response", "Vulnerability", "Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "National Cyber Security Centre",
@@ -166,8 +166,8 @@
     "description": "英国のサイバーセキュリティ機関による脅威情報、対策ガイダンス、技術資料など",
     "category": "Official Resource",
     "topics": ["Threat Intelligence", "Incident Response"],
-    "region": "UK",
-    "last_checked": "2026-10-10"
+    "region": "Global",
+    "last_checked": ""
   },
   {
     "title": "NIST Cybersecurity",
@@ -177,7 +177,7 @@
     "category": "Official Resource",
     "topics": ["Risk Management"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "NIST Cybersecurity Framework (CSF) 2.0",
@@ -187,7 +187,7 @@
     "category": "Guidelines",
     "topics": ["Risk Management"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "サイバーセキュリティ経営ガイドライン Ver.3.0",
@@ -196,8 +196,8 @@
     "description": "サイバーセキュリティに関する経営者の責任、組織体制、対策の実践を整理したガイドラインと実践プラクティス集",
     "category": "Guidelines",
     "topics": ["Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "NIST SP 800-53 Rev.5",
@@ -207,7 +207,7 @@
     "category": "Guidelines",
     "topics": ["Audit", "Incident Response"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "NIST SP 800-61 Rev.3",
@@ -217,7 +217,7 @@
     "category": "Guidelines",
     "topics": ["Incident Response", "Risk Management"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "工場システムにおけるサイバー・フィジカル・セキュリティ対策ガイドライン",
@@ -226,8 +226,8 @@
     "description": "工場システムの構成や生産活動への影響を踏まえ、サイバー・フィジカル両面のセキュリティ対策を検討するためのガイドライン",
     "category": "Guidelines",
     "topics": ["OT"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "NIST SP 800-82 Rev.3 — Guide to OT Security",
@@ -237,7 +237,7 @@
     "category": "Guidelines",
     "topics": ["OT"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "CIS Critical Security Controls v8.1",
@@ -247,7 +247,7 @@
     "category": "Guidelines",
     "topics": ["Vulnerability"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "OWASP Application Security Verification Standard (ASVS)",
@@ -257,7 +257,7 @@
     "category": "Guidelines",
     "topics": ["Web"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "NIST SP 800-207 — Zero Trust Architecture",
@@ -267,7 +267,7 @@
     "category": "Guidelines",
     "topics": ["Zero Trust"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "中小企業の情報セキュリティ対策ガイドライン 第4.0版",
@@ -276,8 +276,8 @@
     "description": "中小企業向けに、情報セキュリティ対策の進め方や実践手順、インシデント対応などを整理したガイドライン",
     "category": "Guidelines",
     "topics": ["Risk Management", "Incident Response"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "MITRE ATT&CK Groups",
@@ -287,7 +287,7 @@
     "category": "Threat Intelligence",
     "topics": ["Threat Intelligence"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "CISA Cybersecurity Advisories",
@@ -297,7 +297,7 @@
     "category": "Official Resource",
     "topics": ["Threat Intelligence", "Incident Response"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ThreatFox",
@@ -307,7 +307,7 @@
     "category": "Threat Intelligence",
     "topics": ["IOC"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "URLhaus",
@@ -317,7 +317,7 @@
     "category": "Threat Intelligence",
     "topics": ["IOC"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "MalwareBazaar",
@@ -327,7 +327,7 @@
     "category": "Threat Intelligence",
     "topics": ["Malware", "Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "AlienVault Open Threat Exchange (OTX)",
@@ -337,7 +337,7 @@
     "category": "Threat Intelligence",
     "topics": ["IOC"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "MISP",
@@ -347,7 +347,7 @@
     "category": "Tools",
     "topics": ["Threat Intelligence", "IOC"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "StopRansomware",
@@ -357,7 +357,7 @@
     "category": "Official Resource",
     "topics": ["IOC", "Threat Intelligence", "Incident Response"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Google Threat Intelligence",
@@ -367,7 +367,7 @@
     "category": "Threat Intelligence",
     "topics": ["Malware", "Threat Intelligence"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "警察庁 サイバー警察局",
@@ -376,8 +376,8 @@
     "description": "サイバー事案、官民連携、捜査支援などに関する情報",
     "category": "Official Resource",
     "topics": ["Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "AISI（AIセーフティ・インスティテュート）",
@@ -386,8 +386,8 @@
     "description": "AIの安全性評価、評価手法、ガイドラインなどに関する情報",
     "category": "Official Resource",
     "topics": ["AI"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "NICTER",
@@ -396,8 +396,8 @@
     "description": "ダークネット観測に基づくサイバー攻撃の分析・観測情報",
     "category": "Official Resource",
     "topics": ["Threat Intelligence"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "JVN iPedia",
@@ -406,8 +406,8 @@
     "description": "国内外の脆弱性対策情報を検索できるデータベース",
     "category": "Official Resource",
     "topics": ["Vulnerability"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "AI事業者ガイドライン",
@@ -416,8 +416,8 @@
     "description": "AIの開発・提供・利用に関わる事業者向けのAIガバナンスとリスク管理の指針",
     "category": "Guidelines",
     "topics": ["AI", "Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
@@ -426,8 +426,8 @@
     "description": "行政機関における生成AIの調達・利活用、ガバナンス、リスク管理に関するガイドライン",
     "category": "Guidelines",
     "topics": ["AI", "Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "テキスト生成AIの導入・運用ガイドライン",
@@ -436,8 +436,8 @@
     "description": "組織における生成AIの導入・運用、利用ルールの策定、セキュリティリスク管理に関する実践的な指針",
     "category": "Guidelines",
     "topics": ["AI", "Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "AI Risk Management Framework",
@@ -447,7 +447,7 @@
     "category": "Guidelines",
     "topics": ["AI", "Risk Management"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Generative Artificial Intelligence Profile",
@@ -457,7 +457,7 @@
     "category": "Guidelines",
     "topics": ["AI", "Risk Management"],
     "region": "US",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Recommendation on the Ethics of Artificial Intelligence",
@@ -467,7 +467,7 @@
     "category": "Guidelines",
     "topics": ["AI"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "個人情報保護法・法令・ガイドライン一覧",
@@ -476,8 +476,8 @@
     "description": "個人情報保護法、施行令、施行規則、各種ガイドライン、Q&Aなどの公式資料",
     "category": "Guidelines",
     "topics": ["PII", "Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "個人情報保護法ガイドライン（通則編）",
@@ -486,8 +486,8 @@
     "description": "個人情報の取得、利用、安全管理措置、漏えい等への対応などに関する基本的な指針",
     "category": "Guidelines",
     "topics": ["PII", "Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "個人情報保護法ガイドライン（外国にある第三者への提供編）",
@@ -496,8 +496,8 @@
     "description": "外国の第三者への個人データ提供に関する制度や確認事項を調べるための公式資料",
     "category": "Guidelines",
     "topics": ["PII", "Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "個人情報の保護に関する法律",
@@ -506,8 +506,8 @@
     "description": "個人情報の取扱いに関する基本法令。個人データの安全管理や第三者提供などの確認に使用",
     "category": "Laws",
     "topics": ["PII", "Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "不正アクセス行為の禁止等に関する法律",
@@ -516,8 +516,8 @@
     "description": "不正アクセス行為や識別符号の不正取得・提供などに関する法令",
     "category": "Laws",
     "topics": ["Legal", "Incident Response"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "サイバーセキュリティ基本法",
@@ -526,8 +526,8 @@
     "description": "国や地方公共団体、重要社会基盤事業者などのサイバーセキュリティに関する基本的な枠組み",
     "category": "Laws",
     "topics": ["Legal", "Risk Management"],
-    "region": "Japan",
-    "last_checked": "2026-10-13"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "電気通信事業法",
@@ -536,8 +536,8 @@
     "description": "電気通信事業に関する法令。通信サービスや関連事業のセキュリティ・プライバシー上の義務を確認する際に参照",
     "category": "Laws",
     "topics": ["Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "不正競争防止法",
@@ -546,8 +546,8 @@
     "description": "営業秘密の保護などに関係する法令。情報資産の管理や秘密情報の漏えい対策に関連",
     "category": "Laws",
     "topics": ["Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "刑法",
@@ -556,8 +556,8 @@
     "description": "電子計算機を利用した犯罪や情報システムに関連する犯罪を検討する際の基本法令",
     "category": "Laws",
     "topics": ["Legal", "Incident Response"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "著作権法",
@@ -566,8 +566,8 @@
     "description": "ソフトウェア、プログラム、データなどの利用・複製に関連する法令",
     "category": "Laws",
     "topics": ["Legal"],
-    "region": "Japan",
-    "last_checked": "2026-10-10"
+    "region": "JP",
+    "last_checked": ""
   },
   {
     "title": "VirusTotal",
@@ -577,7 +577,7 @@
     "category": "Tools",
     "topics": ["Threat Intelligence", "Malware", "Analysis", "OSINT"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "AbuseIPDB",
@@ -587,7 +587,7 @@
     "category": "Tools",
     "topics": ["Threat Intelligence", "IOC", "OSINT"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "Shodan",
@@ -597,7 +597,7 @@
     "category": "Tools",
     "topics": ["OSINT"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "crt.sh",
@@ -607,7 +607,7 @@
     "category": "Tools",
     "topics": ["OSINT", "Analysis"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27001:2022",
@@ -617,7 +617,7 @@
     "category": "Standards",
     "topics": ["Risk Management"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27002:2022",
@@ -627,7 +627,7 @@
     "category": "Standards",
     "topics": ["Risk Management"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27005:2022",
@@ -637,7 +637,7 @@
     "category": "Standards",
     "topics": ["Risk Management"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27017",
@@ -647,7 +647,7 @@
     "category": "Standards",
     "topics": ["Risk Management"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27018",
@@ -657,7 +657,7 @@
     "category": "Standards",
     "topics": ["Risk Management", "PII"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27701:2025",
@@ -667,7 +667,7 @@
     "category": "Standards",
     "topics": ["Privacy"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO/IEC 27035-1:2023",
@@ -677,7 +677,7 @@
     "category": "Standards",
     "topics": ["Incident Response"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO 22301:2019",
@@ -687,7 +687,7 @@
     "category": "Standards",
     "topics": ["IT-BCP"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
   },
   {
     "title": "ISO 19011:2026",
@@ -697,6 +697,406 @@
     "category": "Standards",
     "topics": ["Audit"],
     "region": "Global",
-    "last_checked": "2026-10-10"
+    "last_checked": ""
+  },
+  {
+    "title": "安全なウェブサイトの作り方",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/vuln/websecurity/",
+    "description": "SQLインジェクションやXSSなどの脆弱性と対策を解説するガイド",
+    "category": "Official Resource",
+    "topics": ["Web", "Vulnerability", "Secure Coding"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "セキュアコーディング",
+    "organization": "JPCERT/CC",
+    "url": "https://www.jpcert.or.jp/securecoding/",
+    "description": "セキュアコーディングに関する資料や開発者向け情報",
+    "category": "Official Resource",
+    "topics": ["Secure Coding"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "インターネットの安全・安心ハンドブック",
+    "organization": "NCO",
+    "url": "https://security-portal.nisc.go.jp/handbook/",
+    "description": "一般利用者や組織向けに基本的なサイバーセキュリティ対策を解説",
+    "category": "Official Resource",
+    "topics": ["Awareness"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "国民のためのサイバーセキュリティサイト",
+    "organization": "総務省",
+    "url": "https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/",
+    "description": "サイバーセキュリティの基礎知識や対策を紹介する情報サイト",
+    "category": "Official Resource",
+    "topics": ["Awareness"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "OWASP Top 10",
+    "organization": "OWASP",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "description": "Webアプリケーションにおける代表的なセキュリティリスクをまとめた資料",
+    "category": "Official Resource",
+    "topics": ["Web", "Vulnerability"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Web Security Academy",
+    "organization": "PortSwigger",
+    "url": "https://portswigger.net/web-security",
+    "description": "Web脆弱性の解説と実践的なハンズオン演習を提供",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "XSS Game",
+    "organization": "Google",
+    "url": "https://xss-game.appspot.com/",
+    "description": "クロスサイトスクリプティングの仕組みを学ぶ演習ゲーム",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Gruyere",
+    "organization": "Google",
+    "url": "https://google-gruyere.appspot.com/",
+    "description": "Webアプリケーションの脆弱性を学ぶための演習環境",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "OverTheWire: Natas",
+    "organization": "OverTheWire",
+    "url": "https://overthewire.org/wargames/natas/",
+    "description": "Webセキュリティの基礎を段階的に学ぶウォーゲーム",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Hacker101",
+    "organization": "HackerOne",
+    "url": "https://www.hacker101.com/",
+    "description": "Webセキュリティの学習教材とCTF形式の演習を提供",
+    "category": "Training",
+    "topics": ["Web", "CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Kontra OWASP Top 10",
+    "organization": "Kontra",
+    "url": "https://application.security/",
+    "description": "OWASP Top 10などを題材としたセキュリティ学習コンテンツ",
+    "category": "Training",
+    "topics": ["Web", "Secure Coding"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "OWASP Juice Shop",
+    "organization": "OWASP",
+    "url": "https://owasp.org/www-project-juice-shop/",
+    "description": "実際のWebアプリケーションに近い脆弱性を学べる演習環境",
+    "category": "Lab",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "OWASP WebGoat",
+    "organization": "OWASP",
+    "url": "https://owasp.org/www-project-webgoat/",
+    "description": "Webアプリケーションの脆弱性と対策を学ぶ教育用アプリケーション",
+    "category": "Lab",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Damn Vulnerable Web Application (DVWA)",
+    "organization": "DVWA",
+    "url": "https://github.com/digininja/DVWA",
+    "description": "Webアプリケーションの代表的な脆弱性を試せる意図的に脆弱な環境",
+    "category": "Lab",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "BadTodo",
+    "organization": "徳丸浩",
+    "url": "https://github.com/ockeghem/badtodo",
+    "description": "Webアプリケーションの脆弱性学習に利用できるサンプルアプリケーション",
+    "category": "Lab",
+    "topics": ["Web"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "Vulhub",
+    "organization": "Vulhub",
+    "url": "https://vulhub.org/",
+    "description": "Dockerを利用して既知の脆弱性を再現するための環境集",
+    "category": "Lab",
+    "topics": ["Vulnerability"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "AppGoat",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/vuln/appgoat/",
+    "description": "脆弱性の仕組みと対策を学習するためのWebアプリケーション演習ツール",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "TryHackMe",
+    "organization": "TryHackMe",
+    "url": "https://tryhackme.com/",
+    "description": "サイバーセキュリティの基礎から実践まで学べるオンライン演習環境",
+    "category": "Training",
+    "topics": ["CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Hack The Box",
+    "organization": "Hack The Box",
+    "url": "https://www.hackthebox.com/",
+    "description": "侵入テストや防御技術を実践形式で学ぶサイバーセキュリティ演習環境",
+    "category": "Training",
+    "topics": ["CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "PentesterLab",
+    "organization": "PentesterLab",
+    "url": "https://pentesterlab.com/",
+    "description": "Webアプリケーションの脆弱性や侵入テスト技術を学ぶ演習教材",
+    "category": "Training",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Root-Me",
+    "organization": "Root-Me",
+    "url": "https://www.root-me.org/",
+    "description": "Web、ネットワーク、暗号など幅広い分野のセキュリティ課題を提供",
+    "category": "Training",
+    "topics": ["CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "CyLab Security Academy",
+    "organization": "Carnegie Mellon University",
+    "url": "https://cylabacademy.org/",
+    "description": "サイバーセキュリティの学習教材や実践的な教育コンテンツ",
+    "category": "Training",
+    "topics": ["Education"],
+    "region": "US",
+    "last_checked": ""
+  },
+  {
+    "title": "ksnctf",
+    "organization": "ksnctf",
+    "url": "https://ksnctf.sweetduet.info/",
+    "description": "Webや暗号などの問題を通してセキュリティ技術を学ぶCTF",
+    "category": "CTF",
+    "topics": ["CTF", "Web", "Cryptography"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "CpawCTF",
+    "organization": "CpawCTF",
+    "url": "https://ctf.cpaw.site/",
+    "description": "CTF初心者向けにセキュリティの基礎を学べる問題集",
+    "category": "CTF",
+    "topics": ["CTF"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "CTF101",
+    "organization": "CTF101",
+    "url": "https://ctf101.org/",
+    "description": "CTFで扱われる主要な分野や基本技術を解説する学習資料",
+    "category": "Training",
+    "topics": ["CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "HackerOne Hacktivity",
+    "organization": "HackerOne",
+    "url": "https://hackerone.com/hacktivity",
+    "description": "公開されたバグバウンティ報告から実際の脆弱性事例を学ぶための情報源",
+    "category": "Research",
+    "topics": ["Vulnerability"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "ANY.RUN",
+    "organization": "ANY.RUN",
+    "url": "https://any.run/",
+    "description": "マルウェアや不審ファイルの挙動を調査するインタラクティブなサンドボックス",
+    "category": "Analysis Tool",
+    "topics": ["Analysis"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Volatility 3",
+    "organization": "Volatility Foundation",
+    "url": "https://github.com/volatilityfoundation/volatility3",
+    "description": "メモリダンプを解析してデジタルフォレンジックを行うフレームワーク",
+    "category": "Analysis Tool",
+    "topics": ["Forensics", "Incident Response"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "CyberDefenders",
+    "organization": "CyberDefenders",
+    "url": "https://cyberdefenders.org/",
+    "description": "ブルーチームやデジタルフォレンジックの実践的な演習を提供",
+    "category": "Training",
+    "topics": ["Forensics", "Incident Response"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "CryptoHack",
+    "organization": "CryptoHack",
+    "url": "https://cryptohack.org/",
+    "description": "暗号技術を実践的な問題を通して学べる学習プラットフォーム",
+    "category": "Training",
+    "topics": ["Cryptography", "CTF"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "CRYPTREC",
+    "organization": "CRYPTREC",
+    "url": "https://www.cryptrec.go.jp/",
+    "description": "電子政府推奨暗号リストなど暗号技術に関する調査・評価情報",
+    "category": "Official Resource",
+    "topics": ["Cryptography"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "MITRE ATT&CK",
+    "organization": "MITRE",
+    "url": "https://attack.mitre.org/",
+    "description": "攻撃者の戦術・技術・手法を体系化したナレッジベース",
+    "category": "Threat Intelligence",
+    "topics": ["Threat Intelligence"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "JVN",
+    "organization": "JPCERT/CC・IPA",
+    "url": "https://jvn.jp/",
+    "description": "国内向けの脆弱性対策情報や注意喚起を提供",
+    "category": "Vulnerability Intelligence",
+    "topics": ["Vulnerability"],
+    "region": "JP",
+    "last_checked": ""
+  },
+  {
+    "title": "National Vulnerability Database (NVD)",
+    "organization": "NIST",
+    "url": "https://nvd.nist.gov/",
+    "description": "CVEを基にした脆弱性情報やCVSSなどの関連データを提供",
+    "category": "Vulnerability Intelligence",
+    "topics": ["Vulnerability"],
+    "region": "US",
+    "last_checked": ""
+  },
+  {
+    "title": "The Hacker News",
+    "organization": "The Hacker News",
+    "url": "https://thehackernews.com/",
+    "description": "サイバー攻撃、脆弱性、セキュリティ業界のニュースを配信",
+    "category": "News",
+    "topics": ["Threat Intelligence"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "SANS Internet Storm Center",
+    "organization": "SANS Institute",
+    "url": "https://isc.sans.edu/",
+    "description": "インターネット上の攻撃動向や不審な活動に関する観測情報を提供",
+    "category": "Threat Intelligence",
+    "topics": ["Threat Intelligence"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Burp Suite",
+    "organization": "PortSwigger",
+    "url": "https://portswigger.net/burp",
+    "description": "Webアプリケーションのセキュリティテストに利用するツール群",
+    "category": "Security Tool",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "OWASP ZAP",
+    "organization": "OWASP",
+    "url": "https://www.zaproxy.org/",
+    "description": "Webアプリケーションの脆弱性検査を支援するオープンソースツール",
+    "category": "Security Tool",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "Nmap",
+    "organization": "Nmap Project",
+    "url": "https://nmap.org/",
+    "description": "ネットワーク上のホストや開放ポートなどを調査するネットワーク探索ツール",
+    "category": "Security Tool",
+    "topics": ["Network"],
+    "region": "Global",
+    "last_checked": ""
+  },
+  {
+    "title": "sqlmap",
+    "organization": "sqlmap",
+    "url": "https://sqlmap.org/",
+    "description": "SQLインジェクションの検出と検証を自動化するオープンソースツール",
+    "category": "Security Tool",
+    "topics": ["Web"],
+    "region": "Global",
+    "last_checked": ""
   }
 ]
