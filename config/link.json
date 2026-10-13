@@ -794,7 +794,7 @@
     "organization": "OWASP",
     "url": "https://owasp.org/www-project-juice-shop/",
     "description": "実際のWebアプリケーションに近い脆弱性を学べる演習環境",
-    "category": "Education",
+    "category": "Training",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -804,7 +804,7 @@
     "organization": "OWASP",
     "url": "https://owasp.org/www-project-webgoat/",
     "description": "Webアプリケーションの脆弱性と対策を学ぶ教育用アプリケーション",
-    "category": "Education",
+    "category": "Training",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -814,7 +814,7 @@
     "organization": "DVWA",
     "url": "https://github.com/digininja/DVWA",
     "description": "Webアプリケーションの代表的な脆弱性を試せる意図的に脆弱な環境",
-    "category": "Education",
+    "category": "Training",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -824,7 +824,7 @@
     "organization": "徳丸浩",
     "url": "https://github.com/ockeghem/badtodo",
     "description": "Webアプリケーションの脆弱性学習に利用できるサンプルアプリケーション",
-    "category": "Education",
+    "category": "Training",
     "topics": ["Web"],
     "region": "JP",
     "last_checked": ""
@@ -834,7 +834,7 @@
     "organization": "Vulhub",
     "url": "https://vulhub.org/",
     "description": "Dockerを利用して既知の脆弱性を再現するための環境集",
-    "category": "Education",
+    "category": "Training",
     "topics": ["Vulnerability"],
     "region": "Global",
     "last_checked": ""
@@ -904,7 +904,7 @@
     "organization": "ksnctf",
     "url": "https://ksnctf.sweetduet.info/",
     "description": "Webや暗号などの問題を通してセキュリティ技術を学ぶCTF",
-    "category": "CTF",
+    "category": "Training",
     "topics": ["CTF", "Web", "Cryptography"],
     "region": "JP",
     "last_checked": ""
@@ -914,7 +914,7 @@
     "organization": "CpawCTF",
     "url": "https://ctf.cpaw.site/",
     "description": "CTF初心者向けにセキュリティの基礎を学べる問題集",
-    "category": "CTF",
+    "category": "Training",
     "topics": ["CTF"],
     "region": "JP",
     "last_checked": ""
@@ -930,21 +930,11 @@
     "last_checked": ""
   },
   {
-    "title": "HackerOne Hacktivity",
-    "organization": "HackerOne",
-    "url": "https://hackerone.com/hacktivity",
-    "description": "公開されたバグバウンティ報告から実際の脆弱性事例を学ぶための情報源",
-    "category": "Research",
-    "topics": ["Vulnerability"],
-    "region": "Global",
-    "last_checked": ""
-  },
-  {
     "title": "ANY.RUN",
     "organization": "ANY.RUN",
     "url": "https://any.run/",
     "description": "マルウェアや不審ファイルの挙動を調査するインタラクティブなサンドボックス",
-    "category": "Analysis Tool",
+    "category": "Tool",
     "topics": ["Analysis"],
     "region": "Global",
     "last_checked": ""
@@ -954,7 +944,7 @@
     "organization": "Volatility Foundation",
     "url": "https://github.com/volatilityfoundation/volatility3",
     "description": "メモリダンプを解析してデジタルフォレンジックを行うフレームワーク",
-    "category": "Analysis Tool",
+    "category": "Tool",
     "topics": ["Forensics", "Incident Response"],
     "region": "Global",
     "last_checked": ""
@@ -1034,7 +1024,7 @@
     "organization": "PortSwigger",
     "url": "https://portswigger.net/burp",
     "description": "Webアプリケーションのセキュリティテストに利用するツール群",
-    "category": "Security Tool",
+    "category": "Tool",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -1044,7 +1034,7 @@
     "organization": "OWASP",
     "url": "https://www.zaproxy.org/",
     "description": "Webアプリケーションの脆弱性検査を支援するオープンソースツール",
-    "category": "Security Tool",
+    "category": "Tool",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
@@ -1054,7 +1044,7 @@
     "organization": "Nmap Project",
     "url": "https://nmap.org/",
     "description": "ネットワーク上のホストや開放ポートなどを調査するネットワーク探索ツール",
-    "category": "Security Tool",
+    "category": "Tool",
     "topics": ["Network"],
     "region": "Global",
     "last_checked": ""
@@ -1064,7 +1054,7 @@
     "organization": "sqlmap",
     "url": "https://sqlmap.org/",
     "description": "SQLインジェクションの検出と検証を自動化するオープンソースツール",
-    "category": "Security Tool",
+    "category": "Tool",
     "topics": ["Web"],
     "region": "Global",
     "last_checked": ""
