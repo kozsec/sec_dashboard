@@ -21,16 +21,13 @@ fetch("config/link.json")
         filters.className = "link-filters";
 
         const selected = {
-            category: new Set(),
-            topics: new Set(),
-            region: new Set()
+            region: new Set(),
+            tags: new Set()
         };
 
         const filterDefinitions = [
             { key: "region", label: "地域" },
-            { key: "category", label: "カテゴリ" },
-            { key: "topics", label: "技術・目的" }
-            
+            { key: "tags", label: "タグ" }
         ];
 
         filterDefinitions.forEach(({ key, label }) => {
@@ -124,7 +121,7 @@ fetch("config/link.json")
         const thead = document.createElement("thead");
         const headerRow = document.createElement("tr");
 
-        ["タイトル", "公開組織", "分類", "最終確認日"].forEach(label => {
+        ["タイトル", "公開組織", "地域", "タグ", "最終確認日"].forEach(label => {
             const th = document.createElement("th");
             th.textContent = label;
             headerRow.appendChild(th);
@@ -138,40 +135,29 @@ fetch("config/link.json")
             const keyword = search.value.trim().toLowerCase();
 
             const filtered = links.filter(link => {
-                const topics = link.topics || [];
-                const category = link.category || "";
-                const region = link.region || "";
+            const tags = link.tags || [];
+            const region = link.region || "";
 
-                const searchable = [
-                    link.title,
-                    link.organization,
-                    link.description,
-                    category,
-                    region,
-                    ...topics
-                ].join(" ").toLowerCase();
+            const searchable = [
+                link.title,
+                link.organization,
+                link.description,
+                region,
+                ...tags
+            ].join(" ").toLowerCase();
 
-                const matchesKeyword = searchable.includes(keyword);
+            const matchesKeyword = searchable.includes(keyword);
 
-                const matchesCategory =
-                    selected.category.size === 0 ||
-                    selected.category.has(category);
+            const matchesTags =
+                selected.tags.size === 0 ||
+                [...selected.tags].some(tag => tags.includes(tag));
 
-                const matchesTopics =
-                    selected.topics.size === 0 ||
-                    [...selected.topics].some(topic =>
-                        topics.includes(topic)
-                    );
+            const matchesRegion =
+                selected.region.size === 0 ||
+                selected.region.has(region);
 
-                const matchesRegion =
-                    selected.region.size === 0 ||
-                    selected.region.has(region);
-
-                return matchesKeyword &&
-                    matchesCategory &&
-                    matchesTopics &&
-                    matchesRegion;
-            });
+            return matchesKeyword && matchesTags && matchesRegion;
+        });
 
             filtered.sort((a, b) =>
                 (a.organization || "").localeCompare(
@@ -217,14 +203,13 @@ fetch("config/link.json")
                 const organizationCell = document.createElement("td");
                 organizationCell.textContent = link.organization || "";
 
+                const regionCell = document.createElement("td");
+                regionCell.textContent = link.region || "";
+
                 const tagsCell = document.createElement("td");
                 tagsCell.className = "link-tags";
 
-                [
-                    link.category,
-                    ...(link.topics || []),
-                    link.region
-                ].filter(Boolean).forEach(value => {
+                (link.tags || []).forEach(value => {
                     const badge = document.createElement("span");
                     badge.className = "link-tag";
                     badge.textContent = value;
@@ -235,7 +220,13 @@ fetch("config/link.json")
                 dateCell.className = "link-date";
                 dateCell.textContent = link.last_checked || "未確認";
 
-                row.append(titleCell, organizationCell, tagsCell, dateCell);
+                row.append(
+                    titleCell,
+                    organizationCell,
+                    regionCell,
+                    tagsCell,
+                    dateCell
+                );
                 tbody.appendChild(row);
             });
 
