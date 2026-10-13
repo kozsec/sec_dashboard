@@ -1058,7 +1058,7 @@ footer::after {
 
 .link-filters {
     display: grid;
-    grid-template-columns: 120px 260px minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
     gap: 16px;
     margin-bottom: 12px;
 }
@@ -1767,8 +1767,8 @@ footer::after {
     }
 
     .link-filters {
-        grid-template-columns: max-content max-content minmax(0, 1fr);
-        gap: 6px;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
     }
 
     .link-filter-section:nth-child(1) .link-tag-filters,
