@@ -994,7 +994,7 @@
     "organization": "NIST",
     "url": "https://nvd.nist.gov/",
     "description": "CVEを基にした脆弱性情報やCVSSなどの関連データを提供",
-    "category": "Vulnerability Intelligence",
+    "category": "Official Resource",
     "topics": ["Vulnerability"],
     "region": "US",
     "last_checked": ""
