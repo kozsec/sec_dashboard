@@ -1297,5 +1297,17 @@
       "Tools",
       "Web"
     ]
+  },
+
+  {
+    "title": "セキュリティ対応組織の教科書 第3.2.2版",
+    "organization": "ISOG-J",
+    "url": "https://isog-j.org/output/2023/Textbook_soc-csirt_v3.html",
+    "description": "SOC・CSIRTの役割やセキュリティ運用を学ぶための教科書",
+    "region": "JP",
+    "last_checked": "2026/10/14",
+    "tags": [
+      "Incident Response"
+    ]
   }
 ]
