@@ -3,6 +3,339 @@
     "source": "Web",
     "date": "2026-10-13",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "ミズノ、 システム障害 で公式サイト閲覧できず 原因は「調査中」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF137PD0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "行政 システム障害 札幌・豊平区役所で電話不通も復旧 バッテリー故障が原因 函館市「ANSIN ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3008295?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "システム障害",
+    "title": "「銀のさら」「釜寅」「すし上等」のライドオンエクスプレス、サイバー攻撃で最大約650万件の ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2147767.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "システム障害",
+    "title": "最大650万件の個人情報が漏洩か 「銀のさら」などの運営会社で システム障害 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000539843.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "フランスで大手スーパーがサイバー攻撃被害 冷凍・冷蔵設備が標的に - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOCB1337Z0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてに ...",
+    "url": "https://news.yahoo.co.jp/articles/52788bcbdeb9861e014c248c497e0cc05f4f92eb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "神奈川・横須賀市「防災情報メール」などの個人 情報漏洩 の可能性 不正アクセスで | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16961271"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "穴吹ハウジングサービスがオーナーズサイトを一時停止、直ちに情報漏えいにつながるものでは ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/13/56435/55334.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "韓国・Dell、IBK企業銀行のバックアップ基盤にエアギャップ導入…サイバーレジリエンス強化",
+    "url": "https://finance.biggo.jp/news/5400e1a6-e2ae-498d-94ff-9098c96ce2f2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "会員のメールアドレス 漏えいの可能性―IDCフロンティアへの不正アクセスで一部メール配信停止",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/skyperfect_jsat_members_email_address_idcf_cyberattack/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「銀のさら」「釜寅」「すし上等」のライドオンエクスプレス、サイバー攻撃で最大約650万件の ...",
+    "url": "https://news.yahoo.co.jp/articles/b3320daa625d2c3c81499b0ab11a587ba1243fbf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "名古屋電機工業の子会社 インフォメックス松本、委託先データセンターへの ランサムウェア による ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/nagoya_denki_informex_matsumoto_ransomware_system_outage/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "情報漏えい",
+    "title": "テレ朝NEWS on X: \"「安全・安心メール」の個人 情報漏えい の可能性 神奈川・綾瀬市 https://t.co ...",
+    "url": "https://x.com/tv_asahi_news/status/2109920173440520411"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「スカパー！」契約者などのメールアドレス流出の可能性…ソフトバンク子会社の不正アクセスで",
+    "url": "https://www.yomiuri.co.jp/national/20261013-GYT1T00234/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 での情報漏洩「被害時には報告を」厚労省（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/823d77ac3eff36658c8c64f6b1ec2896a3d29d8b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "business.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "あなたの会社は大丈夫？ サイバー攻撃 、「有事」「平時」の対策チェックリスト - 日経ビジネス",
+    "url": "https://business.nikkei.com/atcl/seminar/19/00059/100900409/?ST=ch_dx"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "仏 約500店舗のスーパーに サイバー攻撃 冷蔵庫が50℃も… - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/000539819.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "冷蔵庫の温度50℃に上昇 フランス各地でスーパーマーケット数百店舗に大規模 サイバー攻撃 食品 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3007084"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "銀のさら・釜寅・すし上 等に不正アクセスによるサイバー攻撃、最大約650万件の個人情報漏えい ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/rideonexpress_ginsara_kamatora_sushijoto_6_5million_possible_data_leak/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "不正アクセス",
+    "title": "防災情報 配信 サービスのSpeeCAN RAIDENへの 不正アクセス によるサイバー攻撃のまとめ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/speecan_raiden_arcadia_cyberattack_affected_municipalitie/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】自治体の防災情報配信サービス、 不正アクセス で個人情報漏えいの可能性 新潟県内でも ...",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/923604"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【続報】大分県システム 不正アクセス 、漏えい疑い計3万7936件 防災メール登録者「全員」の ...",
+    "url": "https://newsdig.tbs.co.jp/articles/obs/3008737?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「緊急情報配信サービス」の個人 情報漏えい の可能性 神奈川・座間市 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000539901.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「緊急情報配信サービス」の個人 情報漏えい の可能性 神奈川・座間市 | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16961517"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "JR東海、顧客 情報漏えい か 1万5000人、不正アクセス - 47NEWS",
+    "url": "https://www.47news.jp/15076008.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "advertimes.com",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 報道が相次ぐ今、“謝罪会見CM”を放映 ジョーシスが伝えたかった企業が備えるべき ...",
+    "url": "https://www.advertimes.com/20261013/article560398/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ 情報漏えい の一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2147764.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "JR東海の通販サイトで 情報漏えい か ソフトバンク子会社の不正アクセス被害受け | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16961289"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】JR東海、1万5千人の顧客 情報漏えい か - 47NEWS",
+    "url": "https://www.47news.jp/15075750.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスによる 情報漏えい の事案増、経産省が注意喚起・情報提供の協力依頼 …",
+    "url": "https://news.yahoo.co.jp/articles/dd511407ab594f501b23436a32e64394bc243ffa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "最大650万件の個人 情報 が 漏洩 か 「銀のさら」などの運営会社でシステム障害 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9e07b7cf513aa13f3052ca2c2ccbfa6e632e34c5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "「銀のさら」運営会社、最大650万件の 情報 流出の恐れ 注文が停止 [不正アクセス] - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBF3G9RVBFULFA01FM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ個人 情報漏洩 は「重大事案」 運転免許証は\"特例の再交付\" 何が変わる？",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3009128?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "joetsu.yukiguni.town",
+    "identifier": "情報漏洩",
+    "title": "安全安心:【安全メール】上越市安全メールの個人 情報漏洩 の可能性について - 上越妙高タウン情報",
+    "url": "https://joetsu.yukiguni.town/saigai/339433/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "銀のさら運営 650万件 情報漏洩 か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6598636"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "joetsutj.com",
+    "identifier": "情報漏洩",
+    "title": "上越市民2万5000件のアドレスなど 漏洩 の可能性 「安全メール」委託企業に不正アクセス",
+    "url": "https://www.joetsutj.com/2026/10/13/184308"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "スマホアプリ解析しサーバー攻撃、 情報漏洩 の一因 NICTが特定 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOSG1383U0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-13",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "サイバー攻撃",
     "title": "AIによる「日本語の壁」崩壊が サイバー攻撃 急増の一因か…身代金交渉まで容易に？ “世界が ...",

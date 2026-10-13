@@ -4,6 +4,51 @@
     "date": "2026-10-13",
     "time": null,
     "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月13日 令和8年度前期試験（応用情報技術者試験、高度試験、情報処理安全確保支援士試験）におけるバウチャーチケットの購入申込受付を終了しました",
+    "url": "https://www.ipa.go.jp/shiken/2026/r08zen_voucher.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年10月13日 責任者向けプログラム サイバー企画演習（CyberSPEX）2026年度 東京開催の申込み受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/short-pgm/cyberspex/2026.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-13",
+    "time": "18:00",
+    "organization": "Ｐ－ネクストステージ",
+    "identifier": "359A",
+    "title": "サイバー攻撃による不正アクセス及び情報漏えい等に関するお知らせとお詫び",
+    "url": "https://www.release.tdnet.info/inbs/140120261013549964.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-13",
+    "time": "16:00",
+    "organization": "ライドオンＥＸＨＤ",
+    "identifier": "6082",
+    "title": "当社連結子会社におけるシステム障害発生に関するお知らせ（第２報）及びサイバー攻撃による個人情報漏えいの可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261013549728.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-13",
+    "time": "15:30",
+    "organization": "ブックオフＧＨＤ",
+    "identifier": "9278",
+    "title": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ(第2報)",
+    "url": "https://www.release.tdnet.info/inbs/140120261013549865.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-13",
+    "time": null,
+    "organization": "IPA",
     "identifier": "人材育成",
     "title": "2026年10月13日 【情報処理安全確保支援士】株式会社ブルーオーキッドコンサルティング 野村 陽子様 インタビューを掲載しました",
     "url": "https://www.ipa.go.jp/jinzai/riss/interview/riss/riss-interview17.html"
