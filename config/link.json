@@ -397,7 +397,7 @@
     "title": "MalwareBazaar",
     "organization": "abuse.ch",
     "url": "https://bazaar.abuse.ch/",
-    "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース。検体のダウンロードや実行には注意が必要",
+    "description": "マルウェアの検体やハッシュなどを調査・共有するためのデータベース",
     "region": "Global",
     "last_checked": "2026/10/13",
     "tags": [
@@ -716,9 +716,9 @@
     "title": "Shodan",
     "organization": "Shodan",
     "url": "https://www.shodan.io/",
-    "description": "インターネットに公開された機器やサービス、ポート、バナーなどの情報を調査する検索サービス",
+    "description": "インターネットに公開された機器、サービス、ポート等を調査するサービス",
     "region": "Global",
-    "last_checked": "",
+    "last_checked": "2026/10/14",
     "tags": [
       "Tools",
       "OSINT"
@@ -753,7 +753,7 @@
     "title": "ISO/IEC 27002:2022",
     "organization": "ISO",
     "url": "https://www.iso.org/standard/75652.html",
-    "description": "情報セキュリティ管理策の実施に関する指針。アクセス制御、暗号化、インシデント対応などを扱う",
+    "description": "情報セキュリティ管理策の実施に関する指針",
     "region": "Global",
     "last_checked": "",
     "tags": [
@@ -789,13 +789,13 @@
     "title": "ISO/IEC 27018",
     "organization": "ISO",
     "url": "https://www.iso.org/standard/76559.html",
-    "description": "パブリッククラウドで処理される個人識別可能情報（PII）の保護に関する指針。最新版の状態は公式ページで確認",
+    "description": "パブリッククラウドで処理される個人識別可能情報（PII）の保護に関する指針",
     "region": "Global",
     "last_checked": "",
     "tags": [
       "Guidelines",
       "Risk Management",
-      "PII"
+      "Privacy"
     ]
   },
   {
@@ -826,7 +826,7 @@
     "title": "ISO 22301:2019",
     "organization": "ISO",
     "url": "https://www.iso.org/standard/75106.html",
-    "description": "事業継続マネジメントシステム（BCMS）の要求事項を定める規格。IT-BCPや事業継続計画の整備に関連",
+    "description": "事業継続マネジメントシステム（BCMS）の要求事項を定める規格",
     "region": "Global",
     "last_checked": "",
     "tags": [
@@ -838,7 +838,7 @@
     "title": "ISO 19011:2026",
     "organization": "ISO",
     "url": "https://committee.iso.org/standard/19011",
-    "description": "マネジメントシステム監査の原則、監査プログラムの管理、監査の実施、監査員の力量評価に関する指針",
+    "description": "マネジメントシステム監査の原則、監査の実施、監査員の力量評価に関する指針",
     "region": "Global",
     "last_checked": "",
     "tags": [
@@ -888,9 +888,9 @@
     "title": "国民のためのサイバーセキュリティサイト",
     "organization": "総務省",
     "url": "https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/",
-    "description": "サイバーセキュリティの基礎知識や対策を紹介する情報サイト",
+    "description": "サイバーセキュリティの基礎対策を紹介する情報サイト。(更新停止?)",
     "region": "JP",
-    "last_checked": "",
+    "last_checked": "2026/10/14",
     "tags": [
       "Official Resource",
       "Awareness"
@@ -925,9 +925,9 @@
     "title": "XSS Game",
     "organization": "Google",
     "url": "https://xss-game.appspot.com/",
-    "description": "クロスサイトスクリプティングの仕組みを学ぶ演習ゲーム",
+    "description": "クロスサイトスクリプティングの仕組みを体験する演習ゲーム",
     "region": "Global",
-    "last_checked": "",
+    "last_checked": "2026/10/14",
     "tags": [
       "Training",
       "Web"
@@ -1317,5 +1317,14 @@
     "region": "JP",
     "last_checked": "2026/10/15",
     "tags": ["Incident Response"]
+  },
+  {
+    "title": "防衛省サイバーコンテスト",
+    "organization": "防衛省・自衛隊",
+    "url": "https://www.mod.go.jp/j/approach/defense/cyber/c_contest/index.html",
+    "description": "ネットワーク・プログラミング・暗号などの情報セキュリティ技術を競うコンテスト",
+    "region": "JP",
+    "last_checked": "2026/10/14",
+    "tags": ["CTF", "Training"]
   }
 ]
