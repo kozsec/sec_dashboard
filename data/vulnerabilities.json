@@ -5,11 +5,11 @@
     "product": null,
     "title": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.25982,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L",
     "published": "2026/10/13",
-    "last_update": "2026/10/13"
+    "last_update": "2026/10/14"
   },
   {
     "cve": "CVE-2026-96951",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Microsoft Windows Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.01506,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/10/13",
-    "last_update": "2026/10/13"
+    "last_update": "2026/10/14"
   },
   {
     "cve": "CVE-2015-5477",
@@ -665,11 +665,11 @@
     "product": null,
     "title": "Red Hat Libuser Race Condition Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08434,
+    "epss_current": 0.08503,
     "cvss": 7.4,
     "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/26",
-    "last_update": "2026/10/02"
+    "last_update": "2026/10/14"
   },
   {
     "cve": "CVE-2015-5287",
@@ -677,11 +677,11 @@
     "product": null,
     "title": "Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.04962,
+    "epss_current": 0.05003,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/26",
-    "last_update": "2026/08/27"
+    "last_update": "2026/10/14"
   },
   {
     "cve": "CVE-2022-0995",
@@ -689,11 +689,11 @@
     "product": null,
     "title": "Linux Kernel Out-of-Bounds Write Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08788,
+    "epss_current": 0.08859,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/26",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/14"
   },
   {
     "cve": "CVE-2026-8452",
