@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-10-14",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【速報】イズミに不正アクセス 会員メルマガ配信システム 最大４０万件の会員情報が漏えいの可能 ...",
+    "url": "https://news.yahoo.co.jp/articles/837de78efacecab265598f71b0f3f34d4b25fc95"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "鹿児島市のメール配信サービス、約1万1千件の個人 情報漏洩 の可能性 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/605b668e4538f1587bf17bd909e6b1a9b48e3a0e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "静岡市も4万人超の 情報漏洩 、不審メールも 静岡県内10市町に影響 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBG36CNVBGUTPB008M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "IDCFクラウドの不正アクセス、一部データは復元可能に データ流出は「確認されず」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2148186.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "バスケットボール協会のＨＰが ランサムウェア 被害、島田会長「新しいサイトの一日も早い再構築 ...",
+    "url": "https://www.yomiuri.co.jp/national/20261015-GYT1T00070/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 への対処能力向上狙い大阪府警、対策協議会総会 専門家が講演し手口解説",
+    "url": "https://www.sankei.com/article/20261014-Q4PGRVFVQ5MVZLKGT6NUYIA3ZY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「防災システム」運営会社に サイバー攻撃 多くの自治体が利用…混乱広がる｢大変なことに…｣",
+    "url": "https://news.ntv.co.jp/category/society/3da54f5ee4f34933855af961840680d2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2148069.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "バスケットボール協会のＨＰが ランサムウェア 被害、島田会長「新しいサイトの一日も早い再構築 ...",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20261015_gyt1t00070/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【メアドなど流出 300万件超か】大阪のIT会社「アルカディア」に 不正アクセス 全国の自治体に ...",
+    "url": "https://news.yahoo.co.jp/articles/a6ff0feeb0d246b18477e1a3a6bc953d8ea01443"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
     "organization": "x.com",
     "identifier": "サイバー攻撃",
     "title": "日テレNEWS NNN on X: \"「大変な事に…」 サイバー攻撃 で命を守るシステム混乱、防災メール停止 ...",

@@ -1,5 +1,53 @@
 [
   {
+    "cve": "CVE-2026-105134",
+    "company": "Ahsay",
+    "product": null,
+    "title": "Ahsay AhsayCBS Command Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01843,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/10/14",
+    "last_update": "2026/10/14"
+  },
+  {
+    "cve": "CVE-2026-76519",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/10/14",
+    "last_update": "2026/10/14"
+  },
+  {
+    "cve": "CVE-2026-105133",
+    "company": "Ahsay",
+    "product": null,
+    "title": "Ahsay AhsayCBS Improper Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00383,
+    "cvss": 5.5,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/10/14",
+    "last_update": "2026/10/14"
+  },
+  {
+    "cve": "CVE-2026-0322",
+    "company": "Palo Alto Networks",
+    "product": null,
+    "title": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 8.6,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:U/V:D/RE:M/U:Red",
+    "published": "2026/10/14",
+    "last_update": "2026/10/14"
+  },
+  {
     "cve": "CVE-2026-104935",
     "company": "Ivanti",
     "product": null,
