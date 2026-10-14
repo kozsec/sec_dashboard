@@ -4,6 +4,168 @@
     "date": "2026-10-14",
     "time": null,
     "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "JR東海、ECサイトの顧客情報約1.5万件漏えいか IDCFへの不正アクセスで ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/f22e5ec297a4e1442bdeb7978ae324ebcdafa22a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "PayPay証券 システム障害 が解消 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6598720"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 続くニッスイ子会社 来週中にも全面再開へ 全国17の全拠点で冷凍食品などの入 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3010612"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "秋田市「防災ネットあきた」、 不正アクセス 被害 1万6000件の登録者情報、漏えいか",
+    "url": "https://news.yahoo.co.jp/articles/2a6231f6b945149be91361237501cf39d7beb2e0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 被害が続発 東郷町のメール配信システムで約3700件の個人情報が漏えいした恐れ ...",
+    "url": "https://news.yahoo.co.jp/articles/ba6fb380a6b05de6f7cdcc8e1c872412a7d6d3e6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「ゆめタウン」のイズミ 最大40万件 情報漏洩 の可能性 「ゆめオンライン」「ゆめデリバリー」の ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3010071?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": null,
+    "title": "政府が相次ぐ情報漏洩に注意喚起、委託先の管理も要請 | 日経クロステック Active",
+    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00012/101301758/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": null,
+    "title": "TAC、AI時代のセキュリティ人材育成を 支援 する法人向けキャンペーンを実施｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000003016_000021078/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「銀のさら」運営会社 最大約650万件の個人情報漏えいの可能性 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-14-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "「VS Code」とローカルAIで記事執筆アプリを2時間で無料作成した方法 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35253351/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ConoHa WING byGMO に不正アクセス、不正プログラムを設置 3枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/14/56450/55153.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "city.himeji.lg.jp",
+    "identifier": "情報漏洩",
+    "title": "【重要なお知らせ】防災 情報 システム及び防災行政無線における不正アクセスについて | 姫路市",
+    "url": "https://www.city.himeji.lg.jp/emergencyinfo/0000000952.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "ドイツ「大物スパイマスター」逮捕の激震 危うい「人脈ビジネス」、中国などに 情報漏洩 か",
+    "url": "https://www.sankei.com/article/20261014-JMFSOJWHQBMFJKCMOMZRMH4BPY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "自治体向け防災 情報 サービスに不正アクセス、メアドなど320万件 漏洩 か - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF1427X0U6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "trafficnews.jp",
+    "identifier": "情報漏洩",
+    "title": "スズキもヤマハも「 情報漏洩 」 狙われたコミュニティサイト でも「漏れた情報が違う」ワケ",
+    "url": "https://trafficnews.jp/post/717706"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 、クラウドサービスが急所 顧客のスズキなど情報一斉流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「アルカディア」 不正アクセス 全国の自治体で“防災メール”サービス停止も - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000540061.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「アルカディア」 不正アクセス 受け…愛知県の複数の自治体でも個人情報漏洩の可能性 氏名の ...",
+    "url": "https://news.yahoo.co.jp/articles/9ac45fcdfc8e2e6c5a573dec583d51a2f37bc177"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
     "identifier": "不正アクセス",
     "title": "神奈川・横須賀市など県内4市でメールアドレス漏えいか 市から委託受ける会社に第三者による ...",
     "url": "https://news.yahoo.co.jp/articles/5f4cc790e967d1b257f56b32b0318f468c7091e8"
