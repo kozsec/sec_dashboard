@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-10-15",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "メドレーに 不正アクセス 、患者の個人情報流出の可能性（ロイター） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/dc158c2b2ec40fbdf03c9beb80f4bb942b5eefb4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "メドレーの医療システムに 不正アクセス 最大787機関で情報漏洩か - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC152JY0V11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "メドレー、産婦人科向けシステム停止 不正アクセス の可能性（アスキー） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3dd2114fc6d285d51c14bce8f28c9d700d10e0e4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "相次ぐ 不正アクセス 、マツダやスズキ、ヤマハ発、パナソニックなども一斉被害［新聞ウォッチ］ …",
+    "url": "https://news.yahoo.co.jp/articles/b94e1aa38ebb604701f849058f6626cd714100ca"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 の「下見」から侵入の疑いまで検知 ホームページ監視ソフト「小人さん」を10月15日 ...",
+    "url": "https://newscast.jp/smart/news/1378282"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 の「下見」から侵入の疑いまで検知 ホームページ監視ソフト「小人さん」を10月15日 ...",
+    "url": "https://www.atpress.ne.jp/news/640081"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "宮城県職員など１万３０００人の個人情報流出の恐れ 委託先システム会社が サイバー攻撃 の被害 ...",
+    "url": "https://news.yahoo.co.jp/articles/265c8a28ad9822c96eef6be9131ec868623cee9c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー犯罪件数 去年と比べ増加 富山県内上半期 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/n/knb/category/society/knfab6b858248f401596b0fa7060219c8d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ファインズの予約システムに不正アクセス、1,536,322件の予約者情報が影響 | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/15/56459.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "システム障害",
+    "title": "バスケ日本協会に システム障害 サイト委託先にサイバー攻撃 公式サイトなど完全復旧ほぼ不可能 ...",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/dailysports/sports/20261014096"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "システム障害",
+    "title": "日本バスケットボール協会 システム障害 で新サイト作成へ 島田慎二会長「１日でも早い再構築 ...",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/dailysports/sports/20261015007"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "不正アクセスで病院予約 障害 医療系IT、サービス停止（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9c17657bb7e048c97683e377a5b889ee41d93221"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ミズノ、 不正アクセス 受けた公式サイトを復旧 個人情報「流出せず」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF145AN0U6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "全国111の自治体などで 情報漏えい の可能性 “防災情報”IT会社へ不正アクセス メアドや電話番号 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3013448"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "福島市など６市町村で個人 情報漏えい か 防災情報配信社に不正アクセス | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/250699"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "jomo-news.co.jp",
+    "identifier": "情報漏えい",
+    "title": "群馬県内の７市で個人 情報漏えい か アルカディア不正アクセス 防災関連サービス登録者ら",
+    "url": "https://www.jomo-news.co.jp/articles/-/1043778"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ不正アクセス、個人 情報流出 …改正法で提供緩和が進んだら - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/521607"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "2026年の個人 情報漏えい が“異常事態”に…100万件以上の大規模事故がすでに10件【TSR調べ】 …",
+    "url": "https://news.yahoo.co.jp/articles/d702351a180efe39ddaeabda44a71284f67cab14"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "全国111自治体から「 情報漏えい のおそれ」報告…消防の出動指令にも影響か ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/ef812968b18826e896cca68a93dda03e72707b85"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
     "organization": "x.com",
     "identifier": "サイバー攻撃",
     "title": "日テレNEWS NNN on X: \"「防災システム」に サイバー攻撃 …全国約300自治体に影響か「あっては ...",

@@ -1,5 +1,41 @@
 [
   {
+    "source": "IPA",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年10月15日 国家資格「情報処理安全確保支援士」2026年10月1日付新規登録者は756名の内訳、登録者総数は26,424名の内訳を公開しました",
+    "url": "https://www.ipa.go.jp/jinzai/riss/reports/data/index.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-15",
+    "time": "15:30",
+    "organization": "ビューティガレージ",
+    "identifier": "3180",
+    "title": "当社ECサイトへの第三者からの不正アクセスによる情報漏洩に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261015551741.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-15",
+    "time": "15:30",
+    "organization": "Ｇ－ハルメクＨＤ",
+    "identifier": "7119",
+    "title": "当社HALMEK upサイトへの不正アクセスに関する調査結果のご報告（最終報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261015551040.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-15",
+    "time": "15:30",
+    "organization": "イエローハット",
+    "identifier": "9882",
+    "title": "イエローハットにおける不正アクセスによる個人情報漏えいに関する【第二報】",
+    "url": "https://www.release.tdnet.info/inbs/140120261015551164.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-15",
     "time": "09:00",
