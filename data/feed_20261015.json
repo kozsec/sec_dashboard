@@ -1,12 +1,12 @@
 [
   {
-    "source": "IPA",
+    "source": "適時開示",
     "date": "2026-10-15",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "人材育成",
-    "title": "2026年10月15日 国家資格「情報処理安全確保支援士」2026年10月1日付新規登録者は756名の内訳、登録者総数は26,424名の内訳を公開しました",
-    "url": "https://www.ipa.go.jp/jinzai/riss/reports/data/index.html"
+    "time": "17:00",
+    "organization": "ＡＣＣＥＳＳ",
+    "identifier": "4813",
+    "title": "連結子会社における不正アクセスの発生及び個人情報漏洩に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261015551574.pdf"
   },
   {
     "source": "適時開示",
@@ -36,6 +36,24 @@
     "url": "https://www.release.tdnet.info/inbs/140120261015551164.pdf"
   },
   {
+    "source": "海外",
+    "date": "2026-10-15",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Using TLS to protect data",
+    "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data"
+  },
+  {
+    "source": "海外",
+    "date": "2026-10-15",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Post-quantum updates to our TLS guidance",
+    "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-15",
     "time": "09:00",
@@ -43,5 +61,14 @@
     "identifier": "4480",
     "title": "当社サービス「アットリンク」への不正アクセス及びサービスの一時停止に関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261014550839.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年10月15日 国家資格「情報処理安全確保支援士」2026年10月1日付新規登録者は756名の内訳、登録者総数は26,424名の内訳を公開しました",
+    "url": "https://www.ipa.go.jp/jinzai/riss/reports/data/index.html"
   }
 ]
