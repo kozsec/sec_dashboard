@@ -5,11 +5,11 @@
     "product": null,
     "title": "Ahsay AhsayCBS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01843,
+    "epss_current": 0.03237,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:P/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/14",
-    "last_update": "2026/10/14"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-76519",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.01743,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/14",
-    "last_update": "2026/10/14"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-105133",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Ahsay AhsayCBS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00383,
+    "epss_current": 0.00666,
     "cvss": 5.5,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:P/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/14",
-    "last_update": "2026/10/14"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-0322",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.01076,
     "cvss": 8.6,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:U/V:D/RE:M/U:Red",
     "published": "2026/10/14",
-    "last_update": "2026/10/14"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-104935",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "Microsoft Windows Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01506,
+    "epss_current": 0.01512,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/10/13",
-    "last_update": "2026/10/14"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2015-5477",
@@ -293,11 +293,11 @@
     "product": null,
     "title": "Check Point Multiple Products Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.19654,
+    "epss_current": 0.75872,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/22",
-    "last_update": "2026/09/25"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-85102",
@@ -305,11 +305,11 @@
     "product": null,
     "title": "Check Point Multiple Products Improper Certificate Validation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.07546,
+    "epss_current": 0.504,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/22",
-    "last_update": "2026/09/29"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-7273",
@@ -341,11 +341,11 @@
     "product": null,
     "title": "Linux Kernel Race Condition Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01276,
+    "epss_current": 0.0131,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/18",
-    "last_update": "2026/10/05"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-53266",
@@ -557,11 +557,11 @@
     "product": null,
     "title": "N-able N-central Static Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.14509,
+    "epss_current": 0.13349,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/09/08",
-    "last_update": "2026/10/09"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-85880",
@@ -941,11 +941,11 @@
     "product": "Metabase",
     "title": "Metabase SQL Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.19048,
+    "epss_current": 0.97335,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/11",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/15"
   },
   {
     "cve": "CVE-2026-8037",
