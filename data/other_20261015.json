@@ -3,6 +3,222 @@
     "source": "Web",
     "date": "2026-10-15",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "全国で相次ぐ サイバー攻撃 命に関わる災害情報…熊本でも影響 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/fd6ff221d2898ca59717cc06a8c17cc441bb9c0f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "「うるう秒」廃止決定 国際会議 システム障害 懸念 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/shimen/20261016-GYT9T00136/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス を受けた情報サービス会社「アルカディア」、サービス復旧…情報漏えいの範囲は ...",
+    "url": "https://www.yomiuri.co.jp/national/20261015-GYT1T00409/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「防災システム」に サイバー攻撃 …全国約300自治体に影響か「あってはならないこと」",
+    "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/nation/ntv_news24-2026101509236355?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "shinmai.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アプリ糸口に サイバー攻撃 相次ぐ漏えい、AI悪用も - 信濃毎日新聞",
+    "url": "https://www.shinmai.co.jp/news/article/gfkn2026101501001256"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 が相次ぐ今「多層防御」で中小企業を守る NTT西日本が金沢で最新ICT展示会",
+    "url": "https://www.fnn.jp/articles/-/1133554"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "イエローハット、不正アクセスによるサイバー攻撃で179万7124人分の個人 情報漏えい を確認",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/yellowhat-data-leak-confirmed-1797124-20261015/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "game.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "バーガーキング、公式アプリで不正アクセスを確認。約1118万件の会員 情報 が 漏えい",
+    "url": "https://game.watch.impress.co.jp/docs/news/2148525.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "nikkan-gendai.com",
+    "identifier": "情報漏洩",
+    "title": "知らぬ間に医療 情報 ダダ漏れ…相次ぐサイバー攻撃に逆行する政府案「本人同意不要」の“大穴”",
+    "url": "https://www.nikkan-gendai.com/articles/view/news/394210"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "ソースネクスト、不正アクセスで個人 情報 流出か 最大2251万件 クレカ 情報 は含まれず",
+    "url": "https://www.sankei.com/article/20261015-GJ537TQB3NJF7BN2745YG3CRIE/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "警察や消防でも アルカディア“不正アクセス”問題 情報漏えい が拡大 東海3県まとめ（CBCテレビ）",
+    "url": "https://news.yahoo.co.jp/articles/6264184debcfa1053925822fd3907601cf34cb8d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "zakzak.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー被害「バーガーキング」が「焼肉きんぐ」を超える1118万件の恐怖 - zakⅡ",
+    "url": "https://www.zakzak.co.jp/article/20261015-GELR6GXVGFB7JIDKQSXKFZPQXI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "県立学校でも生徒のアドレスなど漏えい恐れ 「アルカディア」 不正アクセス で＜福島県",
+    "url": "https://news.yahoo.co.jp/articles/54fe2821b38677050ef343c58c84822075731507"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "chunichi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「アルカディア」 不正アクセス 問題、岐阜県内自治体への影響まとめ - 中日新聞",
+    "url": "https://www.chunichi.co.jp/article/1325257"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "バーガーキング、1118万件の会員 情報 が 漏洩 不正アクセス受け - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBH346NVBHULFA01TM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ソースネクスト、会員 情報 取得APIへの不正アクセスのよるサイバー ... - 合同会社ロケットボーイズ",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/sourcenext-member-data-api-unauthorized-access-22519960/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ローソン不正アクセスについて「セキュリティレベルが今の時代に追いついていなかった」 客数は ...",
+    "url": "https://news.yahoo.co.jp/articles/ceb6a8b5ecc6ad67403498854d2ba22e5f69b1e7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 、日本の電力網の急所1億カ所 蓄電池やEV普及でリスク増",
+    "url": "https://www.nikkei.com/article/DGXZQOUC141NS0U6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "サイバー攻撃",
+    "title": "フランスのスーパー350店超に サイバー攻撃 、冷蔵庫内が50度に上昇 - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20261015-5132905/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "通信事業者に サイバー 防衛義務化 委託先含めた管理要請、総務省検討 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA1427K0U6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "セキュリティーソフト会社も被害 「ソースネクスト」2200万件超の 情報 流出か - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000540500.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "ランサムウェア",
+    "title": "バーガーキングが謝罪 公式アプリ会員情報「約1,118万件」漏えい…第三者による不正アクセス ...",
+    "url": "https://www.sankei.com/article/20261015-CSRCW2LN6BJBDOCR4H3PTUPUHE/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "マウスコンピューター、メールアドレス 約42万件が情報漏えいの可能性―IDCFクラウドへの ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/mouse-computer-idcf-cloud-email-address-leak-risk-20261014/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "小池酸素工業、不正アクセスによるサイバー攻撃で流出疑いの電子ファイルがネット上に公開",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/koike-sanso-cyberattack-exitium-publication-followup/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-15",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "システム障害",
     "title": "「うるう秒」を廃止「うるう時間」導入へ 地球の自転の不規則性 秒の調整での“ システム障害 ”解消へ",
