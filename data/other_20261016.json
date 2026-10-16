@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-10-16",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "「コミックシーモア」サービス停止 不正アクセス の恐れ、NTT西系 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF161GC0W6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 被害のIT会社「アルカディア」全サービスを再開 自治体への防災情報などのメール ...",
+    "url": "https://news.yahoo.co.jp/articles/850606e73cb8c625c2a670ca0b9386f39c6c2e6a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "サイバー攻撃",
+    "title": "仏大手スーパーへの サイバー攻撃 、冷蔵設備に存在する脆弱性は数か月前から警告されていた ...",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/48110/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 を受け…総務省・通信事業者に事前対策義務付け検討 国による“業務一時 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3016700"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏えい",
+    "title": "AGEST、急増するサイバーセキュリティ攻撃や 情報漏えい への緊急対策としてAI ... - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000096.000137899.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "コミックシーモア サービスを一時停止 不正アクセス の可能性高まり緊急メンテ実施「調査進める」",
+    "url": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20261015-0414"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ACCESS台湾子会社「CROS」、不正アクセスによるサイバー攻撃で顧客ID15万5280件・カード ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/access-ap-taiwan-cros-bi-unauthorized-access-customer-card-leak-20261015/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "Web制作プラットフォーム「Studio」に不正アクセス、全顧客の 情報 に 漏えい の可能性",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/studio-cloud-unauthorized-access-form-api-keys-20261016/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "県警職員4千人分の名前、所属など 漏洩 か 不正アクセス受け 岡山 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBH41TRVBHPPZB003M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "IPA、不正アクセスによる 漏えい 等の事案を踏まえ速やかに実施すべき対策を公表",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/16/56474.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "《大規模な個人 情報漏えい 》県内の自治体などにも大きな影響【高知】 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/cbaeeb1fc7b390d73baa7a56e16658be166d8bde"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "フクビ化学工業 英語版ウェブサイトに不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/16/56478.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "you-yokkaichi.com",
+    "identifier": "システム障害",
+    "title": "四日市市も個人情報漏洩の可能性を発表、聴覚や言語に 障害 がある人の119番通報 システム の登録者",
+    "url": "https://www.you-yokkaichi.com/2026/10/15/51197/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "「うるう秒」廃止「うるう時間」導入へ 秒の調整での“ システム障害 ”解消へ 今後は「1時間ズレ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3016905?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ自治体の 情報漏洩 名古屋市でも557人分漏洩のおそれ 市役所全庁へ注意喚起（メ〜テレ ...",
+    "url": "https://news.yahoo.co.jp/articles/5819a5a9b6a7a93b233305c35a6e23502cfd1360"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "日経、個人 情報 183万件 漏洩 不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUD159VX0V11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "【企業一覧】個人 情報 の 漏洩 ・恐れを公表した企業など 随時更新",
+    "url": "https://www.nikkei.com/article/DGXZQODL160R40W6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
     "organization": "asahi.com",
     "identifier": "情報漏洩",
     "title": "情報漏洩 「システム発注、雑だった可能性も」 企業に求められるのは - 朝日新聞",

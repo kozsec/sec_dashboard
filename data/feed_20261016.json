@@ -4,6 +4,42 @@
     "date": "2026-10-16",
     "time": null,
     "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月16日 「AIセキュリティ短信 2026年10月号」を公開しました",
+    "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月16日 不正アクセスの被害企業向け「不正アクセス特別相談窓口」を開設しました",
+    "url": "https://www.ipa.go.jp/security/support/incident-support.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月16日 合格証明書交付申請の一時受付休止について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261016.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-16",
+    "time": "13:30",
+    "organization": "ブックオフＧＨＤ",
+    "identifier": "9278",
+    "title": "（訂正）「不正アクセスによる個人情報漏えいに関するお詫びとお知らせ(第2報)」の 一部訂正について",
+    "url": "https://www.release.tdnet.info/inbs/140120261016552215.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "IPA",
     "identifier": "試験情報",
     "title": "2026年10月16日 ITパスポート試験（令和8年8月実施）の合格証書は10月15日（木曜日）発送済です",
     "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pass.html"
