@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-10-16",
     "time": null,
+    "organization": "joetsutj.com",
+    "identifier": "不正アクセス",
+    "title": "「安全メール」 不正アクセス 問題で共産市議団が上越市に緊急申し入れ 全容解明と再発防止求める",
+    "url": "https://www.joetsutj.com/2026/10/16/183729"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【記者解説】相次ぐ 不正アクセス による情報漏洩…その背景と私たちがとるべき対策とは?",
+    "url": "https://news.yahoo.co.jp/articles/f79e4304ad8b9071de2008f2788c116d9bfb13c8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "システム障害",
+    "title": "日本郵便偽メール52万通 不正アクセスで送信…被害相次ぐ - サンスポ",
+    "url": "https://www.sanspo.com/article/20261016-VEZABH7VIRLSXM3CQZTUENUHSY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "システム障害",
+    "title": "業務支援 システム 「アットリンク」で不正アクセス 病院予約に 障害 - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_350610"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "chugoku-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「ゆめタウン」展開の地場流通大手イズミ 不正アクセスによる 情報漏えい は「なかったと判断」",
+    "url": "https://www.chugoku-np.co.jp/articles/-/910732"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "sakai-times.com",
+    "identifier": "情報漏えい",
+    "title": "堺市の防災情報配信システムで個人 情報漏えい のおそれ 市民886件が対象 - サカイタイムズ",
+    "url": "https://sakai-times.com/20261016-5/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "ヤマト運輸の後払いサービスに不正アクセス、約531万件の個人 情報 が 流出 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187530"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "【報道関係者向け】サイバーインシデント説明会｜VLCセキュリティ - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000082.000096155.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【速報】通販サイトの利用客など 約2335万件の 情報漏洩",
+    "url": "https://www.khb-tv.co.jp/news/16971815"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "corp.ryukyushimpo.jp",
+    "identifier": "情報漏洩",
+    "title": "Studio 株式会社で発生した不正アクセスによる個人 情報 流出の可能性についてのお知らせ",
+    "url": "https://corp.ryukyushimpo.jp/news/posts/Er2BSBOp"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "japantimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【第2報】当社グループ管理サーバーへの不正アクセスおよび 情報漏えい の可能性に関するご報告",
+    "url": "https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "京王電鉄Gへの ランサムウェア 攻撃でハッカー集団「Qilin」が声明 内部資料とされる画像も掲載 ...",
+    "url": "https://news.infoseek.co.jp/article/tbs_3019003/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "【解説】エムスリー・ACCESS・大和総研など不正アクセス11件、10月15日の公表を整理",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118934/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "三井不動産への不正アクセス、攻撃者による資格情報の不正利用を確認 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/16/56479/55347.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "ビーウィズ、急増する個人情報漏えい・サイバー攻撃事案に迅速対応する「緊急対応コンタクト ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000113.000118503.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "情報漏洩",
+    "title": "日本におけるウェブシステムの 情報漏洩 事件の急増 - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/web-systems-hit-by-consecutive-information-leakage-incidents/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "システム障害",
+    "title": "＜社説＞相次ぐ情報流出／AI悪用への対策を急げ|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/15094165.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "システム障害",
+    "title": "国内で続発、サイバー攻撃に備えよ 栃木県警 初セミナー 経営層に専門家が解説 - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1441407"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "システム障害",
+    "title": "通信事業者のサイバー対策義務化を検討―委託先の一体管理や事故時の業務停止権限も論点に",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/telecom-cybersecurity-mandate-outsourcing-mic-20261016/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-16",
+    "time": null,
     "organization": "ncctv.co.jp",
     "identifier": "サイバー攻撃",
     "title": "気象庁 サイバー攻撃 否定 SNS上に誤った情報拡散 緊急地震速報取り消し - NCC長崎文化放送",
