@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "BeyondTrust",
+    "product": "Remote Support",
+    "identifier": "CVE-2026-102764",
+    "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-102764&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "Fortinet",
+    "product": "Multiple Products",
+    "identifier": "CVE-2025-61624",
+    "title": "Fortinet Multiple Products Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-61624&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-16",
     "time": "19:15",
