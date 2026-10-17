@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-10-17",
     "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "システムの穴発見急増 ＡＩ普及、全世界で４万８千件 サイバー攻撃 標的、企業改修急務 - 福井新聞",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2724946"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "j-times.jp",
+    "identifier": "情報漏えい",
+    "title": "糸魚川市の移住サポートなど２サイトで個人 情報漏えい 恐れ ＨＰ制作サービスに不正アクセス",
+    "url": "https://j-times.jp/?p=153612"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "東北電子会社で個人 情報漏えい か - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/926299"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏洩",
+    "title": "日経、開発用クラウドに不正アクセス 認証 情報 を盗まれ個人 情報 約183万件が 漏えい",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/118954/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏洩",
+    "title": "ＡＩの脅威四季風（大）|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/15095181.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "初代サイバー警察局長の河原氏が語る、免許証流出が最も危険な理由と対処法",
+    "url": "https://news.livedoor.com/topics/detail/32591101/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "京王電鉄グループへの ランサムウェア 攻撃、ロシア系「Qilin」が犯行声明 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187559"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "室蘭消防メール 新規登録を停止 情報漏えい はなし - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1391681/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "不正アクセス",
+    "title": "東北電子会社で漏えいか 不正アクセス 約１８０人分 | 全国のニュース | 福井新聞Ｄ刊",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2724764"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「TEMAIRAZU シリーズ」を利用する宿泊施設の予約客に不審なメッセージを送信 3枚目の写真 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/16/56475/55345.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
     "organization": "natgeo.nikkeibp.co.jp",
     "identifier": "不正アクセス",
     "title": "【重要なお知らせ】 日本経済新聞社への 不正アクセス に伴う当社サービス利用者情報に関する ...",
