@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-10-17",
     "time": null,
+    "organization": "toonippo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "対策の立て直しを急げ／ サイバー攻撃 の脅威｜時論 - 東奥日報",
+    "url": "https://www.toonippo.co.jp/articles/-/2384707"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "通信事業者に サイバー攻撃 対策の強化義務…総務省が２２日に有識者会議（読売新聞オンライン）",
+    "url": "https://news.yahoo.co.jp/articles/fe36b497f1aa6607836f8a41f1b4ae6adc0e6c95"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ACCESS台湾子会社のEC支援サービスに不正アクセス 通販顧客15万件 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002329/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "インターネットから切り離した環境でもAIでインシデント対応を。SIGQ、閉域で完結する ...",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000032_000149500/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "世界で多発する中国系サイバー犯罪、中国だけ被害が少ない意外な理由 #エキスパートトピ",
+    "url": "https://news.yahoo.co.jp/expert/articles/5c65d3b628e9a6bf70466a9a542c6fc2dce4a95e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "サイバー攻撃",
+    "title": "テレ朝NEWS on X: \" サイバー攻撃 による情報漏えい4年で1.9倍 中小企業で被害拡大 フィッシング ...",
+    "url": "https://x.com/tv_asahi_news/status/2111270395030786344"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "iwate-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "岩手県内の医療機関でウェブ予約障害 医療系IT企業への 不正アクセス で | 岩手日報ONLINE",
+    "url": "https://www.iwate-np.co.jp/article/2026/10/16/197760"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経新聞、個人 情報漏えい 不正アクセスで１８３万件 | 共同通信 ニュース | 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1946184"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "警察官・職員２０００人の個人 情報 が 流出 した可能性…「アルカディア」不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/d2786a91c518c933c90fd908e38cb1d5a4cf62f7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "情報漏えい",
+    "title": "日経新聞、183万件の個人 情報漏えい - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1483713703392543283/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃による 情報漏えい 4年で1.9倍 中小企業で被害拡大 フィッシング急増 | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16972813"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経新聞、個人 情報漏えい 不正アクセスで１８３万件",
+    "url": "https://www.tokyo-np.co.jp/article/522029"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "サイバー攻撃",
     "title": "「AI以外ありえない」 サイバー攻撃 、無差別に会員情報サイト狙う",
