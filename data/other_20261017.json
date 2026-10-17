@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-10-17",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経新聞、クラウド保管の個人 情報 １８３万件 漏えい …ヤマト運輸・ファンケル・コミック ...",
+    "url": "https://www.yomiuri.co.jp/national/20261016-GYT1T00309/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 “ 漏えい ラッシュ”止まらず ヤマト運輸や日経新聞など大企業で相次ぐ…専門家は「二次 ...",
+    "url": "https://news.yahoo.co.jp/articles/28ca74f03fe9e4890199b7fbfa4c41abdb9ab460"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "corp.zaif.jp",
+    "identifier": "システム障害",
+    "title": "【復旧連絡】10/17 Zaifカード決済 システム の 障害 のお知らせ",
+    "url": "https://corp.zaif.jp/maintenance/20261017-1?hs_amp=true"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ファンケルグループ 不正アクセスで83万件個人情報流出 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3018900"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本郵便「調査請求Web受付」に不正アクセスによるサイバー攻撃、迷惑メール約52万通を送信",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/japan-post-international-inquiry-spam-520k-600-exposed/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "相次ぐ不正アクセス「運転免許証流出のリスクが最も高い」初代サイバー警察のトップが語る対処 ...",
+    "url": "https://news.yahoo.co.jp/articles/dc2357c73e807a2daf1a2241cf0ed1c40d6051a3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-17",
+    "time": null,
     "organization": "toonippo.co.jp",
     "identifier": "サイバー攻撃",
     "title": "対策の立て直しを急げ／ サイバー攻撃 の脅威｜時論 - 東奥日報",
