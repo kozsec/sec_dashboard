@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-10-18",
     "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "システム障害",
+    "title": "OpenCode、コンソール利用者の1.4%で第三者AI APIキーが流出した可能性がある侵害を報告",
+    "url": "https://finance.biggo.jp/news/5ffd7eb0-d2d8-4e94-ba55-1c6f3f7f25f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃で個人 情報 が 漏えい 、影響を「懸念する」８９％…読売世論調査｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/yomiuri_20261018_gyt1t00256/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "東北電・子会社 主催事業の客１８２人分の 情報流出 か 都内企業への不正アクセスで - 47NEWS",
+    "url": "https://www.47news.jp/15098639.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "情報漏えい",
+    "title": "福岡・苅田町と豊前市でも個人 情報 の 流出 恐れ 「アルカディア」の不正アクセス - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1550213/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "kochinews.co.jp",
+    "identifier": "情報漏えい",
+    "title": "高知県土佐市の消防本部、最大３８０人分の個人 情報漏えい の可能性 業者への不正アクセスで",
+    "url": "https://www.kochinews.co.jp/article/detail/1054728"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "kochinews.co.jp",
+    "identifier": "システム障害",
+    "title": "【ＡＩの脅威】対応へ国際的な協力を - 高知新聞",
+    "url": "https://www.kochinews.co.jp/article/detail/1055025"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "デーリー東北新聞社 個人 情報 が 漏えい か、423件 - 47NEWS",
+    "url": "https://www.47news.jp/15099598.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIはなぜ集団暴走したのか OpenAIの サイバー 事故を動画解説 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN150M70V11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れてい ...",
+    "url": "https://newsdig.tbs.co.jp/articles/kutv/3020110?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
     "organization": "gamespark.jp",
     "identifier": "サイバー攻撃",
     "title": "相次ぐ サイバー攻撃 、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文 ...",
