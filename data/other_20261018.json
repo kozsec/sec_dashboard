@@ -1,0 +1,74 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "さくらインターネット、Linuxカーネル重大な脆弱性「CVE-2026-99999」対応で新規申込を一時停止",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/sakura-linux-kernel-cve-2026-99999-service-restrictions/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "京王電鉄グループへの ランサムウェア 攻撃、ロシア系「Qilin」が犯行声明 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/a2db3712b2480f463ec4ecefe92e4a428d94d4da/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "【解説】海外サイバー事案21件、委託先や連携アプリが入口に｜BAE・ConnectWise・AOMEI",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119002/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "「スカイチケット」に 不正アクセス 6000人あまりのクレカ情報が流出 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32590724/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "WASABI SWITCH（ワサビスイッチ）で再び不正アクセスによる サイバー攻撃 、流出した管理者 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/wasabi-switch-reintrusion-stolen-admin-password-email-accounts/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ個人 情報漏洩 は“氷山の一角”？ AIによる無差別攻撃も…専門家が警告する“本当の恐怖”と ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/abematimes/business/abematimes-10281586?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "音楽イベントＨＰの問い合わせフォームに入力された個人 情報 、 漏えい の可能性…ＫＵＲＵＭＥ ...",
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261017-GYS1T00054/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃による 情報漏えい 急増―MM総研調査 : 300人以下の企業で被害拡大 | nippon.com",
+    "url": "https://www.nippon.com/ja/japan-data/h02929/"
+  }
+]
