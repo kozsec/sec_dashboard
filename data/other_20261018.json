@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-10-18",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "埼玉県警も情報漏えいの可能性…警察官ら職員 1万 3千人の個人情報 不正アクセスを受けた ...",
+    "url": "https://news.yahoo.co.jp/articles/0662e5fefaba057e21c995e62062ad5e0c6ddfdb/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "oricon.co.jp",
+    "identifier": "システム障害",
+    "title": "日経の情報漏えい、テレ東も影響か「サービス利用者が含まれている可能性」テレ東が発表 BSテレ ...",
+    "url": "https://www.oricon.co.jp/news/2487150/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 のお知らせ|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/15100549.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経の 情報漏えい 、テレ東も影響か「サービス利用者が含まれている可能性」テレ東が ... - 佐賀新聞",
+    "url": "https://www.saga-s.co.jp/articles/-/1812684"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "日経の 情報漏えい 、テレ東も影響か「サービス利用者が含まれている可能性 ... - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/oricon/business/oricon-2487150?fm=topics&fm_topics_id=a7f2f21378889c352beda4411c86cb9d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "ファンケルとアテニアに不正アクセス、会員情報約83万件が漏えい 決済情報と ... - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119011/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "IDCFクラウド、 ランサムウェア 攻撃後にバックアップサービスを再開―第6報、スナップショット ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/idcf-cloud-backup-restarted-sixth-report-20261018/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "JFA公式アプリに不正アクセス、一部機能を停止に｜Infoseekニュース",
+    "url": "https://news.infoseek.co.jp/article/gekisaka_461334/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
     "organization": "vietnam.vn",
     "identifier": "システム障害",
     "title": "投資家へのリスク転嫁をせずに、資金調達経路を拡大する。 - Vietnam.vn",

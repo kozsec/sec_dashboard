@@ -5,11 +5,11 @@
     "product": null,
     "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00601,
+    "epss_current": 0.0118,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/16",
-    "last_update": "2026/10/16"
+    "last_update": "2026/10/18"
   },
   {
     "cve": "CVE-2025-61624",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Fortinet Multiple Products Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0058,
+    "epss_current": 0.01081,
     "cvss": 6.0,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:H/A:H",
     "published": "2026/10/16",
-    "last_update": "2026/10/16"
+    "last_update": "2026/10/18"
   },
   {
     "cve": "CVE-2026-21589",
@@ -149,11 +149,11 @@
     "product": null,
     "title": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.19352,
+    "epss_current": 0.20136,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/10"
+    "last_update": "2026/10/18"
   },
   {
     "cve": "CVE-2015-3306",
