@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-18",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ログイン失敗を31秒で修正    AIが侵入から身代金要求まで自律実行 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/8357476d2aeb20b7d6be66a81d00ee5cfc454e51"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "東北電力子会社で個人 情報漏洩 か 約180人分、東京のHP運営企業に不正アクセス（写真・画像 1/1）",
+    "url": "https://www.sankei.com/article/20261017-5YJ4ROEF75OETNMHREMRPTCACY/photo/HRZZ5VIB7VGKPIQLQVA5WQTYCU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "徳島県警、警察官・職員約1900人の 情報漏えい のおそれ―アルカディアへの不正アクセス",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/tokushima-police-1900-arcadia-data-exposure-risks/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏洩",
+    "title": "埼玉県警も 情報漏えい の可能性…警察官ら職員1万3千人の個人情報 不正アクセスを受けた ...",
+    "url": "https://www.47news.jp/15099173.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "埼玉県警も情報漏えいの可能性…警察官ら職員1万3千人の個人情報 不正アクセス を受けた ...",
+    "url": "https://news.yahoo.co.jp/articles/0662e5fefaba057e21c995e62062ad5e0c6ddfdb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "システム障害",
+    "title": "うるう秒を27年に廃止、速まる地球の自転に対応 システム障害 回避 - 日本経済新聞",
+    "url": "https://newspicks.com/news/17715062/?ref=user_100438"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃相次ぐ中 サイバー犯罪捜査の技術競う 警察官らが参加しコンテスト 岡山県警",
+    "url": "https://topics.smt.docomo.ne.jp/article/ksb/region/ksb-16970034"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日経の 情報漏えい 、テレ東も影響か「サービス利用者が含まれている可能性 ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/0fc9d13f9b4c834b529fe48a740a6b39827a7552"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ジャパン・アーツ、Googleアカウントへ不正アクセスされ個人 情報漏洩 の恐れ-社員を装った ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/japan-arts-google-account-phishing-5376-contacts-20261016/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "AI時代に相次ぐ企業へのサイバー攻撃 浮き彫りになった「基本対策」の難しさ 専門家が解説",
+    "url": "https://topics.smt.docomo.ne.jp/article/maidonanews/business/maidonanews-16962363?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏洩",
+    "title": "【解説】Astemo・岩井コスモ証券・函館市など5件、委託先に関わる不正アクセスを整理",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119020/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "oricon.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日経の 情報漏えい 、テレ東も影響か「サービス利用者が含まれている可能性 ... - オリコンニュース",
+    "url": "https://www.oricon.co.jp/news/2487150/full/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AIが冷蔵庫や掃除機を「乗っ取り」?パスワードも流出…身近なスマート家電に迫る サイバー攻撃 の ...",
+    "url": "https://news.yahoo.co.jp/articles/d03e068fe2f6b44faa5c28802c39401d88512642"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "メドレー「アットリンク」不正アクセスによる サイバー攻撃 、調査長期化-10/19 月に見通し発表",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/medley-atlink-restart-outlook-october19-investigation-update-20261018/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文 ...",
+    "url": "https://news.yahoo.co.jp/articles/a7d49f9720c8bff82391ae094912ee9e805bfb36"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-18",
+    "time": null,
     "organization": "rocket-boys.co.jp",
     "identifier": "ランサムウェア",
     "title": "さくらインターネット、Linuxカーネル重大な脆弱性「CVE-2026-99999」対応で新規申込を一時停止",
