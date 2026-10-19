@@ -3,6 +3,132 @@
     "source": "Web",
     "date": "2026-10-19",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "帝国データバンク、「 情報漏洩 に関する企業アンケート」の結果を発表 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP714016_Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "trafficnews.jp",
+    "identifier": "情報漏洩",
+    "title": "タイムズ「 情報漏洩 660万件」はタテ割りの弊害か 「不要になったらデータ破棄」されずにダダ ...",
+    "url": "https://trafficnews.jp/post/719018"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "BASE子会社の「Eストアー」、2336万人の 情報漏えい - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149147.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "16.2％の企業で「 情報漏洩 が発生」 帝国データがアンケート、不正アクセスの被害深刻",
+    "url": "https://www.sankei.com/article/20261019-ZWXGAMKXPFL7TILYG6O5WDJU64/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "projectdesign.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 、企業の16.2％が経験 大企業は3割、『分からない』も14.8％ 帝国データバンク調査",
+    "url": "https://www.projectdesign.jp/articles/news/6c618928-d382-42ba-b2a3-2d1da8d27648"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "tdb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 に関する企業アンケート｜株式会社 帝国データバンク[TDB]",
+    "url": "https://www.tdb.co.jp/report/economic/20261019-databreach/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "note.com",
+    "identifier": "ランサムウェア",
+    "title": "流出のべ1億6500万人分の衝撃！サイバー攻撃の連鎖で受注が積み上がるセキュリティ・本人 ...",
+    "url": "https://note.com/tatsuya_sabato/n/n59df0f60ce61"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "老舗ECプラットフォームのEストアー「ショップサーブ」への 不正アクセス 、利用店舗7858店で ...",
+    "url": "https://netshop.impress.co.jp/n/2026/10/19/16881"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】ジェトロに 不正アクセス 、ホームページ停止 - 47NEWS",
+    "url": "https://www.47news.jp/15103875.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ゲオ、 不正アクセス でサービス停止 店舗ではPontaカードを案内（アスキー） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1a63aa8ea727268bbf738ad38e05044d3f2c29c8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス による漏えい情報悪用か、詐欺メール相次ぎ確認…「宿泊予約の確認」装いカード ...",
+    "url": "https://www.yomiuri.co.jp/national/20261019-GYT1T00174/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "市運営の斎場予約システムに不正アクセス、死亡者氏名など８８００件漏えいの可能性…運用を停止",
+    "url": "https://www.yomiuri.co.jp/national/20261018-GYT1T00284/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "fashionsnap.com",
+    "identifier": "システム障害",
+    "title": "阪急・阪神百貨店が不正アクセス被害 カード情報流出の可能性も",
+    "url": "https://www.fashionsnap.com/article/2026-10-19/h2o-unauthorized-access/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "Ｊｏｓｈｉｎ－後場上げ幅縮小 不正アクセスで システム障害 一部サービス停止 - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/f0cbad9a48f848c9a23a440a2280ee0a371bc084"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "サイバー攻撃",
     "title": "なぜ日本ばかりが狙われるのか？ サイバー攻撃 が集中する本当の理由 #エキスパートトピ …",

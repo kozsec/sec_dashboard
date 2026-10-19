@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月19日 「情報セキュリティ白書2026」を発刊しました",
+    "url": "https://www.ipa.go.jp/publish/wp-security/2026.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-19",
+    "time": "12:30",
+    "organization": "Ｊｏｓｈｉｎ",
+    "identifier": "8173",
+    "title": "不正アクセスによるシステム障害発生のお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261019552813.pdf"
+  }
+]
