@@ -3,6 +3,285 @@
     "source": "Web",
     "date": "2026-10-19",
     "time": null,
+    "organization": "x.com",
+    "identifier": "情報漏えい",
+    "title": "日テレNEWS NNN on X: \"企業の 情報漏えい 約16％「発生した」メール誤送信やサイバー攻撃で ...",
+    "url": "https://x.com/news24ntv/status/2112067614096937267"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "KPMGジャパン、「サイバーセキュリティサーベイ2026/27」（速報版）を発表 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000411.000088324&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "JETRO 不正アクセス受けHPの公開停止（テレ朝NEWS） - ｄメニューニュース - NTTドコモ",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-000541210"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "【解説】JFA Passport・カーセンサー・Joshinなど6件、不正アクセスと不審なアクセスの公表を整理",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119035/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「被害はまだ始まったばかり」 個人情報流出にAI悪用の脅威 トレンドマイクロが支援策",
+    "url": "https://news.yahoo.co.jp/articles/361f8ad6698307302a464bf9970460e2ecb402df"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "group.nec",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、霞ケ関駅・東京駅など首都圏主要駅で「.JPを守る」メッセージを掲出 日本の サイバー 空間 ...",
+    "url": "https://group.nec/jp/ja/solutions/cybersecurity/topics/261019"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "情報漏洩、大企業の3割が経験 サイバー攻撃 や人為的ミスで",
+    "url": "https://www.nikkei.com/article/DGXZQOUC196VC0Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "トレンドマイクロCEO、 サイバー攻撃 「始まったばかり」 AI防御訴え - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC191U20Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ不正アクセスや サイバー攻撃 、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日本貿易振興機構（JETRO） 不正アクセス 受け ホームページ公開停止 情報漏洩有無は調査中",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3022550"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ニフティ、回線申込・受付管理システムに不正アクセス。最大約54万件の個人 情報漏えい の可能性",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2149373.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "阪急阪神百貨店、会員 情報漏えい １２６万件、不正アクセス相次ぐ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026101900640&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 、企業の16％が経験 サイバー攻撃に警戒感＝帝国データ - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20261019050"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい やその可能性ある事案、企業１６％経験・大企業では３割…中小企業「分からない ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261019-GYT1T00328/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "ncctv.co.jp",
+    "identifier": "システム障害",
+    "title": "諫早市の道の駅ウェブサイトから情報漏洩か サイト制作サービスに不正アクセス | 長崎ニュース",
+    "url": "https://www.ncctv.co.jp/news/article/16976814"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "システム障害",
+    "title": "家電量販のJoshinが不正アクセスで一部サービス停止 個人情報漏えいも調査 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-19-07/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "「インクルーシブ雇用推進事業」サイトに不正アクセス 企業名など23件漏えいか 市立図書館HP ...",
+    "url": "https://newsdig.tbs.co.jp/articles/sbs/3022686"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "「インクルーシブ雇用推進事業」サイトに不正アクセス 企業名など23件漏えいか 市立図書館HP ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3022686?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "なぜPayPay証券は「みずほ証券」の システム障害 の影響を受けたのか - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/expert/articles/00c2045c62195dcaef439d0ef64c672e09d51093"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ニフティに 不正アクセス 最大54万件の顧客情報流出の可能性 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC199670Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ソフトバンク、ウェブ版「My SoftBank」を停止 不正アクセス の試みを検知で - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e22defb2aff334a624e3642b68b6d74904326e1b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ソフトバンク、「My SoftBank」一時停止 不正アクセス の試み検知 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC199JO0Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "阪急阪神、ニフティ、ふるさとチョイス【19日判明の不正アクセス】 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "ニフティ最大54万件の個人 情報 流出恐れ システムに不正アクセス、氏名や住所 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261019-PBAQ2W4WKBPILHZKU4QKGYTHWM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "不正アクセス阪急阪神百貨店にも・・・ 約１２６万件の 情報漏えい と発表 現時点で不正利用などは ...",
+    "url": "https://news.yahoo.co.jp/articles/c2d134e15b59911a292e8e465d6db2925ff79b7d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "消し忘れていた“たった1つのアカウント”が原因だった… サイバー攻撃 の被害に ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/62a799793b9faa9be6c09f65d552f49280a64910"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "oricon.co.jp",
+    "identifier": "情報漏えい",
+    "title": "阪急阪神百貨店、約126万件の顧客 情報漏えい か 予約サイトなどに不正アクセス",
+    "url": "https://www.oricon.co.jp/news/2487436/full/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "情報漏えい",
+    "title": "埼玉県警で職員 情報流出 か アルカディア不正アクセス | 全国のニュース | 福井新聞ONLINE",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2725720"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスの影響は医療機関にも…相次ぐ 情報漏えい に私たちがとるべき対策は？名古屋の ...",
+    "url": "https://news.yahoo.co.jp/articles/ee8077453e99a877942307432d04f0d9bbbe4d52"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】ジェトロ、743件の個人 情報漏えい - 47NEWS",
+    "url": "https://www.47news.jp/15106912.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "sakigake.jp",
+    "identifier": "情報漏えい",
+    "title": "県「あきたデジタルアカデミー」 １６４人分の 情報漏えい か ウェブ事業者へ不正アクセス",
+    "url": "https://www.sakigake.jp/news/article/20261019AK0040/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "情報漏えい 、企業の16％が経験 サイバー攻撃に警戒感＝帝国データ - Yahoo!ニュース",
