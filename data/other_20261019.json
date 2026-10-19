@@ -1,0 +1,65 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "なぜ日本ばかりが狙われるのか？ サイバー攻撃 が集中する本当の理由 #エキスパートトピ …",
+    "url": "https://news.yahoo.co.jp/expert/articles/d63eb3c458eaec27bc6c11f92cb63d34f4371bf7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "唐津市情報メール配信サービスを業務委託しているアルカディアに不正アクセス | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/19/56492.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "加古川市の職員メール配信システムを運用する事業者に不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/19/56491.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "rocket-boys.co.jp",
+    "identifier": "情報漏洩",
+    "title": "MAPPA EXPO公式サイト、問い合わせ 情報 に 漏えい の可能性―Studio不正アクセスで氏名 ...",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/mappa-expo-studio-unauthorized-access-contact-form-20261017/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "不正アクセスで 情報 流出の被害者、知らぬ間に犯罪の共犯者にされる恐れも - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32599102/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.mynavi.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア に感染したらどうする？ NECの体験アプリで対応を学ぶ - マイナビニュース",
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5139654/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 攻撃、暗号化前の『データ窃取』が急増 前月比75.6%増",
+    "url": "https://japansecuritysummit.org/2026/10/15081/"
+  }
+]
