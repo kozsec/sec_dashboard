@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-10-19",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 、企業の16％が経験 サイバー攻撃に警戒感＝帝国データ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bddc48e8f4acf13ad710c996a38c60eb9319e437"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "家電量販のJoshin、不正アクセスで一部サービス停止 個人 情報漏えい 「可能性否定できず」",
+    "url": "https://news.yahoo.co.jp/articles/240b253d5c27c80f744380dcf598c62933a3cb32"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "企業の 情報漏えい 約16％「発生した」メール誤送信やサイバー攻撃で - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/c597c48a1cb4482e8bd28b3332653353"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "note.com",
+    "identifier": "システム障害",
+    "title": "物流ニュースなび【26年10月19日号】直接攻撃から管理委託先クラウドへの攻撃まで 相次ぐ不正 ...",
+    "url": "https://note.com/clever_spirea107/n/na9d6b59e95d3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "f1-gate.com",
+    "identifier": "システム障害",
+    "title": "F1の システム障害 続発にブランドル警鐘「疲労の兆候が見える」 | F1-Gate.com",
+    "url": "https://f1-gate.com/fia/229205.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "日本サッカー協会や「カーセンサー」に不正アクセス 一部機能や全サービスを ... - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3020661?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "システム障害",
+    "title": "ジョーシンに不正アクセス、一部サービス停止 個人情報流出の有無を調査 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253712/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "システム障害",
+    "title": "H2Oの システム に不正アクセス 顧客126万件の個人情報漏えい - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1484796082208325650/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ジョーシンに不正アクセス、一部サービス停止 個人情報流出の有無を調査 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bee1897f6b5f647107191d320d9a6577d47fe6a8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "JETRO 不正アクセス受けHPの公開停止 - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16975991"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "ランサムウェア",
+    "title": "フランスのサイバーセキュリティ：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://newscast.jp/smart/news/6737853"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "game.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「FFXIV」が 不正アクセス とアカウント管理に関する注意喚起を発表 - GAME Watch",
+    "url": "https://game.watch.impress.co.jp/docs/news/2149288.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "Joshinに 不正アクセス 、一部サービス停止 個人情報流出の恐れも - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF193AR0Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "阪急阪神百貨店運営のイベント予約サイトに 不正アクセス 、会員１２６万人の氏名や住所など漏えい",
+    "url": "https://www.yomiuri.co.jp/national/20261019-GYT1T00245/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "「ゲオ」「セカスト」がアプリやEC停止、 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC193EE0Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス による漏えい情報悪用か、詐欺メール相次ぎ確認…「宿泊予約の確認」装いカード ...",
+    "url": "https://news.yahoo.co.jp/articles/4fb303b1206e350d8f6fbda56d42bcd1c5f081c4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "情報漏洩",
     "title": "帝国データバンク、「 情報漏洩 に関する企業アンケート」の結果を発表 - 日本経済新聞",
