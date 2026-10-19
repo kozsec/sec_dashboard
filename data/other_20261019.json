@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-10-19",
     "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "My SoftBank」「My Y!mobile」「My Menu」サイトを一時停止、不正アクセスの試行を受け",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2149432.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "メール配信システム会社「ユミルリンク」に不正アクセス メールアドレスなど約 900万件の個人 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/tbs/business/tbs-3023207"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "『サイバー攻撃被害の報道が相次ぐ中、Webサイトはどう守る？』というテーマのウェビナーを開催",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000005895_000054842/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「実践的訓練」で サイバー攻撃 へ備え 「ふるさとチョイス」「ニフティ」「阪急阪神百貨店」19日 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3023276"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "阪急・阪神百貨店も個人 情報漏洩 予約サイト経由126万件 クレジットカード漏洩も調査（産経新聞）",
+    "url": "https://news.yahoo.co.jp/articles/1d44c0b79eb3b88b1ac293f32ea4986828548075"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏えい",
+    "title": "阪急阪神百貨店、約126万件の顧客 情報漏えい か 予約サイトなどに不正アクセス - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261019-VQLK6CXT5ZK2ND6KYXOJNTMJJM/?outputType=theme_oriconnews"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "webtan.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ノーコードWeb制作「Studio」が不正アクセスで全顧客 情報流出 の可能性、パスワード変更など要請",
+    "url": "https://webtan.impress.co.jp/n/2026/10/19/53467"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい やその可能性ある事案、企業１６％経験・大企業では３割…中小企業「分からない ...",
+    "url": "https://news.yahoo.co.jp/articles/ba8d154147d3a14f4e733f391760ebd9afa5c998"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 、企業の16％が経験 大企業は3割 帝国データ調査（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/51f57164c32f8d952fb4323ca61c5cdad6fda368"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "Ｈ２Ｏで顧客１２６万件漏えい 各社で 不正アクセス 相次ぐ - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/522517"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "メール配信システム会社「ユミルリンク」に 不正アクセス メールアドレスなど約900万件の個人 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3023207"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "システム障害",
+    "title": "栃木県警全職員の情報流出か アルカディア不正アクセスで - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1443587"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス 第4報 2枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/19/56499/55394.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃受け 情報漏えい 、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡",
+    "url": "https://www.yomiuri.co.jp/national/20261019-GYT1T00477/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本へのサイバー攻撃が急増、AIが「黒幕」なのか？ 消えた「言語の壁」と ... - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/b0a88a9c52ad9d69d1209cad0d594c0c207f4afe"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「阪急阪神百貨店」公式通販などに 不正アクセス 約126万件の個人情報が漏えい ... - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3022769?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ソフトバンク、「My SoftBank」など会員向けWebサイトを一時停止 不正アクセス の試みを検知",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2149436.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "不正アクセス",
+    "title": "GMO系、日本企業狙う 不正アクセス の攻撃元にAIツール「ARTEX」確認 標的は約20社",
+    "url": "https://www.sbbit.jp/article/cont1/187590"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-19",
+    "time": null,
     "organization": "x.com",
     "identifier": "情報漏えい",
     "title": "日テレNEWS NNN on X: \"企業の 情報漏えい 約16％「発生した」メール誤送信やサイバー攻撃で ...",
