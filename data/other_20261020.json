@@ -3,6 +3,213 @@
     "source": "Web",
     "date": "2026-10-20",
     "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "ソフトバンク、ウェブ版「My SoftBank」を停止 不正アクセス の試みを検知で - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253735/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「My Softbank」に 不正アクセス の試み Webを一時停止 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149441.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "阪急阪神百貨店などの共通ID、ほぼ全会員分漏えい 約126万件 予約サイトに 不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002398/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日本企業狙う 不正アクセス 攻撃元に「中国製AIツール」、約20社が標的 GMO系が確認",
+    "url": "https://news.yahoo.co.jp/articles/496c46ba84c81bc5f63747a792b039f556206e95"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "ニッスイ子会社、完全復旧 - システム障害 の物流業務 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1811257"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "システム障害",
+    "title": "ニッスイ子会社、完全復旧 システム障害 の物流業務 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/522722?rct=economics"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「侵入経路塞いだが、バックドアから……」 不正アクセス 105時間の攻防、分単位で報告 防災 ...",
+    "url": "https://news.yahoo.co.jp/articles/9fb75a2745fde09c43cca37ef635b3f443b83344"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「My SoftBank」「My Y!mobile」などを一時停止 「第三者による 不正アクセス の試みがあった」",
+    "url": "https://news.yahoo.co.jp/articles/8c681ff14f7038abee5747edce195d9ed7ecc563"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "神奈川、埼玉、群馬の各県警で警察官などの個人 情報 流出か 不正アクセス受けた「アルカディア ...",
+    "url": "https://news.yahoo.co.jp/articles/abf566054c40bd79fbb26399db111bf33efbd3e3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "不正アクセス被害相次ぐ 個人 情報 流出やサービス停止 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d68fd773bdb006bcce6d67a0f5cb5eadfd52b397"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい は「権利侵害」    続発する被害で問われる経営責任と法規制の行く末",
+    "url": "https://forbesjapan.com/articles/detail/106565"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ニフティも 情報漏えい 、光回線の申込データ最大54万件 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149561.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "神奈川・埼玉・栃木・群馬の各県警で警察官などの個人 情報 大量に 漏えい か 不正アクセスされた ...",
+    "url": "https://news.ntv.co.jp/category/society/24d9720c0eab43fc97fb75d65cdb92cf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "ランサムウェア",
+    "title": "急増するサイバー攻撃に立ち向かう！ 名古屋テックが「ホワイトハッカー」育成を強化",
+    "url": "https://newscast.jp/smart/news/3320677"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "日本経済新聞社がシステム開発に利用するクラウドサービスに不正アクセス、約183万件の個人 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/20/56513.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "ランサムウェア",
+    "title": "「お詫びメール」から読むサイバーセキュリティ用語｜事故の流れで分かる58語 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119056/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "自宅玄関にマトリョーシカ ～ ランサムウェア 攻撃の 37 ％で関係者個人に心理的・身体的脅迫 ...",
+    "url": "https://newspicks.com/news/17727138/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "tv-tokyo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "豊富な実績を持つ当社が、サイバーインシデント対応のノウハウを提供／『 ランサムウェア ...",
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/282906.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本企業への サイバー攻撃 一部で中国系AIを使用か “約80社が標的”に システムの脆弱性を自律 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3023948?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "マシンスピード化する サイバー攻撃 にどう立ち向かうか--日本IBMが示す自律型セキュリティ",
+    "url": "https://japan.zdnet.com/article/35253775/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "急増する サイバー攻撃 に立ち向かう！ 名古屋テックが「ホワイトハッカー」育成を強化",
+    "url": "https://www.atpress.ne.jp/news/642030"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセスにAIの痕跡 複数機関が分析、 攻撃 者の「道具箱」に - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBN1RK4VBNUTIL02FM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、システム開発の委託先に サイバー攻撃 顧客3社の情報漏洩 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2081V0Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
     "organization": "khb-tv.co.jp",
     "identifier": "情報漏えい",
     "title": "約3割の大企業が「 情報漏えい 」経験 中小企業は費用や人材の制約が課題 | khb東日本放送",

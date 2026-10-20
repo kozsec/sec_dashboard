@@ -1,12 +1,21 @@
 [
   {
-    "source": "IPA",
+    "source": "適時開示",
     "date": "2026-10-20",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "人材育成",
-    "title": "2026年10月20日 サイバー脅威の動向と企業が行うべき対策（トークセッション in 那覇）の申込み受付を開始しました",
-    "url": "https://www.ipa.go.jp/jinzai/ics/event/event-20261204.html"
+    "time": "18:35",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261020553586.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-20",
+    "time": "18:30",
+    "organization": "Ｇ－Ｇｌｏｂｅｅ",
+    "identifier": "5575",
+    "title": "第三者による不正アクセスおよび個人情報漏えいのおそれに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261020553707.pdf"
   },
   {
     "source": "適時開示",
@@ -25,5 +34,32 @@
     "identifier": "2152",
     "title": "当社ネットワークへの不正アクセスに関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261020553396.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-10-20",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Introducing a new AI chapter in the NCSC research problem book",
+    "url": "https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月20日 サイバーセキュリティお助け隊サービス第14回適合審査結果を公表しました",
+    "url": "https://www.ipa.go.jp/security/sme/otasuketai/servicelist/index.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年10月20日 サイバー脅威の動向と企業が行うべき対策（トークセッション in 那覇）の申込み受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/event/event-20261204.html"
   }
 ]
