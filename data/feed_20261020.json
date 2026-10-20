@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年10月20日 サイバー脅威の動向と企業が行うべき対策（トークセッション in 那覇）の申込み受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/event/event-20261204.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-20",
+    "time": "13:30",
+    "organization": "ＲｅＹｕｕＪａｐａｎ",
+    "identifier": "9425",
+    "title": "連結子会社ネクスト・セキュリティ株式会社とのサイバーセキュリティ分野における販売連携開始に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261020553354.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-20",
+    "time": "12:30",
+    "organization": "幼児活動研究会",
+    "identifier": "2152",
+    "title": "当社ネットワークへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261020553396.pdf"
+  }
+]
