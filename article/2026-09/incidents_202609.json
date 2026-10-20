@@ -1,0 +1,267 @@
+[
+  {
+    "organization": "株式会社Helpfeel（Gyazo）",
+    "date": "2026-09-16",
+    "title": "Gyazoへの不正アクセスによるユーザー情報・画像メタデータの流出",
+    "summary": "画像アップロードサーバーの脆弱性を悪用された不正アクセス。ユーザー情報約2,362万件に加え、画像メタデータの一部が外部流出。第二報では削除済み画像に関するメタデータも追加で確認。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "インターネット上のサービスからの個人情報の窃取"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-16",
+        "title": "第一報",
+        "url": "https://corp.helpfeel.com/news/news-20260916"
+      },
+      {
+        "label": "2",
+        "date": "2026-09-25",
+        "title": "第二報",
+        "url": "https://help-ja.gyazo.com/%3C%E6%9C%80%E6%96%B0%3EGyazo%E3%81%B8%E3%81%AE%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A0%B1%EF%BC%892026%E5%B9%B49%E6%9C%8825%E6%97%A5-6ab60e2c0606c3a159c40836"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "organization": "株式会社ApplyNow",
+    "date": "2026-09-09",
+    "title": "採用管理プラットフォームへの不正アクセス",
+    "summary": "データ分析ツールの脆弱性を悪用され、採用管理サービスのデータベースに保存された応募者・企業担当者の個人データが漏えいした可能性。後日の更新では対象データ約39万人とされ、サービスによっては個人番号や金融機関口座情報等を含む。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "サプライチェーンや委託先を狙った攻撃"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-09",
+        "title": "初報（追加情報を含む）",
+        "url": "https://applynow.co.jp/news/20260909"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "organization": "京王電鉄株式会社",
+    "date": "2026-09-26",
+    "title": "ランサムウェア攻撃によるシステム障害",
+    "summary": "京王グループのサーバーへのランサムウェア攻撃を確認。一部グループ会社の営業システムに支障が発生し、情報流出を含む影響範囲を調査。公表時点で鉄道運行への支障はないと説明。",
+    "threats": [
+      "ランサム攻撃による被害"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-26",
+        "title": "初報",
+        "url": "https://www.keio.co.jp/news/update/announce/nr260926v13404/"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "organization": "デジタル庁",
+    "date": "2026-09-11",
+    "title": "ガバメントソリューションサービスへの不正アクセス",
+    "summary": "保守運用担当者アカウントを利用した大量ファイルへのアクセスを検知。職員等の個人情報を含むファイルが外部に漏えいした可能性。",
+    "threats": [
+      "サプライチェーンや委託先を狙った攻撃",
+      "リモートワーク等の環境や仕組みを狙った攻撃"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-11",
+        "title": "初報",
+        "url": "https://www.digital.go.jp/news/2026-0911-01"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社タイムズカー",
+    "date": "2026-09-25",
+    "title": "タイムズカーWebサイトへの不正アクセス",
+    "summary": "外部からの不正アクセスにより会員情報が漏えいした可能性。第一報の後、調査結果と対応について複数回の続報を公表。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "インターネット上のサービスからの個人情報の窃取"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-25",
+        "title": "第一報",
+        "url": "https://share.timescar.jp/news/2026/0925/1814.html"
+      },
+      {
+        "label": "2",
+        "date": "2026-09-28",
+        "title": "第二報",
+        "url": "https://share.timescar.jp/news/2026/0928/1815.html"
+      },
+      {
+        "label": "3",
+        "date": "2026-09-29",
+        "title": "第三報",
+        "url": "https://share.timescar.jp/news/2026/0929/1816.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社セイコーマート",
+    "date": "2026-09-29",
+    "title": "セイコーマートアプリへの不正アクセス",
+    "summary": "アプリのサーバーを経由して会員情報を保有するサーバーに第三者がアクセス。第三報では572,022人分の情報が閲覧されたことを確認したと公表。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "インターネット上のサービスからの個人情報の窃取"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-29",
+        "title": "初報",
+        "url": "https://online.seicomart.co.jp/delivery/cms/preview.php?disp_flg=pc&pre_no=119"
+      },
+      {
+        "label": "2",
+        "date": "2026-09-29",
+        "title": "第二報",
+        "url": "https://online.seicomart.co.jp/delivery/cms/preview.php?disp_flg=pc&pre_no=120"
+      },
+      {
+        "label": "3",
+        "date": "2026-09-30",
+        "title": "第三報",
+        "url": "https://online.seicomart.co.jp/delivery/cms/preview.php?disp_flg=pc&pre_no=121"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社ロート製薬",
+    "date": "2026-09-11",
+    "title": "通信販売システムへの不正アクセスの可能性",
+    "summary": "通信販売で利用するシステムへの不正アクセスの可能性を確認。後日の調査報告では、顧客対応に利用する通話音声データ等が不正取得された可能性を公表。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "インターネット上のサービスからの個人情報の窃取"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-11",
+        "title": "初報",
+        "url": "https://www.shop.rohto.co.jp/news/news_2026-09-002.html"
+      },
+      {
+        "label": "2",
+        "date": "2026-09-15",
+        "title": "調査状況",
+        "url": "https://www-sc10-cd.rohto.com/news/whatsnew/2026/0915_01/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社日本トレクス",
+    "date": "2026-09-11",
+    "title": "情報システムへの不正アクセス",
+    "summary": "情報システムへの不正アクセスを受け、インターネット発注や部品受注システム、メール送受信を停止。9月30日の公表では個人情報・顧客データの外部流出は確認されず、対象業務を再開。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃",
+      "サプライチェーンや委託先を狙った攻撃"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-11",
+        "title": "初報",
+        "url": "https://www.trex.co.jp/news/news20260911-12711/"
+      },
+      {
+        "label": "2",
+        "date": "2026-09-30",
+        "title": "復旧報告",
+        "url": "https://www.trex.co.jp/news/news20260930/"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社京都パープルサンガ",
+    "date": "2026-09-08",
+    "title": "ファンクラブ会員情報の誤送信",
+    "summary": "担当者がメールに会員情報を含むファイルを誤添付し、15,612人分のファンクラブ会員情報が外部に流出。",
+    "threats": [
+      "内部不正による情報漏えい等"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-08",
+        "title": "初報",
+        "url": "https://sanga-fc.jp/news/detail/21401"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社日本郵便",
+    "date": "2026-09-25",
+    "title": "国際郵便物の調査請求Web受付サービスへの不正アクセス",
+    "summary": "国際郵便物の調査請求Web受付サービスへの不正アクセスを公表し、一時的に受付を停止。",
+    "threats": [
+      "システムの脆弱性を悪用した攻撃"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-25",
+        "title": "初報",
+        "url": "https://www.post.japanpost.jp/newsrelease/pressrelease/6267689171.html"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "国立大学法人佐賀大学",
+    "date": "2026-09-28",
+    "title": "事務情報システムのNASにおけるランサムウェア被害",
+    "summary": "事務情報システムのNAS内ファイルが暗号化される被害を公表。教育・研究・診療システムへの影響とは区別して確認が必要。",
+    "threats": [
+      "ランサム攻撃による被害"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-28",
+        "title": "初報",
+        "url": "https://www.saga-u.ac.jp/koho/press/2026092841520"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "organization": "株式会社アイスタイル（@cosme）",
+    "date": "2026-09-16",
+    "title": "社内ファイル受け渡し時の個人情報閲覧可能状態",
+    "summary": "社内でファイルを受け渡す際に外部ファイル転送サービスを利用し、登録された個人情報が一時的に閲覧可能な状態になった事案。",
+    "threats": [
+      "内部不正による情報漏えい等"
+    ],
+    "reports": [
+      {
+        "label": "1",
+        "date": "2026-09-16",
+        "title": "初報",
+        "url": "https://www.istyle.co.jp/news/info/2026/09/20260916-3.html"
+      }
+    ],
+    "featured": false
+  }
+]
