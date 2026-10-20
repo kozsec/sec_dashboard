@@ -3,6 +3,222 @@
     "source": "Web",
     "date": "2026-10-20",
     "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日本郵政公式サイトで“なりすまし” 不正アクセス 他のサービスと同一のPWは変更を - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000541499.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "八十二長野銀、９６社との取引内容漏えいか…フィッシングメール開封し 不正アクセス 受ける",
+    "url": "https://www.yomiuri.co.jp/national/20261020-GYT1T00039/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「侵入経路塞いだが、バックドアから……」 不正アクセス 105時間の攻防、分単位で報告 防災 ...",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日本企業狙う 不正アクセス にAI 攻撃者が自立型侵入テスト「ARTEX」を使用 GMOイエラエ",
+    "url": "https://news.yahoo.co.jp/articles/2f4e16c7b10c5d3d770f0f092c8bffe0f2fa4e48"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 被害の公表で信頼を失う会社と取り戻す会社､分かれ目は｢最初の24時間｣の情報開示",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/business/toyokeizai-961455"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本企業への サイバー攻撃 に中国系AI使用か 民間調査で確認 - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_350883"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "岩井コスモ証券に サイバー攻撃 顧客の意図しない売買注文、成立も - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBN3PZLVBNDIFI022M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "日本企業を狙う サイバー攻撃 の一部に中国系AIエージェントが使われた可能性",
+    "url": "https://news.livedoor.com/topics/detail/32608540/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "dcross.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ個人情報漏洩、 サイバー攻撃 は委託先や顧客基盤、社内システムまで",
+    "url": "https://dcross.impress.co.jp/docs/news/004898-2.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセス、中国系ＡＩ悪用か 国内企業に 攻撃 ―ＧＭＯ子会社調査 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102000795&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "日本企業が サイバー攻撃 の標的になる根本原因｢社内ネットワークであれば安全｣は危険 ゼット ...",
+    "url": "https://toyokeizai.net/articles/-/961638?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "ゴルフダイジェスト・オンラインに不正アクセス、攻撃者にファイルがダウンロードされたことを ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/20/56514.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "NEC、委託先にサイバー攻撃＝複数顧客で システム障害 、情報漏えい - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/e4e2fd6a148ee2cc211e631e1c85f9d37f8274b4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "online.logi-biz.com",
+    "identifier": "システム障害",
+    "title": "ニッスイ傘下で システム障害 発生の日水物流、全17拠点で入出荷業務再開 - LOGI-BIZ online",
+    "url": "https://online.logi-biz.com/151521/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "企業の サイバー攻撃 対策、AI観測網導入で異常の早期検知 自民提言案 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA200VF0Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＮＥＣ委託先に サイバー攻撃 、顧客企業３社の情報が漏えい…２社では個人情報漏えいを確認",
+    "url": "https://www.yomiuri.co.jp/national/20261020-GYT1T00324/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "NEC、委託先に サイバー攻撃 （時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/677d0e0e11bdbb3fbf4e5e1c26fb66481fcffa51"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "hokkoku.co.jp",
+    "identifier": "システム障害",
+    "title": "システム障害 の物流業務 - ニッスイ子会社、完全復旧 - 北國新聞",
+    "url": "https://www.hokkoku.co.jp/articles/-/2264552"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "ふるさとチョイス、 情報 流出445万件 NECは委託先から 漏洩 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBN3HB5VBNULFA01XM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "フジテレビの番組宣伝システムに不正アクセス 関係者の個人 情報 最大730件 漏えい の可能性 一般 ...",
+    "url": "https://news.yahoo.co.jp/articles/6881017bd0bacdec3dad5b9f5a3324bb31414aba"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "国交省などの住宅事業で 情報漏洩 2万4000名あまり - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3026058"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "NEC、システム開発の協力会社に不正アクセス 顧客3社の 情報漏洩 （産経新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/fb4b00b7afc3f1b072aa769f0624477a58ec6434"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "岩井コスモ証券に サイバー攻撃 客の意図しない売買注文 - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1948830"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "岩井コスモ証券、委託先への サイバー攻撃 で不正取引 5口座で成立 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB20AQ30Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-20",
+    "time": null,
     "organization": "japan.cnet.com",
     "identifier": "不正アクセス",
     "title": "ソフトバンク、ウェブ版「My SoftBank」を停止 不正アクセス の試みを検知で - CNET Japan",
