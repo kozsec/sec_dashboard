@@ -1,6 +1,5 @@
-const yearMonth = location.pathname.match(/(\d{4})-(\d{2})/);
-const [, year, month] = yearMonth;
-const jsonPath = `./${year}-${month}/incidents.json`;
+
+const jsonPath = `./incidents.json`;
 
 fetch(jsonPath)
   .then(response => {
