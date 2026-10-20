@@ -1,5 +1,65 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "EG Secure Solutions",
+    "product": "SiteGuard Server Edition",
+    "identifier": "CVE-2026-106931",
+    "title": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-106931&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "Plex",
+    "product": "Media Server",
+    "identifier": "CVE-2026-96656",
+    "title": "Plex Media Server External Control of File Name or Path Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-96656&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "Plex",
+    "product": "Media Server",
+    "identifier": "CVE-2026-96655",
+    "title": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-96655&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "Plex",
+    "product": "Media Server",
+    "identifier": "CVE-2026-96654",
+    "title": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-96654&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "Plex",
+    "product": "Media Server",
+    "identifier": "CVE-2026-96652",
+    "title": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-96652&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-20",
+    "time": null,
+    "organization": "Siemens",
+    "product": "Software Center",
+    "identifier": "CVE-2026-110936",
+    "title": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-110936&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-20",
     "time": "18:35",
