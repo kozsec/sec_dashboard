@@ -494,6 +494,189 @@ h1 {
     line-height: 1.4;
 }
 
+.report-intro{font-size:10pt;line-height:1.8}
+.report-kicker{font-size:9pt;letter-spacing:.08em;color:#526477}
+.report-overview {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+  margin: 12px 0;
+  align-items: stretch;
+}
+
+.report-stat {
+  border: 1px solid #ccd5df;
+  padding: 12px 10px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.report-stat strong {
+  display: block;
+  font-size: 25pt;
+  line-height: 1.15;
+  margin-bottom: 5px;
+}
+
+.report-stat span {
+  font-size: 9pt;
+}
+
+.threat-chart {
+  border: 1px solid #ccd5df;
+  border-radius: 6px;
+  padding: 10px;
+  min-width: 0;
+}
+
+.threat-chart h3 {
+  font-size: 10pt;
+  margin: 0 0 8px;
+}
+
+.threat-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.threat-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(30px, 2fr) 24px;
+  gap: 5px;
+  align-items: center;
+  font-size: 7.2pt;
+  line-height: 1.25;
+}
+
+.threat-name {
+  overflow-wrap: anywhere;
+}
+
+.threat-track {
+  height: 9px;
+  background: #edf1f5;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.threat-bar {
+  height: 100%;
+  background: #547da5;
+}
+
+.threat-count {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.threat-chart-note {
+  font-size: 7pt;
+  color: #5c6670;
+  margin: 7px 0 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 600px) {
+  .report-overview {
+    gap: 6px;
+  }
+
+  .report-stat {
+    padding: 8px 6px;
+  }
+
+  .report-stat strong {
+    font-size: 20pt;
+  }
+
+  .threat-chart {
+    padding: 7px;
+  }
+
+  .threat-row {
+    grid-template-columns: minmax(0, 1.4fr) minmax(18px, 1fr) 18px;
+    gap: 3px;
+    font-size: 6.5pt;
+  }
+
+  .threat-track {
+    height: 7px;
+  }
+}
+.report-stat strong{
+    display:block;
+    font-size:20pt;
+}
+.report-tag{
+    display:inline-block;
+    font-size:7.5pt;
+    border:1px solid #9aa9b9;
+    border-radius:999px;
+    padding:2px 7px;
+    margin:2px 3px 2px 0;
+    line-height:1.4;
+}
+.report-tag.ransom{
+    border-color:#a24a4a;
+}
+.report-tag.vuln{
+    border-color:#537da5;
+}
+.report-tag.supply{
+    border-color:#8b6ca9;
+}
+.report-tag.internal{
+    border-color:#b0823f;
+}
+.report-case-title{
+    font-size:17pt;
+    line-height:1.45;
+    margin:8px 0 12px;
+}
+.report-meta{
+    font-size:9pt;color:#536170;
+    margin-bottom:10px;
+}
+.report-list-item{
+    border-bottom:1px solid #d9e0e7;
+    padding:8px 0;
+    break-inside:avoid;
+}
+.report-list-item h3{
+    font-size:11pt;
+    margin:0 0 4px;
+}
+.report-list-item p{
+    font-size:8.5pt;
+    line-height:1.55;
+    margin:4px 0;
+}
+.report-links{
+    display:flex;
+    flex-wrap:wrap;gap:5px;
+    margin:5px 0;
+}
+.report-links a{
+    display:inline-block;
+    border:1px solid #8e9baa;border-radius:4px;
+    padding:2px 8px;
+    text-decoration:none;
+    font-size:8.5pt;
+}
+.report-caveat{
+    font-size:8pt;color:#5c6670;
+    line-height:1.6;
+}
+.report-list-pages{
+    display:block;
+}
+.report-list-page{
+    break-after:page;
+    page-break-after:always;
+}
 
 @media (max-width: 480px) {
     .vdf-indicators {
