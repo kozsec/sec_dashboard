@@ -1,11 +1,6 @@
 const yearMonth = location.pathname.match(/(\d{4})-(\d{2})/);
-
-if (!yearMonth) {
-  throw new Error("ページの年月を特定できません。");
-}
-
 const [, year, month] = yearMonth;
-const jsonPath = `./${year}-${month}/incidents_${year}${month}.json`;
+const jsonPath = `./${year}-${month}/incidents.json`;
 
 fetch(jsonPath)
   .then(response => {
