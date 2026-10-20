@@ -1,8 +1,19 @@
-fetch("../../data/incidents_202609.json")
+const yearMonth = location.pathname.match(/(\d{4})-(\d{2})/);
+
+if (!yearMonth) {
+  throw new Error("ページの年月を特定できません。");
+}
+
+const [, year, month] = yearMonth;
+const jsonPath = `../article/${year}-${month}/incidents_${year}-${month}.json`;
+
+fetch(jsonPath)
   .then(response => {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return response.json();
   })
+
+
   .then(incidents => {
   
     document.getElementById("incident-count").textContent = `${incidents.length}件`;
