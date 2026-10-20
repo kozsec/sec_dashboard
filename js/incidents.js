@@ -5,7 +5,7 @@ if (!yearMonth) {
 }
 
 const [, year, month] = yearMonth;
-const jsonPath = `../article/${year}-${month}/incidents_${year}-${month}.json`;
+const jsonPath = `../article/${year}-${month}/incidents_${year}${month}.json`;
 
 fetch(jsonPath)
   .then(response => {
