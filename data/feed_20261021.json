@@ -1,5 +1,41 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-10-21",
+    "time": "16:40",
+    "organization": "テリロジーＨＤ",
+    "identifier": "5133",
+    "title": "当社連結子会社におけるStudio株式会社で発生した不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261021553964.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-21",
+    "time": "16:00",
+    "organization": "デジアーツ",
+    "identifier": "2326",
+    "title": "当社への不正アクセスに関するお知らせとお詫び",
+    "url": "https://www.release.tdnet.info/inbs/140120261021554017.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-10-21",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Critical security issue affecting PHP",
+    "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月21日 【緊急メンテナンス】申込受付システムの停止について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261021-3.html"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-21",
     "time": null,
