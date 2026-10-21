@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-10-21",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "金融関係者「会社を揺るがす」“勝手に売買” 不正アクセス の新手口（テレビ朝日系（ANN））",
+    "url": "https://news.yahoo.co.jp/articles/0f4ce19ecbd40ca806c0181083615f61fd4fe650"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "韓国SKシールダス、イノビズ協会・DB損保と中小企業向けセキュリティ・保険の統合支援に着手",
+    "url": "https://finance.biggo.jp/news/cf92e636-b1b3-4de6-b9a8-56d557cd972c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」 情報漏えい で運転免許証を再交付 青森県公安委員会 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/society/ra3967d605579d4ccd9e1a15b03e0352b8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ブッキング・ドットコムを欧州委が調査、漏えいした予約情報による詐欺被害が世界中で発生",
+    "url": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00501/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "イオン、ウェブサイトに不正アクセス 個人情報流出の有無を調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC218VW0R21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】岩井コスモ、 サイバー攻撃 はシステム侵入 - 47NEWS",
+    "url": "https://www.47news.jp/15115219.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "地方の中小も サイバー攻撃 に備え ひろぎんHD、専門施設で研修提供",
+    "url": "https://www.nikkei.com/article/DGXZQOCC1594N0V11C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "PHPの重大な脆弱性で緊急メンテナンス相次ぐ さくらやCygames、pixivなど | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12112/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "イオンに 不正アクセス グループ13社のウェブサイトで閲覧不可 - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32622811/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "日本企業への 不正アクセス 、中国製AIツールの利用を確認 GMO - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253788/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "富士急ハイランドに 不正アクセス 、一部の会員のクレジットカード情報も漏れた可能性 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00422/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "県の委託事業に 不正アクセス 問い合わせした人の名前やメールアドレスが漏えいした可能性 大分",
+    "url": "https://news.yahoo.co.jp/articles/9d49afd4e28e0c6f07427545718f203028519244"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
     "organization": "act1.co.jp",
     "identifier": "情報漏洩",
     "title": "八十二長野銀行に不正アクセス 取引先627社の 情報漏えい の可能性 - 株式会社アクト",
