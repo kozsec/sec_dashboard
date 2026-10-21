@@ -3,6 +3,285 @@
     "source": "Web",
     "date": "2026-10-21",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報漏洩 したら…パスワード変更や多要素認証を 警視庁が対策公表 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUD148VT0U6A011C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "times.abema.tv",
+    "identifier": "システム障害",
+    "title": "埼玉・上尾市で システム障害 マイナンバーカードの交付など手続きできず | 国内 | ABEMA TIMES",
+    "url": "https://times.abema.tv/articles/-/10282570"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大阪公立大の システム障害 、NECの再委託先へのサイバー攻撃が原因 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/a9a9769df79eb1ea1aa96a2548160990cdea7d3e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "東邦ガス、個人情報100件漏洩の可能性 外部サービスに 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFD207MW0Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "岩井コスモ証券、 不正アクセス により4975人の個人情報漏えいと7件の不正取引が発生 …",
+    "url": "https://news.yahoo.co.jp/articles/0f91809735a0eb6646b597b9dc71c6b3eba05477"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "city.himeji.lg.jp",
+    "identifier": "不正アクセス",
+    "title": "「ふるさとチョイス」への 不正アクセス による会員情報の流出に関する注意喚起 | 姫路市",
+    "url": "https://www.city.himeji.lg.jp/shisei/0000034555.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "フジテレビ、番組宣伝関係者の情報730件流出か 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC20A550Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "連日絶えないサイバー攻撃…警察でも 情報流出 か 日本企業の弱点をつく“中国系AI” 被害拡大要因 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/tbs/business/tbs-3025578"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏洩",
+    "title": "【速報】不正アクセス、22府県警で個人 情報 流出か - 47NEWS",
+    "url": "https://www.47news.jp/15113858.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "リクルート『カーセンサーnet』『C-MATCH』 情報漏えい の可能性を公表「最大 ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b6b9ec6d9258c7c224cfa3656fd5cd78df284f9d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "システム障害",
+    "title": "埼玉・上尾市で システム障害 マイナンバーカードの交付など手続きできず | au Webポータル",
+    "url": "https://article.auone.jp/9c812383-0e97-4c29-8d0e-3733516a190f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "埼玉・上尾市で システム障害 マイナンバーカードの交付など手続きできず - ライブドアニュース",
+    "url": "https://news.livedoor.com/article/detail/32619259/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "システム障害",
+    "title": "NEC、委託先へのサイバー攻撃で顧客の システム 環境に 障害 、個人情報を含むファイル漏えいも",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2149941.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "sanfrecce.co.jp",
+    "identifier": "システム障害",
+    "title": "「サンフレチケット」 システム障害 復旧のお知らせとお詫び - サンフレッチェ広島",
+    "url": "https://www.sanfrecce.co.jp/news/ticket/12984"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサム ウエア集団セーフペイ、今年の被害約600件＝米当局 - ニューズウィーク",
+    "url": "https://www.newsweekjapan.jp/articles/-/337538"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "PAN-OSの脆弱性、6月から複数 ランサムウェア グループに狙われる（CVE-2026-0257）",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/48170/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本企業狙う不正アクセスにAI 攻撃 者が自律型侵入テスト「ARTEX」を悪用 GMOイエラエ調査",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002423/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "大阪公立大のシステム障害、NECの再委託先への サイバー攻撃 が原因 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBP15NCVBPPTIL00MM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "ryukyushimpo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】沖縄ツーリストに サイバー攻撃 か 一部サービスを停止 「個人情報漏えいした可能性」",
+    "url": "https://ryukyushimpo.jp/news/entry-5570320.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】岩井コスモ証券に サイバー攻撃 、売買確認 - 47NEWS",
+    "url": "https://www.47news.jp/15112309.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＮＥＣ委託先に サイバー攻撃 、顧客企業 ３社の情報が漏えい…２社では個人情報漏えいを確認",
+    "url": "https://news.yahoo.co.jp/articles/ee638aa158f2f41d62cd5f07a4fce362a3496992"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "日本経済新聞社がシステム開発に利用するクラウドサービスに不正アクセス、約183万件の個人 ...",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/20/56513/55623.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "ＮＥＣ委託先にサイバー攻撃、顧客企業 ３社の情報が漏えい…２社では個人 情報漏えい を確認",
+    "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/nation/20261020-567-GYT1T00324"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "ncctv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "長崎市が自治会に試験提供の電子回覧アプリで個人 情報漏洩 のおそれ",
+    "url": "https://www.ncctv.co.jp/news/article/16981760"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "個人 情報漏洩 で警視庁への相談600件超 「流出したらどうすれば」 1カ月で企業からも",
+    "url": "https://www.sankei.com/article/20261021-XVNMDAENKZKFJFYTWTBGCFWQOI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "岩井コスモ証券、不正アクセスにより4975人の個人 情報漏えい と7件の不正取引が発生",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2149845.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "jomo-news.co.jp",
+    "identifier": "情報漏えい",
+    "title": "群馬県警全職員3700人の 情報流出 か アルカディア不正アクセス問題 「ニセ警察詐欺」への悪用に ...",
+    "url": "https://www.jomo-news.co.jp/articles/-/1048046"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "沖縄ツーリストにサイバー攻撃か 個人 情報漏えい の可能性 アクティビティやレンタカーの予約 ...",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1949170"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "中古車情報サイト「カーセンサー」個人 情報漏えい か、最大３７０万件…リクルート発表 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261021-GYT1T00219/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "NEC、委託先へのサイバー攻撃で顧客の システム 環境に 障害 、個人情報を含むファイル漏えいも …",
+    "url": "https://news.yahoo.co.jp/articles/c35727bf269bf7596cff3bc6a845658ab19d9174"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "日本企業への 不正アクセス 、中国製AIツールの利用を確認 GMO - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/887df87eb978543ef0e428bb8f75914cee13fcab"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-21",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "ランサムウェア",
     "title": "キヤノンMJグループ、中小企業向けSASEサービスを拡充 - ゼロトラスト対応を支援",
