@@ -5,11 +5,11 @@
     "product": null,
     "title": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00662,
+    "epss_current": 0.01367,
     "cvss": 8.5,
     "cvss_vector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-96656",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Plex Media Server External Control of File Name or Path Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00396,
+    "epss_current": 0.00758,
     "cvss": 8.6,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-96655",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00222,
+    "epss_current": 0.00423,
     "cvss": 5.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-96654",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00227,
+    "epss_current": 0.00432,
     "cvss": 6.9,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-96652",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00222,
+    "epss_current": 0.00423,
     "cvss": 5.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-110936",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00135,
+    "epss_current": 0.00262,
     "cvss": 8.4,
     "cvss_vector": "CVSS:4.0/AV:L/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/20"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-102764",
@@ -521,11 +521,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.92956,
+    "epss_current": 0.91951,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:N",
     "published": "2026/09/11",
-    "last_update": "2026/10/01"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-84869",
@@ -629,11 +629,11 @@
     "product": null,
     "title": "Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.8818,
+    "epss_current": 0.88472,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/09",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/21"
   },
   {
     "cve": "CVE-2026-75650",

@@ -61,5 +61,14 @@
     "identifier": "セキュリティ",
     "title": "2026年10月21日 脆弱性対策情報データベースJVN iPediaの登録状況 [2026年第3四半期（7月〜9月）] を公開しました",
     "url": "https://www.ipa.go.jp/security/reports/vuln/jvn/ipedia2026q3.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-10-21",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800-100 Rev. 1 (Draft)",
+    "title": "Information Security Handbook: A Guide for Executive Leadership",
+    "url": "https://csrc.nist.gov/pubs/sp/800/100/r1/ipd"
   }
 ]
