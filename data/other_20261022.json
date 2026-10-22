@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-10-22",
     "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "PHP脆弱性ショック、次の脅威に備えよ 被害連鎖の死角は「委託先」 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03671/102200005/?ST=nxt_idx_common"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "rescuenow.co.jp",
+    "identifier": "システム障害",
+    "title": "PHPの脆弱性とは？影響・リスク・対策を防災・BCPの視点でわかりやすく解説【2026年10月】",
+    "url": "https://www.rescuenow.co.jp/blog/column_20261022_php_vulnerability"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス を受け 最大10万件の会員メールアドレスなど漏えいか 東北電力のグループ会社運営 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3031721"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "capcom.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス によるお客様情報漏えいのお詫びとお知らせ | プレスリリース | 株式会社カプコン",
+    "url": "https://www.capcom.co.jp/ir/news/html/261022.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "十日町市に続き長岡市でも……メール配信システムで2600件以上の個人情報漏えいの可能性 ...",
+    "url": "https://news.yahoo.co.jp/articles/2ecfd0168e2ea05cd9bb5b6cdc4986aa4a0e68bd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "trendmicro.com",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 攻撃による被害額の平均は約3億4800万円～「セキュリティ成熟度と被害の実態 ...",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/26/j/securitytrend-20261022-01.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "鹿児島市 子育て支援メルマガ「すくすくメール」個人 情報漏洩 の恐れ | TBS NEWS DIG (1ページ)",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3032331?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "カプコン、1177万件の 情報漏洩 パスワードの不正変更196件も（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/f1a10795beada9a8c2d7b61b206e2ae7b02def81"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "新潟日報社、最大25万人の個人 情報漏洩 システム会社に不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOCC22BE80S6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ通信の 情報 流出、規制強化へ議論 総務省、AI高度化で検討会 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBQ20W4VBQULFA01BM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "ラクス、子会社システムに不正アクセス 契約者 情報 が流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC22BFG0S6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "原因は「PHPの脆弱性標的とした攻撃」ICT企業発表、 情報 流出か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBQ23Q9VBQUTIL01RM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "大阪大学、約7万8000人分の個人 情報漏えい NECが契約に基づかずクラウドで共有（アスキー）",
+    "url": "https://news.yahoo.co.jp/articles/bda291e9dd772da3a2b20395ed59899f9662d179"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "カプコンのオンラインサービスで約1177万件のユーザー 情報漏えい 、パスワードの不正な変更も",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2150509.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "厚労省の外部委託先に不正アクセス、最大５９５人分の個人 情報漏えい の可能性…二次被害は ...",
+    "url": "https://www.yomiuri.co.jp/national/20261022-GYT1T00252/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "PHP脆弱性ショック、次の脅威に備えよ 被害連鎖の死角は「委託先」 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03671/102200005/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "システム障害",
+    "title": "PHP脆弱性が「怖い」理由 Webサイトの7割が利用、乗っ取られる恐れ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12118/?P=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
     "organization": "smarthr.co.jp",
     "identifier": "不正アクセス",
     "title": "ノーコードWeb制作プラットフォーム「Studio」への 不正アクセス に伴う情報流出の可能性 ...",
