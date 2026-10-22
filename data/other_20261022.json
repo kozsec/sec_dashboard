@@ -3,6 +3,258 @@
     "source": "Web",
     "date": "2026-10-22",
     "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ジョーシス、 情報漏洩 対策に新サービス AIで感染端末を特定・対処 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149971.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "asken.inc",
+    "identifier": "情報漏洩",
+    "title": "PHPの脆弱性対応に伴う『あすけん』緊急メンテナンスのお知らせ（予防的措置） - 株式会社asken",
+    "url": "https://www.asken.inc/news/20261022"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "DNPの電子書籍サイト「honto」、 情報漏洩 か 委託先に不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC21AV00R21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "情報漏洩",
+    "title": "CVE-2026-109618およびCVE-2026-109619：PHPリモートコード実行の脆弱性 - SOC Prime",
+    "url": "https://socprime.com/ja/blog/cve-2026-109618-cve-2026-109619-analysis/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "京都の中小企業にも サイバー攻撃 「まさかうちが…」復旧費3000万円 AI進化「防ぎようない」",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1812514"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "jp.yna.co.kr",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮ウェブサイト 2日連続でアクセス障害＝ サイバー攻撃 の可能性も？ - 聯合ニュース",
+    "url": "https://jp.yna.co.kr/view/AJP20261021003900882"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本の証券会社で無断株式取引…AIによる 攻撃 か（中央日報日本語版） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/591100453d1dac3e07a95bffae71cbe380c214f3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "想定被害事例をＨＰで公開 サイバー攻撃 で情報漏えい相次ぎ―警視庁 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102100769&g=soc&p=20261021at38S&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "GMO系、企業のセキュリティーを抜き打ちチェック 脆弱性を調査 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC209XR0Q6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "メタ社に制裁金約4兆円判決 16年米大統領選でユーザー 情報漏洩 ニューメキシコ州",
+    "url": "https://news.ksb.co.jp/ann/article/16984392"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "wiz.io",
+    "identifier": "情報漏洩",
+    "title": "PHP2Shell：AIがインターネットの70%に影響する重大なRCE脆弱性を発見 - Wiz",
+    "url": "https://www.wiz.io/ja-jp/blog/php2shell-php-rce"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "メタ社に制裁金約4兆円判決 16年米大統領選でユーザー 情報漏洩 ニューメキシコ州",
+    "url": "https://www.khb-tv.co.jp/news/16984394"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "nikkansports.com",
+    "identifier": "情報漏洩",
+    "title": "DMM＆FANZA、９時間に達する異例メンテナンス「システム強化目的」 情報漏洩 は否定",
+    "url": "https://www.nikkansports.com/entertainment/news/202610220000039.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "ダークウェブに流れる 漏洩情報 (2026年10月22日掲載) - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32625099/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "エンタメサイトDMMがサービス停止、外部システムの脆弱性への対応 「 情報漏洩 は無し」",
+    "url": "https://www.sankei.com/article/20261022-ARAQ7L3PNVFVLMMEJUZW4LJ4A4/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "県の事業で 情報漏洩 の可能性 氏名やメールアドレスなど ウェブサイト作成サービスに不正アクセス ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3030223?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対応の模擬取材型メディアトレーニングを提供開始 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000023376.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "イオン、一部Webサイトで 不正アクセス を検知 個人情報流出など調査 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2150009.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 多発、Gartnerが日本企業に「7つのアクション」を緊急提言 … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b6c9ff444d3f64d095052fa0165866dbd0be33ad"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "bbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止 - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/c674p01yqwqko"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【大阪大学】約7万8000人の個人情報漏えい 委託先「NEC」が大学に“無断”で情報を協力会社と ...",
+    "url": "https://news.yahoo.co.jp/articles/5df1c823326f5c50d75d6e28e2a8780337cd13ed"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中国系ハッカーがAIエージェントで 攻撃 、2250超の組織に マイクロソフト「3時間未満で特権取得 ...",
+    "url": "https://news.yahoo.co.jp/expert/articles/4e0304c03f456141cbf6d14fda2a3dc92242ea1e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "ランサムウェア",
+    "title": "GitLab、認証なしでRCEが可能になる重大な脆弱性を修正（CVE-2026-110264） | Codebook",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/48229/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？ - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2150203.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "プログラミング言語「ＰＨＰ」に脆弱性 世界のサイト７割が危険に - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102200196&g=int"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ＰＨＰ」に重大な脆弱性発見…銀行はネットサービスを一時停止、高市首相も「対策のため ...",
+    "url": "https://www.yomiuri.co.jp/national/20261022-GYT1T00138/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "コミックシーモア不正アクセス 最大約420万件の 情報 流出を確認 第4報 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-10-22-03/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "大阪大学が委託先NECの管理下で学生ら約7万8000人分の個人 情報漏えい を公表",
+    "url": "https://news.livedoor.com/topics/detail/32623786/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-22",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "情報漏えい 後に届く「補償」メールは本物？ 9月のフィッシング報告は9万4661件（LIMO）",

@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月22日 「ソフトウェア等の脆弱性関連情報に関する届出状況[2026年第3四半期（7月～9月）]」を公開しました",
+    "url": "https://www.ipa.go.jp/security/reports/vuln/software/2026q3.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-22",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月22日 【メンテナンス終了】申込受付システムの再開について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261022.html"
+  }
+]
