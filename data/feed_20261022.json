@@ -1,5 +1,32 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-10-22",
+    "time": "17:00",
+    "organization": "カプコン",
+    "identifier": "9697",
+    "title": "不正アクセスによるお客様情報漏えいのお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261022554474.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-22",
+    "time": "15:40",
+    "organization": "デイトナ",
+    "identifier": "7228",
+    "title": "メール配信サービスへの不正アクセスに伴う個人情報漏洩の可能性に 関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261022554714.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-22",
+    "time": "15:30",
+    "organization": "コロナ",
+    "identifier": "5909",
+    "title": "当社が利用するクラウドサービスへの不正アクセスによる個人情報漏えいの可能性に関するお知らせ（お詫び）【第２報】",
+    "url": "https://www.release.tdnet.info/inbs/140120261022554492.pdf"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-22",
     "time": null,
