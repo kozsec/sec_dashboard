@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-10-23",
     "time": null,
+    "organization": "dreamnews.jp",
+    "identifier": "システム障害",
+    "title": "Oracle AI Databaseのライフサイクル最適化をサポートする 「NSWレジリエンスサービス for ...",
+    "url": "https://www.dreamnews.jp/press/0000366016"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "デジタル相に“AI活用した サイバー攻撃 対策”緊急提言 チームみらいが申し入れ 安野党首「いま見え ...",
+    "url": "https://news.ntv.co.jp/category/politics/bd9e53e6c20e4caeacc38f069b9f1f4b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ピザハット、電話番号など顧客情報漏洩 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC23BAT0T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "佐川急便、 不正アクセス の個人情報流出は最大5323万件 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2150818.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「残高を破壊しました」 不正アクセス で巨額損失か… GMOサーバー攻撃 “脅迫メール”も",
+    "url": "https://news.yahoo.co.jp/articles/a885dcf28cf119ed04b7dce40b842df56582a1d8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカー 不正アクセス 免許証画像流出は約146万件 3000円の見舞い金支給を発表",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3034583"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "佐川への 不正アクセス 、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "タイムズカーの 不正アクセス 、画像流出の被害者に見舞金３０００円…損害賠償求め集団訴訟へ ...",
+    "url": "https://www.yomiuri.co.jp/national/20261023-GYT1T00494/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "情報 管理の不手際続き「非常に危険」 修正プログラム公開前に 漏洩 、意図的も PHP欠陥",
+    "url": "https://www.sankei.com/article/20261024-BYJCVT6JNNJZLP3RVZEM57JGEU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "岩井コスモ証券のシステムに サイバー攻撃 、不正取引の規模は１２銘柄で１２５万株 - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261023-GYT1T00496/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "ivs.events",
+    "identifier": "不正アクセス",
+    "title": "IVS2025公式サイトで利用していたWeb制作サービス「Studio」への 不正アクセス による 個人情報 ...",
+    "url": "https://www.ivs.events/news/20261023-ivs2025-security-incident"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "カプコン、新たに19件 情報漏えい （時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/cf402d4d5fd26f23f149191ff38989ca6491a883"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "佐川急便、不正アクセスで個人 情報 の 流出 可能性は最大約5323万件 問い合わせは再開",
+    "url": "https://www.sbbit.jp/article/cont1/187733"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "急増する サイバー攻撃 対策で「確認すべき3つの事項」「実施すべき5つの対策」「被害を受けた際 ...",
+    "url": "https://news.yahoo.co.jp/articles/8623503d3d6c73d0f4b014f38f53405a673f093e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "gamespark.jp",
+    "identifier": "情報漏洩",
+    "title": "グッドスマイルカンパニー、公式ショップ不正アクセス発生により会員 情報 流出の可能性",
+    "url": "https://www.gamespark.jp/article/2026/10/23/174018.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "顧客資産狙い、企業に圧力か GMO系不正アクセス、異例の攻撃手口（朝日新聞）",
+    "url": "https://topics.smt.docomo.ne.jp/article/asahi/business/ASVBR3H1MVBRUTIL02HM"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "サイバー攻撃",
     "title": "ＰＨＰ問題で政府、ＡＩを悪用した サイバー攻撃 に危機感…攻撃者が先に弱点発見なら「一晩で ...",
