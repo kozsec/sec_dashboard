@@ -1,5 +1,95 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "19:30",
+    "organization": "ＧＭＯインターネット",
+    "identifier": "4784",
+    "title": "当社の提供サービスへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555560.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "19:30",
+    "organization": "ＧＭＯ",
+    "identifier": "9449",
+    "title": "連結子会社の提供サービスへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555542.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "19:00",
+    "organization": "ジーイエット",
+    "identifier": "7603",
+    "title": "「ブラストメール」への不正アクセスに伴う、情報漏えいの可能性に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555550.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "18:30",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ （第２報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555364.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "17:50",
+    "organization": "トレードワークス",
+    "identifier": "3997",
+    "title": "（開示事項の経過）当社が提供するシステムへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555541.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "17:00",
+    "organization": "アンドエスティＨＤ",
+    "identifier": "2685",
+    "title": "当社業務サーバーへの不正アクセスの発生および個人情報等漏えいの可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555489.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "17:00",
+    "organization": "ゼビオＨＤ",
+    "identifier": "8281",
+    "title": "第三者が運営するECプラットフォームで発生した不正アクセスによる当社連結子会社の個人情報漏えいの可能性に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261022554661.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "17:00",
+    "organization": "カプコン",
+    "identifier": "9697",
+    "title": "不正アクセスによるお客様情報漏えいのお詫びとお知らせ  （第二報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555492.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "16:00",
+    "organization": "Ｇ－ペイクラウドＨＤ",
+    "identifier": "4015",
+    "title": "当社連結子会社が提供するシステムへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555340.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-23",
+    "time": "16:00",
+    "organization": "パーク２４",
+    "identifier": "4666",
+    "title": "不正アクセスに関する調査結果および今後の対応に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261023555158.pdf"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-23",
     "time": null,
