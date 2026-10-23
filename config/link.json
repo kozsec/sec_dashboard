@@ -6,7 +6,9 @@
     "description": "ランサムウェア、脆弱性、サイバー攻撃、マルウェアなどの海外セキュリティニュース",
     "region": "Global",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "SecurityOnline",
@@ -15,7 +17,9 @@
     "description": "サイバーセキュリティ、脆弱性、マルウェア、攻撃グループなどに関するニュースと技術情報",
     "region": "Global",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "内部不正防止ガイドライン",
@@ -24,7 +28,9 @@
     "description": "組織における内部不正の防止に向けた対策や管理体制を解説するガイドライン",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Risk Management"]
+    "tags": [
+      "Risk Management"
+    ]
   },
   {
     "title": "CSIRT関連資料",
@@ -33,7 +39,9 @@
     "description": "CSIRTの構築、運用、インシデント対応に役立つ資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Incident Response"]
+    "tags": [
+      "Incident Response"
+    ]
   },
   {
     "title": "サイバーセキュリティ人材育成・研修",
@@ -42,7 +50,9 @@
     "description": "サイバーセキュリティ人材の育成や研修に関する活動・情報",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Training"]
+    "tags": [
+      "Training"
+    ]
   },
   {
     "title": "サイバー脅威情報共有のための5W1H",
@@ -51,7 +61,9 @@
     "description": "サイバー脅威情報を共有する際の5W1Hによる整理方法を解説する資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "事業継続ガイドライン関連資料",
@@ -60,7 +72,9 @@
     "description": "企業の事業継続や災害時の対応、事業継続計画の策定に関するガイドライン資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["IT-BCP"]
+    "tags": [
+      "IT-BCP"
+    ]
   },
   {
     "title": "デジタル・フォレンジック関連ガイドライン 第10版",
@@ -69,7 +83,9 @@
     "description": "デジタル証拠の取り扱いや調査・分析に関するガイドライン",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Forensics"]
+    "tags": [
+      "Forensics"
+    ]
   },
   {
     "title": "フィッシング対策ガイドライン",
@@ -78,7 +94,9 @@
     "description": "フィッシング詐欺の予防、検知、被害抑止に向けた対策指針",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Awareness"]
+    "tags": [
+      "Awareness"
+    ]
   },
   {
     "title": "サイバーセキュリティ政策・関連情報",
@@ -87,7 +105,9 @@
     "description": "政府のサイバーセキュリティ政策、施策、関連情報を提供する公式サイト",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Official Resource"]
+    "tags": [
+      "Official Resource"
+    ]
   },
   {
     "title": "ISMAPクラウドサービスリスト",
@@ -96,7 +116,9 @@
     "description": "政府情報システム向けクラウドサービスのセキュリティ評価制度に関する情報",
     "region": "JP",
     "last_checked": "",
-    "tags": []
+    "tags": [
+      
+    ]
   },
   {
     "title": "つながる世界のセーフティ＆セキュリティ",
@@ -105,7 +127,10 @@
     "description": "IoT機器やつながるシステムに関するセキュリティ対策情報",
     "region": "JP",
     "last_checked": "",
-    "tags": ["IoT", "Risk Management"]
+    "tags": [
+      "IoT",
+      "Risk Management"
+    ]
   },
   {
     "title": "制御システムのリスク分析",
@@ -114,7 +139,10 @@
     "description": "制御システムにおけるリスク分析の考え方や実施方法に関する資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["OT", "Risk Management"]
+    "tags": [
+      "OT",
+      "Risk Management"
+    ]
   },
   {
     "title": "工場システムにおけるサイバー・フィジカル・セキュリティ対策ガイドライン関連情報",
@@ -123,7 +151,10 @@
     "description": "工場システムのサイバーセキュリティ対策に関する検討会や関連資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["OT", "Risk Management"]
+    "tags": [
+      "OT",
+      "Risk Management"
+    ]
   },
   {
     "title": "CSIRT for ICS ガイド",
@@ -132,7 +163,10 @@
     "description": "産業用制御システムにおけるセキュリティインシデント対応体制の構築・運用に関するガイド",
     "region": "JP",
     "last_checked": "",
-    "tags": ["OT", "Incident Response"]
+    "tags": [
+      "OT",
+      "Incident Response"
+    ]
   },
   {
     "title": "情報セキュリティ知識・スキルマップ",
@@ -141,7 +175,9 @@
     "description": "情報セキュリティ人材に求められる知識やスキルを整理した資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Training"]
+    "tags": [
+      "Training"
+    ]
   },
   {
     "title": "サイバーセキュリティ関連政策・発表資料",
@@ -150,7 +186,9 @@
     "description": "総務省によるサイバーセキュリティ関連の政策や公表資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Risk Management"]
+    "tags": [
+      "Risk Management"
+    ]
   },
   {
     "title": "AIシステムに対する既知の攻撃と影響",
@@ -159,7 +197,10 @@
     "description": "AIシステムに対する攻撃手法とその影響を整理した資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["AI", "Threat Intelligence"]
+    "tags": [
+      "AI",
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "IoT・組込みシステムのセキュリティ関連資料",
@@ -168,7 +209,9 @@
     "description": "IoTや組込みシステムのセキュリティに関連する技術資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["IoT"]
+    "tags": [
+      "IoT"
+    ]
   },
   {
     "title": "脆弱性関連情報の届出・取扱いに関するガイドライン",
@@ -177,7 +220,9 @@
     "description": "ソフトウェア等の脆弱性関連情報の届出や関係者間の調整に関するガイドライン",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Vulnerability"]
+    "tags": [
+      "Vulnerability"
+    ]
   },
   {
     "title": "SBOMによる脆弱性管理の具体的手法",
@@ -186,7 +231,9 @@
     "description": "ソフトウェア部品構成表（SBOM）を活用した脆弱性管理の具体的手法に関する公表資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Vulnerability"]
+    "tags": [
+      "Vulnerability"
+    ]
   },
   {
     "title": "APT攻撃におけるログ分析",
@@ -195,7 +242,9 @@
     "description": "標的型攻撃（APT）に関連するログ分析や調査手法の資料",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "特許法",
@@ -204,7 +253,9 @@
     "description": "発明の保護と利用に関する法令。技術情報や発明に関する権利の確認に使用",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Legal"]
+    "tags": [
+      "Legal"
+    ]
   },
   {
     "title": "商標法",
@@ -213,7 +264,9 @@
     "description": "商標の保護や商標権に関する法令",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Legal"]
+    "tags": [
+      "Legal"
+    ]
   },
   {
     "title": "意匠法",
@@ -222,7 +275,9 @@
     "description": "物品等のデザインに関する意匠の保護や意匠権に関する法令",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Legal"]
+    "tags": [
+      "Legal"
+    ]
   },
   {
     "title": "会社法",
@@ -231,7 +286,9 @@
     "description": "会社の設立、運営、機関、計算などに関する法令",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Legal"]
+    "tags": [
+      "Legal"
+    ]
   },
   {
     "title": "金融商品取引法",
@@ -240,7 +297,9 @@
     "description": "金融商品取引や企業開示などに関する法令。上場企業の情報開示や内部統制に関連",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Legal"]
+    "tags": [
+      "Legal"
+    ]
   },
   {
     "title": "情報セキュリティ白書",
@@ -249,7 +308,9 @@
     "description": "情報セキュリティの脅威動向、国内外の事例、対策などをまとめた年次レポート",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "Security NEXT",
@@ -258,7 +319,9 @@
     "description": "国内の情報セキュリティ、個人情報漏えい、サイバー攻撃などのニュース",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "ITmedia",
@@ -267,7 +330,9 @@
     "description": "IT、企業動向、テクノロジー、セキュリティ関連のニュースを配信するメディア",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "piyolog",
@@ -276,16 +341,21 @@
     "description": "サイバー攻撃や情報セキュリティインシデントに関する調査・解説記事",
     "region": "JP",
     "last_checked": "",
-    "tags": ["Incident Response", "Threat Intelligence"]
+    "tags": [
+      "Incident Response",
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "GBHackers",
     "organization": "GBHackers",
     "url": "https://gbhackers.com/",
-    "description": "サイバー攻撃、脆弱性、マルウェア、セキュリティ技術に関する海外ニュース",
+    "description": "サイバー攻撃、脆弱性、マルウェア、セキュリティ技術に関するニュース",
     "region": "Global",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "Security Boulevard",
@@ -294,7 +364,9 @@
     "description": "サイバーセキュリティの技術、業界動向、脅威、対策に関する記事",
     "region": "Global",
     "last_checked": "",
-    "tags": ["Threat Intelligence"]
+    "tags": [
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "Recorded Future Blog",
@@ -303,7 +375,10 @@
     "description": "脅威インテリジェンス、攻撃グループ、マルウェア、地政学的な脅威動向に関する分析記事",
     "region": "Global",
     "last_checked": "",
-    "tags": ["Threat Intelligence", "Analysis"]
+    "tags": [
+      "Threat Intelligence",
+      "Analysis"
+    ]
   },
   {
     "title": "AIセキュリティ短信",
@@ -312,7 +387,10 @@
     "description": "国内外のAIセキュリティ動向やインシデント事例を紹介する情報ページ",
     "region": "JP",
     "last_checked": "",
-    "tags": ["AI", "Threat Intelligence"]
+    "tags": [
+      "AI",
+      "Threat Intelligence"
+    ]
   },
   {
     "title": "Known Exploited Vulnerabilities Catalog",
