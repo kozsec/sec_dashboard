@@ -1,0 +1,155 @@
+[
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "経産省 サイバーセキュリティ専門チームの立ち上げを検討 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3032085"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "GMOのFXサービス不正操作か 取引口座のパスワード 漏えい 恐れ - 47NEWS",
+    "url": "https://www.47news.jp/15123048.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「大変遺憾」    阪大で約7.8万人の個人 情報漏えい か 委託先NECの“契約外運用”が招いた事態 …",
+    "url": "https://news.yahoo.co.jp/articles/b0ebf9b9709e737f3ed33dd33eb8a27b159a1e37"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "高校生がサイバー攻撃の監視拠点を見学、NTTセキュリティ・ジャパンが企業訪問学習を受け入れ",
+    "url": "https://news.yahoo.co.jp/articles/19942bca1f1812759c31b8197594a65ccd25c02f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "急増するサイバー攻撃対策で「確認すべき3つの事項」「実施すべき5つの対策」「被害を受けた際 ...",
+    "url": "https://netshop.impress.co.jp/n/2026/10/23/16918"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中国政府系ハッカー集団が サイバー攻撃 か 世界中の企業など標的に 米マイクロソフトが発表",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3032356"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ＰＨＰ」脆弱性問題でサイト停止「情報が見られない」…病院予約・防災情報など広範囲で市民 ...",
+    "url": "https://www.yomiuri.co.jp/national/20261022-GYT1T00394/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＰＨＰ問題で政府、ＡＩを悪用した サイバー攻撃 に危機感…攻撃者が先に弱点発見なら「一晩で ...",
+    "url": "https://news.yahoo.co.jp/articles/5d1706e9cfff39bc03ac5237dc04ec6ffef0a58e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "北洋銀行のサイトを再開 「PHP」欠陥で一時停止に 不正アクセスや情報漏えいなど確認されず ...",
+    "url": "https://news.yahoo.co.jp/articles/078eedffc19dab64a87a673a4d3efd0b42f80226"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "city.oamishirasato.lg.jp",
+    "identifier": "不正アクセス",
+    "title": "「ふるさとチョイス」への 不正アクセス によるサービス一時停止および注意喚起について | 大網白 ...",
+    "url": "https://www.city.oamishirasato.lg.jp/0000015716.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.nsttv.com",
+    "identifier": "不正アクセス",
+    "title": "プログラム言語“PHP”に重大な脆弱性… 不正アクセス 防止へ新潟の自治体・企業も一部機能停止 ...",
+    "url": "https://news.nsttv.com/post/20261022-00000013-nst/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ムーンスターのサーバに不正アクセス、オンラインストアを利用した顧客情報が漏えいした可能性",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/23/56551.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "cloud.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "アイティーエム、AWS環境のセキュリティ強化を支援するサービス「AWSセキュリティ対策支援 ...",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2150052.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "メール誤送信で個人 情報漏えい いわき市|47NEWS（よんななニュース）",
+    "url": "https://www.47news.jp/15123683.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "webdesigning.book.mynavi.jp",
+    "identifier": "情報漏えい",
+    "title": "NICTが 情報漏えい の一因を特定、公開アプリの解析からサーバを狙うA2B攻撃 | Web Designing",
+    "url": "https://webdesigning.book.mynavi.jp/article/36838/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "s.response.jp",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ個人 情報漏えい 、神奈川県警が30年前から失効免許証を不正流用［新聞ウォッチ］",
+    "url": "https://s.response.jp/article/2026/10/23/418113.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "オムロン子会社 イスラエルのスタートップに出資 システム障害 ・サイバー攻撃に対応 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1812940"
+  }
+]
