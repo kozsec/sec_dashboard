@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-23",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "デジタル庁、個人 情報 約1万3000件が 漏洩 した可能性があると明らかに - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32636732/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "デジタル庁から最大1万3千件の 情報漏洩 の可能性 名前やアドレス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBR14LKVBRULFA00DM.html?iref=comtop_7_03"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "ホワイトハッカー立ち上げ 政府、 不正アクセス 防止へ - 47NEWS",
+    "url": "https://www.47news.jp/15125609.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "medical.nikkeibp.co.jp",
+    "identifier": "不正アクセス",
+    "title": "相次ぐ 不正アクセス 、薬局は「ベンダー任せ」で大丈夫？ - 日経メディカル",
+    "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/di/trend/202610/594949.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.denfaminicogamer.jp",
+    "identifier": "不正アクセス",
+    "title": "カプコンの「CAPCOM ID」に第三者による 不正アクセス - 電ファミニコゲーマー",
+    "url": "https://news.denfaminicogamer.jp/news/2610222t"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "県の移住メルマガ、個人情報漏えいか 不正アクセス ：東京新聞デジタル",
+    "url": "https://www.tokyo-np.co.jp/article/523422"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 問題めぐり 経産省 “ホワイトハッカー”チーム 立ち上げへ - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/d5df2def8ce143468de893b67731ed75"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "講談社BECK 従業員のメールアカウントに 不正アクセス 、50件の不審なメールを送信",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/23/56552.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中国政府系集団がAI 攻撃 米マイクロソフト確認 - 47NEWS",
+    "url": "https://www.47news.jp/15123277.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 、日本企業も標的か 中国系ハッカーがAI悪用（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2f340fe02dd4ca3feb52dba974688fd687c7996f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "中国政府系が サイバー攻撃 ＡＩ「アルテックス」使用―米ＭＳ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102300298&g=int"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "（社説） サイバー攻撃 官民で総力挙げ対策を - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16572516.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "gamespark.jp",
+    "identifier": "システム障害",
+    "title": "「PHP」重大脆弱性問題で長年運営ゲーム2作品が相次いでサービス終了…緊急メンテでは ...",
+    "url": "https://www.gamespark.jp/article/2026/10/22/173932.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "デジタル庁の問い合わせフォームに 不正アクセス 1万3000件超の個人情報流出か 古川デジタル ...",
+    "url": "https://news.yahoo.co.jp/articles/9173e23dbf0d7d3c550a5fa3dc0c72e4d64df9dc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 被害のアルカディア、社長「深くおわび」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC232UA0T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "システム障害",
     "title": "経産省 サイバーセキュリティ専門チームの立ち上げを検討 - TBS NEWS DIG",
