@@ -1,5 +1,77 @@
 [
   {
+    "title": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "description": "サプライチェーン全体のセキュリティ対策水準の向上を目的とした評価制度",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Official Resource",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "2025 CWE Top 25 Most Dangerous Software Weaknesses",
+    "organization": "MITRE",
+    "url": "https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html",
+    "description": "ソフトウェアにおける危険性の高い弱点を順位付けした一覧",
+    "region": "US",
+    "last_checked": "",
+    "tags": [
+      "Vulnerability"
+    ]
+  },
+  {
+    "title": "プラクティス8 インシデントによる被害に備えた事業継続・復旧体制の整備",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/economics/practices_navi/practice233.html",
+    "description": "サイバーセキュリティインシデントによる被害に備えた事業継続・復旧体制に関する実践事例",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Risk Management",
+      "IT-BCP",
+      "Incident Response"
+    ]
+  },
+  {
+    "title": "Cuckoo Sandbox Community",
+    "organization": "Cuckoo Sandbox",
+    "url": "https://cuckoosandbox.org/community-sub/index",
+    "description": "不審なファイルなどを隔離環境で動作させ、挙動を分析するサンドボックス",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Tools",
+      "Malware",
+      "Analysis"
+    ]
+  },
+  {
+    "title": "フィッシング対策ガイドライン 2020年度版",
+    "organization": "フィッシング対策協議会",
+    "url": "https://www.antiphishing.jp/report/antiphishing_guideline_2020.pdf",
+    "description": "事業者向けのフィッシング対策要件と対策の優先度をまとめた2020年度版ガイドライン",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Guidelines"
+    ]
+  },
+  {
+    "title": "Google Safe Browsing フィッシング報告",
+    "organization": "Google",
+    "url": "https://safebrowsing.google.com/safebrowsing/report_phish/",
+    "description": "フィッシングの疑いがあるWebサイトをGoogleに報告するためのページ",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Tools",
+      "Threat Intelligence"
+    ]
+  },
+  {
     "title": "BleepingComputer",
     "organization": "BleepingComputer",
     "url": "https://www.bleepingcomputer.com/",
