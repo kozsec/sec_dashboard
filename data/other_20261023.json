@@ -3,6 +3,348 @@
     "source": "Web",
     "date": "2026-10-23",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＰＨＰ問題で政府、ＡＩを悪用した サイバー攻撃 に危機感…攻撃者が先に弱点発見なら「一晩で ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/politics/20261022-567-GYT1T00425"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「 サイバー攻撃 継続」とアルカディア社長 - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/929872"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "arabnews.jp",
+    "identifier": "サイバー攻撃",
+    "title": "PHPの脆弱性が世界のインターネットを動揺させる中、日本が サイバー攻撃 のシミュレーションを ...",
+    "url": "https://www.arabnews.jp/japan/phpの脆弱性が世界のインターネットを動揺させる中日本がサイバー攻撃のシミュレーションを実施-3001009"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中国政府関連ハッカー集団が世界各国に サイバー攻撃 米マイクロソフトが指摘 航空宇宙や軍事 ...",
+    "url": "https://news.yahoo.co.jp/articles/d6ae0bb6aefde53d15036d52d5e28e3a823ba750"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【岩井コスモ証券】 サイバー攻撃 の目的は『相場操縦』か 客が意図しない株の売買成立 「総当たり ...",
+    "url": "https://newsdig.tbs.co.jp/articles/mbs/3035122?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "岩井コスモ サイバー攻撃 は「異次元」 株価操縦で利ざや狙う手口横行、証券業界が標的化か",
+    "url": "https://www.sankei.com/article/20261023-UVXOXH6GQFKULJLTKTNSZXTPUQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "マイクロソフト、「中国系集団がAIで サイバー攻撃 を自動化」と報告--「ARTEX」を悪用",
+    "url": "https://news.yahoo.co.jp/articles/9c6a7b71b611ffe3b67f10ff74502dc739c57058"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "アルカディアへの サイバー攻撃 、侵入遮断後も 偽メール142万件配信 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC225DQ0S6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "jrc.or.jp",
+    "identifier": "不正アクセス",
+    "title": "メールマガジン「NT（Nisseki Tokyo）NEWS」配信サービスに対する 不正アクセス による情報漏洩 ...",
+    "url": "https://www.jrc.or.jp/chapter/tokyo/news/2026/1023_056631.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nozomisogo.gr.jp",
+    "identifier": "不正アクセス",
+    "title": "メール配信サービス「ブラストメール」への 不正アクセス に伴う個人情報漏えいの可能性について",
+    "url": "https://www.nozomisogo.gr.jp/archives/14105"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "codebook.machinarecord.com",
+    "identifier": "不正アクセス",
+    "title": "ユーザーにシークレットのローテーションを呼びかけ 何者かに 不正アクセス された可能性が判明",
+    "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/48241/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "doyukai.or.jp",
+    "identifier": "不正アクセス",
+    "title": "メール配信サービス「ブラストメール」への 不正アクセス に伴う情報漏えいの可能性について",
+    "url": "https://www.doyukai.or.jp/newsrelease/2026/261023.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "鎮西寿々歌のX 不正アクセス 被害 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6599851"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "お名前.comデスクトップクラウドで 不正アクセス FXで不正利用も発生 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2150663.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "アルカディアへの 不正アクセス 、「人間業ではない」 17時間気づけず - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC230XP0T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "japantimes.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【第3報】お取引先および退職者の皆さまへ、当社グループ管理サーバーへの不正アクセスおよび ...",
+    "url": "https://www.japantimes.co.jp/press/2026/10/23/notice-ransomware-incident-3rd-report-jp/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "顧客資産狙い、企業に圧力か GMO系不正アクセス、異例の攻撃手口 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBR3H1MVBRUTIL02HM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "trafficnews.jp",
+    "identifier": "情報漏えい",
+    "title": "「タイムズカー」 情報漏えい 、146万件の「免許画像」送信痕跡を確認 対象者には「3000円の見舞 ...",
+    "url": "https://trafficnews.jp/post/721946"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "日経新聞への不正アクセスで日経BPの利用者 情報 も約80万件 漏えい テレ東などにも影響か",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002544/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカー 情報漏えい 、“お見舞金”3000円支払いへ 本人確認書類は全削除 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2150820.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "metro.tokyo.lg.jp",
+    "identifier": "情報漏えい",
+    "title": "メール配信サービスへの不正アクセスによる個人 情報 の 漏えい について - 都庁総合ホームページ",
+    "url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102317"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "11月中に「ホワイトハッカー」のチームを立ち上げへ サイバー攻撃 に対抗 赤沢経産相",
+    "url": "https://www.sankei.com/article/20261023-XRF3GYCEHNNRLKOXJIFXMPESJY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "［スキャナー］ＡＩによる サイバー攻撃 のリスク増大、ＰＨＰの脆弱性問題で改ざんや情報窃取も",
+    "url": "https://www.yomiuri.co.jp/national/20261023-GYT1T00036/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい 相次ぐ PHP脆弱性問題23日も… 鹿児島 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/mbc/3035229?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "タイムズカー、免許証画像 漏洩 で「見舞金」3000円 146万件確認 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC027JG0S6A001C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "佐川急便、最大のべ5323万件の個人 情報 流出か 不正アクセスで - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBR339FVBRULFA02GM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "note.com",
+    "identifier": "情報漏洩",
+    "title": "「AI時代のサイバー攻撃と相次ぐ 情報漏洩 から国民を守るための緊急提言」を古川俊治大臣 ... - note",
+    "url": "https://note.com/team_mirai_jp/n/nb8d5cc6d0111"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "佐川急便、「お荷物問い合わせサービス」への不正アクセスで最大5323万件の個人 情報 流出の ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2150814.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 のアプリ会社が会見 「総当たり攻撃、人間わざじゃない」 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBR34VDVBRULFA00QM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "パナソニックHD、利用禁止の生成AIに従業員らの 情報 送出 33万人分 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「 サイバー攻撃 継続」とアルカディア社長｜全国の記事 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1813638"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "arabnews.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本銀行、AI市場ショックや サイバー攻撃 のリスクを警告 - ARAB NEWS",
+    "url": "https://www.arabnews.jp/business/日本銀行ai市場ショックやサイバー攻撃のリスクを警告-3001011"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "佐川急便、最大５３２３万件流出か 送り状データなどの個人情報― 不正アクセス - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102300926&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "金融庁、FX各社に不審な取引の監視強化要請 GMO系で 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB23AR60T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "広告を見るだけで未更新のiPhoneが感染する恐れ、正規サイト248件を攻撃の配信網に悪用",
+    "url": "https://news.yahoo.co.jp/articles/d2d3e0d241e176c9152a033d0a6da02d4130909b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "bengo4.com",
+    "identifier": "情報漏えい",
+    "title": "タイムズカー 情報漏えい 、お見舞い金「3000円」支払いへ…約146万件 - 弁護士ドットコム",
+    "url": "https://www.bengo4.com/c_8/c_1844/n_21098/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい おそれ…「ふれスポ」水泳教室などに応募した最大約3000人分の氏名やメアド ...",
+    "url": "https://newsdig.tbs.co.jp/articles/mbc/3035291?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「Renta!」不正アクセス被害を公表 会員 情報流出 の可能性 サービス停止は継続「再開に向け準備 ...",
+    "url": "https://news.yahoo.co.jp/articles/748a4ae57b940ed8505e684cdeeffb464e8f4e73"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-23",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "不正アクセス",
     "title": "デジタル庁の問い合わせフォームに 不正アクセス 1万3000件超の個人情報流出か 古川デジタル ...",
