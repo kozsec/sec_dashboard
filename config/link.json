@@ -313,7 +313,7 @@
     "description": "国内外のAIセキュリティ動向やインシデント事例を紹介する情報ページ",
     "region": "JP",
     "last_checked": "",
-    "tags": ["AI", "Threat Intelligence", "AI"]
+    "tags": ["AI", "Threat Intelligence"]
   },
   {
     "title": "Known Exploited Vulnerabilities Catalog",
