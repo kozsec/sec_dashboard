@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-10-24",
     "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "情報漏洩",
+    "title": "PHP脆弱性で「トレンドマイクロ」が逆行高…日経平均急落でも買われたサイバーセキュリティー ...",
+    "url": "https://www.newsweekjapan.jp/articles/-/337872?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "ＧＭＯ、能動的防御を要請 不正アクセス攻撃で政府に―ＦＸ取引、金銭被害を補償 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102400301&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "GMO、サイバー防御を緊急要請 不正アクセス確認、適用なら初 - 47NEWS",
+    "url": "https://www.47news.jp/15131241.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "名古屋のIT企業に不正アクセス 自治体の職員 情報 約3000件 流出 か… 東京・あきる野市など2つの ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3035343?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 140件 漏えい 福島県郡山市、委託事業者のウェブサービスに不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/ca2ea33292873778b216d6f3c956d95f56fa96c7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "GMO、政府へ能動的サイバー防御「要請」 不正アクセスで情報流出 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "GMOが「能動的サイバー防御」を緊急要請 全利用者に一律5000円支払いへ 不正アクセス で顧客 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3035837"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯ 不正アクセス 、「攻撃者」から金銭要求も…ネット上に「数十億円の損害与えた」との主張",
+    "url": "https://www.yomiuri.co.jp/economy/20261024-GYT1T00290/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-24",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "情報漏洩",
     "title": "カプコンの個人 情報漏洩 、19件で住所や電話番号流出",
