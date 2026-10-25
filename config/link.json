@@ -702,6 +702,7 @@
     "title": "NIST Cybersecurity Framework (CSF) 2.0",
     "organization": "NIST",
     "url": "https://www.nist.gov/cyberframework",
+    "page_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
     "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
     "region": "US",
     "last_checked": "2026/10/13",
