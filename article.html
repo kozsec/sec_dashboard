@@ -11,7 +11,9 @@
 
     <style>
     .article-list {
+        width: 100%;
         max-width: 900px;
+        box-sizing: border-box;
         margin: 24px auto;
         padding: 0 20px;
     }
@@ -41,12 +43,16 @@
     }
     
     .article-links {
+        min-width: 0;
         padding: 0 0 8px 28px;
     }
     
     .article-links a {
         display: block;
+        max-width: 100%;
+        box-sizing: border-box;
         padding: 5px 0;
+        overflow-wrap: anywhere;
         color: #1769aa;
         text-decoration: none;
     }
