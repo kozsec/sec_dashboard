@@ -958,17 +958,14 @@
     ]
   },
   {
-    "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
+    "title": "行政の進化と革新のための生成AIの調達利活用に係るガイドライン（第2.0版）",
     "organization": "デジタル庁",
-    "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
-    "description": "行政機関における生成AIの調達・利活用、ガバナンス、リスク管理に関するガイドライン",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+    "page_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+    "description": "生成AIの調達・利活用に関するガイドライン",
     "region": "JP",
     "last_checked": "",
-    "tags": [
-      "Guidelines",
-      "AI",
-      "Risk Management"
-    ]
+    "tags": ["Guidelines", "AI"]
   },
   {
     "title": "テキスト生成AIの導入・運用ガイドライン",
