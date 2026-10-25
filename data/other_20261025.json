@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-10-25",
     "time": null,
+    "organization": "x.com",
+    "identifier": "不正アクセス",
+    "title": "ヤマダデンキ、 不正アクセス で一部サービス停止 ゴールド会員向けなど - X",
+    "url": "https://x.com/nikkei/status/2114218713650016399"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "不正アクセス",
+    "title": "双葉町メルマガ配信会社に 不正アクセス クレカ会社装う不審メール配信 - 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/259220"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIも「自分の間違い」を認められない？ Claude Mythos 5、 攻撃 を正当化し続行 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253932/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ、 サイバー 攻防を一変 米中、技術・情報を囲い込み―ＰＨＰ問題 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102400300&g=int"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "国民・玉木氏、防御用AI開発訴え サイバー攻撃 「戦争や大規模災害に匹敵する緊急事態」",
+    "url": "https://www.sankei.com/article/20261025-SDMFB2FFSNK2PFI3ZBQDY4HKRM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "「中国の影」AI悪用 サイバー攻撃 にG7で対処を、野党低迷「結局、金でしょ」 松井一郎 以心伝心",
+    "url": "https://www.sankei.com/article/20261025-K4SOGB7KBRNEXENRWEDK2TLOVY/?outputType=theme_weekly-fuji"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "能動的 サイバー 防御、GMOが政府に要請 識者「ハードル高い」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA2425P0U6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "9月下旬からサイト・アプリへの不正アクセスが続出!! 個人情報\"大お漏らし時代\"にあなたの身に ...",
+    "url": "https://news.yahoo.co.jp/articles/bd094350b46aa7501de0ee1f32fa07a3b8dfec08"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 、技術支援 - 政府、官邸主導で対策 - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/930777"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "FX口座に 不正アクセス 「一晩で180万円損失」GMO利用者が被害 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32653383/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「能動的 サイバー 防御」発動第1号か 先行するアメリカのケースは 相次ぐ不正アクセス被害",
+    "url": "https://article.auone.jp/5e986992-5c5d-43c2-8698-6e0e9fc4ea5a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「無理。人手が足りない」 生成AIの進化で サイバー攻撃 が激化 企業が直面する「ゼロデイ」の恐怖",
+    "url": "https://www.tokyo-np.co.jp/article/523810"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
     "organization": "nishinippon.co.jp",
     "identifier": "不正アクセス",
     "title": "【GMO 不正アクセス 】官民挙げ「無害化」なるか AI進化、公益性課題 - 西日本新聞",
