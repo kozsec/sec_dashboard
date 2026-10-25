@@ -727,6 +727,7 @@
     "title": "NIST SP 800-53 Rev.5",
     "organization": "NIST",
     "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "page_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
     "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
     "region": "US",
     "last_checked": "",
