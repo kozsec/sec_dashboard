@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-10-25",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOが政府に「能動的 サイバー 防御」要請 ハッカー 攻撃 か 口座乗っ取り180万円損失も",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-000542724"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "AI悪用の サイバー攻撃 が急増→｢全弾迎撃｣は不可能に… 生活インフラを死守するために社会全体 ...",
+    "url": "https://toyokeizai.net/articles/-/962133?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "gamebusiness.jp",
+    "identifier": "不正アクセス",
+    "title": "OpenAI、訓練中の最先端AIをインターネットから遮断すると発表。モデルの 不正アクセス 受け",
+    "url": "https://www.gamebusiness.jp/article/2026/10/25/28443.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "不正アクセス",
+    "title": "政府、官邸主導で対策 不正アクセス 、技術支援 - NewsPicks",
+    "url": "https://newspicks.com/news/17764083/?block=headline&ref=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "FX「一晩で180万円損失」 GMO利用者、 不正アクセス で - nippon.com",
+    "url": "https://www.nippon.com/ja/news/kd1487024762985644900/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "FX「一晩で180万円損失」 GMO利用者、 不正アクセス で - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1553035/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "情報漏えい",
+    "title": "モスカード113万件の番号とPINが 流出 モスフード、委託先への不正アクセスで発表 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187772"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "AIでフィッシング詐欺が巧妙化しても、セキュリティのプロは脆弱なパスワード認証を手放せない",
+    "url": "https://news.yahoo.co.jp/articles/0887d4aeb77c2305245fcb5430c2b322b93a5cc9/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "不正アクセス、アプリやクラウドなど4つの経路 動画でクイック解説 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFH219910R21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏えい",
     "title": "“ 漏えい ”で高額被害 「4秒で300万円が…」 不正なFX取引... 取材中“ハッカー集団”からメールも ...",
