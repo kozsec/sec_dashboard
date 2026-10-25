@@ -188,17 +188,39 @@ fetch("../config/link.json")
 
                 const titleCell = document.createElement("td");
 
-                const anchor = document.createElement("a");
-                anchor.href = link.url;
-                anchor.target = "_blank";
-                anchor.rel = "noopener noreferrer";
-                anchor.textContent = link.title;
-
+                if (link.page_url) {
+                    const pageLink = document.createElement("a");
+                    pageLink.href = link.page_url;
+                    pageLink.target = "_blank";
+                    pageLink.rel = "noopener noreferrer";
+                    pageLink.textContent = link.organization || "公開ページ";
+                
+                    const documentLink = document.createElement("a");
+                    documentLink.href = link.url;
+                    documentLink.target = "_blank";
+                    documentLink.rel = "noopener noreferrer";
+                    documentLink.textContent = link.title;
+                
+                    titleCell.append(
+                        pageLink,
+                        document.createTextNode(" / "),
+                        documentLink
+                    );
+                } else {
+                    const anchor = document.createElement("a");
+                    anchor.href = link.url;
+                    anchor.target = "_blank";
+                    anchor.rel = "noopener noreferrer";
+                    anchor.textContent = link.title;
+                
+                    titleCell.appendChild(anchor);
+                }
+                
                 const description = document.createElement("div");
                 description.className = "link-description";
                 description.textContent = link.description || "";
-
-                titleCell.append(anchor, description);
+                
+                titleCell.appendChild(description);
 
                 const organizationCell = document.createElement("td");
                 organizationCell.textContent = link.organization || "";
