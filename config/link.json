@@ -320,7 +320,7 @@
   },
   {
     "title": "特許法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/334AC0000000121",
     "description": "発明の保護と利用に関する法令。技術情報や発明に関する権利の確認に使用",
     "region": "JP",
@@ -331,7 +331,7 @@
   },
   {
     "title": "商標法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/334AC0000000127",
     "description": "商標の保護や商標権に関する法令",
     "region": "JP",
@@ -342,7 +342,7 @@
   },
   {
     "title": "意匠法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/334AC0000000125",
     "description": "物品等のデザインに関する意匠の保護や意匠権に関する法令",
     "region": "JP",
@@ -353,7 +353,7 @@
   },
   {
     "title": "会社法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/417AC0000000086",
     "description": "会社の設立、運営、機関、計算などに関する法令",
     "region": "JP",
@@ -364,7 +364,7 @@
   },
   {
     "title": "金融商品取引法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/323AC0000000025",
     "description": "金融商品取引や企業開示などに関する法令。上場企業の情報開示や内部統制に関連",
     "region": "JP",
@@ -1059,89 +1059,82 @@
   },
   {
     "title": "個人情報の保護に関する法律",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/415AC0000000057",
     "description": "個人情報の取扱いに関する基本法令。個人データの安全管理や第三者提供などの確認に使用",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Privacy",
       "Legal"
     ]
   },
   {
     "title": "不正アクセス行為の禁止等に関する法律",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/411AC0000000128",
     "description": "不正アクセス行為や識別符号の不正取得・提供などに関する法令",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal",
       "Incident Response"
     ]
   },
   {
     "title": "サイバーセキュリティ基本法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/426AC1000000104",
     "description": "国や地方公共団体、重要社会基盤事業者などのサイバーセキュリティに関する基本的な枠組み",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal",
       "Risk Management"
     ]
   },
   {
     "title": "電気通信事業法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/359AC0000000086",
     "description": "電気通信事業に関する法令。通信サービスや関連事業のセキュリティ・プライバシー上の義務を確認する際に参照",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
   {
     "title": "不正競争防止法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/405AC0000000047",
     "description": "営業秘密の保護などに関係する法令。情報資産の管理や秘密情報の漏えい対策に関連",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
   {
     "title": "刑法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/140AC0000000045",
     "description": "電子計算機を利用した犯罪や情報システムに関連する犯罪を検討する際の基本法令",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal",
       "Incident Response"
     ]
   },
   {
     "title": "著作権法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/345AC0000000048",
     "description": "ソフトウェア、プログラム、データなどの利用・複製に関連する法令",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
