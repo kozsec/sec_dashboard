@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-10-25",
     "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【GMO 不正アクセス 】官民挙げ「無害化」なるか AI進化、公益性課題 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1552960/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "gamebusiness.jp",
+    "identifier": "情報漏えい",
+    "title": "グッドスマイルカンパニー、公式ショップ不正アクセス発生により会員 情報流出 の可能性",
+    "url": "https://www.gamebusiness.jp/article/2026/10/25/28441.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "ブラストメール、配信先リストなどの 漏えい を344契約で確認 サービス再開は未定 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35253931/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "届いた“ニセ”メール「自分の 情報 が...」 相次ぐ“ 漏えい ”で脅威が身近に「4秒で ... - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/bdd7800a99f7435da5ad6b21143535c5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「人間業ではない」相次ぐサイバー攻撃 「人の手ではブロックできない」AI時代の新たな脅威と身 ...",
+    "url": "https://news.yahoo.co.jp/articles/1d9181b0e86cc6fa04848470783aed7974aca56b?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏えい",
+    "title": "モスカード113万件の番号・PIN・残高が 流出 、委託先バリューデザインに不正アクセス",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119412/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "sponichi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "GMO 国にサイバー防御緊急要請 口座 情報流出 損失は補償 全顧客に見舞金5000円 - スポニチ",
+    "url": "https://www.sponichi.co.jp/society/news/2026/10/25/kiji/20261025s00042000049000c.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「2秒で416万円」残高ゼロに…GMO不正アクセスで口座破壊声明 被害受け政府に「能動的 ...",
+    "url": "https://news.yahoo.co.jp/articles/c58c173d181339183409e3ac41ac1f5b157bccbe"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "GMOへの攻撃者、利用者PCの乗っ取りを画策 会社は注意喚起",
+    "url": "https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "ランサムウェア",
     "title": "AhnLab、日本法人のトップ交代で製造業OTセキュリティを攻略…東京展示会でIT・OT統合力を ...",
