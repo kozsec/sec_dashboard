@@ -1197,7 +1197,7 @@ footer::after {
 }
 
 .link-table td:first-child a {
-    display: block;
+    display: inline;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
