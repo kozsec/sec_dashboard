@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-25",
     "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "セキュリティーの技術者、求人倍率29倍 情報漏洩 の影に人材不足？ - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBS2V4MVBSULFA013M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み",
+    "url": "https://internet.watch.impress.co.jp/docs/column/keyword/2148826.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "企業を襲う 情報漏洩 ラッシュ AIで加速、入口は今も「おなじみ」 - 日経クロステック（xTECH）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600011/102200217/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "shizuoka-life.jp",
+    "identifier": "情報漏洩",
+    "title": "スズキ、ヤマハ、静岡新聞社も… 静岡県内でも相次ぐ 情報漏洩 全国企業の16％が経験",
+    "url": "https://www.shizuoka-life.jp/post-15633/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOが政府に「能動的 サイバー 防御」要請 ハッカー 攻撃 か 口座乗っ取り180万円損失も",
+    "url": "https://news.ksb.co.jp/ann/article/16992358"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "サイバー攻撃",
+    "title": "バンク・オブ・アメリカは1000人のコンサルタントを雇った…暴走AIエージェントによる サイバー ...",
+    "url": "https://www.businessinsider.jp/article/2610-bank-of-america-hired-contractors-protect-software-rogue-ai-agents/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "t.co",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア 被害が最多。システム発注側に求められる個人情報を「持たない」判断 (久保田一 ...",
+    "url": "https://t.co/Tv8BJ7uKnR"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "「自社は無関係」が致命傷に？日本被害の7割を生む“越境 ランサム 集団”と4つの防御策",
+    "url": "https://www.sbbit.jp/article/sp/187281"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "サイバー攻防、新たな局面に ＡＩ利用、「軍拡競争」の様相― 不正アクセス 、影響拡大 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102500222&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "GMOへのサイバー攻撃、拡散される「脅迫」 「攻撃者の思うつぼ」 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBT3FXRVBTUTIL001M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 受けたＧＭＯに高まる不信感 エンジニア界隈では真逆の評価だった",
+    "url": "https://news.infoseek.co.jp/article/tospo_1487194890835329741/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "jichitai.works",
+    "identifier": "情報漏えい",
+    "title": "【座談会】検証事業参加自治体に聞く“ゼロトラストを実現する道のり” - ジチタイワークス",
+    "url": "https://jichitai.works/articles/3801"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「お名前.com デスクトップクラウド」に不正アクセス、取引口座のログイン 情報 等が取得され不正 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/26/56564.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「焼肉きんぐ」公式アプリ会員管理システムに不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/26/56563.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "システム障害",
+    "title": "エスケーロジにランサムウェア攻撃、一部の社内情報の漏えいを確認 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/26/56561.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-25",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "サイバー攻撃",
     "title": "GMOが政府に「能動的 サイバー 防御」要請 ハッカー 攻撃 か 口座乗っ取り180万円損失も",
