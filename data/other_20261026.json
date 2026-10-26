@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-10-26",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "ユミルリンク 情報漏えい が拡大 - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32662127/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "新幹線のネット予約サービスの会員 情報漏えい …JR3社で計約17万件 「ユミルリンク」への不正 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3039610"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【10月緊急対応版】 情報漏えい 事故から判明した「5つの経路」と「5つの対策」 … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/02bf0931176878be1b3e5217a160263f13008467"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "media.dglab.com",
+    "identifier": "サイバー攻撃",
+    "title": "企業の「悲鳴」に政府どう対応、止まらぬ サイバー攻撃 GMOは能動的防御を要請",
+    "url": "https://media.dglab.com/2026/10/26-reuters-01-5/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "ランサムウェア",
+    "title": "【10月緊急対応版】情報漏えい事故から判明した「5つの経路」と「5つの対策」 - ビジネス+IT",
+    "url": "https://www.sbbit.jp/article/cont1/187777"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "GMO 27日正午に顧客情報の公開と攻撃予告を受けていると発表 顧客の端末預かり調査と解析を ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3039670?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "デジタルギフトに 不正アクセス 5.5億円分を発行 - 47NEWS",
+    "url": "https://www.47news.jp/15142166.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "sbbit.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天トラベルで 不正アクセス 、個人情報最大約260万件が対象 支払情報も最大3万6千件",
+    "url": "https://www.sbbit.jp/article/cont1/187806"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天トラベルに 不正アクセス 、２６０万件の顧客情報が流出か…３万６０００件はクレジット ...",
+    "url": "https://www.yomiuri.co.jp/national/20261026-GYT1T00393/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "家電量販店「ジョーシン」に不正アクセス、６００万件以上 情報流出 か…免許証やマイナカード画像",
+    "url": "https://www.yomiuri.co.jp/national/20261026-GYT1T00292/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "楽天トラベルに不正アクセス 最大約260万件の個人 情報流出 の可能性 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3039602"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "zaikei.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米大手銀行、AI サイバー攻撃 の「発生後」に備え―口座保護・サービス復旧を計画 | 財経新聞",
+    "url": "https://www.zaikei.co.jp/article/20261027/874964.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】 サイバー攻撃 被害受け早急に対策強化と首相 - 47NEWS",
+    "url": "https://www.47news.jp/15141471.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "エスケーロジに ランサムウェア 攻撃、一部の社内情報の漏えいを確認 (ScanNetSecurity)",
+    "url": "https://newspicks.com/news/17765454/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】バンダイナムコ物流子会社に 不正アクセス - 47NEWS",
+    "url": "https://www.47news.jp/15142172.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "楽天トラベルに 不正アクセス 最大約260万件の個人情報流出の可能性 … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/7aaddd674063aca1babb632683aefd3f7442d5c6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "セキュリティー関連株が上昇 サイバー攻撃 対策の支援需要拡大の思惑 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB2650X0W6A021C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-26",
+    "time": null,
     "organization": "k-tai.watch.impress.co.jp",
     "identifier": "システム障害",
     "title": "Joshin、不正アクセスで最大約600万件の会員情報漏洩の可能性 - ケータイ Watch",
