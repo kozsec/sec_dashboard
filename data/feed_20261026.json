@@ -5,6 +5,51 @@
     "time": null,
     "organization": "IPA",
     "identifier": "試験情報",
+    "title": "2026年10月26日 ITパスポート試験合格者の学習実態等に関するアンケート結果を公表しました",
+    "url": "https://www.ipa.go.jp/shiken/kubun/ip/ip_goukaku_anq_all.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月26日 自分の個人情報等が漏えいした際の「対処」と「日頃の対策」を公開しました",
+    "url": "https://www.ipa.go.jp/security/anshin/attention/2026/mgdayori20261026.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-26",
+    "time": "19:17",
+    "organization": "ギフティグループ",
+    "identifier": "590A",
+    "title": "当社連結子会社の一部システムへの不正アクセスに伴うeギフトの不正発行および特別損失計上見込みに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261026556413.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-26",
+    "time": "17:40",
+    "organization": "Ｊｏｓｈｉｎ",
+    "identifier": "8173",
+    "title": "不正アクセスによるシステム障害発生のお詫びとお知らせ（第2報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261026556267.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-26",
+    "time": "14:00",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第３報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261026556007.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
     "title": "2026年10月26日 令和8年度前期試験 高度試験及び情報処理安全確保支援士試験の申込受付を終了しました",
     "url": "https://www.ipa.go.jp/shiken/2026/r08zen_exam.html"
   }
