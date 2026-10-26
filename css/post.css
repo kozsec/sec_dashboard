@@ -1,8 +1,10 @@
+/*印刷設定*/
 @page {
     size: A4 portrait;
     margin: 0;
 }
 
+/*ページ全体の設定*/
 :root {
     --page-width: 210mm;
     --page-height: 297mm;
@@ -31,66 +33,17 @@ body {
         "Yu Gothic", Meiryo, sans-serif;
     line-height: 1.8;
 }
+h1 {
+    margin: 2mm 0 3mm;
+    font-size: 25pt;
+    line-height: 1.35;
+    letter-spacing: .01em;
+}
 
+/*ページレイアウトの設定*/
 .book {
     padding: 18px 0;
 }
-
-.chapter-divider {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    overflow: hidden;
-    color: #fff;
-    background: #0b1730;
-}
-
-.chapter-divider-kicker {
-    padding-bottom: 4mm;
-    border-bottom: 1px solid #314a70;
-    color: #7fa9d8;
-    font-size: 9pt;
-    letter-spacing: .12em;
-}
-
-.chapter-divider-main {
-    position: relative;
-    padding-left: 8mm;
-    border-left: 3px solid #426c9b;
-}
-
-.chapter-divider-number {
-    color: #7fa9d8;
-    font-size: 12pt;
-    letter-spacing: .16em;
-}
-
-.chapter-divider-main h1 {
-    margin: 5mm 0 2mm;
-    color: #fff;
-    font-size: 27pt;
-}
-
-.chapter-divider-main p {
-    margin: 0;
-    color: #b8c9e0;
-    font-size: 12pt;
-}
-
-.chapter-divider-line {
-    width: 100%;
-    height: 1px;
-    margin: 8mm 0 4mm;
-    background: #314a70;
-}
-
-.chapter-divider-main span,
-.chapter-divider-footer {
-    color: #8fa8c9;
-    font-size: 8pt;
-    letter-spacing: .1em;
-}
-
 
 .page {
     position: relative;
@@ -104,680 +57,14 @@ body {
     page-break-after: always;
     break-after: page;
 }
-.page-highlight {
-    position: relative;
-    width: var(--page-width);
-    height: var(--page-height);
-    margin: 0 auto 18px;
-    padding: var(--page-padding-top) var(--page-padding-side) var(--page-padding-bottom);
-    overflow: hidden;
-    background: #fff5d8;
-    box-shadow: 0 2px 12px rgb(22 34 46 / 12%);
-    page-break-after: always;
-    break-after: page;
-}
 
 .page:last-child {
+    /*最終ページの設定*/
     page-break-after: auto;
     break-after: auto;
 }
 
-.page-header {
-    padding-bottom: 7mm;
-    margin-bottom: 8mm;
-    border-bottom: 1px solid var(--line);
-}
-
-.book-label,
-.chapter-label {
-    margin: 0;
-    color: var(--muted);
-    font-size: 9pt;
-    letter-spacing: .12em;
-}
-
-.chapter-label {
-    margin-top: 5mm;
-    color: var(--accent);
-    font-weight: 700;
-}
-
-h1 {
-    margin: 2mm 0 3mm;
-    font-size: 25pt;
-    line-height: 1.35;
-    letter-spacing: .01em;
-}
-
-.lead {
-    margin: 0;
-    color: var(--muted);
-    font-size: 11pt;
-}
-
-.article-section h2,
-.conversation h2 {
-    margin: 0 0 3mm;
-    padding-left: 3mm;
-    border-left: 3px solid var(--accent);
-    font-size: 15pt;
-    line-height: 1.5;
-}
-
-.article-section p {
-    margin: 0 0 4mm;
-    font-size: 10.5pt;
-    line-height: 1.9;
-}
-
-.article-image {
-    width: 47%;
-    margin: 1mm 0 4mm 5mm;
-}
-
-.image-right {
-    float: right;
-}
-
-.image-left {
-    float: left;
-    margin: 1mm 5mm 4mm 0;
-}
-
-.article-image img {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-height: 76mm;
-    object-fit: contain;
-    border: 1px solid var(--line);
-    background: #f7f9fb;
-}
-
-.article-image figcaption {
-    margin-top: 1.5mm;
-    color: var(--muted);
-    font-size: 8.5pt;
-    line-height: 1.5;
-}
-
-.article-section a {
-    color: #245f91;
-    text-decoration: underline;
-    text-underline-offset: 2px;
-}
-
-.article-section a:visited {
-    color: #684a91;
-}
-
-.article-section a:hover {
-    color: #173e61;
-}
-
-.note-box {
-    clear: both;
-    margin-top: 7mm;
-    padding: 4mm 5mm;
-    border: 1px solid #cbd7e2;
-    background: var(--soft);
-    font-size: 9.5pt;
-    break-inside: avoid;
-}
-
-.note-box h3 {
-    margin: 0 0 1.5mm;
-    color: var(--accent);
-    font-size: 11pt;
-}
-
-.note-box p,
-.note-box ul {
-    margin: 0;
-    font-size: 9.5pt;
-    line-height: 1.8;
-}
-
-.note-box ul {
-    padding-left: 5mm;
-}
-
-.note-box li {
-    font-size: 9.5pt;
-    line-height: 1.8;
-}
-
-.page-footer {
-    position: absolute;
-    right: var(--page-padding-side);
-    bottom: 7mm;
-    left: var(--page-padding-side);
-    display: flex;
-    justify-content: space-between;
-    margin: 0;
-    padding: 2mm 0 0;
-    border-top: 1px solid var(--line);
-    background: transparent;
-    color: var(--muted);
-    font-size: 8pt;
-    letter-spacing: .06em;
-    text-align: left;
-    overflow: visible;
-}
-
-.page-footer::before,
-.page-footer::after {
-    content: none;
-}
-
-.conversation {
-    margin-top: 6mm;
-}
-
-.conversation h2 {
-    margin-bottom: 4mm;
-}
-
-.chat-row {
-    display: flex;
-    align-items: flex-start;
-    gap: 3mm;
-    margin: 0 0 4mm;
-    break-inside: avoid;
-}
-
-.chat-row.chat-right {
-    justify-content: flex-end;
-}
-
-.avatar {
-    flex: 0 0 15mm;
-    width: 15mm;
-    height: 15mm;
-    overflow: hidden;
-    border: 1px solid var(--line);
-    border-radius: 50%;
-    background: #f1f4f7;
-}
-
-.avatar img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.chat-content {
-    max-width: 78%;
-}
-
-.chat-right .chat-content {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-}
-
-.character-name {
-    margin: 0 0 1mm;
-    color: var(--muted);
-    font-size: 8.5pt;
-}
-
-.bubble {
-    padding: 2.5mm 4mm;
-    border: 1px solid var(--line);
-    border-radius: 4mm;
-    background: #f3f5f7;
-    font-size: 9.5pt;
-    line-height: 1.65;
-    overflow-wrap: anywhere;
-}
-
-.chat-right .bubble {
-    border-color: #c8dfc2;
-    background: #e3f3df;
-}
-
-.conversation + .note-box {
-    margin-top: 5mm;
-}
-
-.vuln-flow {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
-    max-width: 480px;
-    margin: 12px auto;
-}
-
-.vuln-flow-step,
-.vuln-flow-exception {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
-    width: 100%;
-    padding: 7px 10px;
-    border: 1px solid #cbd5e1;
-    border-radius: 8px;
-    background: #f8fafc;
-    text-align: center;
-}
-
-.vuln-flow-step strong,
-.vuln-flow-exception strong {
-    color: #1e293b;
-    font-size: .85em;
-}
-
-.vuln-flow-step span,
-.vuln-flow-exception span {
-    color: #475569;
-    font-size: .75em;
-    line-height: 1.4;
-}
-
-.vuln-flow-step span {
-    margin-top: 2px;
-}
-
-.vuln-flow-arrow {
-    color: #64748b;
-    font-size: 1em;
-    line-height: 1;
-}
-
-.vuln-flow-branch {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
-    width: 100%;
-    margin-top: 4px;
-    padding-top: 4px;
-    border-top: 1px dashed #94a3b8;
-}
-
-.vuln-flow-branch-label {
-    color: #b45309;
-    font-size: .8em;
-    font-weight: bold;
-    text-align: center;
-}
-
-.vuln-flow-exception {
-    border-color: #d97706;
-    background: #fffbeb;
-}
-
-.vuln-decision-flow {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
-    max-width: 620px;
-    margin: 10px auto;
-    color: #1e293b;
-}
-
-.vdf-node,
-.vdf-assessment {
-    width: 100%;
-    padding: 7px 10px;
-    border: 1px solid #cbd5e1;
-    border-radius: 10px;
-    background: #f8fafc;
-    text-align: center;
-}
-
-.vdf-node strong,
-.vdf-assessment > strong {
-    display: block;
-    font-size: .95em;
-}
-
-.vdf-node span {
-    display: block;
-    margin-top: 3px;
-    color: #475569;
-    font-size: .82em;
-    line-height: 1.4;
-}
-
-.vdf-start {
-    border-color: #cbd5e1;
-    background: #f8fafc;
-
-}
-
-.vdf-indicators {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 4px;
-    margin-top: 5px;
-}
-
-.vdf-indicators div {
-    padding: 4px 6px;
-    border-radius: 7px;
-    background: #e9eef5;
-    font-size: .82em;
-    line-height: 1.35;
-}
-
-.vdf-arrow {
-    color: #64748b;
-    font-size: 1em;
-    line-height: 1;
-}
-
-.vdf-results {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 5px;
-    width: 100%;
-}
-
-.vdf-result {
-    min-width: 0;
-    padding: 6px 7px;
-    border: 1px solid #cbd5e1;
-    border-radius: 10px;
-    background: #fff;
-    text-align: center;
-}
-
-.vdf-result strong,
-.vdf-result b,
-.vdf-result span {
-    display: block;
-}
-
-.vdf-result strong {
-    font-size: .85em;
-}
-
-.vdf-result b {
-    margin: 2px 0;
-    font-size: 1.1em;
-}
-
-.vdf-result span {
-    color: #475569;
-    font-size: .76em;
-    line-height: 1.35;
-}
-.vdf-urgent {
-    border-color: #dc6262;
-    background: #fef2f2;
-}
-
-.vdf-urgent strong {
-    color: #b91c1c;
-}
-
-.vdf-high {
-    border-color: #d97706;
-    background: #fff7ed;
-}
-
-.vdf-high strong {
-    color: #b45309;
-}
-
-.vdf-medium {
-    border-color: #60a5fa;
-    background: #eff6ff;
-}
-
-.vdf-medium strong {
-    color: #1d4ed8;
-}
-
-.vdf-low {
-    border-color: #65a30d;
-    background: #f0fdf4;
-}
-
-.vdf-low strong {
-    color: #3f6212;
-}
-
-.vdf-note {
-    width: 100%;
-    padding: 6px 10px;
-    border-left: 4px solid #64748b;
-    border-radius: 4px;
-    background: #f1f5f9;
-}
-
-.vdf-note strong {
-    font-size: .9em;
-}
-
-.vdf-note p {
-    margin: 3px 0 0;
-    font-size: .82em;
-    line-height: 1.4;
-}
-
-
-.report-intro{font-size:10pt;line-height:1.8}
-.report-kicker{font-size:9pt;letter-spacing:.08em;color:#526477}
-.report-overview {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 10px;
-  margin: 12px 0;
-  align-items: stretch;
-}
-
-.report-stat {
-  border: 1px solid #ccd5df;
-  padding: 12px 10px;
-  border-radius: 6px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.report-stat strong {
-  display: block;
-  font-size: 25pt;
-  line-height: 1.15;
-  margin-bottom: 5px;
-}
-
-.report-stat span {
-  font-size: 9pt;
-}
-
-.threat-chart {
-  border: 1px solid #ccd5df;
-  border-radius: 6px;
-  padding: 10px;
-  min-width: 0;
-}
-
-.threat-chart h3 {
-  font-size: 10pt;
-  margin: 0 0 8px;
-}
-
-.threat-bars {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.threat-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1.5fr) minmax(30px, 2fr) 24px;
-  gap: 5px;
-  align-items: center;
-  font-size: 7.2pt;
-  line-height: 1.25;
-}
-
-.threat-name {
-  overflow-wrap: anywhere;
-}
-
-.threat-track {
-  height: 9px;
-  background: #edf1f5;
-  border-radius: 2px;
-  overflow: hidden;
-}
-
-.threat-bar {
-  height: 100%;
-  background: #547da5;
-}
-
-.threat-count {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-.threat-chart-note {
-  font-size: 7pt;
-  color: #5c6670;
-  margin: 7px 0 0;
-  line-height: 1.4;
-}
-
-
-@media (max-width: 600px) {
-  .report-overview {
-    gap: 6px;
-  }
-
-  .report-stat {
-    padding: 8px 6px;
-  }
-
-  .report-stat strong {
-    font-size: 20pt;
-  }
-
-  .threat-chart {
-    padding: 7px;
-  }
-
-  .threat-row {
-    grid-template-columns: minmax(0, 1.4fr) minmax(18px, 1fr) 18px;
-    gap: 3px;
-    font-size: 6.5pt;
-  }
-
-  .threat-track {
-    height: 7px;
-  }
-}
-.report-stat strong{
-    display:block;
-    font-size:20pt;
-}
-.report-tag{
-    display:inline-block;
-    font-size:7.5pt;
-    border:1px solid #9aa9b9;
-    border-radius:999px;
-    padding:2px 7px;
-    margin:2px 3px 2px 0;
-    line-height:1.4;
-}
-.report-tag.ransom{
-    border-color:#a24a4a;
-}
-.report-tag.vuln{
-    border-color:#537da5;
-}
-.report-tag.supply{
-    border-color:#8b6ca9;
-}
-.report-tag.internal{
-    border-color:#b0823f;
-}
-.report-case-title{
-    font-size:17pt;
-    line-height:1.45;
-    margin:8px 0 12px;
-}
-.report-meta{
-    font-size:9pt;color:#536170;
-    margin-bottom:10px;
-}
-.report-list-item{
-    border-bottom:1px solid #d9e0e7;
-    padding:8px 0;
-    break-inside:avoid;
-}
-.report-list-item h3{
-    font-size:11pt;
-    margin:0 0 4px;
-}
-.report-list-item p{
-    font-size:8.5pt;
-    line-height:1.55;
-    margin:4px 0;
-}
-.report-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0 8px;
-    margin-top: 2mm;
-    font-size: 10.5pt;
-    line-height: 1.7;
-}
-
-.report-links a {
-    display: inline;
-    padding: 0;
-    border: none;
-    border-radius: 0;
-    background: none;
-    color: #245f91;
-    font-size: inherit;
-    text-decoration: underline;
-}
-.report-caveat{
-    font-size:8pt;color:#5c6670;
-    line-height:1.6;
-}
-.report-list-pages{
-    display:block;
-}
-.report-list-page{
-    break-after:page;
-    page-break-after:always;
-}
-
-.page-header h1 {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    color: #1769aa;
-}
-
-.chapter-number {
-    display: inline-flex;
-    border-radius: 6px;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-    width: 42px;
-    height: 42px;
-    background-color: #1769aa;
-    color: #ffffff;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1;
-}
-
-
+/*表紙の設定*/
 .cover-page {
     padding: 0;
     overflow: hidden;
@@ -847,6 +134,352 @@ h1 {
     letter-spacing: .1em;
 }
 
+/*ヘッダーの設定*/
+.page-header {
+    padding-bottom: 7mm;
+    margin-bottom: 8mm;
+    border-bottom: 1px solid var(--line);
+}
+
+.book-label,
+.chapter-label {
+    margin: 0;
+    color: var(--muted);
+    font-size: 9pt;
+    letter-spacing: .12em;
+}
+
+.chapter-label {
+    margin-top: 5mm;
+    color: var(--accent);
+    font-weight: 700;
+}
+
+/*リード分の設定(ひかえめ)*/
+.lead {
+    margin: 0;
+    color: var(--muted);
+    font-size: 11pt;
+}
+
+/*記事の設定*/
+.article-section h2,
+.conversation h2 {
+    margin: 0 0 3mm;
+    padding-left: 3mm;
+    border-left: 3px solid var(--accent);
+    font-size: 15pt;
+    line-height: 1.5;
+}
+
+.article-section p {
+    margin: 0 0 4mm;
+    font-size: 10.5pt;
+    line-height: 1.9;
+}
+
+/*記事タイトルの設定*/
+.page-header h1 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #1769aa;
+}
+
+.chapter-number {
+    display: inline-flex;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 42px;
+    height: 42px;
+    background-color: #1769aa;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+/*記事内の画像の設定*/
+.article-image {
+    width: 47%;
+    margin: 1mm 0 4mm 5mm;
+}
+
+.image-right {
+    /*右寄せ画像を使う時*/
+    float: right;
+}
+
+.image-left {
+    /*左寄せ画像を使う時*/
+    float: left;
+    margin: 1mm 5mm 4mm 0;
+}
+
+.article-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 76mm;
+    object-fit: contain;
+    border: 1px solid var(--line);
+    background: #f7f9fb;
+}
+
+.article-image figcaption {
+    /*画像のキャプション*/
+    margin-top: 1.5mm;
+    color: var(--muted);
+    font-size: 8.5pt;
+    line-height: 1.5;
+}
+
+/*記事内のリンク設定*/
+.article-section a {
+    color: #245f91;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.article-section a:visited {
+    color: #684a91;
+}
+
+.article-section a:hover {
+    color: #173e61;
+}
+
+/*注意事項、tipsの設定*/
+.note-box {
+    clear: both;
+    margin-top: 7mm;
+    padding: 4mm 5mm;
+    border: 1px solid #cbd7e2;
+    background: var(--soft);
+    font-size: 9.5pt;
+    break-inside: avoid;
+}
+
+.note-box h3 {
+    margin: 0 0 1.5mm;
+    color: var(--accent);
+    font-size: 11pt;
+}
+
+.note-box p,
+.note-box ul {
+    margin: 0;
+    font-size: 9.5pt;
+    line-height: 1.8;
+}
+
+.note-box ul {
+    padding-left: 5mm;
+}
+
+.note-box li {
+    font-size: 9.5pt;
+    line-height: 1.8;
+}
+
+/*フッターの設定*/
+.page-footer {
+    position: absolute;
+    right: var(--page-padding-side);
+    bottom: 7mm;
+    left: var(--page-padding-side);
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 2mm 0 0;
+    border-top: 1px solid var(--line);
+    background: transparent;
+    color: var(--muted);
+    font-size: 8pt;
+    letter-spacing: .06em;
+    text-align: left;
+    overflow: visible;
+}
+
+.page-footer::before,
+.page-footer::after {
+    content: none;
+}
+
+/*会話の設定*/
+.conversation {
+    margin-top: 6mm;
+}
+
+.conversation h2 {
+    margin-bottom: 4mm;
+}
+
+.chat-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 3mm;
+    margin: 0 0 4mm;
+    break-inside: avoid;
+}
+
+.chat-row.chat-right {
+    justify-content: flex-end;
+}
+
+.avatar {
+    flex: 0 0 15mm;
+    width: 15mm;
+    height: 15mm;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    background: #f1f4f7;
+}
+
+.avatar img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.chat-content {
+    max-width: 78%;
+}
+
+.chat-right .chat-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.character-name {
+    margin: 0 0 1mm;
+    color: var(--muted);
+    font-size: 8.5pt;
+}
+
+.bubble {
+    /*フキダシ部分（左から）*/
+    padding: 2.5mm 4mm;
+    border: 1px solid var(--line);
+    border-radius: 4mm;
+    background: #f3f5f7;
+    font-size: 9.5pt;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+}
+
+.chat-right .bubble {
+    /*フキダシ部分（右から）*/
+    border-color: #c8dfc2;
+    background: #e3f3df;
+}
+
+/*フローチャート*/
+.flow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    max-width: 480px;
+    margin: 12px auto;
+}
+
+.flow-step,
+.flow-exception {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 100%;
+    padding: 7px 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    background: #f8fafc;
+    text-align: center;
+}
+
+.flow-step strong,
+.flow-exception strong {
+    color: #1e293b;
+    font-size: .85em;
+}
+
+.flow-step span,
+.flow-exception span {
+    color: #475569;
+    font-size: .75em;
+    line-height: 1.4;
+}
+
+.flow-step span {
+    margin-top: 2px;
+}
+
+.flow-arrow {
+    color: #64748b;
+    font-size: 1em;
+    line-height: 1;
+}
+
+.flow-branch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 100%;
+    margin-top: 4px;
+    padding-top: 4px;
+    border-top: 1px dashed #94a3b8;
+}
+
+.flow-branch-label {
+    color: #b45309;
+    font-size: .8em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.flow-exception {
+    border-color: #d97706;
+    background: #fffbeb;
+}
+
+
+@media (max-width: 600px) {
+  .report-overview {
+    gap: 6px;
+  }
+
+  .report-stat {
+    padding: 8px 6px;
+  }
+
+  .report-stat strong {
+    font-size: 20pt;
+  }
+
+  .threat-chart {
+    padding: 7px;
+  }
+
+  .threat-row {
+    grid-template-columns: minmax(0, 1.4fr) minmax(18px, 1fr) 18px;
+    gap: 3px;
+    font-size: 6.5pt;
+  }
+
+  .threat-track {
+    height: 7px;
+  }
+}
+
+
+
 @media print {
     .cover-page,
     .cover-header {
@@ -898,7 +531,7 @@ h1 {
         outline: none;
     }
 
-    .vuln-decision-flow {
+    .decision-flow {
         break-inside: avoid;
     }
 }
@@ -1023,8 +656,8 @@ h1 {
         overflow-wrap: anywhere;
     }
 
-    .vuln-flow,
-    .vuln-decision-flow {
+    .flow,
+    .decision-flow {
         width: 100%;
         max-width: 100%;
         min-width: 0;
@@ -1051,4 +684,3 @@ h1 {
         print-color-adjust: exact;
     }
 }
-
