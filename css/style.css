@@ -476,7 +476,7 @@ display: flex;
 
 .vulnerability-section {
     margin-top: 0;
-    height: 320px;
+    height: 340px;
     background: #ffffff;
     border: 1px solid #e6eaf0;
     border-radius: 20px;
@@ -518,7 +518,7 @@ display: flex;
 }
 
 .vulnerability-table-wrapper {
-    height: 218px;
+    height: 260px;
     overflow-x: auto;
     overflow-y: hidden;
 }
@@ -619,7 +619,7 @@ display: flex;
 
 /* Oversea? */
 .oversea-section {
-    height: 320px;
+    height: 340px;
     background: #ffffff;
     border: 1px solid #e6eaf0;
     border-radius: 20px;
