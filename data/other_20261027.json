@@ -3,6 +3,267 @@
     "source": "Web",
     "date": "2026-10-27",
     "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカ―」 漏洩 “3000円低すぎる” - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16995398"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【速報】りそな・関西みらい銀行など３行も会員 情報漏えい 東海道・山陽新幹線の予約システム ...",
+    "url": "https://news.yahoo.co.jp/articles/3484c9d6cb4553ffef46c3087b661f420182975a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「ユミルリンク」延べ5162万件余りの個人 情報漏えい を確認 JR東海や阪急百貨店などもシステム ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3039545"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "システム障害",
+    "title": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性 - INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2151273.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "京王電鉄から被害届受理 ランサムウエア攻撃で 障害 警視庁（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/259d8a612e5c7fff8ca6bcb2d4af2ade19b0d704"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＧＭＯ、「ランサムウェア」 攻撃 に備えＰＣ電源オフ・コード引き抜きを呼びかけ…被害者には ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261027-GYT1T00213/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "攻撃 者が主張するGMOの「過失」 VPSの仕組みと必要な対策とは - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBV2ST4VBVUTIL00JM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "対GMO 不正アクセス 攻撃側が「予告通り」利用者の個人情報を公開か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3f2455552c5cb48fe8e20d2b99d5324847dbf33a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯの 不正アクセス 、攻撃者が個人情報 １件を公開か…「毎日正午に公開」「要求受け入れる ...",
+    "url": "https://news.yahoo.co.jp/articles/1ee8419ae44aad58464adb11d4a0ca32b9a9c059"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "300人分の個人 情報漏えい か いわきフィルム・コミッション協エキストラ登録者 不正アクセス受け",
+    "url": "https://www.minpo.jp/articles/-/259841"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【 情報漏えい 】りそな銀行など3行でアドレスなど流出の可能性 メール配信委託先「ユミルリンク ...",
+    "url": "https://news.yahoo.co.jp/articles/e7977648568e45e6141063b52ba3825100dc66db"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "りそなグループ、「ユミルリンク」不正アクセスで個人 情報漏えい の可能性…メールアドレスや ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261027-GYT1T00276/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカ―」 漏洩 “3000円低すぎる” | khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/16995399"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "新幹線予約「スマートEX」などの会員 情報 約17万件 漏えい 発表 委託先への不正アクセスが原因",
+    "url": "https://news.ntv.co.jp/category/economy/9d720c5e2e1d4cae9815f0a56d109f77"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "FX5社でサイバー被害確認 「全業者にモニタリング強化要請」片山大臣 経産省は“無料相談窓口 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3040286?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯの顧客情報公開 正午期限の金銭要求拒否― 不正アクセス 、被害確認急ぐ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102700370&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス 、FX5社で被害 片山金融相「監視強化を要請」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB270N70X21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドトールコーヒーで 不正アクセス 従業員や退職者らの銀行口座番号など951名分が流出か …",
+    "url": "https://news.yahoo.co.jp/articles/7d8df809b6004bf6e0a27d86e8bbe86a8256b101"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "情報漏洩",
+    "title": "日本企業で相次ぐ 情報漏洩 技術力の低さよりも深刻な根本的要因とは",
+    "url": "https://www.newsweekjapan.jp/articles/-/337728"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "So-net、会員データベースへの不正アクセスで会員 情報 約214万件などが 漏えい 。一部退会者も ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ECモール「ツクツク！！！」 クレカ 情報 大量 漏洩 セキュリティーコード含む約2万件",
+    "url": "https://news.yahoo.co.jp/articles/8c8191d6bc2b1836801bfb3523c8881ce5acb85e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "ソニーネット、So-netなど会員 情報 258万件 漏洩 口座 情報 も16件",
+    "url": "https://www.nikkei.com/article/DGXZQOUC277HE0X21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "So-netなど258万件超の個人 情報漏洩 、ソニーネットワークが発表（ケータイ Watch）",
+    "url": "https://news.yahoo.co.jp/articles/683f624323b633f0e43e2126bf64d38db09f1fb4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "m.crank-in.net",
+    "identifier": "情報漏洩",
+    "title": "VIVANT』ドラム「聞くしかないね。じかにね」機密 情報漏洩 にツッコミ続出「口が軽すぎるだろ笑 ...",
+    "url": "https://m.crank-in.net/gallery/news/193261/2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "tokyonewsmedia.com",
+    "identifier": "情報漏洩",
+    "title": "Joshinで最大約600万件超の個人 情報漏洩 か 会員DBやサブスクなど3システムに不正アクセス",
+    "url": "https://tokyonewsmedia.com/archives/29638"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "GMO攻撃者が「顧客 情報 」公開 会社「拡散しないで」法的措置準備 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVBW1V4PVBWOXIE04YM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日本企業で相次ぐ 情報漏洩 技術力の低さよりも深刻な根本的要因とは …は - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/4ab4f9c910eed596fc3f2572e915a7463ea855a2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "GMO、攻撃者が顧客関連情報公開か 対象顧客には追加見舞金検討、 ランサムウェア 被害なら新 ...",
+    "url": "https://news.yahoo.co.jp/articles/cf3456ea5865a08105e6d8efd4a0a98d8338f0b4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ＧＭＯ、攻撃者の公開情報を拡散・アクセスしないよう呼びかけ…捜査当局などと連携し真偽を ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261027-GYT1T00246/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "ランサムウェア",
     "title": "GMO「PC電源を切って」 正午の攻撃予告前に セキュリティー会社から協力申し出も …",
