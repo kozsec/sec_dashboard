@@ -3,6 +3,186 @@
     "source": "Web",
     "date": "2026-10-27",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "岐阜県が実施したスタプラリーから 情報漏洩 応募者のメールアドレスや性別・年齢層など1135人分 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/cbc/3042714"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "岐阜県が実施したスタンプラリーから 情報漏洩 応募者のメールアドレスや性別・年齢層など1135人 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/cbc/3042714?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク子会社 IDCフロンティアのクラウドの不正アクセス 「原因はソフトウェアの脆弱性 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3042486?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "ランサムウェア",
+    "title": "AI時代、オンライン上の「相手は本当に人間か」をどう確認するのか - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35253728/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "ncctv.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "攻撃者が公開？サイトに“特定人物の個人情報”と「毎日正午に順次公開」 | 長崎ニュース",
+    "url": "https://www.ncctv.co.jp/news/article/16998415"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "j-cast.com",
+    "identifier": "ランサムウェア",
+    "title": "GMO、攻撃者が顧客関連情報公開か 対象顧客には追加見舞金検討 - J-CAST ニュース",
+    "url": "https://www.j-cast.com/2026/10/27518730.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告 GMOが端末回収 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002610/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス 警視庁が捜査 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6600351"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "GMO、攻撃者による情報公開を確認 顧客データ含むか調査中 追加の見舞金も検討 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002630/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 「知識豊富と示すため」 元旭化成社員を起訴―名古屋地検 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026102701077&g=soc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "GMOへのサイバー攻撃 “顧客や自社に関する 情報 ”公開されたことを確認 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/930db706765a4f919aa19853e16f6b2f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏えい",
+    "title": "新幹線「スマートEX」 情報漏えい 委託先に不正アクセス JR3社発表 | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/16996741"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "So-netなど258万件超の個人 情報 漏洩、ソニーネットワークが発表 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2151581.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「自分の個人 情報 が 漏えい した……どうすれば？」 IPAが対処法公開（ITmedia NEWS）",
+    "url": "https://topics.smt.docomo.ne.jp/article/itmedia_news/business/itmedia_news-20261027_2000002617?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「自分の個人 情報 が 漏えい した……どうすれば？」 IPAが対処法公開 - ITmedia NEWS",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002617/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "りそなグループ3行で顧客 情報 が 漏えい か メール配信業務の委託先に不正アクセス 口座番号や ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3042173"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ヤクルト本社「 不正アクセス を確認」 顧客情報への影響調査",
+    "url": "https://www.nikkei.com/article/DGXZQOUC27AK90X21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス 、警視庁が捜査 不正アクセス 禁止法違反など視野 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUD27BK30X21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏洩",
+    "title": "中経連・柘植会長 サイバー攻撃による企業の 情報漏えい に危機感「1社の被害が広範囲に波及する ...",
+    "url": "https://www.fnn.jp/articles/-/1140422"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "情報漏洩",
+    "title": "楽天トラベルやJR東海などで個人 情報 流出 不正アクセスによる流出は2億2000万件に上る可能性も",
+    "url": "https://article.auone.jp/420a93ef-dfee-433d-ab65-4ca5a8b812f9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-27",
+    "time": null,
     "organization": "watch.impress.co.jp",
     "identifier": "システム障害",
     "title": "東京メトロ、保守作業車にAI搭載の支援 システム - Impress Watch",
