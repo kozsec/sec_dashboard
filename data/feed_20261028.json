@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "Broadcom",
+    "product": "VMware ESX",
+    "identifier": "CVE-2026-41709",
+    "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-41709&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "Linux",
+    "product": "Kernel",
+    "identifier": "CVE-2026-46300",
+    "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-46300&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-28",
     "time": null,

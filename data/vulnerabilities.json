@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-41709",
+    "company": "Broadcom",
+    "product": null,
+    "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00297,
+    "cvss": 2.7,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:N",
+    "published": "2026/10/28",
+    "last_update": "2026/10/28"
+  },
+  {
+    "cve": "CVE-2026-46300",
+    "company": "Linux",
+    "product": null,
+    "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.10192,
+    "cvss": 7.8,
+    "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/10/28",
+    "last_update": "2026/10/28"
+  },
+  {
     "cve": "CVE-2026-48356",
     "company": "Adobe",
     "product": null,
