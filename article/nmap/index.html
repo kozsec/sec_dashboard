@@ -1,0 +1,724 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Post by koz</title>
+    <link rel="stylesheet" href="../../css/post.css">
+    <link rel="stylesheet" href="../../css/style.css">
+</head>
+
+<body>
+    <main class="book">
+
+<!-- 表紙 -->
+
+    <article class="page cover-page">
+            <header class="cover-header">
+                <p class="cover-label">SECURITY POST</p>
+                <div class="cover-line"></div>
+                <h1>Nmap</h1>
+                <p class="cover-title">ネットワーク調査(mac編)</p>
+                <p class="cover-description">
+                    ツールを使ったネットワーク構成の調査
+                </p>
+                <div class="cover-bottom">
+                    <span>SECURITY POST BY KOZ</span>
+                    <span>Last update: 2026/10/26</span>
+                </div>
+            </header>
+        </article>
+
+<!-- 1ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">01</span>Nmapでネットワーク調査</h1>
+                <p class="lead">自宅の環境でNmapを動かしてみよう</p>
+            </header>
+
+            <section class="article-section">
+                <h2>ネットワークの中を見てみよう</h2>
+                <p>
+                    　自宅のネットワークには、PC、ルーター、IoT等のさまざまな機器が接続されています。今回は、ネットワーク調査ツールのNmapを使って、自宅のネットワークを調査します。ホスト探索からポートスキャン、サービスの特定までを実践し、最後にネットワーク図にまとめます。
+                </p>
+                <aside class="note-box">
+                    <h3>今回の調査環境</h3>
+                    <ul>
+                        <li>調査端末：macOS</li>
+                        <li>ネットワーク：192.168.10.0/24</li>
+                        <li>調査対象：自分が管理する自宅ネットワーク</li>
+                    </ul>
+                </aside>
+            </section>
+
+            <section class="conversation">
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            まずは、自宅のネットワークに何台の機器がいるのか調べてみよう！
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            君の家は殺伐としているから何も出なそうだね
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            シンプルな暮らしが良いのです
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>01</span>
+            </footer>
+        </article>
+
+<!-- 2ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">02</span>ホストを探索する</h1>
+                <p class="lead">ネットワークの範囲を確認し、稼働している機器を探す</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. Nmapをインストールする</h2>
+                <p>
+                    　Nmapは、ネットワーク上のホスト探索やポートスキャン、サービスの特定などに利用できるツールです。MacではHomebrewを使ってインストールできます。
+                </p>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    brew install nmap
+                </aside>
+                <br>
+
+                <h2>2. 自分のネットワークを確認する</h2>
+                <p>
+                    　最初に、自分のMacに設定されているIPアドレスとサブネットマスクを確認します。
+                </p>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    ifconfig en0 | grep netmask
+                </aside>
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    inet 192.168.10.108<br>
+                    netmask 0xffffff00<br>
+                    broadcast 192.168.10.255
+                </aside>
+
+                <aside class="note-box">
+                    <h3>確認できたネットワーク情報</h3>
+                    <ul>
+                        <li>自分のIPアドレス：192.168.10.108</li>
+                        <li>サブネットマスク：255.255.255.0</li>
+                        <li>ネットワーク：192.168.10.0/24</li>
+                        <li>ブロードキャスト：192.168.10.255</li>
+                    </ul>
+                </aside>
+
+                <p>
+                    　サブネットマスクの <code>0xffffff00</code> は、10進数では <code>255.255.255.0</code> です。今回は、このネットワーク内のIPアドレスを調査します。
+                </p>
+                </div>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>02</span>
+            </footer>
+        </article>
+
+
+
+<!-- 3ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+            </header>
+
+            <section class="article-section">
+
+                <h2>3. ホスト探索を実行する</h2>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    nmap -sn 192.168.10.0/24
+                </aside>
+
+                <p>
+                    　-sn は、ポートスキャンを行わずにホストの稼働状況を調べるオプションです。
+                </p>
+                <p>
+                    　実行すると、約22秒で次の4つのIPアドレスが検出されました。
+                </p>
+
+                <aside class="note-box">
+                    <h3>実行結果</h3>¥
+                    <b>Nmap scan report for aterm.me (192.168.10.1)</b><br>
+                    Host is up (0.017s latency).<br>
+                    <b>Nmap scan report for 192.168.10.50</b><br>
+                    Host is up (0.0052s latency).<br>
+                    <b>Nmap scan report for 192.168.10.108</b><br>
+                    Host is up (0.00070s latency).<br>
+                    <b>Nmap scan report for 192.168.10.120</b><br>
+                    Host is up (0.0032s latency).<br>
+                    Nmap done: 256 IP addresses (4 hosts up) scanned in 21.75 seconds
+                </aside>
+                
+            </section>
+
+            <section class="conversation">
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            端末の有無を調べるだけならpingでも良いのではありませんか？
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            次のようなプログラムで調査できるけど、少なくとも4分は待つことになるね
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="article-section">
+
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    for i in {1..254}; do<br>
+                    　ping -c 1 -W 1000 192.168.10.$i<br>
+                    done
+                </aside>
+                
+                <p>
+                    pingオプション-c：pingを飛ばす回数<br>
+                    pingオプション-W：応答を待つ時間。数値を下げすぎると応答前に不稼働だと誤判定する<br>
+                    この処理ではpingを255台分繰り返すので、少なくとも255秒（約4分）掛かってしまいます
+                </p>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>03</span>
+            </footer>
+        </article>
+
+<!-- 4ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">03</span>ポートスキャンで調べる</h1>
+                <p class="lead">開いているポートから、機器が提供するサービスを把握する</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. 開いているポートを確認する</h2>
+                <p>
+                    　ホストが見つかったら、次はどのようなサービスが稼働しているのか調べます。今回はProxmox VE（オープンソースのサーバー仮想化プラットフォーム）が稼働している 192.168.10.50 を対象にします。
+                </p>
+                
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    nmap -sV 192.168.10.50
+                </aside>
+
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    PORT     STATE SERVICE VERSION<br>
+                    <b>22/tcp</b>   open  ssh     OpenSSH 10.0p2 Debian 7 (protocol 2.0)<br>
+                    <b>111/tcp</b>  open  rpcbind 2-4 (RPC #100000)<br>
+                    <b>3128/tcp</b> open  http    <b>Proxmox Virtual Environment REST API 3.0</b>
+                </aside>
+
+                <p>
+                    　対象機器は、ポート22番、111番、3128番がopenであることがわかりました。また、3128番ポートではProxmoxに関連するサービスを示す情報が得られました。
+                </p>
+                <aside class="note-box">
+                    <h3>（参考）Proxmox VEで使われるポート</h3>
+                    TCP 3128：SPICEプロキシ。仮想マシンの画面へのリモート接続を中継する
+                </aside>
+                <br>
+
+                <h2>2. （参考）結果をファイルに保存する</h2>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    nmap -sV -oN scan.txt 192.168.10.50
+                </aside>
+                <p>
+                    　-oN を指定すると結果をファイルに保存できます。この例では、実行したディレクトリに scan.txt が生成されます。同じ条件で定期的に調査し、以前の結果と比較すれば、新しく開いたポートやサービスの変化に気づく手掛かりになります。
+                </p>
+            </section>
+
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>04</span>
+            </footer>
+        </article>
+
+<!-- 5ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">04</span>ネットワーク機器を特定する</h1>
+                <p class="lead">サービス、OS、メーカー情報を組み合わせて機器の正体を探る</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. もう1台の機器 192.168.10.120を調べる</h2>
+                <p>
+                    　次に、もう1台の機器 192.168.10.120 を調べます。
+                </p>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    nmap -sV 192.168.10.120
+                </aside>
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    PORT   STATE SERVICE VERSION<br>
+                    <b>53/tcp</b> open  domain  dnsmasq 2.73<br>
+                    <b>80/tcp</b> open  http    <b>OpenWrt</b> uHTTPd
+                </aside>
+
+                <p>
+                    　53番ポートではdnsmasq、80番ポートではOpenWrtのuHTTPdが検出されました。dnsmasqはDNSなどの機能を提供するソフトウェア、uHTTPdはWebサーバーです。
+                </p>
+                <p>
+                    　OpenWrtは、ルーターなどのネットワーク機器に使われるLinuxベースのOSです。ネットワーク機器である可能性が高そうです。
+                </p>
+            </section>
+
+            <section class="conversation">
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            わかりました！これはルーターですね！
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            君の家のルーターはどのメーカーのもの？<br>
+                            それ本当に君のもの？
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            多分、我が家のバッファロー製品だと思います・・・
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            思い込みは危険。もう少し詳細を確認してみよう
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>05</span>
+            </footer>
+        </article>
+
+<!-- 6ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+            </header>
+
+            <section class="article-section">
+
+                <h2>2. OSやメーカーを推定する</h2>
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    sudo nmap -sV -O 192.168.10.120
+                </aside>
+
+                <p>
+                    　-O は、ネットワーク応答などをもとにOSを推定するオプションです。
+                </p>
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    PORT   STATE SERVICE VERSION
+                    53/tcp open  domain  dnsmasq 2.73<br>
+                    80/tcp open  http    OpenWrt uHTTPd<br>
+                    <b>MAC Address: F8:94:97:XX:XX:XX (BUFFALO.INC)</b><br>
+                    <b>Device type: WAP</b><br>
+                    Running: Linux 3.X<br>
+                    OS CPE: cpe:/o:linux:linux_kernel:3.10<br>
+                    OS details: OpenWrt Barrier Breaker (Linux 3.10)<br>
+                    Network Distance: 1 hop<br>
+                    Service Info: OS: Linux; Device: WAP; CPE: cpe:/o:linux:linux_kernel
+                </aside>
+                <p>
+                    　結果には、BUFFALOのMACアドレス情報や、Wireless Access Point（WAP）という機器種別、Linux系OSの推定情報が含まれていました。
+                </p>
+                <p>
+                    　MACアドレスの先頭部分は、メーカーを推定する手掛かりになります。ただし、近年はランダムMACアドレスやローカル管理アドレスが使われている場合があり、この情報だけでメーカーを断定できないこともあります。
+                </p>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>06</span>
+            </footer>
+        </article>
+
+<!-- 7ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+            </header>
+
+            <section class="article-section">
+
+                <h2>3. Webサーバーの応答を確認する</h2>
+                <p>
+                    　curl を使ってWebサーバーの応答を確認します。-I は、本文を取得せずにHTTPヘッダーを確認する方法です。
+                </p>
+
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    curl -I --max-time 3 http://192.168.10.120/
+                </aside>
+
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    <b>HTTP/1.1 200 OK</b><br>
+                    Content-Type: text/html<br>
+                    Content-Length: 2360<br>
+                    Last-Modified: Tue, 23 Dec 2025 01:58:31 GMT<br>
+                    Date: Tue, 27 Oct 2026 06:37:51 GMT
+                </aside>
+
+                <p>
+                    200 が返ってきたため、HTTPリクエストに正常な応答があることを確認できました。
+                </p>
+                <p>
+                    　Last-Modifiedは、取得対象のページの最終更新日時を示します。機器のファームウェア更新日時とは限らないため、これだけで機器が更新されていないとは判断できません。
+                </p>
+                <br>
+
+                <figure class="article-image image-right">
+                    <img src="./image.png" alt="対象機器にブラウザからアクセスした結果">
+                    <figcaption>図1：対象機器にブラウザからアクセスした結果</figcaption>
+                </figure>
+
+                <p>
+                    　最後にブラウザーからアクセスし、管理画面を目視しました。実際の画面も確認することで、間違いなくBUFFALOのWi-Fi機器であることを確認できました。
+                </p>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>07</span>
+            </footer>
+        </article>
+
+<!-- 8ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">05</span>ノウハウの必要な機器</h1>
+                <p class="lead">見慣れないポートやMACアドレスを、すぐに不審と判断しない</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. 開いているポートを確認する</h2>
+                <p>
+                    　今度は自分のMac（192.168.10.108）を調べてみます。
+                </p>
+
+                <aside class="note-box">
+                    <h3>bash</h3>
+                    nmap -sV 192.168.10.108
+                </aside>
+
+                <aside class="note-box">
+                    <h3>結果</h3>
+                    PORT     STATE SERVICE<br>
+                    5000/tcp open  rtsp<br>
+                    7000/tcp open  rtsp
+                </aside>
+
+                <p>
+                    　5000番と7000番のTCPポートが開いており、NmapはRTSP(Real Time Streaming Protocol)関連のサービスとして推定しました。監視カメラ等で使われる映像ストリーミングのプロトコルのようです。ただし、サービス名だけでは実際の用途を断定できません。
+                </p>
+                <p>
+                    　webで調べたところ、AirTunes というAirPlay（画面ミラーリング）等の機能に関係するサービスでこれらのポートが使われることが判明しました。
+                </p>
+            </section>
+
+
+            <section class="conversation">
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            我が家に監視カメラなんて置いていません！盗撮されているのでは
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/ceo_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">社長</p>
+                        <div class="bubble">
+                            社員が生き生き働けるように設置したよ
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            Nmapの結果を鵜呑みにしない。mac端末ではこのポートを使うことがあるよ
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="chat-row chat-right">
+                    <div class="chat-content">
+                        <p class="character-name">社員</p>
+                        <div class="bubble">
+                            社長のウソつき
+                        </div>
+                    </div>
+                    <div class="avatar">
+                        <img src="../../asset/employee_face1.png" alt="">
+                    </div>
+                </div>
+
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>08</span>
+            </footer>
+        </article>
+
+<!-- 9ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">06</span>ネットワーク図にまとめる</h1>
+                <p class="lead">調査結果を見える形にして、機器の構成と役割を整理する</p>
+            </header>
+
+            <section class="article-section">
+                <h2>1. 調査結果を可視化する</h2>
+                <p>
+                    　各機器のIPアドレスやサービス情報を確認できたので、ネットワーク図にまとめます。機器の配置と通信上の情報を一枚に整理すると、ネットワーク全体の構成を把握しやすくなります。
+                </p>
+                <br>
+
+                <figure class="article-image image-right">
+                    <img src="./NW.png" alt="Nmapで調査した自宅ネットワークの構成図">
+                    <figcaption>図1：ホスト探索とポートスキャンの結果をもとに作成したネットワーク図</figcaption>
+                </figure>
+
+                <p>
+                    　今回の調査では、ホスト探索によって4つのIPアドレスを検出し、そのうち3台についてサービス情報を調べました。Nmapの結果を管理台帳と照合すれば、把握していない機器や、想定していないポートの存在に気づくきっかけになります。
+                </p>
+                <br><br><br>
+
+                <h2>2. 調査結果を活用する</h2>
+
+                <aside class="note-box">
+                    <h3>ネットワーク管理に活用する</h3>
+                    <ul>
+                        <li>接続機器とIPアドレスの把握</li>
+                        <li>稼働サービスと開放ポートの確認</li>
+                        <li>調査結果の保存と過去データとの比較</li>
+                        <li>管理台帳との照合による不明機器の発見</li>
+                    </ul>
+                </aside>
+            </section>
+
+            <section class="conversation">
+                <div class="chat-row chat-left">
+                    <div class="avatar">
+                        <img src="../../asset/movi_face1.png" alt="">
+                    </div>
+                    <div class="chat-content">
+                        <p class="character-name">Movi</p>
+                        <div class="bubble">
+                            ネットワーク図を最新化したり、不審端末を発見する際に役立つよ
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>09</span>
+            </footer>
+        </article>
+
+<!-- 10ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1><span class="chapter-number">07</span>まとめ</h1>
+            </header>
+
+            <section class="article-section">
+                <p>
+                    　今回、Nmapを使って自宅のネットワークを調査しました。ホスト探索で稼働中の機器を見つけ、ポートスキャンとサービス検出によって、各機器で応答しているサービスを調べました。
+                </p>
+                <p>
+                    　調査で得られる情報は、あくまで機器やサービスを特定するための手掛かりです。Nmapの推定結果だけで断定せず、実際の応答や管理台帳などと照合することが重要です。
+                </p>
+
+
+                <aside class="note-box">
+                    <h3>見慣れない情報が見つかったら</h3>
+                    <ul>
+                        <li>サービスの応答内容を確認する</li>
+                        <li>OSやメーカーの推定結果を確認する</li>
+                        <li>自分が管理する機器の情報と照合する</li>
+                    </ul>
+                </aside>
+            </section>
+
+                <h2>よく使うコマンド</h2>
+                <div class="flow">
+                    <div class="flow-step">
+                        <strong>1. ネットワーク内のホストを探索</strong>
+                        <span>nmap -sn &lt;IPアドレス&gt;/&lt;サブネット&gt;</span>
+                    </div>
+                    <div class="flow-arrow">↓</div>
+                    <div class="flow-arrow">↓</div>
+                    <div class="flow-step">
+                        <strong>2. サービス情報を調べる</strong>
+                        <span><code>nmap -sV &lt;IPアドレス&gt;</code></span>
+                    </div>
+                    <div class="flow-arrow">↓</div>
+                    <div class="flow-step">
+                        <strong>4. OSを推定する</strong>
+                        <span><code>sudo nmap -O &lt;IPアドレス&gt;</code></span>
+                    </div>
+                    <div class="flow-arrow">↓</div>
+                    <div class="flow-step">
+                        <strong>5. 結果をファイルに保存</strong>
+                        <span><code>nmap -sV -oN &lt;ファイル名&gt; &lt;IPアドレス&gt;</code></span>
+                    </div>
+                </div>
+            </section>
+
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>10</span>
+            </footer>
+        </article>
+
+<!-- 11ページ目 -->
+
+        <article class="page">
+            <header class="page-header">
+                <h1>参考資料</h1>
+            </header>
+
+            <section class="article-section">
+                <ul>
+                    <li>
+                        Nmap Reference Guide<br>
+                        <a href="https://nmap.org/book/man.html" target="_blank" rel="noopener noreferrer">https://nmap.org/book/man.html</a>
+                    </li>
+                    <li>
+                        Nmap Service and Version Detection<br>
+                        <a href="https://nmap.org/book/man-version-detection.html" target="_blank" rel="noopener noreferrer">https://nmap.org/book/man-version-detection.html</a>
+                    </li>
+                    <li>
+                        Nmap OS Detection<br>
+                        <a href="https://nmap.org/book/man-os-detection.html" target="_blank" rel="noopener noreferrer">https://nmap.org/book/man-os-detection.html</a>
+                    </li>
+                </ul>
+            </section>
+
+            <footer class="page-footer">
+                <span>SECURITY POST BY KOZ</span>
+                <span>11</span>
+            </footer>
+        </article>
+
+    </main>
+
+    <div id="bottom-nav"></div>
+    <script src="../../js/menu.js"></script>
+</body>
+</html>
