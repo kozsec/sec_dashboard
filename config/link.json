@@ -1,5 +1,481 @@
 [
   {
+    "title": "重要電子計算機に対する不正な行為による被害の防止に関する法律（サイバー対処能力強化法）",
+    "organization": "内閣官房",
+    "url": "https://laws.e-gov.go.jp/law/507AC0000000042",
+    "description": "能動的サイバー防御の実現に向けたサイバー対処能力の強化に関する法律",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/scs/index.html",
+    "description": "サプライチェーン全体のセキュリティ対策水準の向上を目的とした評価制度",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Official Resource",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "2025 CWE Top 25 Most Dangerous Software Weaknesses",
+    "organization": "MITRE",
+    "url": "https://cwe.mitre.org/top25/archive/2025/2025_cwe_top25.html",
+    "description": "ソフトウェアにおける危険性の高い弱点を順位付けした一覧",
+    "region": "US",
+    "last_checked": "",
+    "tags": [
+      "Vulnerability"
+    ]
+  },
+  {
+    "title": "プラクティス8 インシデントによる被害に備えた事業継続・復旧体制の整備",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/economics/practices_navi/practice233.html",
+    "description": "サイバーセキュリティインシデントによる被害に備えた事業継続・復旧体制に関する実践事例",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Risk Management",
+      "IT-BCP",
+      "Incident Response"
+    ]
+  },
+  {
+    "title": "Cuckoo Sandbox Community",
+    "organization": "Cuckoo Sandbox",
+    "url": "https://cuckoosandbox.org/community-sub/index",
+    "description": "不審なファイルなどを隔離環境で動作させ、挙動を分析するサンドボックス",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Tools",
+      "Malware",
+      "Analysis"
+    ]
+  },
+  {
+    "title": "フィッシング対策ガイドライン 2020年度版",
+    "organization": "フィッシング対策協議会",
+    "url": "https://www.antiphishing.jp/report/antiphishing_guideline_2020.pdf",
+    "description": "事業者向けのフィッシング対策要件と対策の優先度をまとめた2020年度版ガイドライン",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Guidelines"
+    ]
+  },
+  {
+    "title": "Google Safe Browsing フィッシング報告",
+    "organization": "Google",
+    "url": "https://safebrowsing.google.com/safebrowsing/report_phish/",
+    "description": "フィッシングの疑いがあるWebサイトをGoogleに報告するためのページ",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Tools",
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "BleepingComputer",
+    "organization": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/",
+    "description": "ランサムウェア、脆弱性、サイバー攻撃、マルウェアなどの海外セキュリティニュース",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "SecurityOnline",
+    "organization": "SecurityOnline",
+    "url": "https://securityonline.info/",
+    "description": "サイバーセキュリティ、脆弱性、マルウェア、攻撃グループなどに関するニュースと技術情報",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "内部不正防止ガイドライン",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/guide/insider.html",
+    "description": "組織における内部不正の防止に向けた対策や管理体制を解説するガイドライン",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "CSIRT関連資料",
+    "organization": "JPCERT/CC",
+    "url": "https://www.jpcert.or.jp/csirt_material/",
+    "description": "CSIRTの構築、運用、インシデント対応に役立つ資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Incident Response"
+    ]
+  },
+  {
+    "title": "サイバーセキュリティ人材育成・研修",
+    "organization": "日本シーサート協議会（NCA）",
+    "url": "https://www.nca.gr.jp/activity/training-hr.html",
+    "description": "サイバーセキュリティ人材の育成や研修に関する活動・情報",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Training"
+    ]
+  },
+  {
+    "title": "サイバー脅威情報共有のための5W1H",
+    "organization": "ISOG-J",
+    "url": "https://isog-j.org/output/2019/5W1H-Cyber_Threat_Information_Sharing_v2.0.pdf",
+    "description": "サイバー脅威情報を共有する際の5W1Hによる整理方法を解説する資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "事業継続ガイドライン関連資料",
+    "organization": "内閣府",
+    "url": "https://www.bousai.go.jp/kyoiku/kigyou/pdf/guideline202303.pdf",
+    "description": "企業の事業継続や災害時の対応、事業継続計画の策定に関するガイドライン資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "IT-BCP"
+    ]
+  },
+  {
+    "title": "デジタル・フォレンジック関連ガイドライン 第10版",
+    "organization": "デジタル・フォレンジック研究会",
+    "url": "https://digitalforensic.jp/home/act/products/df-guideline-10th/",
+    "description": "デジタル証拠の取り扱いや調査・分析に関するガイドライン",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Forensics"
+    ]
+  },
+  {
+    "title": "フィッシング対策ガイドライン",
+    "organization": "フィッシング対策協議会",
+    "url": "https://www.antiphishing.jp/report/guideline/",
+    "description": "フィッシング詐欺の予防、検知、被害抑止に向けた対策指針",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Awareness"
+    ]
+  },
+  {
+    "title": "サイバーセキュリティ政策・関連情報",
+    "organization": "国家サイバー統括室（NCO）",
+    "url": "https://www.cyber.go.jp/index.html",
+    "description": "政府のサイバーセキュリティ政策、施策、関連情報を提供する公式サイト",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Official Resource"
+    ]
+  },
+  {
+    "title": "ISMAPクラウドサービスリスト",
+    "organization": "ISMAP運営委員会",
+    "url": "https://www.ismap.go.jp/csm",
+    "description": "政府情報システム向けクラウドサービスのセキュリティ評価制度に関する情報",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      
+    ]
+  },
+  {
+    "title": "つながる世界のセーフティ＆セキュリティ",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/iot/about.html",
+    "description": "IoT機器やつながるシステムに関するセキュリティ対策情報",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "IoT",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "制御システムのリスク分析",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/controlsystem/riskanalysis.html",
+    "description": "制御システムにおけるリスク分析の考え方や実施方法に関する資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "OT",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "工場システムにおけるサイバー・フィジカル・セキュリティ対策ガイドライン関連情報",
+    "organization": "経済産業省",
+    "url": "https://www.meti.go.jp/policy/netsecurity/wg1/wg1.html",
+    "description": "工場システムのサイバーセキュリティ対策に関する検討会や関連資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "OT",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "CSIRT for ICS ガイド",
+    "organization": "JPCERT/CC",
+    "url": "https://www.jpcert.or.jp/ics/sirt-for-ics_guide.html",
+    "description": "産業用制御システムにおけるセキュリティインシデント対応体制の構築・運用に関するガイド",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "OT",
+      "Incident Response"
+    ]
+  },
+  {
+    "title": "情報セキュリティ知識・スキルマップ",
+    "organization": "JNSA",
+    "url": "https://www.jnsa.org/result/skillmap/",
+    "description": "情報セキュリティ人材に求められる知識やスキルを整理した資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Training"
+    ]
+  },
+  {
+    "title": "サイバーセキュリティ関連政策・発表資料",
+    "organization": "総務省",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00209.html",
+    "description": "総務省によるサイバーセキュリティ関連の政策や公表資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "AIシステムに対する既知の攻撃と影響",
+    "organization": "AISI",
+    "url": "https://aisi.go.jp/output/output_security/known_attacks_and_impacts/",
+    "description": "AIシステムに対する攻撃手法とその影響を整理した資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "AI",
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "IoT・組込みシステムのセキュリティ関連資料",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/guide/ssf7ph000000fjhe-att/000051352.pdf",
+    "description": "IoTや組込みシステムのセキュリティに関連する技術資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "IoT"
+    ]
+  },
+  {
+    "title": "脆弱性関連情報の届出・取扱いに関するガイドライン",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/security/guide/vuln/partnership_guide.html",
+    "description": "ソフトウェア等の脆弱性関連情報の届出や関係者間の調整に関するガイドライン",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Vulnerability"
+    ]
+  },
+  {
+    "title": "SBOMによる脆弱性管理の具体的手法",
+    "organization": "経済産業省",
+    "url": "https://www.meti.go.jp/press/2024/08/20240829001/20240829001.html",
+    "description": "ソフトウェア部品構成表（SBOM）を活用した脆弱性管理の具体的手法に関する公表資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Vulnerability"
+    ]
+  },
+  {
+    "title": "APT攻撃におけるログ分析",
+    "organization": "JPCERT/CC",
+    "url": "https://www.jpcert.or.jp/research/apt-loganalysis.html",
+    "description": "標的型攻撃（APT）に関連するログ分析や調査手法の資料",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "特許法",
+    "organization": "e-Gov",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000121",
+    "description": "発明の保護と利用に関する法令。技術情報や発明に関する権利の確認に使用",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "商標法",
+    "organization": "e-Gov",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000127",
+    "description": "商標の保護や商標権に関する法令",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "意匠法",
+    "organization": "e-Gov",
+    "url": "https://laws.e-gov.go.jp/law/334AC0000000125",
+    "description": "物品等のデザインに関する意匠の保護や意匠権に関する法令",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "会社法",
+    "organization": "e-Gov",
+    "url": "https://laws.e-gov.go.jp/law/417AC0000000086",
+    "description": "会社の設立、運営、機関、計算などに関する法令",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "金融商品取引法",
+    "organization": "e-Gov",
+    "url": "https://laws.e-gov.go.jp/law/323AC0000000025",
+    "description": "金融商品取引や企業開示などに関する法令。上場企業の情報開示や内部統制に関連",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Legal"
+    ]
+  },
+  {
+    "title": "情報セキュリティ白書",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/publish/wp-security/index.html",
+    "description": "情報セキュリティの脅威動向、国内外の事例、対策などをまとめた年次レポート",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "Security NEXT",
+    "organization": "Security NEXT",
+    "url": "https://www.security-next.com/",
+    "description": "国内の情報セキュリティ、個人情報漏えい、サイバー攻撃などのニュース",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "ITmedia",
+    "organization": "アイティメディア株式会社",
+    "url": "https://www.itmedia.co.jp/",
+    "description": "IT、企業動向、テクノロジー、セキュリティ関連のニュースを配信するメディア",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "piyolog",
+    "organization": "piyolog",
+    "url": "https://piyolog.hatenadiary.jp/",
+    "description": "サイバー攻撃や情報セキュリティインシデントに関する調査・解説記事",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "Incident Response",
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "GBHackers",
+    "organization": "GBHackers",
+    "url": "https://gbhackers.com/",
+    "description": "サイバー攻撃、脆弱性、マルウェア、セキュリティ技術に関するニュース",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "Security Boulevard",
+    "organization": "Security Boulevard",
+    "url": "https://securityboulevard.com/",
+    "description": "サイバーセキュリティの技術、業界動向、脅威、対策に関する記事",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence"
+    ]
+  },
+  {
+    "title": "Recorded Future Blog",
+    "organization": "Recorded Future",
+    "url": "https://www.recordedfuture.com/blog?page=1",
+    "description": "脅威インテリジェンス、攻撃グループ、マルウェア、地政学的な脅威動向に関する分析記事",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Threat Intelligence",
+      "Analysis"
+    ]
+  },
+  {
+    "title": "AIセキュリティ短信",
+    "organization": "IPA",
+    "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
+    "description": "国内外のAIセキュリティ動向やインシデント事例を紹介する情報ページ",
+    "region": "JP",
+    "last_checked": "",
+    "tags": [
+      "AI",
+      "Threat Intelligence"
+    ]
+  },
+  {
     "title": "Known Exploited Vulnerabilities Catalog",
     "organization": "CISA",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
@@ -66,7 +542,7 @@
     "url": "https://nmap.org/",
     "description": "ネットワーク探索・セキュリティ監査ツール",
     "region": "Global",
-    "last_checked": "2026/10/28",
+    "last_checked": "2026/10/13",
     "tags": [
       "Tools",
       "Analysis"
@@ -225,7 +701,8 @@
   {
     "title": "NIST Cybersecurity Framework (CSF) 2.0",
     "organization": "NIST",
-    "url": "https://www.nist.gov/cyberframework",
+    "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf",
+    "page_url": "https://www.nist.gov/cyberframework",
     "description": "組織のサイバーセキュリティリスクをGovern、Identify、Protect、Detect、Respond、Recoverの6機能で整理するフレームワーク",
     "region": "US",
     "last_checked": "2026/10/13",
@@ -249,7 +726,8 @@
   {
     "title": "NIST SP 800-53 Rev.5",
     "organization": "NIST",
-    "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+    "page_url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
     "description": "アクセス制御、監査、インシデント対応などのセキュリティ・プライバシー管理策をまとめたカタログ",
     "region": "US",
     "last_checked": "",
@@ -493,17 +971,14 @@
     ]
   },
   {
-    "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン",
+    "title": "行政の進化と革新のための生成AIの調達利活用に係るガイドライン（第2.0版）",
     "organization": "デジタル庁",
-    "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
-    "description": "行政機関における生成AIの調達・利活用、ガバナンス、リスク管理に関するガイドライン",
+    "url": "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+    "page_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+    "description": "生成AIの調達・利活用に関するガイドライン",
     "region": "JP",
     "last_checked": "",
-    "tags": [
-      "Guidelines",
-      "AI",
-      "Risk Management"
-    ]
+    "tags": ["Guidelines", "AI"]
   },
   {
     "title": "テキスト生成AIの導入・運用ガイドライン",
@@ -565,7 +1040,7 @@
     "last_checked": "",
     "tags": [
       "Guidelines",
-      "PII",
+      "Privacy",
       "Legal"
     ]
   },
@@ -578,7 +1053,7 @@
     "last_checked": "2026/10/13",
     "tags": [
       "Guidelines",
-      "PII",
+      "Privacy",
       "Legal"
     ]
   },
@@ -591,95 +1066,88 @@
     "last_checked": "",
     "tags": [
       "Guidelines",
-      "PII",
+      "Privacy",
       "Legal"
     ]
   },
   {
     "title": "個人情報の保護に関する法律",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/415AC0000000057",
     "description": "個人情報の取扱いに関する基本法令。個人データの安全管理や第三者提供などの確認に使用",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
-      "PII",
+      "Privacy",
       "Legal"
     ]
   },
   {
     "title": "不正アクセス行為の禁止等に関する法律",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/411AC0000000128",
     "description": "不正アクセス行為や識別符号の不正取得・提供などに関する法令",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal",
       "Incident Response"
     ]
   },
   {
     "title": "サイバーセキュリティ基本法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/426AC1000000104",
     "description": "国や地方公共団体、重要社会基盤事業者などのサイバーセキュリティに関する基本的な枠組み",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal",
       "Risk Management"
     ]
   },
   {
     "title": "電気通信事業法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/359AC0000000086",
     "description": "電気通信事業に関する法令。通信サービスや関連事業のセキュリティ・プライバシー上の義務を確認する際に参照",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
   {
     "title": "不正競争防止法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/405AC0000000047",
     "description": "営業秘密の保護などに関係する法令。情報資産の管理や秘密情報の漏えい対策に関連",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
   {
     "title": "刑法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/140AC0000000045",
     "description": "電子計算機を利用した犯罪や情報システムに関連する犯罪を検討する際の基本法令",
     "region": "JP",
     "last_checked": "",
     "tags": [
-      "Laws",
       "Legal",
       "Incident Response"
     ]
   },
   {
     "title": "著作権法",
-    "organization": "e-Gov法令検索",
+    "organization": "e-Gov",
     "url": "https://laws.e-gov.go.jp/law/345AC0000000048",
     "description": "ソフトウェア、プログラム、データなどの利用・複製に関連する法令",
     "region": "JP",
     "last_checked": "2026/10/13",
     "tags": [
-      "Laws",
       "Legal"
     ]
   },
@@ -1272,6 +1740,18 @@
     "tags": [
       "Tools",
       "Web"
+    ]
+  },
+  {
+    "title": "Nmap",
+    "organization": "Nmap Project",
+    "url": "https://nmap.org/",
+    "description": "ネットワーク上のホストや開放ポートなどを調査するネットワーク探索ツール",
+    "region": "Global",
+    "last_checked": "",
+    "tags": [
+      "Tools",
+      "Network"
     ]
   },
   {
