@@ -178,7 +178,7 @@
                 </p>
 
                 <aside class="note-box">
-                    <h3>実行結果</h3>¥
+                    <h3>実行結果</h3>
                     <b>Nmap scan report for aterm.me (192.168.10.1)</b><br>
                     Host is up (0.017s latency).<br>
                     <b>Nmap scan report for 192.168.10.50</b><br>
@@ -272,7 +272,7 @@
                 </p>
                 <aside class="note-box">
                     <h3>（参考）Proxmox VEで使われるポート</h3>
-                    TCP 3128：SPICEプロキシ。仮想マシンの画面へのリモート接続を中継する
+                    TCP 3128：proxmox関連サービス。仮想マシンの画面へのリモート接続を中継する
                 </aside>
                 <br>
 
@@ -661,19 +661,18 @@
                         <span>nmap -sn &lt;IPアドレス&gt;/&lt;サブネット&gt;</span>
                     </div>
                     <div class="flow-arrow">↓</div>
-                    <div class="flow-arrow">↓</div>
                     <div class="flow-step">
                         <strong>2. サービス情報を調べる</strong>
                         <span><code>nmap -sV &lt;IPアドレス&gt;</code></span>
                     </div>
                     <div class="flow-arrow">↓</div>
                     <div class="flow-step">
-                        <strong>4. OSを推定する</strong>
+                        <strong>3. OSを推定する</strong>
                         <span><code>sudo nmap -O &lt;IPアドレス&gt;</code></span>
                     </div>
                     <div class="flow-arrow">↓</div>
                     <div class="flow-step">
-                        <strong>5. 結果をファイルに保存</strong>
+                        <strong>4. 結果をファイルに保存</strong>
                         <span><code>nmap -sV -oN &lt;ファイル名&gt; &lt;IPアドレス&gt;</code></span>
                     </div>
                 </div>
