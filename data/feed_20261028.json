@@ -4,6 +4,51 @@
     "date": "2026-10-28",
     "time": null,
     "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月28日 SCS評価制度評価用ガイド類等を公開しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "18:10",
+    "organization": "Ｇ－モイ",
+    "identifier": "5031",
+    "title": "当社サーバーへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261028558252.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "18:00",
+    "organization": "Ｇ－アドベンチャー",
+    "identifier": "6030",
+    "title": "（開示事項の経過） 不正アクセスによるお客様情報の流出に関するお詫びとお知らせ（第3報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261027557101.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "16:05",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第４報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261028558254.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "15:30",
+    "organization": "図研",
+    "identifier": "6947",
+    "title": "海外子会社に対するサイバー攻撃に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261027557047.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "IPA",
     "identifier": "人材育成",
     "title": "デジタル 2026年10月28日 【DXSQUARE】新着記事「DSSを全社の共通言語とし、デジタルを加速。 実践で学び、事業成長につなぐリコーの挑戦」を公開しました",
     "url": "https://dx.ipa.go.jp/interview_ricoh"
