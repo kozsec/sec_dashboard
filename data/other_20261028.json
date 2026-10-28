@@ -3,6 +3,78 @@
     "source": "Web",
     "date": "2026-10-28",
     "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "システム障害",
+    "title": "米連邦選挙委サイトにハッカー攻撃、中間選挙控え資金開示に支障 - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/reuters/world/reuters-20261028013"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "米連邦選挙委サイトにハッカー攻撃、中間選挙控え資金開示に支障 - Infoseek",
+    "url": "https://news.infoseek.co.jp/article/27reutersJAPAN_KCN3W72P8/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏えい",
+    "title": "ターミネーターかよ…AIサイバー攻撃で10兆円被害想定も／中国系ハッカー集団が悪用する ...",
+    "url": "https://diamond.jp/articles/-/401991"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "カプコンIDで約1177万件の 情報漏えい 196アカウントのパスワード不正変更も - CNET Japan",
+    "url": "https://japan.cnet.com/article/35254018/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【不正アクセス】GMOが顧客 情報 と称するものの公開を確認 攻撃者の予告通りに JR東海や ...",
+    "url": "https://news.ntv.co.jp/n/ytv/category/society/ytef9b8b4009424a7489a0a67d3d7ecf8a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "旭化成元社員 情報漏えい 事件 中国企業に「知識・経験が豊富であること示すため」 名古屋地検が起訴",
+    "url": "https://news.yahoo.co.jp/articles/2dbd73de2ae77b5981eb7acecaf6b6377cee61c4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【解説】GMOへの「劇場型」 サイバー攻撃 拡散は「脅迫を後押しし犯罪者に手を貸すことに」専門 ...",
+    "url": "https://news.yahoo.co.jp/articles/53d482b67b438ec8260b4c985f650e3483114cd8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ユミルリンク「Cuenote FC」 不正アクセス の影響広がる、JR東海、りそなグループらが相次ぎ発表",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2151621.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-28",
+    "time": null,
     "organization": "khb-tv.co.jp",
     "identifier": "ランサムウェア",
     "title": "GMO“攻撃者”の情報公開を確認 公開されたサイトへのアクセスは「危険」 - khb東日本放送",
