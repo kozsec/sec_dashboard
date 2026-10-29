@@ -1,5 +1,29 @@
 [
   {
+    "cve": "CVE-2026-97229",
+    "company": "GitLab",
+    "product": null,
+    "title": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.18427,
+    "cvss": 10.0,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
+    "published": "2026/10/29",
+    "last_update": "2026/10/29"
+  },
+  {
+    "cve": "CVE-2026-76418",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00574,
+    "cvss": 8.6,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H",
+    "published": "2026/10/29",
+    "last_update": "2026/10/29"
+  },
+  {
     "cve": "CVE-2026-41709",
     "company": "Broadcom",
     "product": null,

@@ -1,5 +1,25 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "GitLab",
+    "product": "Community Edition and Enterprise Edition",
+    "identifier": "CVE-2026-97229",
+    "title": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-97229&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "Cisco",
+    "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+    "identifier": "CVE-2026-76418",
+    "title": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-76418&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "NCO",
     "date": "2026-10-29",
     "time": null,
