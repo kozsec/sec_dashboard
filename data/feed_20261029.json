@@ -1,5 +1,32 @@
 [
   {
+    "source": "NCO",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "報道発表資料",
+    "title": "第19回日ASEANサイバーセキュリティ政策会議（結果）",
+    "url": "https://www.cyber.go.jp/pdf/press/19thAJCPM_ja.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-29",
+    "time": "16:40",
+    "organization": "Ｇ－モイ",
+    "identifier": "5031",
+    "title": "（経過報告）当社サーバーへの不正アクセスに関するお知らせ（第２報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261029559851.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-29",
+    "time": "16:00",
+    "organization": "フクビ化学工業",
+    "identifier": "7871",
+    "title": "第三者の不正アクセスによるシステム障害に関するお知らせ【最終報】",
+    "url": "https://www.release.tdnet.info/inbs/140120261029558411.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-29",
     "time": "11:00",
