@@ -5,11 +5,11 @@
     "product": null,
     "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00297,
+    "epss_current": 0.00764,
     "cvss": 2.7,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:N",
     "published": "2026/10/28",
-    "last_update": "2026/10/28"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-46300",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
     "kev": "あり",
-    "epss_current": 0.10192,
+    "epss_current": 0.15719,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/28",
-    "last_update": "2026/10/28"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-48356",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.59078,
+    "epss_current": 0.44579,
     "cvss": 9.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:N",
     "published": "2026/10/27",
-    "last_update": "2026/10/28"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-111497",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Google Brotli Unchecked Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.87988,
+    "epss_current": 0.82641,
     "cvss": 9.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/27",
-    "last_update": "2026/10/28"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-114625",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.11634,
+    "epss_current": 0.73307,
     "cvss": 9.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/23",
-    "last_update": "2026/10/27"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-106931",
@@ -329,11 +329,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Improper Privilege Management Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00857,
+    "epss_current": 0.10936,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/25"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-102489",
@@ -341,11 +341,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Session Fixation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01955,
+    "epss_current": 0.22478,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/25"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-104286",
@@ -1229,11 +1229,11 @@
     "product": "VeloCloud Orchestrator",
     "title": "Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01001,
+    "epss_current": 0.0176,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:P/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/27",
-    "last_update": "2026/09/24"
+    "last_update": "2026/10/29"
   },
   {
     "cve": "CVE-2026-16232",

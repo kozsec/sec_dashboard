@@ -3,6 +3,285 @@
     "source": "Web",
     "date": "2026-10-29",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスで個人 情報漏えい 、４月以降延べ２億６０００万人分…１００万人超の事案２０件超",
+    "url": "https://www.yomiuri.co.jp/national/20261029-GYT1T00392/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ソニー生命に不正アクセス、個人 情報 約38.5万件 漏えい 氏名や住所、契約内容など - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002717/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "グッスマ、不正アクセスでカード 情報漏えい の可能性 2800名 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2152347.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "グッドスマイルカンパニー、特定時間に利用したユーザーのクレジットカード 情報 が漏洩した可能 ...",
+    "url": "https://news.yahoo.co.jp/articles/fe1e853695cd714ef4b84c9b3a8d740910ede262"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "全日空、顧客 情報流出 か 不正アクセス、影響調査中（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/e0ac97c71371d33cf85f0cda95029eea2c282c23"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "israel-keizai.org",
+    "identifier": "システム障害",
+    "title": "OMRON Ventures、イスラエルのサイバーセキュリティ企業Salvador Technologiesに出資",
+    "url": "https://israel-keizai.org/news/omron-salvadortechno/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "航空予約 障害 ANAで漏えいの恐れ - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32687319/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "dempa-digital.com",
+    "identifier": "サイバー攻撃",
+    "title": "富士通、セキュリティー商談が倍増 相次ぐ サイバー攻撃 で受注規模は約1.5倍に",
+    "url": "https://dempa-digital.com/article/729066"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】首相、 サイバー攻撃 でタイムリーな発信指示 - 47NEWS",
+    "url": "https://www.47news.jp/15157338.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOへの サイバー攻撃 は「人災」か 社内専門家の指摘を生かせなかった経営判断…ハッカーは ...",
+    "url": "https://news.yahoo.co.jp/articles/c311e4014aad858905e3971d989ba37279fa0030?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 への懸念拡大、新潟県内ＩＴ各社に引き合い 体制強化の動きも",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/933585"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "gizmodo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府が「3日分の備蓄」を緊急要請へ。 サイバー攻撃 と関係あるの？何があった？",
+    "url": "https://www.gizmodo.jp/article/japan-government-emergency-stockpile-request/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ソフトウェア定義セキュリティ市場―2026年～2032年の世界市場予測 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/645640"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "情報漏えい2026年だけで延べ3億件超 去年の10倍に急増 セキュリティ会社調査（TBS NEWS ...",
+    "url": "https://news.yahoo.co.jp/articles/eecc125fa07d6d1da7d21baa580c685f81b9a3fa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "GMOサイバー攻撃「身代金の減額や丁寧すぎる脅迫に違和感」指摘 「攻撃者はプロではなくAI利用 ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/fnn/business/fnn-1141986?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい １０月までに３億件超",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1449641"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「Payどん」で個人 情報漏えい の可能性 委託会社への不正アクセス メール通知停止やプレミアム ...",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3047481?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=3047481&image=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "フジテレビの番組宣伝システムに不正アクセス、メディア関係者の個人 情報 が 漏えい した可能性",
+    "url": "https://s.netsecurity.ne.jp/article/2026/10/29/56619.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "「怖くてメールも開けない」 相次ぐ 情報流出 で広がる「漏洩疲れ」（朝日新聞）",
+    "url": "https://topics.smt.docomo.ne.jp/article/asahi/nation/ASVBX3V9CVBXUTIL007M"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ企業へのサイバー攻撃 個人 情報漏えい にどう備える？対策と注意点を取材 福島",
+    "url": "https://news.ntv.co.jp/category/society/fc850b98162866430c86d7d7e9c6e9e65a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "webtan.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報漏えい の“お見舞金”、いくらなら納得？ 「金額の問題ではない」が4割【UPF調べ】",
+    "url": "https://webtan.impress.co.jp/n/2026/10/29/53517"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスによる 情報漏えい 相次ぐ あなたが最も心配なのは？【news23】 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3049024"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "アイシン、1900人の個人 情報 が 漏洩 の可能性 部品供給に影響なし - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOFD294FR0Z21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "全16桁のカード番号など2800人分が 漏洩 か フィギュア販売通販サイトに不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/150e162ca095e8eb87612652897048cf9127aade"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "active.nikkeibp.co.jp",
+    "identifier": "システム障害",
+    "title": "他社との連携を強化、衛星通信やAIを活用 ドコモの取り組みに見る災害対策",
+    "url": "https://active.nikkeibp.co.jp/atcl/act/19/00685/090200041/?i_cid=nbpnxta_sied_newarticles"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "首相、 サイバー攻撃 でタイムリーな発信指示｜全国の記事 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1817265"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "hicbc.com",
+    "identifier": "サイバー攻撃",
+    "title": "身代金79億円！個人情報を守るか、 サイバー テロに屈しないか - CBCテレビ",
+    "url": "https://hicbc.com/magazine/article/?id=radichubu-65578"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "jbpress.ismedia.jp",
+    "identifier": "サイバー攻撃",
+    "title": "能動的 サイバー 防御、警察・自衛隊はどこまで“反撃”できるのか？GMOの要請で問われる発動 ...",
+    "url": "https://jbpress.ismedia.jp/articles/-/97758?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "「松屋アプリ」サービス停止、 不正アクセス 検知で--公式サイトも非公開に - CNET Japan",
+    "url": "https://japan.cnet.com/article/35254178/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "inside-games.jp",
+    "identifier": "不正アクセス",
+    "title": "クレカ番号全16桁、セキュリティコードまで漏えいの可能性ーグッドスマイルカンパニーの 不正 ...",
+    "url": "https://www.inside-games.jp/article/2026/10/29/190026.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "丸木医科器械へのサイバー攻撃で基幹システムがダウン、FAX で注文受付 3枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/10/29/56614/55636.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-29",
+    "time": null,
     "organization": "gizmodo.jp",
     "identifier": "サイバー攻撃",
     "title": "サイバー攻撃 もAIで分業…。44体のエージェントが日本の組織を狙っていた | ギズモード・ジャパン",
