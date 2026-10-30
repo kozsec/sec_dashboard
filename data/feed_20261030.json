@@ -1,0 +1,38 @@
+[
+  {
+    "source": "NCO",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "サイバーセキュリティに関する関係機関の相談窓口、各種発表や注意喚起等をまとめたサイバー対応特設サイトを公開しました。",
+    "url": "https://www.cyber.go.jp/tokusetsu/contactpoint_advisory_hub/index.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年10月30日 2025年度下期 未踏アドバンスト事業で実施したプロジェクトの成果概要、成果詳細を公開しました",
+    "url": "https://www.ipa.go.jp/jinzai/mitou/advanced/2025second/seika.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-30",
+    "time": "09:00",
+    "organization": "ヤクルト",
+    "identifier": "2267",
+    "title": "当社ホームページへの不正アクセスによる個人情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261029560120.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-30",
+    "time": "08:50",
+    "organization": "ワールド",
+    "identifier": "3612",
+    "title": "連結子会社における不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261030560364.pdf"
+  }
+]
