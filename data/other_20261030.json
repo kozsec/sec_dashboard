@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-10-30",
     "time": null,
+    "organization": "chosun.com",
+    "identifier": "システム障害",
+    "title": "仁川空港、中国系航空会社3社で発券 システム障害",
+    "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/30/2CQR5HDPA5CYHBDSVM45GHTXLA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "ＤＨＣ、不正アクセスで会員情報書き換え ５０００アカウント被害：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026103000993&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "システムへの不正アクセスによる 情報漏洩 どう防ぐ 岡山県警などがオンラインセミナー",
+    "url": "https://newsdig.tbs.co.jp/articles/rsk/3051422?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "projectdesign.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【10月30日藤井比早之総務大臣会見要旨】相次ぐ サイバー攻撃 、NICTとの取り組み強化",
+    "url": "https://www.projectdesign.jp/articles/news/040db258-a189-4c0b-9788-53e32d151760"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "システム障害",
+    "title": "仁川国際空港、 システム障害 で搭乗手続きに遅れ…一部乗客が抗議も | チバテレ＋プラス",
+    "url": "https://www.chiba-tv.com/plus/detail/2026102177813"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "jprime.jp",
+    "identifier": "サイバー攻撃",
+    "title": "《GMO サイバー攻撃 》流出の顧客情報を“モザイク投稿”で炎上→同社の削除要請も「煽動扱い ...",
+    "url": "https://www.jprime.jp/articles/-/44425?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【 サイバー攻撃 】ホワイトハッカーにいろいろ聞きました「銀行のセキュリティは大丈夫 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3051609?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "txbiz.tv-tokyo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 セキュリティー人材どう確保?【The追跡】 - テレ東BIZ",
+    "url": "https://txbiz.tv-tokyo.co.jp/wbs/feature/post_351647"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "米軍基地で冷凍庫の不具合相次ぐ、 サイバー攻撃 疑いで捜査＝当局者 - ニューズウィーク",
+    "url": "https://www.newsweekjapan.jp/articles/-/338610"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 で特設サイト 政府、情報発信を強化 各省庁HPやSNSを集約 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261030-X4JOHWMNP5PSNKJJON4NMY7LQM/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "response.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「 サイバー攻撃 が最大の脅威」日本のSDV開発者が抱く危機感と - レスポンス（Response.jp）",
+    "url": "https://response.jp/article/2026/10/30/418425.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "佐賀大学に「 ランサムウェア 攻撃」 約8万人の学生・教職員の個人情報や附属病院の患者情報も ...",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3052125"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "政府、 サイバー 対策で米AIにモデル提供拡大を要請 システム脆弱性点検 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA2949Z0Z21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "狙われる「スマート家電」 サイバー攻撃 の約3割…見守りカメラから空き巣・ストーカー被害？加害 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3052577?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "フィギュアメーカー大手グッドスマイルカンパニー、 不正アクセス による注文情報の漏洩対象人数 ...",
+    "url": "https://news.yahoo.co.jp/articles/4224fd94aa9d999e76b8b2e6a5029b2ef7388c48"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-30",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "情報漏えい",
     "title": "“顧客 情報漏えい ”関西経済同友会の会見でJR西・長谷川会長が謝罪 関西企業で相次ぐ情報 ...",
