@@ -3,6 +3,330 @@
     "source": "Web",
     "date": "2026-10-31",
     "time": null,
+    "organization": "tokyonewsmedia.com",
+    "identifier": "情報漏洩",
+    "title": "外務省に不正アクセス、個人 情報 3600件流出か 7月検知から公表まで3か月・旅券システムは ...",
+    "url": "https://tokyonewsmedia.com/archives/29803"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "JR西日本、投資家 情報 2件 漏洩 か 氏名や住所など",
+    "url": "https://www.nikkei.com/article/DGXZQOUF312EI0R31C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【今すぐに確認を】iPhone、不正アクセスやパスワード流出を防ぐ5つの“最強設定” …",
+    "url": "https://news.yahoo.co.jp/articles/e2292360d05d199783b983d68e55910956cffd7d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "近鉄GHD、投資家 情報 2678件 漏洩 か 氏名と社債購入金額 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF3108B0R31C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "仮面ライダー女優が 不正アクセス 被害（日刊スポーツ） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/f198e1667a8d0f0028a08304142719c26bc9b0df"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO、熊谷会長が2日に記者会見 一連の 不正アクセス 問題を説明へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC312K20R31C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス 週明け2日に熊谷正寿社長が会見へ 攻撃者特定の進捗とGMOのセキュリティ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3053540"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "クラブツーリズムで約432万件の個人情報が漏れたか 不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB04F36VB0UTIL00XM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "日本交通、２９万人の情報流出か マイナンバーなど、 不正アクセス で - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026103100296&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "経産省、省内の会員制交流スペース予約システムに 不正アクセス …１１００人分の個人情報漏えいか",
+    "url": "https://www.yomiuri.co.jp/economy/20261031-GYT1T00010/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正 侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "KDDI、最大2.2万件の情報漏えいの可能性。連携先ライフネット生命に 不正アクセス …",
+    "url": "https://news.yahoo.co.jp/articles/2248875403ab79cab1cbc9ba8e65293355812cbb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "身代金、４割に追加要求 急増する ランサム 攻撃―専門家「支払いは解決ではない」・不正アクセス",
+    "url": "https://www.jiji.com/jc/article?k=2026103100100&g=eco&p=20261031ax02S&rel=pv"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "gazlog.jp",
+    "identifier": "ランサムウェア",
+    "title": "Synology製NASで ランサムウェア 被害。9月18日の修正未適用なら攻撃のおそれ - GAZLOG",
+    "url": "https://gazlog.jp/entry/synology-ransomware-security-issue/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "ランサムウェア",
+    "title": "GMO、不正アクセスで11月2日に会見 熊谷代表らが経緯説明へ - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVB04PTDVB0ULFA00CM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "ランサムウェア",
+    "title": "「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ ...",
+    "url": "https://gigazine.net/news/20261031-monstercloud-ransomware-victims/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "nikkansports.com",
+    "identifier": "情報漏えい",
+    "title": "オール巨人も「びっくり」個人 情報漏えい が身近に「家に重要書類とか来てね」 - 芸能 - 日刊スポーツ",
+    "url": "https://www.nikkansports.com/entertainment/news/202610310000370.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "佐賀大にサイバー攻撃、学生や教職員ら８万人分の個人 情報流出 か…付属病院の患者情報も ...",
+    "url": "https://www.yomiuri.co.jp/national/20261031-GYT1T00120/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "無印・松屋・ANA・外務省でも… 情報流出 が続くなか“GMOサイバー攻撃”では ... - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3052691"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "仁川空港で システム障害 、中国系航空 3社で発券が一時中断…1200人長蛇の列",
+    "url": "https://news.yahoo.co.jp/articles/b6fb12b68b1b0e67c2738eef67b4838991f2de7e/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "「中国政府系ハッカー」か「謎の集団」か、サイバー飽和攻撃に対峙する高市政権 高橋洋一",
+    "url": "https://www.sankei.com/article/20261031-3YYGZE3BZFMLRDDILXUAEJ65MY/?outputType=theme_weekly-fuji"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "近鉄HD 「第135回無担保社債」100万円以上購入顧客2678人分顧客データ 漏えい",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3052699"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯ、 不正アクセス で１１月２日記者会見 | 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/934878"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "《GMOサイバー攻撃》犯罪心理学者が読み解く｢脅迫犯の\"ちぐはぐな素顔\"｣…稚拙な演出と\"交渉を ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/entertainment/toyokeizai-963044?page=5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "minpo.jp",
+    "identifier": "情報漏えい",
+    "title": "ポリスメール運用終了 アプリ一本化、 情報漏えい 考慮 県警 | 福島民報デジタル",
+    "url": "https://www.minpo.jp/articles/-/263893"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ゲーム開発にＡＩ活用「どこまで使うべきか」…業務効率化図れる一方、著作権侵害や 情報漏えい ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261031-GYT1T00266/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "近鉄社債購入者の 情報 が 漏えい か 氏名や金額、2678人分 - 47NEWS",
+    "url": "https://www.47news.jp/15164477.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ 情報漏えい の裏に「AI」専門家に聞いた「流出情報は取り戻せない」という前提で考える対策",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3035155"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい の一因「A2B攻撃」の暴かれた手口――Androidアプリを解析してサーバを攻撃 …",
+    "url": "https://news.yahoo.co.jp/articles/1627c24af0030f7c6c1e3b1676fbd37a4ecbf6c4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【GMO 不正アクセス 】犯行声明と「被害者の情報共有サイト」に共通点多数、攻撃側が開設か",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/934883"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "身代金、４割に追加要求 急増するランサム攻撃―専門家「支払いは解決ではない」・ 不正アクセス",
+    "url": "https://www.jiji.com/jc/article?k=2026103100100&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "京都府北部で「 サイバー攻撃 」や「AI」活用の最新技術 DX見本市に56団体出展",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1817507"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "agrinews.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 、２６年は３億件超 - 日本農業新聞",
+    "url": "https://www.agrinews.co.jp/ippan/index/415820"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "不正アクセスで会員 情報 ４３２万件 流出 国籍や緊急連絡先などか―クラブツーリズム - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026103100452&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 保護委員会、不正アクセスの 漏えい 報告を集計 延べ約2億6000万人 - innovaTopia",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119569/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "《GMOサイバー攻撃》犯罪心理学者が読み解く｢脅迫犯の\"ちぐはぐな素顔\"｣…稚拙な演出と\"交渉を ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/toyokeizai/life/toyokeizai-963044"
+  },
+  {
+    "source": "Web",
+    "date": "2026-10-31",
+    "time": null,
     "organization": "topics.smt.docomo.ne.jp",
     "identifier": "サイバー攻撃",
     "title": "佐賀大に サイバー攻撃 、学生や教職員ら８万人分の個人情報流出か…付属病院の患者情報も ...",
