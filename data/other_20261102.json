@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-11-02",
     "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 の背景に「AIによる攻撃の高速化」。シンガポールやエストニアに学ぶ対抗策",
+    "url": "https://www.businessinsider.jp/article/2611-ai-cyber-attacks-singapore-estonia/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア非常事態省、警報アプリに「大規模 サイバー攻撃 」 ウクライナでも被害 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b2aeb0103cd7d58daf24ef597a956bba38eb92d0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「GMO」午後に会見 熊谷社長が問題発覚後初めて公の場に 不正アクセス “犯人特定へ有力な情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/7d6ae5586116bc652c15f1c1da6797584f5468d7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "スマートニュースに不正アクセス アプリの一部機能を停止 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC023IO0S6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "KDDI、2万2541件の顧客 情報漏えい か ライフネット生命への不正アクセスで - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1a31f9ef0b4d3795e482a64e216a06b839457c31"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "メールアドレス7700万件 漏えい 不正アクセスで ペイクラウド（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9220b057ff09b68b49e8d653f775038c28bca634"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏えい",
+    "title": "テレ東、通販サイトに不正アクセス 情報漏えい は確認されず サイトを緊急停止 - 朝日新聞",
+    "url": "https://www.asahi.com/and/entertainment/17017423"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】サントリーのクラウドに不正アクセス 採用選考の応募者などの 情報漏えい か …",
+    "url": "https://news.yahoo.co.jp/articles/42cc04368ed201764a33f42c92705b2892bb0b62"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯ 不正アクセス 、熊谷正寿社長ら４人の役員報酬減額…今年１２月分から - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261102-GYT1T00255/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】サントリー 不正アクセス で従業員約9万人分の個人情報が漏えい 採用応募者情報や顧客 ...",
+    "url": "https://news.ntv.co.jp/category/economy/ytb757b20e231349fdbdc9e55e7687ce2d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】「心よりお詫び申し上げます」GMO熊谷社長が 不正アクセス 後初の会見 「グループ内の ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3056432"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO熊谷正寿社長、記者会見で 不正アクセス 問題について説明へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0235C0S6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "GMOが15時半から会見、5つのポイント 不正アクセスの全容は… - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVC2033SVC2ULFA00MM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO熊谷会長ら、きょう午後会見へ サイバー攻撃 受けて以降初 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/category/economy/f1029fffeb7745fca9ba91753f250bd1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "サイバー攻撃",
+    "title": "｢個人情報の流出｣で終わらない サイバー攻撃 の次なる恐怖…一段の急増が懸念される金融犯罪",
+    "url": "https://toyokeizai.net/articles/-/962967?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO幹部“ サイバー攻撃 に北朝鮮関与の可能性含め調査” 「攻撃者はあえてレベルを低く見せて ...",
+    "url": "https://news.yahoo.co.jp/articles/2a5a96642f9b6f2945e95e3d06f29b5104c38659"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
     "organization": "gendai.media",
     "identifier": "サイバー攻撃",
     "title": "「私の身近にも迫ってきた」野口悠紀雄氏が明かす、いまそこにあるAI サイバー攻撃 の猛威",
