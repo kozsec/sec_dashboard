@@ -3,6 +3,348 @@
     "source": "Web",
     "date": "2026-11-02",
     "time": null,
+    "organization": "vlcsecurity.com",
+    "identifier": "ランサムウェア",
+    "title": "11月27日(金)開催：リアル会場セミナー | 株式会社VLCセキュリティ",
+    "url": "https://vlcsecurity.com/news/21061/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "他の職員のIDとパスワードを使用し複数回にわたり庁内共有フォルダに不正アクセス",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/11/02/56647/55748.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "ランサムウェア",
+    "title": "盗んだ個人情報をAIに分析させて被害者の「金銭的価値」を格付けするマルウェアが発見される",
+    "url": "https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【個人情報漏えい】2億6000万人分の情報流出―26年度 : 10月に入って不正アクセス急増",
+    "url": "https://news.yahoo.co.jp/articles/92a92f59ee386732335a93866427e31040bdb727"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "ランサムウェア の専門情報サイト「 ランサムウェア 対策ナビ」を開設 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000060907.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ＧＭＯ熊谷正寿会長兼社長「 情報漏えい はＡＩ発展が原因」と持論展開…専門家「被害者らが知り ...",
+    "url": "https://www.yomiuri.co.jp/national/20261102-GYT1T00353/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "丸井で個人 情報漏えい 、銀行口座番号も（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3f3ab8e3595546a203b9df497c4e7cd520193d8d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "システム障害",
+    "title": "イスラエル・ネタニヤフ首相 米にイランへの早期攻撃要求か トランプ大統領は交渉優先",
+    "url": "https://article.auone.jp/330dbe21-b834-46fa-a45a-8c25a5eb4b65"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "kobe-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "中小企業の サイバー攻撃 対策、支援機関へ相談を セミナーも随時開催 神商議・川崎会頭",
+    "url": "https://www.kobe-np.co.jp/news/economy/202611/0020994804.shtml"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "欧州の食品スーパー冷凍設備に再び サイバー攻撃 、ベルギーとスウェーデンでDelhaize、ICA",
+    "url": "https://finance.biggo.jp/news/b1683b55-2d3e-4bc6-bacf-7c4a8f4c6dcc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMOへの サイバー攻撃 警視庁が約 70人態勢の捜査本部を設置 不正アクセス禁止法違反などの ...",
+    "url": "https://news.yahoo.co.jp/articles/aa6c26a881fbdf69c00aebad5a159ca7b73db580"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "kfb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "欧州のスーパーに再び サイバー攻撃 ベルギーや北欧で 遠隔操作で冷蔵設備の温度上昇 - KFB福島放送",
+    "url": "https://www.kfb.co.jp/news/article/17019088"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯ、２年前に社内で指摘も生かせず 熊谷社長、 不正アクセス で謝罪―役員報酬３割減額",
+    "url": "https://www.jiji.com/jc/article?k=2026110200565&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "city.himeji.lg.jp",
+    "identifier": "不正アクセス",
+    "title": "「姫路市オンライン手続きポータルサイト」の委託先における 不正アクセス に伴う個人情報漏えい ...",
+    "url": "https://www.city.himeji.lg.jp/shisei/0000034645.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "contents.online.nojima.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ノジマオンラインの 不正アクセス に伴う個人情報漏えいに関するお詫びとお知らせ",
+    "url": "https://contents.online.nojima.co.jp/uncategorized/ノジマオンラインの不正アクセスに伴う個人情報/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス 、侵入は2カ月半前 明らかになった攻撃の実態は - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVC23FKNVC2UTIL00RM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "GMO系決済、プリペイドカード番号など69件漏洩 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC029TX0S6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "kstyle.com",
+    "identifier": "情報漏洩",
+    "title": "HYBE、外部ハッキング攻撃による個人 情報 流出を謝罪…氏名からパスポート番号まで大規模な被害",
+    "url": "https://kstyle.com/article.ksn?articleNo=2285953"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "サントリーHD、不正アクセスで 情報漏洩 従業員など9万人分 新卒採用応募者の氏名も",
+    "url": "https://www.sankei.com/article/20261102-VBT253FHABKKRBNF22MQF34DAI/?outputType=asynd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "個人 情報 を 漏洩 しLINEで見返りの現金を要求か 広島県警の巡査長(28)を加重収賄罪などで起訴 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3056005"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ロードサービス事業会社で最大550万件の 情報漏洩 ナンバープレート番号や口座情報も",
+    "url": "https://www.khb-tv.co.jp/news/17018904"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "cybertrust.co.jp",
+    "identifier": "情報漏洩",
+    "title": "SSL/TLS サーバー証明書発行サービス - サイバートラスト",
+    "url": "https://www.cybertrust.co.jp/info/2026/1102-ssl-information.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "NTTデータ、2789人の 情報漏洩 を確認 委託先の不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC029OO0S6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "advertimes.com",
+    "identifier": "情報漏えい",
+    "title": "GMO熊谷社長、謝罪会見で涙 「31年間、儲けると言ったことはない」 情報漏えい 多発は「AIの ...",
+    "url": "https://www.advertimes.com/20261102/article563033/2/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「GMOトラスト・ログイン」で2492社・4万5030人の 情報漏えい 、設定不備でファイルが公開領域に",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2153245.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "playtruejapan.org",
+    "identifier": "情報漏えい",
+    "title": "経費管理システムへの不正アクセスによる個人 情報漏えい に関するお知らせとお詫び",
+    "url": "https://www.playtruejapan.org/topics/2026/000805.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "サイバー攻撃",
+    "title": "テレ朝NEWS on X: \"欧州のスーパーに再び サイバー攻撃 ベルギーや北欧で 遠隔操作で冷蔵設備 ...",
+    "url": "https://x.com/tv_asahi_news/status/2117282928418017780"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシアとウクライナの緊急警報用アプリ、核 攻撃 警告の偽情報配信…ハッキング被害か - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/world/20261102-GYT1T00291/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "cybertrust.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「ResorTech EXPO 2026 in Okinawa」出展と講演のお知らせ【 11 月 19 日 - サイバートラスト",
+    "url": "https://www.cybertrust.co.jp/info/2026/1102-resortech.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "メール配信「アララ」で 不正アクセス 、最大713万通の不審メール確認 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC024D10S6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "「プロのサイバー攻撃集団が素人感を出しながら犯行。北朝鮮が関与？」 「“にわかハッカー”の ...",
+    "url": "https://news.yahoo.co.jp/articles/ff1eea94b93e305f77b4f289a0af336f81b00530"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "ユミルリンクのメール配信サービスの一部サーバシステムに不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/11/02/56645/55883.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "サントリーHDに 不正アクセス 約10万人分の名前やメルアドなど個人情報が漏洩 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261102-6WGVHNOOYZN7LO4APXTYM2FOKA/?outputType=asynd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "不正アクセス",
+    "title": "GMO 不正アクセス で発覚した「危機意識」の甘さ…弱点は放置、攻撃にも2カ月半気づかず",
+    "url": "https://www.tokyo-np.co.jp/article/525661"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "警視庁が捜査本部設置、GMO 不正アクセス 容疑 - 47NEWS",
+    "url": "https://www.47news.jp/15174640.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシアとウクライナで警報アプリに サイバー攻撃 相次ぐ 核攻撃や放射線の危険知らせる偽情報配信",
+    "url": "https://www.fnn.jp/articles/-/1144868"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サントリーＨＤ、従業員や新卒採用応募者ら１０万人の情報漏えい…利用するクラウドサービスに ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261102-GYT1T00306/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "アドレス7700万件が流出 ITペイクラウドHD、 攻撃 受け（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d87c4193fdffcdb4a79c958103309783531a7dfc"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-02",
+    "time": null,
     "organization": "businessinsider.jp",
     "identifier": "サイバー攻撃",
     "title": "相次ぐ サイバー攻撃 の背景に「AIによる攻撃の高速化」。シンガポールやエストニアに学ぶ対抗策",

@@ -25,5 +25,14 @@
     "identifier": "4015",
     "title": "当社連結子会社が提供する「アララメッセ－ジ」への不正アクセスによる情報流出およびサービス停止について（第２報）",
     "url": "https://www.release.tdnet.info/inbs/140120261102562067.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-02",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "CSWP 50 (Final)",
+    "title": "Small Business Cybersecurity: Non-Employer Firms",
+    "url": "https://csrc.nist.gov/pubs/cswp/50/small-business-cybersecurity-non-employer-firms/final"
   }
 ]
