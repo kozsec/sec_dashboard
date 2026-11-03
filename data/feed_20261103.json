@@ -1,5 +1,15 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "WordPress",
+    "product": "WordPress Core",
+    "identifier": "CVE-2026-119977",
+    "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-119977&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "海外",
     "date": "2026-11-03",
     "time": "12:00",

@@ -3,6 +3,195 @@
     "source": "Web",
     "date": "2026-11-03",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "高速バス予約サイト、クレジットカード 情報 ６９４９件 漏えい か…サイトプログラム改ざんされる",
+    "url": "https://www.yomiuri.co.jp/national/20261104-GYT1T00004/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "fukuishimbun.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "偽の採用面接で サイバー攻撃 北朝鮮関与か、米の暗号資産盗難 | 全国のニュース - 福井新聞",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2738400"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「冷凍庫が50℃に…」 サイバー攻撃 でスーパーの冷凍庫など“被害” ヨーロッパ複数国で相次ぐ",
+    "url": "https://news.ntv.co.jp/category/international/d4ae50ae076e41e6accbf11d31df3007"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "学生が地元企業への サイバー攻撃 防ぐ 金沢工業大とシスコが包括協定 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOCC219WA0R21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "ドイツのスーパーに サイバー攻撃 、冷蔵設備の温度上昇 50度設定の被害店舗も - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261103-PSDAFEDBRVPUTM6VMUU5T73VBU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "システム障害",
+    "title": "冷蔵庫にサイバー攻撃 先月、仏でも 欧州９カ国で被害確認 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16580959.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "英NCSC、AI ランサムウェア の脅威を警告 身代金支払い率は過去最低28%に低下",
+    "url": "https://finance.biggo.jp/news/9b6382aa-c2d6-4b6f-a88c-5df7066e7fd4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "本物のメールまで怖くて開けない… 情報漏洩 の頻発が招いた「警戒疲れ」の末路 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/cf853b428fef085ea9837f1d8b382c1ef8c7eba2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "GMOへの 不正アクセス 2か月以上も“侵入”気づかず…「セキュリティー企業としては失態と言わ ...",
+    "url": "https://news.ntv.co.jp/category/economy/1f3843ae5d1f409b8227f4bae524f2d1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ロードサービス向け業務システムを手がけるプレステージ・コアソリューション、 不正アクセス で ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2153279.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ライフカード「Vプリカ」で個人 情報漏えい の可能性、委託先のGMOペイメントゲートウェイで ...",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2153282.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【被害一覧あり】「次元が変わった」 AIによる サイバー攻撃 に専門家が警鐘 取るべき対策は？",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1951313"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「プロの サイバー攻撃 集団が素人感を出しながら犯行。北朝鮮が関与？」 「“にわかハッカー”の ...",
+    "url": "https://www.fnn.jp/articles/-/1145071?display=full"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "また冷蔵設備に サイバー攻撃 欧州7カ国のスーパーで異常報告 - ライブドアニュース - livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32722357/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIで激化する サイバー攻撃 、矛先は製造業へ 防御対象選定とBCPが急務",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/103002136/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "外務省のネットワークに 不正アクセス 、7月27日に検知 - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/04/56663.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "unite.ai",
+    "identifier": "システム障害",
+    "title": "Traversal、企業価値10億ドルでシリーズBとして1億2000万ドルを調達し、AI SREを拡大",
+    "url": "https://www.unite.ai/ja/traversal-raises-120m-series-b-at-1b-valuation-to-expand-ai-sre/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ニューヨークやフロリダの投票所で システム障害 、投票用紙を読み取る機械が用紙を受け付けず",
+    "url": "https://news.yahoo.co.jp/articles/0c318b12e577ecadba14714fabe506cd5f8e131b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "システム障害",
+    "title": "ニューヨークやフロリダの投票所で システム障害 、投票用紙を読み取る機械が用紙を受け付けず",
+    "url": "https://www.yomiuri.co.jp/world/20261104-GYT1T00063/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "本物のメールまで怖くて開けない… 情報漏洩 の頻発が招いた｢警戒疲れ｣の末路､崩れ始めた ...",
+    "url": "https://toyokeizai.net/articles/-/963286?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "本物のメールまで怖くて開けない… 情報漏洩 の頻発が招いた｢警戒疲れ｣の末路",
+    "url": "https://toyokeizai.net/articles/-/963286?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-03",
+    "time": null,
     "organization": "47news.jp",
     "identifier": "不正アクセス",
     "title": "不正アクセス で個人情報流出続く サントリーHDやノジマ - 47NEWS",
