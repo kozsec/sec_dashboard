@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-11-04",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年11月4日 「・キャンプ2027コネクト」ページを公開し、エントリー受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/security-camp/connect/index.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-04",
+    "time": "17:00",
+    "organization": "Ｇ－ベーシック",
+    "identifier": "519A",
+    "title": "当社サービスへの不正アクセスに関するお知らせ（第二報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261102562932.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-04",
+    "time": "16:30",
+    "organization": "良品計画",
+    "identifier": "7453",
+    "title": "情報流出の可能性に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261104564546.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-04",
+    "time": "15:00",
+    "organization": "ワークマン",
+    "identifier": "7564",
+    "title": "メール配信サービスへの不正アクセスによるメールアドレスの漏えいの可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261103563387.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-04",
+    "time": "15:00",
+    "organization": "はせがわ",
+    "identifier": "8230",
+    "title": "当社委託先のメール配信サービスへの不正アクセスによる個人情報漏えいに関するお知らせ（第１報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261104564321.pdf"
+  }
+]
