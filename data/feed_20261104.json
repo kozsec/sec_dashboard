@@ -1,14 +1,5 @@
 [
   {
-    "source": "IPA",
-    "date": "2026-11-04",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "人材育成 2026年11月4日 「・キャンプ2027コネクト」ページを公開し、エントリー受付を開始しました",
-    "url": "https://www.ipa.go.jp/jinzai/security-camp/connect/index.html"
-  },
-  {
     "source": "適時開示",
     "date": "2026-11-04",
     "time": "17:00",
@@ -43,5 +34,23 @@
     "identifier": "8230",
     "title": "当社委託先のメール配信サービスへの不正アクセスによる個人情報漏えいに関するお知らせ（第１報）",
     "url": "https://www.release.tdnet.info/inbs/140120261104564321.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-04",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年11月4日 「・キャンプ2027コネクト」ページを公開し、エントリー受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/security-camp/connect/index.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-04",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 800-108 Rev. 2 (Draft)",
+    "title": "Pre-Draft Call for Comments: Recommendation for Key Derivation Using Pseudorandom Functions",
+    "url": "https://csrc.nist.gov/pubs/sp/800/108/r2/iprd"
   }
 ]
