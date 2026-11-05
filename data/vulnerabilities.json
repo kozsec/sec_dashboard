@@ -5,11 +5,11 @@
     "product": null,
     "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0102,
+    "epss_current": 0.01157,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/03",
-    "last_update": "2026/11/04"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2026-118527",
@@ -161,11 +161,11 @@
     "product": null,
     "title": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01637,
+    "epss_current": 0.10724,
     "cvss": 5.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2026-96654",
@@ -569,11 +569,11 @@
     "product": null,
     "title": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
     "kev": "あり",
-    "epss_current": 0.03252,
+    "epss_current": 0.03198,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/18",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2025-39964",
@@ -773,11 +773,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
     "kev": "あり",
-    "epss_current": 0.03949,
+    "epss_current": 0.34741,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2026-81963",
@@ -1721,11 +1721,11 @@
     "product": "Sentry",
     "title": "Ivanti Sentry OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99915,
+    "epss_current": 0.99901,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/06/11",
-    "last_update": "2026/08/24"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2026-11645",
@@ -1925,11 +1925,11 @@
     "product": "Langflow",
     "title": "Langflow Origin Validation Error Vulnerability",
     "kev": "あり",
-    "epss_current": 0.92808,
+    "epss_current": 0.93216,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/05/21",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/05"
   },
   {
     "cve": "CVE-2026-34926",
