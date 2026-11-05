@@ -3,6 +3,87 @@
     "source": "Web",
     "date": "2026-11-05",
     "time": null,
+    "organization": "webun.jp",
+    "identifier": "システム障害",
+    "title": "ホームページ申請で不具合 黒部市、 システム障害 のため - 北日本新聞",
+    "url": "https://webun.jp/articles/-/1123112"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "システム障害",
+    "title": "ドコモで不正アクセスか 5日午前1時すぎから緊急メンテナンス - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000545454.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "セキュリティ関連書籍9冊を全文無料公開 インプレスが5日間限定 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2153411.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "ランサムウェア",
+    "title": "『次に ランサムウェア に狙われる企業の特徴とは？』というテーマのウェビナーを開催 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000006023.000054842&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "lac.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃による事業停止に備えるサイバーBCP～RISCON TOKYO 2026出展レポート - ラック",
+    "url": "https://www.lac.co.jp/lacwatch/service/20261105_005007.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止（テクノエッジ）",
+    "url": "https://news.yahoo.co.jp/articles/80e4a5a54abdcd800183b72135bce7d108f2cba6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "pref.hokkaido.lg.jp",
+    "identifier": "情報漏洩",
+    "title": "不正アクセスによる個人 情報 の 漏洩 等に関する相談について - 北海道庁",
+    "url": "https://www.pref.hokkaido.lg.jp/ks/ask/274105.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ大規模 情報 流出、サイバー攻撃にAIが加わると何が変わるのか？ 攻撃の実態と企業が ...",
+    "url": "https://news.yahoo.co.jp/articles/fc3b8b1cd43cc177e791432c094c848de0032f4a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "三井住友銀行、メールアドレス22万件が 漏洩 アララ不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB0556H0V01C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
     "organization": "x.com",
     "identifier": "不正アクセス",
     "title": "不正アクセス による影響相次ぐ 「無印良品」ではクレカ情報流出か - X",

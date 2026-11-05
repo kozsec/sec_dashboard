@@ -1,5 +1,50 @@
 [
   {
+    "source": "IPA",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年11月5日 応用情報技術者試験・高度試験・情報処理安全確保支援士試験における答案の開示請求について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261105.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年11月5日 CBT方式で実施するITパスポート試験、情報マネジメント試験及び基本情報技術者試験における2027年1月以降の実施予定について",
+    "url": "https://www.ipa.go.jp/shiken/2026/cbt-202701-yotei.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-05",
+    "time": "15:00",
+    "organization": "コナカ",
+    "identifier": "7494",
+    "title": "連結子会社のメール配信サービス提供元への不正アクセスによるメールアドレスの漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261105565832.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-05",
+    "time": "12:00",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第５報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261105565152.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-05",
+    "time": "12:00",
+    "organization": "Ｇ－モイ",
+    "identifier": "5031",
+    "title": "（経過報告）当社サーバーへの不正アクセスに関するお知らせ（第３報）およびサービスの再開について",
+    "url": "https://www.release.tdnet.info/inbs/140120261105565350.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-05",
     "time": "08:30",
