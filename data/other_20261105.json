@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-11-05",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AKB48、メール配信サービスへの不正アクセスに伴う個人 情報漏洩 を報告 詳細は確認中も「決済 ...",
+    "url": "https://news.yahoo.co.jp/articles/82a4e41f68605be091b2116e97905f9454d59a81"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ドコモで不正アクセス およそ30万件の 情報 流出 - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/17027556"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "toyokeizai.net",
+    "identifier": "情報漏洩",
+    "title": "相次ぐ大規模 情報 流出､サイバー攻撃にAIが加わると何が変わるのか？ 攻撃の実態と企業が ...",
+    "url": "https://toyokeizai.net/articles/-/963098?display=b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "pc.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで - PC Watch",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153924.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "アイリスオーヤマ公式通販サイトに 不正アクセス 770万人分情報漏えいか - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261105-Z5PFKULYHRPTBP4OT65NZYUN3E/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "楽天証券、メールアドレス2109件が 漏えい の可能性 委託先に不正アクセス - CNET Japan",
+    "url": "https://japan.cnet.com/article/35254434/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "年収や保証額も 漏えい 約32万件 三井住友G保証会社 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000545568.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "chosun.com",
+    "identifier": "サイバー攻撃",
+    "title": "欧州揺るがす サイバー攻撃 、スーパー冷蔵庫に続き血液保管施設も被害",
+    "url": "https://www.chosun.com/jp/international-jp/2026/11/06/RLTU7II65VDWLN5XHAVHUL5FZU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 4億件超 10月検知数 最多更新 高性能AIで自動化 前年同月比2．5倍",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1960303"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "アイリスオーヤマで 情報漏えい の可能性、公式通販サイト会員などの個人情報が最大で７７０万人 ...",
+    "url": "https://news.yahoo.co.jp/articles/70055dc29f8b09248adc1974c5559294167f25ec"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「au自転車サポート」で顧客 情報漏えい の可能性、委託先に不正アクセス - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154147.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-05",
+    "time": null,
     "organization": "itmedia.co.jp",
     "identifier": "情報漏えい",
     "title": "「e-Tax」再開 安全性確認、納税者の 情報漏えい なし - ITmedia NEWS",
