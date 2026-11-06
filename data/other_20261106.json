@@ -3,6 +3,168 @@
     "source": "Web",
     "date": "2026-11-06",
     "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏えい",
+    "title": "愛媛銀行で顧客 情報漏えい 提携先企業のシステムに不正アクセス 件数など確認進め注意 ...",
+    "url": "https://www.fnn.jp/articles/-/1147147"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "システム障害",
+    "title": "NHKニュース on X: \"【NHKニュース速報】 東海から西の１２８の信用金庫で システム障害 窓口や ...",
+    "url": "https://x.com/nhk_news/status/2118581413964657046"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "西日本地域の信金で システム障害 - 京都新聞",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1821556"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "システム障害",
+    "title": "【速報】西日本地域の信金で システム障害 - 47NEWS",
+    "url": "https://www.47news.jp/15192704.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】西日本128の信用金庫で システム障害 ATMやネットバンキング使えず 通信機器故障か",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3067465"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "chunichi.co.jp",
+    "identifier": "システム障害",
+    "title": "西日本の128の信用金庫で システム障害 、ATM利用できず 愛知や静岡でも - 中日新聞",
+    "url": "https://www.chunichi.co.jp/article/1335627"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】信用金庫で システム障害 窓口やATMなどが利用できず 復旧のめど立たず 大阪",
+    "url": "https://news.ntv.co.jp/n/ytv/category/society/yt26d3217d6ea048a9a097917769e7f620"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】信用金庫で システム障害 静岡県内9つの信用金庫でも一部の窓口業務やATMなど各種 ...",
+    "url": "https://news.yahoo.co.jp/articles/e8a27f7862829520517520cece0b8173173245db"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "128の信用金庫で システム障害 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6601532"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "欧州各国のスーパー狙った サイバー攻撃 への関与否定 冷蔵庫の温度急上昇（AFPBB News）",
+    "url": "https://topics.smt.docomo.ne.jp/article/afpbb/world/afpbb-3661104"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【元陸自のホワイトハッカーが警鐘】日本はなぜ サイバー攻撃 の“カモ”になったのか 中国型AIが ...",
+    "url": "https://news.yahoo.co.jp/articles/5ce34967b75cbcca561d13ac72a32cafd6ed0aa1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 対策強化に100億円 政府が予備費支出決定（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/49bec3e5e3b51b44253805d49f5071d818455bf7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ヨーロッパで冷蔵・冷凍庫が狙われた サイバー攻撃 、ロシア系ハッカー組織が犯行主張か…庫内の ...",
+    "url": "https://www.yomiuri.co.jp/world/20261106-GYT1T00114/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "西日本128信金で障害、 サイバー攻撃 とは無関係 決済、ATM利用できず - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261106-2LY7KEUKLBJTHFYMVMLAANC7EA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 対策の切り札に？ OpenAIが「GPT-6 Cyber」発表 脆弱性の発見力が向上",
+    "url": "https://japan.cnet.com/article/35254465/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ 不正アクセス 、最大30万件の顧客情報流出 「My docomo」など緊急メンテ、再開未定",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「MUJIアプリ」への 不正アクセス 、新たにカード情報が外部からアクセスされた可能性も",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/06/56697.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "セキュリティ専門団体が 不正アクセス 被害、最大1.5万件の情報漏えいか ID・パスワードも対象に",
+    "url": "https://news.yahoo.co.jp/articles/7d27c99efa470f0930524fb5e1d58e6088bab8d8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏洩",
     "title": "北洋銀行が取り扱うカードローン「スーパーアルカ」利用者 情報 が 漏えい （名前・住所・勤務先 ...",
