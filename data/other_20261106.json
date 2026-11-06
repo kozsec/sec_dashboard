@@ -3,6 +3,438 @@
     "source": "Web",
     "date": "2026-11-06",
     "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "政府、サイバー被害対策に強制遮断検討 通信大手は「法整備が前提」と慎重姿勢",
+    "url": "https://finance.biggo.jp/news/f7a212f8-034c-46db-ae85-805441aa562d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "businessnetwork.jp",
+    "identifier": "ランサムウェア",
+    "title": "「WAFをすり抜けるAPI攻撃にどう対処するか」 AIエージェントの攻撃傾向と対策法をアカマイが ...",
+    "url": "https://businessnetwork.jp/article/38432"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "businessinsider.jp",
+    "identifier": "情報漏洩",
+    "title": "NTTドコモで約30万回線の 情報漏洩 。My docomoなど停止で何が起きたのか。見舞金の支払いも検討",
+    "url": "https://www.businessinsider.jp/article/2611-ntt-docomo-data-breach-2024/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "ドコモ社長、 情報漏洩 を謝罪 見舞金の支払い検討 通信障害は復旧に14時間 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261106-4CENEOAGCFMZHHOVUYALDW5HJY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏洩",
+    "title": "【11/12無料セミナー】命の砂時計を奪わない――30分でわかる 情報 セキュリティ - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000231.000002036.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "システム障害",
+    "title": "【速報】西日本128の信用金庫で一時 システム障害 ATMやネットバンキング使えず 通信機器故障か",
+    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-3067465"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "信用金庫の システム障害 、関西は25信金に影響 ATMや窓口利用できず - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF067B20W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "kumanichi.com",
+    "identifier": "システム障害",
+    "title": "【速報】熊本県内4信金 システム障害 資金決済、ATM利用不能に",
+    "url": "https://kumanichi.com/articles/2054923"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】信用金庫で システム障害 東海地方から西側…全国の約半数が影響 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/f5ebcf6a46ca16ab16627c1c579b0fd98b45eb30"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "１２８信金でＡＴＭ利用できず 西日本地域、 システム障害 で：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026110600836&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "「そうしん」「かしん」など信用金庫 システム障害 でATMやネットバンキング使えず 鹿児島",
+    "url": "https://newsdig.tbs.co.jp/articles/mbc/3067954?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "システム障害",
+    "title": "信用金庫で システム障害 復旧中も原因は機器の故障か - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000545900.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "【速報】信用金庫で システム障害 静岡 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bd53036d4c4c3b28a2e337b4097b49e4a671cc95"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系 - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ 不正アクセス 、「料金プラン」などの情報も流出 29.5万件 - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154508.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "ドコモ、 不正アクセス 被害者へお見舞金 流出は29万回線、本人確認書類の番号も（更新）",
+    "url": "https://japan.cnet.com/article/35254525/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "NTTドコモ、 不正アクセス で約30万件のユーザー情報流出 注意を呼びかけ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/5a04db8cca37b1ef6bda5cd9241cd361d6b9e7d7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "k-tai.watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ、 不正アクセス で最大29.5万件の情報が流出 - ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154506.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "gizmodo.jp",
+    "identifier": "サイバー攻撃",
+    "title": "またしても サイバー攻撃 。狙われたのはお金、ではなく血液 - ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261106-REZYX6XYX5JIHGEFPA5EATPZ6E/?outputType=asynd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府が サイバー攻撃 「緊急対策パッケージ」決定、強制遮断「ブロッキング」や被害企業に「官民 ...",
+    "url": "https://www.yomiuri.co.jp/politics/20261106-GYT1T00266/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "サイバー攻撃",
+    "title": "政府が サイバー攻撃 の「緊急対策パッケージ」 強制遮断の検討加速、被害防止へ新チーム",
+    "url": "https://www.jiji.com/jc/article?k=2026110600989&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "金融庁、 サイバー 対策を緊急点検 信金・信組など400機関が対象に - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB063190W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "最大770万人分個人 情報漏えい の可能性 アイリスオーヤマ公式通販サイト不正アクセス問題",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3065629"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "MS＆ADグループ3社、約49万件の 情報漏えい （時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/ebb57678a9249eba99c4cfc6e7cc7a6c0e88418f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】りそな、過去のローン顧客の 情報漏えい - 47NEWS",
+    "url": "https://www.47news.jp/15194609.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい で合同捜査本部設置（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9c5efafae1de26b05312e54d5514874c0516b2cf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "ライフ、顧客情報13万件超流出か アララ 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC065HM0W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "NTTドコモ 不正アクセス による顧客情報流出について謝罪会見 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3068909"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "西日本の128信用金庫で システム障害 福岡・佐賀の12信用金庫でもATM利用できず「不正 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3068711?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "システム障害",
+    "title": "西日本１２８信金で システム障害 決済、ＡＴＭ利用できず - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/526467"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "システム障害",
+    "title": "静岡県内の信用金庫でもATM使えず…大規模な システム障害 一部で復旧も",
+    "url": "https://www.fnn.jp/articles/-/1147508"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "【 システム障害 】西日本128の信用金庫でATM・ネットバンキング使えず 通信機器の故障が原因か",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3068114?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "サイバー攻撃",
+    "title": "国家サイバー統括室(注意・警戒情報) on X: \" サイバー攻撃 が相次ぎ、安全・安心な暮らしが脅かさ ...",
+    "url": "https://x.com/cyber_forecast/status/2118698686712799644"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「 サイバー攻撃 は新段階」 野党幹部、相次ぎ危機感 - 西日本新聞",
+    "url": "https://www.nishinippon.co.jp/item/1557785/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「 サイバー攻撃 は新段階」 野党幹部、相次ぎ危機感 - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/526555"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "sogyotecho.jp",
+    "identifier": "サイバー攻撃",
+    "title": "情報漏洩は サイバー攻撃 だけじゃない！中小企業が陥る身近な落とし穴 - 創業手帳",
+    "url": "https://sogyotecho.jp/muramatsu-professionalinterview/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "kankokeizai.com",
+    "identifier": "サイバー攻撃",
+    "title": "「48時間が山」AI時代の サイバー攻撃 、脆弱性公開から狙われる JARCゼミナールで講師が警鐘",
+    "url": "https://www.kankokeizai.com/2611060930kks/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "警察庁と全国警察“ サイバー攻撃 ”で合同捜査本部を設置 警察庁長官が指示 | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/17031243"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "｢遠くないうちに“大怪盗ルパン”みたいなのが…｣ 相次ぐ サイバー攻撃 今年度末までには新たな脅威 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/cbc/3068043"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "kantei.go.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー セキュリティに関する関係閣僚会議 | 総理の一日 - 首相官邸",
+    "url": "https://www.kantei.go.jp/jp/105/actions/202611/06kaigi_cyber.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏洩",
+    "title": "宝くじサイト停止、マイナンバー 漏洩 も 不正アクセス被害が相次ぐ - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/793de2c6-b472-4115-bbf5-17a7ea57eeb9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ドコモ不正アクセス、「料金プラン」などの 情報 も流出 「重く受け止めている」 … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bb7fa0a51f5dd0be62b9f23d9eef329abc648c56"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nikkansports.com",
+    "identifier": "不正アクセス",
+    "title": "パ５球団のメール配信サービスに 不正アクセス 、アドレス約１万3000流出 ロッテはサイト停止",
+    "url": "https://www.nikkansports.com/baseball/news/202611060000985.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "最大188金融機関で新規カードローン停止 保証会社への 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB063J40W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "国家サイバー統括室、個人 情報漏えい 対策の徹底を要請 AI活用や脆弱性診断など",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154367.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "史上最悪の暗号資産ハッキング、AIで高まる サイバー攻撃 の脅威とは？ - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3066943?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=3066943&station=withbloomberg"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "西日本の128信金の取引停止が全面復旧 「 サイバー攻撃 ではない」 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVC624MQVC6ULFA02LM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-06",
+    "time": null,
     "organization": "fnn.jp",
     "identifier": "情報漏えい",
     "title": "愛媛銀行で顧客 情報漏えい 提携先企業のシステムに不正アクセス 件数など確認進め注意 ...",
