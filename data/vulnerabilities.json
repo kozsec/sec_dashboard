@@ -1,5 +1,17 @@
 [
   {
+    "cve": "CVE-2026-19868",
+    "company": "SonicWall",
+    "product": null,
+    "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 7.5,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:L/A:N",
+    "published": "2026/11/06",
+    "last_update": "2026/11/06"
+  },
+  {
     "cve": "CVE-2026-119977",
     "company": "WordPress",
     "product": null,
