@@ -3,6 +3,123 @@
     "source": "Web",
     "date": "2026-11-07",
     "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "サイバー攻撃の緊急対策パッケージ、実効性に疑問 チーム乱立も設計これから 人材確保の実績も ...",
+    "url": "https://www.jiji.com/jc/article?k=2026110600998&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "digital.komei-shimbun.jp",
+    "identifier": "サイバー攻撃",
+    "title": "(相次ぐ サイバー攻撃 )官民一体で対策強化 党戦略本部が初会合 - 公明新聞",
+    "url": "https://digital.komei-shimbun.jp/kmd/article/0395202611070102"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "sanin-chuo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "山陰合同銀行の個人ローン情報が漏えい 契約者約1500人分 氏名や電話、運転免許証番号など",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1111681"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス で約30万件顧客情報が流出 ドコモ陳謝 - au Webポータル",
+    "url": "https://article.auone.jp/a954f5ad-0f58-43e0-84be-cc6ccd2f4af7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "「@cosme」に 不正アクセス 、約300万人の会員情報が漏えい 1枚目の写真・画像",
+    "url": "https://s.netsecurity.ne.jp/article/img/2026/11/06/56696/56071.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "サイバー対策 アクセス 抑止の検討は妥当だ - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/editorial/20261106-GYT1T00310/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ゲーセンでオンライン対戦停止、牛丼チェーンのアプリ使えず 不正アクセス 拡大（テレ朝NEWS）",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-900203688"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "不正アクセス",
+    "title": "ドコモ 不正アクセス で最大約30万件の顧客情報が流出 会見で陳謝 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32755058/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "orefolder.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ、 不正アクセス で最大約30万件の顧客情報が流出 ― 本人確認書類の番号や口座情報なども",
+    "url": "https://orefolder.jp/2026/11/docomo-unauthorized-access-202611/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "sponichi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "あいみょん「絶対私は100パー 漏えい してる」相次ぐサイバー攻撃で個人 情報 が…思い当たる不審 ...",
+    "url": "https://www.sponichi.co.jp/entertainment/news/2026/11/07/kiji/20261107s00041000118000c.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ドコモ社長 漏えい 謝罪 通信障害は復旧 - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1961192"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "tv-tokyo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "オンライン麻雀「Maru-Jan」への不正アクセスによる会員 情報流出 のお詫びとご報告",
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/305186.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "ryukyushimpo.jp",
+    "identifier": "情報漏えい",
+    "title": "沖縄銀行の顧客 情報 211人分 漏えい か 個人ローン商品 - 琉球新報",
+    "url": "https://ryukyushimpo.jp/economics/entry-5592249.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
     "organization": "news.ntv.co.jp",
     "identifier": "情報漏えい",
     "title": "NTTドコモが会見 不正アクセスで顧客の口座番号など 流出 …見舞金検討 - 日テレNEWS NNN",
