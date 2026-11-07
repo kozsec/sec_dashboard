@@ -3,6 +3,204 @@
     "source": "Web",
     "date": "2026-11-07",
     "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【速報】 サイバー攻撃 、警察庁に合同捜査本部設置 - 47NEWS",
+    "url": "https://www.47news.jp/15193739.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "kahoku.news",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 「ソフト最新でも被害」 対策は | 河北新報オンライン",
+    "url": "https://kahoku.news/articles/JY72CYM4IJKHN.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "サイバー攻撃",
+    "title": "警察庁と全国警察が連携 サイバー攻撃 で合同捜査本部 - FNNプライムオンライン",
+    "url": "https://www.fnn.jp/articles/-/1147911"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府 「 サイバー セキュリティ緊急対策パッケージ」まとめる 相次ぐ不正アクセスによる情報漏えい ...",
+    "url": "https://news.ntv.co.jp/category/society/2e5812a4242647d88cfa48c888f30b66"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "サイバー攻撃",
+    "title": "ハッカーが狙う最新手口4選 AIやログインを悪用する サイバー攻撃 の脅威 - Forbes JAPAN",
+    "url": "https://forbesjapan.com/articles/detail/107526"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府、 サイバー 緊急対策に約100億円 基幹インフラの 攻撃 情報は同日中の集約目指す",
+    "url": "https://news.yahoo.co.jp/articles/c90a4c36f0c6646f34f026a6de43883d63482471"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセスによる個人情報の漏洩は今後も続く？ 次に待ち受ける展開は…専門家が解説 …",
+    "url": "https://news.yahoo.co.jp/articles/0d5dec8d7594e5239eacbb6813735cfc6d91f0fb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "システムの脆弱性「無数にあるため人による管理は難しい」…中小企業経営者へ講座、全権 ...",
+    "url": "https://news.yahoo.co.jp/articles/0e4a1c6f483f2a87339680d8a7f7b85115c17e9b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "信用金庫の システム障害 県内７つの信金は順次復旧 富山県 - 日テレNEWS NNN",
+    "url": "https://news.ntv.co.jp/n/knb/category/economy/kncaf303fedc5d4be5aacca655a58c024d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "「不安です」西日本128の信用金庫で システム障害 順次復旧も「しんきん共同センター」が原因を ...",
+    "url": "https://news.ntv.co.jp/category/economy/yt62051019f90b4ef0af781fe825156465"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "システム障害",
+    "title": "信金の システム障害 、完全復旧 西日本地域、機器の故障が原因 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026110601196&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "信金の システム障害 、完全復旧 西日本地域、機器の故障が原因（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/b7c4a122d8c1e0ac60f83f1692cc351d2af6c5a9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "システム障害",
+    "title": "静岡県内9信金、 システム障害 でATMなどの利用一時停止 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOCC067JO0W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "私の資産は大丈夫？ 金融機関のサイバー対策は業界一丸の高水準…でも求められる自己防衛",
+    "url": "https://www.sankei.com/article/20261106-S6Z3WZFNLNKKVMVP4Z4ZX6755A/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "saga-s.co.jp",
+    "identifier": "情報漏洩",
+    "title": "＜生き物ヒトとなり＞オオスズメバチ 高度な社会性 情報漏洩 で崩壊 （235）徳田誠 - 佐賀新聞",
+    "url": "https://www.saga-s.co.jp/articles/-/1825532"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "日産フィナンシャルサービス、23万件 情報漏洩 か 委託先不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC06BFA0W6A101C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "システム障害",
+    "title": "西日本128信金の システム障害 が完全復旧 ATMやネット取引が約5時間半利用不能に 機器の ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3068915?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏洩",
+    "title": "【11/12無料セミナー】命の砂時計を奪わない――30分でわかる 情報 セキュリティ - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000231.000002036&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "bitbank.cc",
+    "identifier": "情報漏洩",
+    "title": "Gnosis Pay、デビットカードの旧システムで 情報漏洩 が発生 | ビットバンクプラス",
+    "url": "https://bitbank.cc/knowledge/breaking/article/83kod7v67d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 、ドコモに行政指導 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16583095.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "父の遺品PCから始まった「サイバー攻撃」と「税務調査」…51歳長男、システム放置が招いた ...",
+    "url": "https://news.livedoor.com/article/detail/32755353/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "総務省、特定サイト接続遮断の法的課題を検討へ 相次ぐ 情報漏洩 で - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVC61587VC6ULFA008M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-07",
+    "time": null,
     "organization": "news.infoseek.co.jp",
     "identifier": "ランサムウェア",
     "title": "米国の法律事務所に対する攻撃で曖昧になるデジタルと物理的侵入の境界｜Infoseekニュース",
