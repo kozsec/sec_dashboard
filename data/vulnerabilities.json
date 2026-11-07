@@ -5,11 +5,11 @@
     "product": null,
     "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00621,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/11/06",
-    "last_update": "2026/11/06"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-119977",
@@ -281,11 +281,11 @@
     "product": null,
     "title": "Ahsay AhsayCBS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.7947,
+    "epss_current": 0.84478,
     "cvss": 6.9,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:N/SI:N/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/14",
-    "last_update": "2026/10/27"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-0322",
@@ -413,11 +413,11 @@
     "product": null,
     "title": "Zammad GmbH Zammad Session Fixation Vulnerability",
     "kev": "あり",
-    "epss_current": 0.22478,
+    "epss_current": 0.49915,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:P/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:C/RE:X/U:X",
     "published": "2026/10/02",
-    "last_update": "2026/10/29"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-104286",
@@ -485,11 +485,11 @@
     "product": null,
     "title": "Microsoft SharePoint Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.08189,
+    "epss_current": 0.09852,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/25",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-5430",
@@ -785,11 +785,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
     "kev": "あり",
-    "epss_current": 0.34741,
+    "epss_current": 0.99376,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/11/05"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-81963",
@@ -1121,11 +1121,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02565,
+    "epss_current": 0.61668,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-55040",
@@ -1529,11 +1529,11 @@
     "product": "SP Page Builder",
     "title": "JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.88512,
+    "epss_current": 0.89176,
     "cvss": 10.0,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:Y/R:X/V:X/RE:X/U:Red",
     "published": "2026/07/07",
-    "last_update": "2026/09/25"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-55255",
@@ -1805,11 +1805,11 @@
     "product": "Serv-U",
     "title": "SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability",
     "kev": "あり",
-    "epss_current": 0.43651,
+    "epss_current": 0.48001,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/06/05",
-    "last_update": "2026/10/22"
+    "last_update": "2026/11/07"
   },
   {
     "cve": "CVE-2026-45247",
