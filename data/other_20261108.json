@@ -3,6 +3,114 @@
     "source": "Web",
     "date": "2026-11-08",
     "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ、ahamoサイトを再開 不正アクセス 受け予防停止も「安全性確認」 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/94be3c77-1289-4388-9907-fcccb75c8a52"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃 成功で平壌にアパートも - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261108-RFH5NN3B2RJNNKQM4CQA6C3KRA/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 で初会見 脆弱性指摘も抜本的対策とらず 不正侵入に2か月気づかず ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070167"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/tbs/business/tbs-3070124?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070124?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070124?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "セキュリティ団体JNSAが不正アクセス被害、管理者 情報 など最大1万5128件 漏えい の恐れ …",
+    "url": "https://news.yahoo.co.jp/articles/d4c7037f5b3beea648474bcb9669a1c24f963760"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備へのサイバー攻撃 - NewsPicks",
+    "url": "https://newspicks.com/news/17860197/?block=categories&ref=index_10406189&tabKey=U:20729&topRef=index"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "ゴルフのレッスンカルテなど 漏えい か 最大21万件超 ステップゴルフに不正アクセス（テレ朝NEWS）",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-000546200"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "オープン型ＡＩ、ハッカーが悪用 中国発モデル、安全装置を解除―サイバー攻撃が低コスト化",
+    "url": "https://newspicks.com/news/17860127/?block=categories&ref=index&tabKey=U:20729"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備へのサイバー攻撃 - NewsPicks",
+    "url": "https://newspicks.com/news/17860197/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "情報漏えい",
+    "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人 情報漏えい の恐れ",
+    "url": "https://www.chiba-tv.com/plus/detail/2026112202491"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "情報漏えい",
     "title": "個人 情報 “手放す”企業続々 「持たないことが抜本的な解決に」 漏えい なくても運用変更も ...",
