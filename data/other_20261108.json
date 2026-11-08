@@ -3,6 +3,60 @@
     "source": "Web",
     "date": "2026-11-08",
     "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 “手放す”企業続々 「持たないことが抜本的な解決に」 漏えい なくても運用変更も ...",
+    "url": "https://news.livedoor.com/article/detail/32762474/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "情報漏えい",
+    "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人 情報漏えい の恐れ",
+    "url": "https://article.auone.jp/7f6ba8ef-8477-45b0-bb5a-30357749b3d2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "パスワード使い回さない、メールに記載されたＵＲＬは開かない…個人でできる 情報漏えい 対策",
+    "url": "https://www.yomiuri.co.jp/national/20261106-GYT1T00143/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ゴルフのレッスンカルテなど 漏えい か 最大21万件超 ステップゴルフに不正アクセス",
+    "url": "https://www.khb-tv.co.jp/news/17033361"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "口座番号など漏洩か ゴルフスクールに不正アクセス（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2d07d23ceee8739ab9704593997283fb541bff0c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 “手放す”企業続々 「持たないことが抜本的な解決に」 漏えい なくても運用変更も ...",
+    "url": "https://topics.smt.docomo.ne.jp/article/ntv_news24/business/ntv_news24-2026110804729369?page=3"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
     "organization": "japan.zdnet.com",
     "identifier": "サイバー攻撃",
     "title": "Alpine LinuxとOpenSSH、最悪の脆弱性にパッチを適用 - (page 2) - ZDNET Japan",
