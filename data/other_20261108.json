@@ -3,6 +3,123 @@
     "source": "Web",
     "date": "2026-11-08",
     "time": null,
+    "organization": "gamespark.jp",
+    "identifier": "情報漏えい",
+    "title": "ゲーセン不正アクセス問題、『ガンダムEXVS.』『太鼓の達人』など試験的に稼働再開へ ...",
+    "url": "https://www.gamespark.jp/article/2026/11/08/174618.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 から企業を守る、経営陣は「止める覚悟」を 緊急対策12項目",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03816/110500002/?i_cid=nbpnxt_feature_top_it_02_01"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "口座番号など 漏洩 か ゴルフスクールに不正アクセス（ABEMA TIMES） - ｄメニューニュース",
+    "url": "https://topics.smt.docomo.ne.jp/article/abematimes/trend/abematimes-10287433"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "2026年10月はセキュリティーの転換点か、「自分の 情報 は自分で守る」の意図",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01111/110400084/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "まるでNAS!? だけど ランサムウェア 対策が詰め込まれたSynology ActiveProtectの使い方を詳しく ...",
+    "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2144243.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "reseed.resemom.jp",
+    "identifier": "情報漏えい",
+    "title": "QSアジア大学ランキング国内2位に東北大、 情報漏えい 約3.8億件…教育業界ニュースまとめ読み",
+    "url": "https://reseed.resemom.jp/article/2026/11/09/14510.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 で初会見 脆弱性指摘も抜本的対策とらず 不正侵入に2か月気づかず ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070167?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "fashionsnap.com",
+    "identifier": "不正アクセス",
+    "title": "ピッチョーリがバレンシアガ退任、無印良品が 不正アクセス の調査結果を発表…【5分でわかる主要 ...",
+    "url": "https://www.fashionsnap.com/article/roundup-november-7/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ビックカメラ、業務委託先が不正アクセス被害でメルマガ受信者1520万件の顧客 情報 の 漏えい ...",
+    "url": "https://netshop.impress.co.jp/n/2026/11/09/17000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ ...",
+    "url": "https://article.auone.jp/d451d93f-7e09-4679-b113-c6b0dfae3f3f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "金融サービスあえて止める選択も サイバー 防御で1カ月停止「あり得る」 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB2384Z0T21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "オンデマンドバスに駅の見守り、大阪メトロのAI戦略 積極策の狙いを探る | 日経クロステック ...",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/110500026/?i_cid=nbpnxt_new_top_06"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "que.dailyshincho.jp",
+    "identifier": "情報漏洩",
+    "title": "PHP脆弱性が映し出すOSSの「アンバランス」という構造的課題 | 新潮QUE（キュー）",
+    "url": "https://que.dailyshincho.jp/node/22017/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
     "organization": "finance.biggo.jp",
     "identifier": "不正アクセス",
     "title": "ドコモ、ahamoサイトを再開 不正アクセス 受け予防停止も「安全性確認」 - BigGo ファイナンス",
