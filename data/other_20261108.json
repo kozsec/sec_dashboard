@@ -3,6 +3,105 @@
     "source": "Web",
     "date": "2026-11-08",
     "time": null,
+    "organization": "japan.zdnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "Alpine LinuxとOpenSSH、最悪の脆弱性にパッチを適用 - (page 2) - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/35254546/2/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備への サイバー攻撃 （海外） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/4ebc5d2ec00dedc1224b31cf5b315b3444e1bacf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "forbesjapan.com",
+    "identifier": "サイバー攻撃",
+    "title": "冷却設備への サイバー攻撃 が欧州で拡大、食品と医薬品の低温物流網を守る6つの対策",
+    "url": "https://forbesjapan.com/articles/detail/107761"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 が急増 日本が割に合う国と見られる理由 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32761589/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "GMO サイバー攻撃 会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070124"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 “手放す”企業続々 「持たないことが抜本的な解決に」 漏えい なくても運用変更も ...",
+    "url": "https://news.infoseek.co.jp/article/ntv_2026110804729369/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "オープン型ＡＩ、ハッカーが悪用 中国発モデル、安全装置を解除―サイバー攻撃が低コスト化",
+    "url": "https://www.jiji.com/jc/article?k=2026110700344&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "個人 情報 “手放す”企業続々 「持たないことが抜本的な解決に」 漏えい なくても運用変更も ...",
+    "url": "https://news.yahoo.co.jp/articles/d46257b0118fc63e92594f39ab15ce93d74a7811"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "traicy.com",
+    "identifier": "情報漏えい",
+    "title": "ウィルズ、「ネットマイル」に不正アクセス 最大約549万人の個人 情報 が 漏えい の可能性",
+    "url": "https://www.traicy.com/?p=387268"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ 情報漏えい 個人情報を持たない選択をする企業が増加 - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32762474/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "オープン型AI、ハッカーが悪用＝中国発モデル、安全装置を解除(時事通信) - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/caafab73cc68b9274fea1c8e0cf67f8f4a8f9a9f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-08",
+    "time": null,
     "organization": "traicy.com",
     "identifier": "不正アクセス",
     "title": "クラブツーリズム、ウェブサイト再開 不正アクセス で停止 - TRAICY（トライシー）",
