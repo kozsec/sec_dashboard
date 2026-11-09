@@ -1,5 +1,41 @@
 [
   {
+    "source": "NCO",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "注意喚起",
+    "title": "産業用冷凍・冷蔵設備およびコールドチェーン監視システムに関する注意喚起",
+    "url": "https://www.cyber.go.jp/pdf/press/261109_taiou.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-09",
+    "time": "17:20",
+    "organization": "ニトリＨＤ",
+    "identifier": "9843",
+    "title": "当社システムへの不正アクセスによる個人情報漏えいの可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261109569598.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-09",
+    "time": "16:30",
+    "organization": "良品計画",
+    "identifier": "7453",
+    "title": "不正アクセスに関する追加のご報告と無印良品ネットストアの再開延期について",
+    "url": "https://www.release.tdnet.info/inbs/140120261109569240.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-09",
+    "time": "15:30",
+    "organization": "オープンドア",
+    "identifier": "3926",
+    "title": "不正アクセスによるメールアドレス流出に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261107568333.pdf"
+  },
+  {
     "source": "IPA",
     "date": "2026-11-09",
     "time": null,
