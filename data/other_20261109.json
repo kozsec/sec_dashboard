@@ -3,6 +3,168 @@
     "source": "Web",
     "date": "2026-11-09",
     "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク宮川社長が陳謝、子会社攻撃は7分で完了 偵察は月7億件に倍増",
+    "url": "https://finance.biggo.jp/news/2cb8f108-49d2-4df2-a41d-d1e1663564e7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "ill.co.jp",
+    "identifier": "不正アクセス",
+    "title": "当社提供の「CROSS POINT」への 不正アクセス に関するお詫びと、緊急メンテナンスによる ...",
+    "url": "https://www.ill.co.jp/info/261110/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "スーパー冷蔵庫の サイバー攻撃 、イラン組織への捜査開始 仏検察当局 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVC9635VVC9UHBI03PM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【去年の7倍超 約3.8億件】相次ぐ個人 情報 流出 氏名や連絡先 漏洩 でフィッシング詐欺に注意 被害 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/gallery/3072936?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=3072936&image=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "不正アクセス被害でECサイトを停止。会員・非会員の約770万件が 漏えい の可能性 …",
+    "url": "https://news.yahoo.co.jp/articles/4012d3f6f741cc4a54900c8475b30ce280bb85c6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "atpress.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバーレジリエンス・ ランサムウェア 復旧市場、2035年に280億米ドルへ拡大予測 - アットプレス",
+    "url": "https://www.atpress.ne.jp/news/647789"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "socprime.com",
+    "identifier": "ランサムウェア",
+    "title": "Lindnorバックドアとセキュリティキラーツール、米国の ランサムウェア 攻撃で使用 - SOC Prime",
+    "url": "https://socprime.com/ja/active-threats/lindnor-backdoor-and-security-killer-tools-used-in-u-s-ransomware-attack/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】「さっぽろえきバスナビ」がサービス停止 不正アクセス 受け事実と異なる運行情報を確認",
+    "url": "https://news.yahoo.co.jp/articles/32f164858414f7fd457dd37558ebfc59e567279c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー レジリエンス・ランサムウェア復旧市場、2035年に280億米ドルへ拡大予測 - Newscast.jp",
+    "url": "https://newscast.jp/smart/news/8396591"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ企業への不正アクセス ニトリで最大3762万件の情報流出か ソニー生命でも被害 無印良品 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3073244?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ企業への不正アクセス ニトリで最大3762万件の情報流出か ソニー生命でも被害 無印良品 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3073244"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "あなたの家のカメラが“加害者”に！？スマホアプリから個人 情報漏洩 …サイバー攻撃「最新手口」を ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3070572?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ニトリに 不正アクセス 、最大3762万件の個人情報流出の可能性 法人会員も対象に - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】札幌市内の公共交通の情報を閲覧できるシステムに 不正アクセス 地下鉄などの運行情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/7ce11666460487f5c4e973bd86b98b0b13e7730f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府が冷凍・冷蔵システムへの不正アクセスめぐり注意喚起「異常な温度変化」「ヒーター過熱 ...",
+    "url": "https://news.yahoo.co.jp/articles/0a2b53a986b0bdcf17ac51e21c8c9db9a370be37"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ソフトバンク宮川社長「正直もう疲れ切っている」 サイバー攻撃 が月7億件 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/01e8e8ccd3871acc5d1dc8989579f82ef307b49c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "冷蔵庫 サイバー攻撃 は「イランの犯行」 仏当局、端末のIPアドレス特定",
+    "url": "https://www.nikkei.com/article/DGXZQOGR09B4S0Z01C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏洩",
+    "title": "【更新中】ニトリで最大3762万件の 情報 流出か 10月のサイバー攻撃は過去最多233件",
+    "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-900203809"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-09",
+    "time": null,
     "organization": "news.livedoor.com",
     "identifier": "情報漏洩",
     "title": "大阪市の「児童いきいき放課後事業」個人 情報 が 漏洩 した可能性 - ライブドアニュース",

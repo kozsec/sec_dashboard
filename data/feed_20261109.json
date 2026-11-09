@@ -1,14 +1,5 @@
 [
   {
-    "source": "NCO",
-    "date": "2026-11-09",
-    "time": null,
-    "organization": "国家サイバー統括室",
-    "identifier": "注意喚起",
-    "title": "産業用冷凍・冷蔵設備およびコールドチェーン監視システムに関する注意喚起",
-    "url": "https://www.cyber.go.jp/pdf/press/261109_taiou.pdf"
-  },
-  {
     "source": "適時開示",
     "date": "2026-11-09",
     "time": "17:20",
@@ -36,6 +27,64 @@
     "url": "https://www.release.tdnet.info/inbs/140120261107568333.pdf"
   },
   {
+    "source": "適時開示",
+    "date": "2026-11-09",
+    "time": "12:00",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第６報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261109568473.pdf"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "GPUStack",
+    "product": "GPUStack",
+    "identifier": "CVE-2026-102895",
+    "title": "GPUStack Improper Authentication Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-102895&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "OpenBSD",
+    "product": "OpenSSH",
+    "identifier": "CVE-2026-123158",
+    "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-123158&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "SignalWire",
+    "product": "FreeSwitch",
+    "identifier": "CVE-2026-116779",
+    "title": "SignalWire FreeSwitch Code Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-116779&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "IBM",
+    "product": "Aspera Faspex",
+    "identifier": "CVE-2026-123218",
+    "title": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-123218&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-11-09",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "注意喚起",
+    "title": "産業用冷凍・冷蔵設備およびコールドチェーン監視システムに関する注意喚起",
+    "url": "https://www.cyber.go.jp/pdf/press/261109_taiou.pdf"
+  },
+  {
     "source": "IPA",
     "date": "2026-11-09",
     "time": null,
@@ -54,12 +103,12 @@
     "url": "https://www.ipa.go.jp/jinzai/mitou/it/2027/koubo.html"
   },
   {
-    "source": "適時開示",
+    "source": "海外",
     "date": "2026-11-09",
-    "time": "12:00",
-    "organization": "チェンジＨＤ",
-    "identifier": "3962",
-    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第６報）",
-    "url": "https://www.release.tdnet.info/inbs/140120261109568473.pdf"
+    "time": null,
+    "organization": "NIST",
+    "identifier": "SP 2400-102 (Draft)",
+    "title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations",
+    "url": "https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "cve": "CVE-2026-102895",
+    "company": "GPUStack",
+    "product": null,
+    "title": "GPUStack Improper Authentication Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00331,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/09",
+    "last_update": "2026/11/09"
+  },
+  {
+    "cve": "CVE-2026-123158",
+    "company": "OpenBSD",
+    "product": null,
+    "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01014,
+    "cvss": 8.1,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/09",
+    "last_update": "2026/11/09"
+  },
+  {
+    "cve": "CVE-2026-116779",
+    "company": "SignalWire",
+    "product": null,
+    "title": "SignalWire FreeSwitch Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01299,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/09",
+    "last_update": "2026/11/09"
+  },
+  {
+    "cve": "CVE-2026-123218",
+    "company": "IBM",
+    "product": null,
+    "title": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00396,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/09",
+    "last_update": "2026/11/09"
+  },
+  {
     "cve": "CVE-2026-19868",
     "company": "SonicWall",
     "product": null,
@@ -17,11 +65,11 @@
     "product": null,
     "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01157,
+    "epss_current": 0.01199,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/03",
-    "last_update": "2026/11/05"
+    "last_update": "2026/11/09"
   },
   {
     "cve": "CVE-2026-118527",
@@ -509,11 +557,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Incorrect Authorization Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.90491,
+    "epss_current": 0.91677,
     "cvss": 9.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N",
     "published": "2026/09/24",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/09"
   },
   {
     "cve": "CVE-2026-93952",
