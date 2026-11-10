@@ -3,6 +3,285 @@
     "source": "Web",
     "date": "2026-11-10",
     "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ニトリ、最大3762万件の個人情報流出の恐れ 不正アクセス - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154952.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "札幌市営地下鉄、 不正アクセス で偽情報拡散 公式LINEに「運行見合わせ」メッセージ",
+    "url": "https://www.sankei.com/article/20261109-XMZGIMQRVRMY3DWRRK467FYQLI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ニトリグループ個人会員など最大3762万件の情報流出か 不正アクセス 受け直ちに遮断も…北海道",
+    "url": "https://news.ntv.co.jp/n/stv/category/society/stf99a27c2595f48a4b7abdafc8f561333"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "キリンＨＤ傘下３社、業務委託先に 不正アクセス …キャンペーン参加者の個人情報など１９５０件 ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261110-GYT1T00225/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "キリンHD、商品キャンペーンで1950件情報漏洩 委託先 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC1025B0Q6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "NTTデータ、住友生命から受託したシステムに 不正アクセス 「Vitality」利用者約8万人の情報 ...",
+    "url": "https://news.yahoo.co.jp/articles/2746736db764aa91b3712461c5166e6cea9de3eb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "【相次ぐ 不正アクセス 】“漏えいリスク”に苦渋の決断… 個人情報を「あえて持た ... - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1be65c27e3bb7581bc5af31a43a2bef7634873e2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "アララ社への不正アクセスで、テレビ新広島の運営サービスからメールアドレス５１９２人分が 漏洩",
+    "url": "https://news.yahoo.co.jp/articles/4b851d6da8680f5c9ce0a8b46f656ce056d1857a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "富山県立大で3000人分のメールアドレス 漏えい 大学に所蔵する学生と教職員ほぼ全員 安否確認 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/tut/3074490?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "情報漏洩",
+    "title": "止まらない個人 情報漏洩 …10月末時点で前年の10倍、国民1人あたり3回近くまで増加の衝撃",
+    "url": "https://article.auone.jp/4f970922-bd60-4052-a03b-975efd549155"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【相次ぐ不正アクセス】“ 漏えい リスク”に苦渋の決断… 個人 情報 を「あえて持た ... - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3073231?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "日商、簿記受検者など98万人 情報漏洩 の可能性 不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA108KP0Q6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "metro.tokyo.lg.jp",
+    "identifier": "情報漏洩",
+    "title": "メール配信サービスへの不正アクセスによる個人 情報 の 漏えい について - 都庁総合ホームページ",
+    "url": "https://www.metro.tokyo.lg.jp/information/press/2026/11/2026111005"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "相次ぐサイバー攻撃で耳にする「 ランサムウェア 」って何？ あなたは説明できますか (アスキー)",
+    "url": "https://news.yahoo.co.jp/articles/f3c42f611c68e0ef50fc248665af47efa5b3b5e0/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "moneyworld.jp",
+    "identifier": "ランサムウェア",
+    "title": "「 ランサムウェア 対策」の7～10月の株価騰落率ランキング ―― 首位のGセキュリは2.1倍",
+    "url": "https://moneyworld.jp/news/detail?id=222726"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "技研製作所の業務用サーバーに ランサムウェア を含む不正アクセス - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-11-10-03/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "finance.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "〔決算〕ニチレイ、通期純利益予想を上方修正＝ システム障害 で特損16億円 - Yahoo!ファイナンス",
+    "url": "https://finance.yahoo.co.jp/news/detail/5f178382554338ccf83636066eb2f35310e64d7c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "セガ、メールアドレス約220万件が流出 配信委託先に 不正アクセス … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/bd82ea0ef96216c1896a31ade8952e345874ef40"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "総務省 不正アクセス を受け、特定のウェブサイトへのアクセス抑止策の検討会を始める",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3074776"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "平将明元デジ相、アンソロピック幹部と協議 企業への 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA101YV0Q6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "seisakukikaku.metro.tokyo.lg.jp",
+    "identifier": "不正アクセス",
+    "title": "連携事業者が利用するシステムへの 不正アクセス による個人情報の漏えいについて - 政策企画局",
+    "url": "https://www.seisakukikaku.metro.tokyo.lg.jp/information/press/2026/11/2026111001"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "ニトリ会員情報、３７６２万件が流出か 不正アクセス - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16584292.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "gamespark.jp",
+    "identifier": "不正アクセス",
+    "title": "ゲーセン 不正アクセス 問題、ALL.Net/Aime依然として再開の目処立たず―セガ製品『maimai ...",
+    "url": "https://www.gamespark.jp/article/2026/11/10/174687.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "city.shibuya.tokyo.jp",
+    "identifier": "情報漏えい",
+    "title": "【11月10日】本区施設予約システムからの個人 情報 の 漏えい 事案について - 渋谷区",
+    "url": "https://www.city.shibuya.tokyo.jp/kusei/hodo/hodo-2026/hodo_20261110.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "エディオンでセキュリティコード含むクレカ 情報 など 流出 の可能性 通販サイトに不正アクセス",
+    "url": "https://news.yahoo.co.jp/articles/6c13c6e6e9a832840b2c4aed4c8bbad98eeff456"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】被害者 情報漏えい 「遺憾」と総務相 - 47NEWS",
+    "url": "https://www.47news.jp/15209453.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "自民・平将明氏がアンソロピック幹部と非公開で面会、サイバー攻撃による 情報漏えい 対策で連携 ...",
+    "url": "https://www.yomiuri.co.jp/politics/20261110-GYT1T00259/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "医療 情報漏えい 時の報告「システム事業者には求めていない」、セキュリティ ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/10/56712.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏えい",
+    "title": "日本商工会議所、ネット検定９８万人の 情報漏えい か 合否、得点も：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026111001081&g=eco"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「イオンの夏ギフト」依頼主・届け先など申し込み 情報 ４１４件が 漏えい …２４年夏販売、４店舗で",
+    "url": "https://news.yahoo.co.jp/articles/ca7b50c0ec185de9b53b1406d2727a33b7b5ca4a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「イオンの夏ギフト」依頼主・届け先など申し込み 情報 ４１４件が 漏えい …２４年夏販売、４店舗で",
+    "url": "https://www.yomiuri.co.jp/economy/20261110-GYT1T00266/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "ランサムウェア",
     "title": "ソフトバンク社長「自社システムを GPT-6 Astraで診断したら 3.5万件の追加脆弱性を発見」と明かす",
