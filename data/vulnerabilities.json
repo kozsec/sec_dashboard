@@ -1,15 +1,87 @@
 [
   {
+    "cve": "CVE-2026-124194",
+    "company": "Microsoft",
+    "product": null,
+    "title": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 6.5,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
+    "cve": "CVE-2026-111793",
+    "company": "Openwave Messaging Limited",
+    "product": null,
+    "title": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00274,
+    "cvss": 4.3,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
+    "cve": "CVE-2026-20320",
+    "company": "Cisco",
+    "product": null,
+    "title": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.00385,
+    "cvss": 7.5,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
+    "cve": "CVE-2026-111560",
+    "company": "Barracuda Networks",
+    "product": null,
+    "title": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.0106,
+    "cvss": 8.6,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
+    "cve": "CVE-2026-116606",
+    "company": "Barracuda Networks",
+    "product": null,
+    "title": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01602,
+    "cvss": 9.3,
+    "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
+    "cve": "CVE-2026-125350",
+    "company": "Google",
+    "product": null,
+    "title": "Google Chromium Use-After-Free Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "published": "2026/11/10",
+    "last_update": "2026/11/10"
+  },
+  {
     "cve": "CVE-2026-102895",
     "company": "GPUStack",
     "product": null,
     "title": "GPUStack Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00331,
+    "epss_current": 0.00555,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/09"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2026-123158",
@@ -17,11 +89,11 @@
     "product": null,
     "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01014,
+    "epss_current": 0.16501,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/09"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2026-116779",
@@ -29,11 +101,11 @@
     "product": null,
     "title": "SignalWire FreeSwitch Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01299,
+    "epss_current": 0.02177,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/09"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2026-123218",
@@ -41,11 +113,11 @@
     "product": null,
     "title": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00396,
+    "epss_current": 0.00705,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/09"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2026-19868",
@@ -53,11 +125,11 @@
     "product": null,
     "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00621,
+    "epss_current": 0.00532,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:L/A:N",
     "published": "2026/11/06",
-    "last_update": "2026/11/07"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2026-119977",
@@ -389,11 +461,11 @@
     "product": null,
     "title": "Apache Struts Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.96525,
+    "epss_current": 0.96916,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2023-22894",
@@ -1193,11 +1265,11 @@
     "product": "macOS",
     "title": "Apple macOS Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01723,
+    "epss_current": 0.18057,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/10/01"
+    "last_update": "2026/11/10"
   },
   {
     "cve": "CVE-2025-62593",

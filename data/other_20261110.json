@@ -3,6 +3,132 @@
     "source": "Web",
     "date": "2026-11-10",
     "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏洩",
+    "title": "攻めるAIと守るAIで、Webシステムへの攻撃と 情報漏洩 を防ぐ。NAL JAPAN - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000064642.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "仏スーパー冷蔵庫への サイバー攻撃 、イラン革命防衛隊関連組織の犯行と断定 外務省が声明",
+    "url": "https://www.sankei.com/article/20261110-IAUHW5GA2NPWTCMXHHPJ5GONZQ/?outputType=asynd"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "「根拠がない」 サイバー攻撃 を否定 仏発表受け「無責任で卑劣」とイラン外務省が非難",
+    "url": "https://news.ksb.co.jp/ann/article/17039792"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 でイラン関与と非難 仏政府が声明 700店舗のスーパー冷蔵設備が被害",
+    "url": "https://www.khb-tv.co.jp/news/17039489"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "スーパー冷蔵庫への サイバー攻撃 仏政府による“イランの革命防衛隊の犯行”断定に…イラン外務 ...",
+    "url": "https://news.ntv.co.jp/category/international/52377b7b8eb24d3abaedf781aa48f66d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 による情報流出 小池都知事「災害と捉えていいのでは」 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32781881/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "総務省 サイトへの「接続制限策」を検討へ 相次ぐ サイバー攻撃 による個人情報流出を受け",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3076016?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "サイバー攻撃",
+    "title": "スーパーの冷蔵庫に サイバー攻撃 、設定温度を上げて15件の出火 仏政府がイランの犯行と判断",
+    "url": "https://japan.cnet.com/article/35254650/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "エディオン、通販サイト利用者のカード番号・セキュリティーコードなど５６０件超流出か…不正 ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261111-GYT1T00001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "mediadogs.jp",
+    "identifier": "ランサムウェア",
+    "title": "ソフトバンク宮川社長、IDCフロンティアの ランサムウェア を謝罪 原因は診断外だったオープン ...",
+    "url": "https://mediadogs.jp/2026/11/10/idcf-ransomware-cause-gpt6-astra/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "不正アクセス",
+    "title": "足利市、12日再開へ 不正アクセス で運用停止の斎場予約システム - 下野新聞社",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1456377"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "情報漏えい",
+    "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント 漏えい か 給与振込用の口座 情報 ...",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "不正アクセス",
+    "title": "住友生命Vitality委託先NTTデータに 不正アクセス 約8万名の情報漏えい - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-11-10-04/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 サイトへのアクセス抑止策 検討開始（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/2338cf16df4c60706f19f9a43aeec5d78d10bc80"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-10",
+    "time": null,
     "organization": "watch.impress.co.jp",
     "identifier": "不正アクセス",
     "title": "ニトリ、最大3762万件の個人情報流出の恐れ 不正アクセス - Impress Watch",

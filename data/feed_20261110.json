@@ -1,5 +1,65 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Microsoft",
+    "product": "Office",
+    "identifier": "CVE-2026-124194",
+    "title": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-124194&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Openwave Messaging Limited",
+    "product": "Webtop Media Transcoder",
+    "identifier": "CVE-2026-111793",
+    "title": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-111793&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Cisco",
+    "product": "BroadWorks",
+    "identifier": "CVE-2026-20320",
+    "title": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-20320&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Barracuda Networks",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-111560",
+    "title": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-111560&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Barracuda Networks",
+    "product": "Barracuda Email Security Gateway (ESG)",
+    "identifier": "CVE-2026-116606",
+    "title": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-116606&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-10",
+    "time": null,
+    "organization": "Google",
+    "product": "Chromium",
+    "identifier": "CVE-2026-125350",
+    "title": "Google Chromium Use-After-Free Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-125350&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "NCO",
     "date": "2026-11-10",
     "time": null,
