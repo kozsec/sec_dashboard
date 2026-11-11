@@ -25,5 +25,14 @@
     "identifier": "3800",
     "title": "不正アクセスの発生および情報漏えいに関するお知らせ（続報）",
     "url": "https://www.release.tdnet.info/inbs/140120261111573416.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-11",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "NCSC scheme will help critical organisations test their cyber defences",
+    "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences"
   }
 ]

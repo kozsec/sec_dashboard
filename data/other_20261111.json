@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-11-11",
     "time": null,
+    "organization": "itmedia.co.jp",
+    "identifier": "システム障害",
+    "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか 決済処理に不正プログラム - ITmedia",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【真壁 昭夫】日本は「セキュリティ人材の給与」が低すぎる…相次ぐサイバー攻撃が暴く「経営者 ...",
+    "url": "https://news.livedoor.com/article/detail/32786216/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "電通デジタル、マーケティング支援事業で情報漏洩か 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC11AHR0R11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "ユミルリンク、 情報漏洩 4786万件に修正 重複除外で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC11AK60R11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "nna.jp",
+    "identifier": "システム障害",
+    "title": "海外金融機関の システム障害 、国内への影響なし - NNA ASIA",
+    "url": "https://www.nna.jp/news/2987099"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "khb-tv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ 一部で通話などしづらい状況から完全復旧 不正アクセス は確認されず - khb東日本放送",
+    "url": "https://www.khb-tv.co.jp/news/17042926"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "不正アクセス",
+    "title": "愛媛県委託事業に関し 不正アクセス メールアドレス等2000件の個人情報漏えいか",
+    "url": "https://news.ntv.co.jp/n/rnb/category/society/rb51dd22b2c3c545cfac87709e3cb106d5"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "不正アクセス",
+    "title": "ゴルフスクール「ステップゴルフ」で 不正アクセス 顔写真など漏洩か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCC43M3VCCULFA01WM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "SMBC日興証券、情報漏えい 最大5万人分、 不正アクセス で - 47NEWS",
+    "url": "https://www.47news.jp/15215316.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "内閣府でメアド６万件漏えい 配信サービスに 不正アクセス - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026111100748&g=pol"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「身に覚えのない決済履歴がある」 不正アクセス し知人の電子決済で買い物...宮城県の31歳男を ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3077125"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "靖国神社に 不正アクセス 個人情報約1万4500件漏洩か 氏名やメアドなど - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261111-UVOO4QMDONIIZHPVULPZHMAWWY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ニトリ、外部からの 不正アクセス で最大3762万件が流出した可能性",
+    "url": "https://netshop.impress.co.jp/n/2026/11/11/17020"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "SMBC日興証券 不正アクセスで個人 情報漏えい 持株会の会員最大5万6000人超",
+    "url": "https://news.yahoo.co.jp/articles/6f9b3c4b98d28f9474df48043fe824461628c91f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "president.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府の｢100億円 サイバー 緊急対策｣では足りない…優秀な技術者がいても日本企業が犯罪者集団 ...",
+    "url": "https://president.jp/articles/-/121870?page=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "［深層ＮＥＷＳ］北朝鮮の サイバー攻撃 、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
+    "url": "https://www.yomiuri.co.jp/world/20261112-GYT1T00001/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
     "organization": "nishinippon.co.jp",
     "identifier": "ランサムウェア",
     "title": "【Inter BEE 2026】ブース内でセミナーを開催！AIダイジェストやセキュリティなど6テーマ",
