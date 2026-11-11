@@ -3,6 +3,168 @@
     "source": "Web",
     "date": "2026-11-11",
     "time": null,
+    "organization": "nishinippon.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【Inter BEE 2026】ブース内でセミナーを開催！AIダイジェストやセキュリティなど6テーマ",
+    "url": "https://www.nishinippon.co.jp/item/1559143/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "sogyotecho.jp",
+    "identifier": "ランサムウェア",
+    "title": "中小企業もサイバー攻撃の標的に？ 専門家に聞く「最低限やるべき対策」 - 創業手帳",
+    "url": "https://sogyotecho.jp/secubit-masumura-interview01/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "ランサムウェア",
+    "title": "JAL 委託先 Amadeus社に不正アクセス、予約情報の一部が外部から参照された形跡",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/11/56736.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか 決済処理に 不正 プログラム、エラー ...",
+    "url": "https://news.yahoo.co.jp/articles/d7f8685ba299691ae73138081f41ad721230c858"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "企業への 不正アクセス 猛威…クレカ情報が漏れたらどうする？ 次の罠は詐欺メール",
+    "url": "https://www.nikkei.com/prime/minutes/article/DGXZQOFM095BV0Z01C26A1000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ISM CloudOne に 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/11/56741.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「身に覚えのない決済履歴がある」 不正アクセス し知人の電子決済で買い物...宮城県の31歳男を ...",
+    "url": "https://news.yahoo.co.jp/articles/8d86538d0c84e3b6a42edb67e8e35ddf4db1b7fb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "NTTデータ委託先に 不正アクセス 、社債購入者に対する特典付与を支援する ... - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/11/56744.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "内閣府メールマガジン利用者のアドレス６万件以上が流出、氏名など漏えいの可能性…アララへの ...",
+    "url": "https://www.yomiuri.co.jp/national/20261111-GYT1T00220/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "smhn.info",
+    "identifier": "情報漏洩",
+    "title": "Notion、AIとのチャット記録が流出か。委託先への不正アクセスで - すまほん!!",
+    "url": "https://smhn.info/202611-notion-ai-chat-transcripts-fireworks-incident"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "仏、イランの犯行と断定 スーパーの冷蔵庫へ サイバー攻撃 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16585198.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "cybertrust.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー トラストとアットマークテクノ、JC-STAR の上位レベル対応を見据えた IoT セキュリティ ...",
+    "url": "https://www.cybertrust.co.jp/info/2026/1111-atmark-techno.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "“冷蔵庫50°C” サイバー攻撃 仏政府「イランが関与」（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/efed47bdd5281ad48721209a02f2367bc6dfb771"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "“冷蔵庫 サイバー攻撃 ”イラン・革命防衛隊の犯行か…フランス政府が断定 国際手配へ - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/900203937.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "米Notion、AIチャットの内容漏洩 連携企業への サイバー攻撃 で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN113MO0R11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "政府、ブロッキングの是非議論へ サイバー攻撃 、二次被害抑止で - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/527213"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "仏批判に「根拠ない」 冷蔵施設への サイバー攻撃 イラン（時事通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/88aba8d397a25c0e7ffe46a7132ce40e71b6ad06"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ドコモ「５Ｇ」一部サービスで再び障害、「 サイバー攻撃 が原因ではない」…復旧時期の見通しは ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261111-GYT1T00169/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-11",
+    "time": null,
     "organization": "newsdig.tbs.co.jp",
     "identifier": "サイバー攻撃",
     "title": "狙われる「IoT機器」 サイバー攻撃 リスクが“家電”にも…フランスの冷蔵庫 ... - TBS NEWS DIG",

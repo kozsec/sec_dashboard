@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "source": "適時開示",
+    "date": "2026-11-11",
+    "time": "17:00",
+    "organization": "Ｇ－ヒューマンメイド",
+    "identifier": "456A",
+    "title": "外部委託先への不正アクセスによるお客様情報の漏洩の可能性について",
+    "url": "https://www.release.tdnet.info/inbs/140120261111574117.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-11",
+    "time": "16:30",
+    "organization": "Ｇ－Ｃｏｃｏｌｉｖｅ",
+    "identifier": "137A",
+    "title": "当社利用サーバーへの不正アクセスに関するお知らせ（第一報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261111573847.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-11",
+    "time": "16:00",
+    "organization": "ユニリタ",
+    "identifier": "3800",
+    "title": "不正アクセスの発生および情報漏えいに関するお知らせ（続報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261111573416.pdf"
+  }
+]
