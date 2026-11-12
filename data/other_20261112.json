@@ -3,6 +3,249 @@
     "source": "Web",
     "date": "2026-11-12",
     "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス による情報漏えいなし 県運営の5つの配信サイト 外部の運営会社が調査結果報告 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3081338"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "エムオーテックスに 不正アクセス 、LANSCOPE等の製品主要機能への影響は無い",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/12/56757.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "エディオンのECサイトに 不正アクセス 、クレカ番号とセキュリティコードが漏えいした可能性 ...",
+    "url": "https://news.yahoo.co.jp/articles/a8034bac06b6f3613d5bed16207ebb5f96230df9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "nk.jiho.jp",
+    "identifier": "情報漏洩",
+    "title": "東邦HD子会社も 情報漏洩 確認されず 外部メール配信サービスへの不正アクセスで | 日刊薬業",
+    "url": "https://nk.jiho.jp/article/306679"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "靖國神社の授与品サイトに不正アクセス 会員 情報 約1万4500件が 漏洩 - 株式会社アクト",
+    "url": "https://act1.co.jp/2026-11-12-02/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "【図解】 サイバー攻撃 に高まる懸念＝企業トップ、専門人材不足に危機感―同友会調査（時事通信）",
+    "url": "https://news.yahoo.co.jp/articles/e0cebe53e8bcb5442ad38a5d13aae5a6276ea06b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "business.nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "良品計画、 サイバー攻撃 で2年連続のECサイト停止 「アスクルショック」後も備えに甘さ",
+    "url": "https://business.nikkei.com/atcl/gen/19/00954/111200009/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 相次ぐなか…京都府警と損保ジャパン合同の「セキュリティセミナー」関連会社や ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3081821?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー 被害》GMO・熊谷正寿代表（63）の謝罪会見に満ちていた“自己陶酔感”の正体…何度も ...",
+    "url": "https://news.yahoo.co.jp/articles/94619ab37d966892740917df6efff917dab1501f?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【ご用心】｢無印良品｣巡る 情報漏えい で浮上｢リスト型攻撃｣と狙われる“パスワード使い回し ...",
+    "url": "https://news.yahoo.co.jp/articles/dd499f619ebf50b0902acbebfad483e4a2b6df4d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タイムズカー 情報 漏洩で「身に覚えのない百万円単位の請求」が！ 13万人参加の集団訴訟の担当 ...",
+    "url": "https://news.yahoo.co.jp/articles/a9dcc996c146ed12c8b1634fcc35c575a29532be"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「無印良品」の不正アクセス、良品計画社長「システムの一部に脆弱性あった」と陳謝 ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261112-GYT1T00222/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "ビックカメラ、法人顧客 情報 を13万件 漏洩 問い合わせフォーム閉鎖 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC11B9Q0R11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "良品計画社長が会見、顧客 情報漏洩 を謝罪 クレジットカード情報109万件流出か - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261112-5BI66AE26ZIAVG4XG2G3OF3RWU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "マルエツなど運営のUSMH、個人 情報 6万件 漏洩 か 不正アクセスで",
+    "url": "https://www.nikkei.com/article/DGXZQOUC129LB0S6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "東京ガス、アララ 不正アクセス でメアド8万件超流出 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC1274H0S6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモ 一部で通話などしづらい状況から完全復旧 不正アクセス は確認されず - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000547028.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "xtech.nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "良品計画が 不正アクセス 巡り会見、破棄すべき情報の流出可能性などを謝罪",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03464/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "無印良品を襲う「リスト型攻撃」 流出済みのID・パスワードで次々とログイン試み… やりがちな ...",
+    "url": "https://news.yahoo.co.jp/articles/6ec739c2d01c783fd1e20ee61f023bded83fc84a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "不正アクセス",
+    "title": "テレ朝NEWS on X: \"セキュリティ企業が 不正アクセス 受ける サイバーセキュリティクラウド https ...",
+    "url": "https://x.com/tv_asahi_news/status/2120823462340223425"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "dentsudigital.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【第二報】当社が提供する「TONARIWA」における不正アクセスに伴う個人 情報漏えい に関する ...",
+    "url": "https://www.dentsudigital.co.jp/news/updates/services/2026-1112-001112"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ハピネッツファンクラブで個人 情報漏えい …会員41人のメールアドレスや氏名 情報悪用による被害 ...",
+    "url": "https://news.ntv.co.jp/n/abs/category/society/ab9ed61cc359ae47778d8c914b740c9dee"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "職員採用試験で1464人分の個人 情報漏えい 動画面接システムへの不正アクセスが原因【高知市】",
+    "url": "https://news.yahoo.co.jp/articles/ba4c026225ef145b98349f3c2af4f846bd143583"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "セキュリティサービス提供会社が個人 情報 漏洩おそれ「再発防止と信頼回復に向けて全社を挙げて ...",
+    "url": "https://news.yahoo.co.jp/articles/12a48921b46219a2808af9f027db956feafeab80"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "アララ社への 不正アクセス で、テレビ新広島の運営サービスからメールアドレス５１９２人分が漏洩",
+    "url": "https://news.yahoo.co.jp/articles/902ef1f2f6126400be076edb9e5bffa12b6bf9e2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "靖国神社、お守りや国旗など販売するサイトを停止… 不正アクセス 受け個人情報１万４５００件 ...",
+    "url": "https://www.yomiuri.co.jp/national/20261112-GYT1T00084/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "連絡システムに 不正アクセス でアドレス流出か 群馬・太田市 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/329939d4c4ff1411a71ce4c8bc111ccf1792b4ef"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
     "organization": "news.yahoo.co.jp",
     "identifier": "情報漏洩",
     "title": "サイバー攻撃も無縁の「現金払い」が最強か 令和だから無双の“昭和おやじ生活”（ピンズバNEWS）",
