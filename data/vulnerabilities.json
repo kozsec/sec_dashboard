@@ -5,11 +5,11 @@
     "product": null,
     "title": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.0162,
     "cvss": 6.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-111793",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00274,
+    "epss_current": 0.00638,
     "cvss": 4.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-20320",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00385,
+    "epss_current": 0.0082,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-111560",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0106,
+    "epss_current": 0.06196,
     "cvss": 8.6,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-116606",
@@ -53,11 +53,11 @@
     "product": null,
     "title": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01602,
+    "epss_current": 0.08934,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-125350",
@@ -65,11 +65,11 @@
     "product": null,
     "title": "Google Chromium Use-After-Free Vulnerability",
     "kev": "あり",
-    "epss_current": null,
+    "epss_current": 0.00962,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/11/10",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-102895",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "GPUStack Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00555,
+    "epss_current": 0.00517,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-123158",
@@ -89,11 +89,11 @@
     "product": null,
     "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.16501,
+    "epss_current": 0.189,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-116779",
@@ -101,11 +101,11 @@
     "product": null,
     "title": "SignalWire FreeSwitch Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02177,
+    "epss_current": 0.02473,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-123218",
@@ -113,11 +113,11 @@
     "product": null,
     "title": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00705,
+    "epss_current": 0.00535,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/10"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-19868",
@@ -173,11 +173,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
     "kev": "あり",
-    "epss_current": 0.6522,
+    "epss_current": 0.69289,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/10/29",
-    "last_update": "2026/11/04"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-76418",
@@ -341,11 +341,11 @@
     "product": null,
     "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
     "kev": "あり",
-    "epss_current": 0.77994,
+    "epss_current": 0.79485,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/16",
-    "last_update": "2026/11/04"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2025-61624",
@@ -353,11 +353,11 @@
     "product": null,
     "title": "Fortinet Multiple Products Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01343,
+    "epss_current": 0.01395,
     "cvss": 6.0,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:H/A:H",
     "published": "2026/10/16",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-21589",
@@ -413,11 +413,11 @@
     "product": null,
     "title": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0174,
+    "epss_current": 0.02147,
     "cvss": 8.6,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:A/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:N/R:U/V:D/RE:M/U:Red",
     "published": "2026/10/14",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-104935",
@@ -917,11 +917,11 @@
     "product": null,
     "title": "Microsoft Windows Link Following Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00393,
+    "epss_current": 0.07115,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/08",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-86218",
@@ -1229,11 +1229,11 @@
     "product": "Internet Key Exchange (IKE) Service Extensions",
     "title": "Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
     "kev": "あり",
-    "epss_current": 0.77054,
+    "epss_current": 0.77377,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-59310",
@@ -1349,11 +1349,11 @@
     "product": "N-central",
     "title": "N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.07882,
+    "epss_current": 0.43884,
     "cvss": 8.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/08/04",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-34486",
@@ -1577,11 +1577,11 @@
     "product": "SharePoint Server",
     "title": "Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01011,
+    "epss_current": 0.2733,
     "cvss": 5.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
     "published": "2026/07/14",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/12"
   },
   {
     "cve": "CVE-2026-15409",

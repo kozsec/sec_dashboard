@@ -4,6 +4,105 @@
     "date": "2026-11-12",
     "time": null,
     "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "密輸疑惑のシンガポール企業が声明「調査に協力」エヌビディア 情報漏えい 疑惑 | TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3082526"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "ukrinform.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 を受けたウクルインフォルムのウェブサイトが復旧",
+    "url": "https://www.ukrinform.jp/amp/rubric-emergencies/4183864-saiba-gong-jiwo-shouketaukuruinforumunouebusaitoga-fu-jiu.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "vill.hakuba.lg.jp",
+    "identifier": "不正アクセス",
+    "title": "アルプスPay | 【お知らせ】外部メール配信サービスへの 不正アクセス に関するお詫びとお知らせ",
+    "url": "https://www.vill.hakuba.lg.jp/section/898/alpspay/news/20261112/index.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "act1.co.jp",
+    "identifier": "情報漏洩",
+    "title": "三菱UFJ、株主のメールアドレス2万件 漏洩 電子ギフト委託先のアララ経由",
+    "url": "https://act1.co.jp/2026-11-12-09/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "sanspo.com",
+    "identifier": "情報漏えい",
+    "title": "無印、クレカ 情報 管理に不備 全桁 流出 、109万件か 社長謝罪、解約番号も保存 システムに脆弱性",
+    "url": "https://www.sanspo.com/article/20261112-URH7QUXAHRLILOWXFXTL4UIAYI/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏えい",
+    "title": "サイバーセキュリティクラウド、開発基盤GitHubに不正アクセス 従業員認証 情報 1件 流出 で顧客 ...",
+    "url": "https://finance.biggo.jp/news/79f553b7-b880-4b95-b80b-17cb2f24410d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "情報漏えい",
+    "title": "百十四銀行 株主のメールアドレス1500件 漏えい 配信システムに不正アクセス - KSBニュース",
+    "url": "https://news.ksb.co.jp/article/17045321"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "fnn.jp",
+    "identifier": "情報漏えい",
+    "title": "「この時代仕方ない」「”無印”も 情報漏えい してたんだ」街の声も諦めムード 最大2726万件流出の ...",
+    "url": "https://www.fnn.jp/articles/-/1151112"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "無印良品を襲う「リスト型攻撃」 流出 済みのID・パスワードで次々とログイン試み… やりがちな ...",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3082191?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "【会見詳報】“無印良品” 不正アクセス受け 情報流出 の可能性 良品計画 清水社長「心よりお詫び ...",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/900204081.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "無印良品を襲う「リスト型攻撃」 流出 済みのID・パスワードで次々とログイン試み… やりがちな ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3082191"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-12",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
     "identifier": "不正アクセス",
     "title": "不正アクセス による情報漏えいなし 県運営の5つの配信サイト 外部の運営会社が調査結果報告 ...",
     "url": "https://newsdig.tbs.co.jp/articles/-/3081338"
