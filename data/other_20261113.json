@@ -3,6 +3,177 @@
     "source": "Web",
     "date": "2026-11-13",
     "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出 リスク低く需要高まる",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/900204161.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "情報漏えい",
+    "title": "外部委託先が運営・管理する一部の口座開設システムへの不正アクセスによる個人 情報漏えい ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000595.000005159.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "大規模 システム障害 のマイクロソフト、復旧状況について「日本は比較的安定した状態を維持」 …",
+    "url": "https://news.yahoo.co.jp/articles/a9535f4d3e50968c2af071c36efd59fcfb4de06f"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "AI時代のサイバー攻撃に備える「SentinelARGUS」のデータ保護 - PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000024265.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "『サイバー攻撃は「AI対AI」の時代へ、人間だけで守れるのか？』というテーマのウェビナーを開催",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000006087_000054842/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "prtimes.jp",
+    "identifier": "ランサムウェア",
+    "title": "シードテック、Neoセキュリティ社と業務提携し、中小企業のセキュリティ対策を目的とした ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000128320.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "内閣府の沖縄広報事業、不正アクセスで個人 情報漏洩 か 5973人分 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA13BRW0T11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "マネックス証券、 不正アクセス 受け本人確認の画像１５９２件漏えい可能性…メールアドレスは ...",
+    "url": "https://www.yomiuri.co.jp/economy/20261114-GYT1T00098/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "情報漏えい",
+    "title": "NHKニュース on X: \"大手金融グループのトップが 情報漏えい を陳謝 https://t.co/shozBP8yjG ...",
+    "url": "https://x.com/nhk_news/status/2121208970228678776"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "サイバー攻撃",
+    "title": "GMO、不正取引補償30億円 サイバー攻撃 、見舞金も 損失として計上 - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261113-BUWV7S2C25MTJDMCD3IV2POYVQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "iwate-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセス、止まらぬ情報流出 岩手県内 AI浸透で無差別な サイバー攻撃 …被害防止策は",
+    "url": "https://www.iwate-np.co.jp/article/2026/11/13/198520"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "日産、個人情報74件漏洩か 委託先へ 不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC138TS0T11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "大阪公立大 パスポート画像含む17万人分の個人 情報漏えい 管理するNECにサイバー攻撃",
+    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-3085379"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "マネックス証券で 情報漏えい の恐れ、メアド113万件や免許証画像も 口座開設システムに不正 ...",
+    "url": "https://japan.cnet.com/article/35254867/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "システム障害",
+    "title": "大規模 システム障害 のマイクロソフト、復旧状況について「日本は比較的安定した状態を維持」",
+    "url": "https://news.ntv.co.jp/category/international/0a501cc9e0e74f988b534ec8467d1ff7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "ホンダ、個人株主のメールアドレス1741件が 漏洩 委託先のメール配信サービスへ不正アクセス …",
+    "url": "https://news.yahoo.co.jp/articles/dde8b5c910caee77193a333a76b0fd1dd2e9a9d2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "city.kawasaki.jp",
+    "identifier": "不正アクセス",
+    "title": "【報道発表資料】 「オンライン手続かわさきの外部メール送信サービスへの不正アクセス ... - 川崎市",
+    "url": "https://www.city.kawasaki.jp/templates/prs/170/0000191731.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "ブックオフグループホールディングス子会社の会員管理システムに 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/13/56778.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "メールアドレス100万件超漏えい 配信事業者に 不正アクセス 大阪市 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/d83a531a93446df5423d84f59ab2a2ff745fded7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
     "organization": "president.jp",
     "identifier": "サイバー攻撃",
     "title": "｢ サイバー攻撃 で顧客情報流出｣は氷山の一角…パスワードでもクレカ番号でもない｢掌握されたら ...",
