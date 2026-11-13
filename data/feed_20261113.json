@@ -4,6 +4,87 @@
     "date": "2026-11-13",
     "time": null,
     "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年11月13日 「AIセキュリティ短信 2026年11月号」を公開しました",
+    "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年11月13日 ものづくりワールド【福岡】内 第3回製造業サイバーセキュリティ展への出展案内を掲載しました",
+    "url": "https://www.ipa.go.jp/security/seminar/isec-event.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "18:00",
+    "organization": "Ｇ－イオレ",
+    "identifier": "2334",
+    "title": "外部サービス「Notion」のAI機能において発生したセキュリティインシデントに関するお知らせ（第一報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261113580244.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "17:20",
+    "organization": "Ｐ－ヒューマンＡ",
+    "identifier": "249A",
+    "title": "当社委託先のクラウドサービスへの不正アクセスによる個人情報漏えいの可能性に関するお知らせ（お詫び）",
+    "url": "https://www.release.tdnet.info/inbs/140120261113579962.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "17:00",
+    "organization": "Ｇ－プレイド",
+    "identifier": "4165",
+    "title": "当社サービスへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261113580181.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "15:30",
+    "organization": "Ｇ－ＶＥＧＡ",
+    "identifier": "3542",
+    "title": "当社が利用する外部サービスへの不正アクセスに伴う個人情報漏えいの可能性に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261113577617.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "15:30",
+    "organization": "Ｇ－ジーニー",
+    "identifier": "6562",
+    "title": "（開示事項の経過）不正アクセス関連損失の計上に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261113578820.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "15:30",
+    "organization": "ジーイエット",
+    "identifier": "7603",
+    "title": "（開示事項の経過）「ブラストメール」への不正アクセスに伴う 情報漏えいの可能性に関する調査結果のお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261113579653.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-13",
+    "time": "14:30",
+    "organization": "ティアック",
+    "identifier": "6803",
+    "title": "当社委託先のメール配信サービス提供元への不正アクセスによるメールアドレスの漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261113579636.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "IPA",
     "identifier": "人材育成",
     "title": "2026年11月13日 【2026年11月23日（月曜日・祝日）】技術書典21への出展のお知らせ",
     "url": "https://www.ipa.go.jp/jinzai/mitou/event/techbookfest21.html"

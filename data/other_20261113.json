@@ -3,6 +3,168 @@
     "source": "Web",
     "date": "2026-11-13",
     "time": null,
+    "organization": "kahoku.news",
+    "identifier": "情報漏洩",
+    "title": "【緊急開催】 情報漏洩 の謝罪会見・謝罪リリースで二次炎上させないために - 河北新報オンライン",
+    "url": "https://kahoku.news/release/dpr148365.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド（テレビ朝日系（ANN））",
+    "url": "https://news.yahoo.co.jp/articles/1602bc8c65ca6c67ca17f3a81c8febee7611446a"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "MS&AD系、顧客のメアド3.2万件流出 アララ不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB1326D0T11C26A1000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "マイクロソフト大規模 システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 ...",
+    "url": "https://news.yahoo.co.jp/articles/cd6782003e0d6708f37cc203e37c44723faad001"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "newscast.jp",
+    "identifier": "情報漏洩",
+    "title": "レアラ、法律事務所向け業務基盤システム 『LEALA』のオプション、「セキュリティ強化 ...",
+    "url": "https://newscast.jp/smart/news/7409172"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "｢サイバー攻撃で顧客 情報 流出｣は氷山の一角…パスワードでもクレカ番号でもない｢掌握されたら ...",
+    "url": "https://news.yahoo.co.jp/articles/32ed262fe53cbb38a79bae7375d5005c85578ab5?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 の自衛策、『ダイソー』グッズが最強だった  「どんな凄腕ハッカーでもハッキング ...",
+    "url": "https://news.yahoo.co.jp/articles/1f0cd95fc6d1e31bd226160bfffce36aa7b75cb1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "サイバー攻撃",
+    "title": "マイクロソフト障害 「 サイバー攻撃 の兆候は確認されていない」Copilot副社長 「不便をかけ ...",
+    "url": "https://article.auone.jp/12dda563-1171-4db2-ba59-139926f1591e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "マイクロソフト「 サイバー攻撃 を示唆する事実は確認されていない」（テレビ朝日系（ANN））",
+    "url": "https://news.yahoo.co.jp/articles/fa7d11fb6d8c7d583fff0b9ec6dedde4e331a013"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.ntv.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 ...",
+    "url": "https://news.ntv.co.jp/category/international/bb69e4344e8b47c4a58feece824c1cc7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ＧＭＯの 不正アクセス 問題、利用者からの被害申告は計２９４３口座で２９・９億円に - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261113-GYT1T00367/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "東急不動産が管理するウェブサイトに 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/13/56771.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "大阪市、「行政オンラインシステム」利用者のメールアドレス１０７万件が漏えい…アララ 不正 ...",
+    "url": "https://www.yomiuri.co.jp/national/20261113-GYT1T00343/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "不正アクセス",
+    "title": "【速報】内閣府、 不正アクセス で個人情報漏えいか - 47NEWS",
+    "url": "https://www.47news.jp/15225643.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "無印良品のオーダーカーテンに関する業務委託先に 不正アクセス - ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/13/56777.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "大阪公立大で17万人分の個人 情報 が 漏洩 NEC管理のクラウドから - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/9e82e9cbcf4652362f32387e18041afa9afebf39"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "GMO、不正アクセスで30億円計上へ 信用低下、金融で顧客離れも - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCF2VLBVCFULFA00QM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "diamond.jp",
+    "identifier": "情報漏洩",
+    "title": "え、最高益のアップルが「一人負け」？株高を支えた“異質なAI戦略”の巨大リスク",
+    "url": "https://diamond.jp/articles/-/403234?page=4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-13",
+    "time": null,
     "organization": "cloud.watch.impress.co.jp",
     "identifier": "ランサムウェア",
     "title": "攻撃経路に沿ったセキュリティ対策を評価する「CTC アタックパス クイックアセスメント」を提供",
