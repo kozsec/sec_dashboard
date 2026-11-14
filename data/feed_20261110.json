@@ -1,5 +1,50 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-11-10",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-10",
+    "time": "16:00",
+    "organization": "ソフト９９",
+    "identifier": "4464",
+    "title": "ソフト９９公式オンラインショップへの不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261110571360.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-10",
+    "time": "15:40",
+    "organization": "サンコーテクノ",
+    "identifier": "3435",
+    "title": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261110571505.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-10",
+    "time": "13:45",
+    "organization": "エディオン",
+    "identifier": "2730",
+    "title": "当社ECサイトへの不正アクセスに伴う個人情報の漏洩およびサービスの停止について",
+    "url": "https://www.release.tdnet.info/inbs/140120261110571388.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-10",
+    "time": "05:17",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-11-10",
     "time": null,
@@ -67,33 +112,6 @@
     "identifier": "新着情報",
     "title": "政府情報システムのためのセキュリティ評価制度（ISMAP）運営委員会第43回会合を開催",
     "url": "https://www.cyber.go.jp/policy/group/general/ismap/unei.html#ismapunei43"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-11-10",
-    "time": "16:00",
-    "organization": "ソフト９９",
-    "identifier": "4464",
-    "title": "ソフト９９公式オンラインショップへの不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261110571360.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-11-10",
-    "time": "15:40",
-    "organization": "サンコーテクノ",
-    "identifier": "3435",
-    "title": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
-    "url": "https://www.release.tdnet.info/inbs/140120261110571505.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-11-10",
-    "time": "13:45",
-    "organization": "エディオン",
-    "identifier": "2730",
-    "title": "当社ECサイトへの不正アクセスに伴う個人情報の漏洩およびサービスの停止について",
-    "url": "https://www.release.tdnet.info/inbs/140120261110571388.pdf"
   },
   {
     "source": "IPA",

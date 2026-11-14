@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "source": "セキュリティベンダー",
+    "date": "2026-09-27",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "AIエージェントのセキュリティは確保できる。私たちにはそれが可能です。",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/i/safely-securing-ai-agents.html"
+  }
+]

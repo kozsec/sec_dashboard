@@ -1,41 +1,12 @@
 [
   {
-    "source": "CISA KEV",
+    "source": "海外公的機関",
     "date": "2026-11-13",
-    "time": null,
-    "organization": "UnrealIRCd",
-    "product": "UnrealIRCd",
-    "identifier": "CVE-2026-114713",
-    "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-114713&field_cve=&sort_by=field_date_added"
-  },
-  {
-    "source": "CISA KEV",
-    "date": "2026-11-13",
-    "time": null,
-    "organization": "Check Point",
-    "product": "Multiple Products",
-    "identifier": "CVE-2026-123039",
-    "title": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-123039&field_cve=&sort_by=field_date_added"
-  },
-  {
-    "source": "IPA",
-    "date": "2026-11-13",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "2026年11月13日 「AIセキュリティ短信 2026年11月号」を公開しました",
-    "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html"
-  },
-  {
-    "source": "IPA",
-    "date": "2026-11-13",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "2026年11月13日 ものづくりワールド【福岡】内 第3回製造業サイバーセキュリティ展への出展案内を掲載しました",
-    "url": "https://www.ipa.go.jp/security/seminar/isec-event.html"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   },
   {
     "source": "適時開示",
@@ -99,6 +70,62 @@
     "identifier": "6803",
     "title": "当社委託先のメール配信サービス提供元への不正アクセスによるメールアドレスの漏えいに関するお詫びとお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261113579636.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-13",
+    "time": "02:00",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-13",
+    "time": "00:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+    "url": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "UnrealIRCd",
+    "product": "UnrealIRCd",
+    "identifier": "CVE-2026-114713",
+    "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-114713&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "Check Point",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-123039",
+    "title": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-123039&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年11月13日 「AIセキュリティ短信 2026年11月号」を公開しました",
+    "url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-13",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年11月13日 ものづくりワールド【福岡】内 第3回製造業サイバーセキュリティ展への出展案内を掲載しました",
+    "url": "https://www.ipa.go.jp/security/seminar/isec-event.html"
   },
   {
     "source": "IPA",

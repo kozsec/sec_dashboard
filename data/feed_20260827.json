@@ -1,5 +1,23 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-27",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "TrendAI™、脅威ハンティングを拡張し、AIインフラに対する実環境での悪用を動的に観測",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/trendai-advances-threat-hunting-to-dynamic-real-world-exploitation-of-ai-infrastructure.html"
+  },
+  {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-27",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "SHADOW-WATER-084の内幕：Remcos、LXBASEなどを配信するステガノグラフィ型ローダー・アズ・ア・サービス",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/inside-shadow-water-084-a-steganographic-loader-as-a-service-delivering-remcos-lxbase-and-more.html"
+  },
+  {
     "source": "IPA",
     "date": "2026-08-27",
     "time": null,

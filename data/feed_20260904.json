@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-09-04",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "TrendAI™、OpenAIのGPTサイバーモデルを活用し、エクスポージャー時間ゼロへの競争を加速",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/i/trendai-brings-openai-daybreak-models-into-the-race-to-shrink-exposure-time-to-zero.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-09-04",
     "time": null,

@@ -1,15 +1,5 @@
 [
   {
-    "source": "CISA KEV",
-    "date": "2026-10-15",
-    "time": null,
-    "organization": "Atlassian",
-    "product": "Multiple Products",
-    "identifier": "CVE-2026-21589",
-    "title": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-21589&field_cve=&sort_by=field_date_added"
-  },
-  {
     "source": "適時開示",
     "date": "2026-10-15",
     "time": "17:00",
@@ -71,6 +61,25 @@
     "identifier": "4480",
     "title": "当社サービス「アットリンク」への不正アクセス及びサービスの一時停止に関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261014550839.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-15",
+    "time": "07:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+    "url": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-15",
+    "time": null,
+    "organization": "Atlassian",
+    "product": "Multiple Products",
+    "identifier": "CVE-2026-21589",
+    "title": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-21589&field_cve=&sort_by=field_date_added"
   },
   {
     "source": "IPA",

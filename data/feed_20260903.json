@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-09-03",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "産業インフラを標的とする犯罪経済の全体像",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/i/mapping-the-criminal-economy-targeting-critical-infrastructure.html"
+  },
+  {
     "source": "海外",
     "date": "2026-09-03",
     "time": null,

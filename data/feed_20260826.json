@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-26",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "CyberGymリーダーボードで首位：TrendAI™のエージェント型エクスプロイト修復エンジン、主要な脆弱性再現ベンチマークで97%を記録",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/trendai-first-on-cybergym-top-exploit-benchmark.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-08-26",
     "time": null,

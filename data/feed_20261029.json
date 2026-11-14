@@ -1,5 +1,86 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-10-29",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Hitachi Energy TRO600 series products",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-29",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Hitachi Energy CoreTec Product",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-29",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-29",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Mendix SAML Module",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-29",
+    "time": "16:40",
+    "organization": "Ｇ－モイ",
+    "identifier": "5031",
+    "title": "（経過報告）当社サーバーへの不正アクセスに関するお知らせ（第２報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261029559851.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-29",
+    "time": "16:00",
+    "organization": "フクビ化学工業",
+    "identifier": "7871",
+    "title": "第三者の不正アクセスによるシステム障害に関するお知らせ【最終報】",
+    "url": "https://www.release.tdnet.info/inbs/140120261029558411.pdf"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-10-29",
+    "time": "15:43",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260033.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-29",
+    "time": "11:00",
+    "organization": "Ｇ－ペイクラウドＨＤ",
+    "identifier": "4015",
+    "title": "当社連結子会社が提供する「アララメッセ－ジ」への不正アクセスによる情報流出およびサービス停止について",
+    "url": "https://www.release.tdnet.info/inbs/140120261029558961.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-29",
+    "time": "03:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Unwrapping Retail Peak Season Cyber Threats",
+    "url": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-10-29",
     "time": null,
@@ -27,32 +108,5 @@
     "identifier": "報道発表資料",
     "title": "第19回日ASEANサイバーセキュリティ政策会議（結果）",
     "url": "https://www.cyber.go.jp/pdf/press/19thAJCPM_ja.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-29",
-    "time": "16:40",
-    "organization": "Ｇ－モイ",
-    "identifier": "5031",
-    "title": "（経過報告）当社サーバーへの不正アクセスに関するお知らせ（第２報）",
-    "url": "https://www.release.tdnet.info/inbs/140120261029559851.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-29",
-    "time": "16:00",
-    "organization": "フクビ化学工業",
-    "identifier": "7871",
-    "title": "第三者の不正アクセスによるシステム障害に関するお知らせ【最終報】",
-    "url": "https://www.release.tdnet.info/inbs/140120261029558411.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-29",
-    "time": "11:00",
-    "organization": "Ｇ－ペイクラウドＨＤ",
-    "identifier": "4015",
-    "title": "当社連結子会社が提供する「アララメッセ－ジ」への不正アクセスによる情報流出およびサービス停止について",
-    "url": "https://www.release.tdnet.info/inbs/140120261029558961.pdf"
   }
 ]

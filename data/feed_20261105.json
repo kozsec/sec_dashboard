@@ -1,30 +1,21 @@
 [
   {
-    "source": "NCO",
+    "source": "海外公的機関",
     "date": "2026-11-05",
-    "time": null,
-    "organization": "国家サイバー統括室",
-    "identifier": "注意喚起",
-    "title": "個人情報の漏えい等につながる不正アクセスへの対策について",
-    "url": "https://www.cyber.go.jp/pdf/press/261105_taiou.pdf"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+    "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems"
   },
   {
-    "source": "IPA",
+    "source": "海外公的機関",
     "date": "2026-11-05",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "試験情報",
-    "title": "2026年11月5日 応用情報技術者試験・高度試験・情報処理安全確保支援士試験における答案の開示請求について",
-    "url": "https://www.ipa.go.jp/news/2026/shiken_20261105.html"
-  },
-  {
-    "source": "IPA",
-    "date": "2026-11-05",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "試験情報 2026年11月5日 CBT方式で実施するITパスポート試験、情報マネジメント試験及び基本情報技術者試験における2027年1月以降の実施予定について",
-    "url": "https://www.ipa.go.jp/shiken/2026/cbt-202701-yotei.html"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Post-Quantum Questions to Ask Your Vendors",
+    "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors"
   },
   {
     "source": "適時開示",
@@ -61,5 +52,32 @@
     "identifier": "366A",
     "title": "当社子会社が販売するサービスの提供元における不正アクセス及び情報漏えいに関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261104564889.pdf"
+  },
+  {
+    "source": "NCO",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "注意喚起",
+    "title": "個人情報の漏えい等につながる不正アクセスへの対策について",
+    "url": "https://www.cyber.go.jp/pdf/press/261105_taiou.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年11月5日 応用情報技術者試験・高度試験・情報処理安全確保支援士試験における答案の開示請求について",
+    "url": "https://www.ipa.go.jp/news/2026/shiken_20261105.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-05",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年11月5日 CBT方式で実施するITパスポート試験、情報マネジメント試験及び基本情報技術者試験における2027年1月以降の実施予定について",
+    "url": "https://www.ipa.go.jp/shiken/2026/cbt-202701-yotei.html"
   }
 ]

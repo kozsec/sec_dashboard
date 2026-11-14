@@ -1,25 +1,5 @@
 [
   {
-    "source": "CISA KEV",
-    "date": "2026-10-16",
-    "time": null,
-    "organization": "BeyondTrust",
-    "product": "Remote Support",
-    "identifier": "CVE-2026-102764",
-    "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-102764&field_cve=&sort_by=field_date_added"
-  },
-  {
-    "source": "CISA KEV",
-    "date": "2026-10-16",
-    "time": null,
-    "organization": "Fortinet",
-    "product": "Multiple Products",
-    "identifier": "CVE-2025-61624",
-    "title": "Fortinet Multiple Products Path Traversal Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-61624&field_cve=&sort_by=field_date_added"
-  },
-  {
     "source": "適時開示",
     "date": "2026-10-16",
     "time": "19:15",
@@ -56,6 +36,44 @@
     "url": "https://www.release.tdnet.info/inbs/140120261016552448.pdf"
   },
   {
+    "source": "適時開示",
+    "date": "2026-10-16",
+    "time": "13:30",
+    "organization": "ブックオフＧＨＤ",
+    "identifier": "9278",
+    "title": "（訂正）「不正アクセスによる個人情報漏えいに関するお詫びとお知らせ(第2報)」の 一部訂正について",
+    "url": "https://www.release.tdnet.info/inbs/140120261016552215.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-16",
+    "time": "07:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+    "url": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "BeyondTrust",
+    "product": "Remote Support",
+    "identifier": "CVE-2026-102764",
+    "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-102764&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-16",
+    "time": null,
+    "organization": "Fortinet",
+    "product": "Multiple Products",
+    "identifier": "CVE-2025-61624",
+    "title": "Fortinet Multiple Products Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-61624&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-16",
     "time": null,
@@ -81,15 +99,6 @@
     "identifier": "試験情報",
     "title": "2026年10月16日 合格証明書交付申請の一時受付休止について",
     "url": "https://www.ipa.go.jp/news/2026/shiken_20261016.html"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-16",
-    "time": "13:30",
-    "organization": "ブックオフＧＨＤ",
-    "identifier": "9278",
-    "title": "（訂正）「不正アクセスによる個人情報漏えいに関するお詫びとお知らせ(第2報)」の 一部訂正について",
-    "url": "https://www.release.tdnet.info/inbs/140120261016552215.pdf"
   },
   {
     "source": "IPA",

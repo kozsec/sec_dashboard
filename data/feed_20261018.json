@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "source": "セキュリティベンダー",
+    "date": "2026-10-18",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "2026年10月 セキュリティアップデート解説：Microsoft社は1,417件、Adobe社は174件の脆弱性に対応",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/j/the-october-2026-security-update-review.html"
+  }
+]

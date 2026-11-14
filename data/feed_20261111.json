@@ -34,5 +34,149 @@
     "identifier": null,
     "title": "NCSC scheme will help critical organisations test their cyber defences",
     "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "11:20",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260035.html"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Cloud Software GroupのXenServerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#1"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Puppet ServerおよびOpenVoxに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#2"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Airbyteに任意のコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#3"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Firefoxにバッファエラーの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#4"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のManageEngine製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#5"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のZyxel Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#6"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#7"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のAbsolute Security製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#8"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のElastic製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#9"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#10"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Androidに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#11"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のBarracuda Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#12"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のPostgreSQL向けツールに脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#13"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-11",
+    "time": "09:07",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: NCOが「個人情報の漏えい等につながる不正アクセスへの対策について - ウェブサイトやモバイルアプリに関する基本的な対策の徹底 -」を公開",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-11",
+    "time": "08:00",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "Detecting sleeper agents hiding in AI model neurons",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/"
   }
 ]

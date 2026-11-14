@@ -1,21 +1,12 @@
 [
   {
-    "source": "IPA",
+    "source": "海外公的機関",
     "date": "2026-10-26",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "試験情報",
-    "title": "2026年10月26日 ITパスポート試験合格者の学習実態等に関するアンケート結果を公表しました",
-    "url": "https://www.ipa.go.jp/shiken/kubun/ip/ip_goukaku_anq_all.html"
-  },
-  {
-    "source": "IPA",
-    "date": "2026-10-26",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "2026年10月26日 自分の個人情報等が漏えいした際の「対処」と「日頃の対策」を公開しました",
-    "url": "https://www.ipa.go.jp/security/anshin/attention/2026/mgdayori20261026.html"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   },
   {
     "source": "適時開示",
@@ -36,6 +27,15 @@
     "url": "https://www.release.tdnet.info/inbs/140120261026556267.pdf"
   },
   {
+    "source": "公的機関",
+    "date": "2026-10-26",
+    "time": "16:25",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260034.html"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-26",
     "time": "14:00",
@@ -43,6 +43,24 @@
     "identifier": "3962",
     "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（第３報）",
     "url": "https://www.release.tdnet.info/inbs/140120261026556007.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年10月26日 ITパスポート試験合格者の学習実態等に関するアンケート結果を公表しました",
+    "url": "https://www.ipa.go.jp/shiken/kubun/ip/ip_goukaku_anq_all.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-26",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月26日 自分の個人情報等が漏えいした際の「対処」と「日頃の対策」を公開しました",
+    "url": "https://www.ipa.go.jp/security/anshin/attention/2026/mgdayori20261026.html"
   },
   {
     "source": "IPA",

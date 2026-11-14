@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-17",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "信頼されたソフトウェアを悪用する手口：フィッシング、検索、RMM連鎖にまたがるScreenConnectの悪用",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/screenconnect-abuse.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-08-17",
     "time": null,

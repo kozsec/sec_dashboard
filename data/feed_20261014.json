@@ -1,5 +1,32 @@
 [
   {
+    "source": "公的機関",
+    "date": "2026-10-14",
+    "time": "14:18",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260032.html"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-10-14",
+    "time": "11:25",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: 2026年10月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260031.html"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-14",
+    "time": "07:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+    "url": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-10-14",
     "time": null,

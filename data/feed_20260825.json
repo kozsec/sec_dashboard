@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-25",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "セキュリティ101：仮想パッチ",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/security-101-virtual-patching.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-08-25",
     "time": null,

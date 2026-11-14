@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-07",
+    "time": "11:44",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "ARTEX abuse expands as cybercriminals target financial sector",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-07",
+    "time": "06:15",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
+    "url": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-14",
+    "time": "06:31",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/"
+  }
+]

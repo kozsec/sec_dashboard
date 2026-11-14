@@ -1,5 +1,50 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-10-30",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-30",
+    "time": "13:00",
+    "organization": "松屋フーズＨＤ",
+    "identifier": "9887",
+    "title": "松屋公式アプリ（松弁ネット・モバイルオーダー・松弁デリバリー）管理システムに対する第三者からの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261030561172.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-30",
+    "time": "09:00",
+    "organization": "ヤクルト",
+    "identifier": "2267",
+    "title": "当社ホームページへの不正アクセスによる個人情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261029560120.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-30",
+    "time": "08:50",
+    "organization": "ワールド",
+    "identifier": "3612",
+    "title": "連結子会社における不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261030560364.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-30",
+    "time": "03:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-10-30",
     "time": null,
@@ -47,15 +92,6 @@
     "url": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260630.html"
   },
   {
-    "source": "適時開示",
-    "date": "2026-10-30",
-    "time": "13:00",
-    "organization": "松屋フーズＨＤ",
-    "identifier": "9887",
-    "title": "松屋公式アプリ（松弁ネット・モバイルオーダー・松弁デリバリー）管理システムに対する第三者からの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261030561172.pdf"
-  },
-  {
     "source": "NCO",
     "date": "2026-10-30",
     "time": null,
@@ -72,23 +108,5 @@
     "identifier": "人材育成",
     "title": "2026年10月30日 2025年度下期 未踏アドバンスト事業で実施したプロジェクトの成果概要、成果詳細を公開しました",
     "url": "https://www.ipa.go.jp/jinzai/mitou/advanced/2025second/seika.html"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-30",
-    "time": "09:00",
-    "organization": "ヤクルト",
-    "identifier": "2267",
-    "title": "当社ホームページへの不正アクセスによる個人情報漏えいに関するお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261029560120.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-30",
-    "time": "08:50",
-    "organization": "ワールド",
-    "identifier": "3612",
-    "title": "連結子会社における不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261030560364.pdf"
   }
 ]

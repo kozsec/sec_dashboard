@@ -1,13 +1,21 @@
 [
   {
-    "source": "CISA KEV",
+    "source": "海外公的機関",
     "date": "2026-11-03",
-    "time": null,
-    "organization": "WordPress",
-    "product": "WordPress Core",
-    "identifier": "CVE-2026-119977",
-    "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-119977&field_cve=&sort_by=field_date_added"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-03",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Subnet Solutions PowerSYSTEM Center",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01"
   },
   {
     "source": "海外",
@@ -26,5 +34,24 @@
     "identifier": null,
     "title": "Artificial intelligence and cyber intrusion",
     "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-03",
+    "time": "08:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+    "url": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-03",
+    "time": null,
+    "organization": "WordPress",
+    "product": "WordPress Core",
+    "identifier": "CVE-2026-119977",
+    "title": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-119977&field_cve=&sort_by=field_date_added"
   }
 ]

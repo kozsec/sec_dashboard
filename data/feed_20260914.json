@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-09-14",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "2026年9月 セキュリティアップデート解説：Microsoft社は996件、Adobe社は172件の脆弱性に対応",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/i/the-september-2026-security-update-review.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-09-14",
     "time": null,

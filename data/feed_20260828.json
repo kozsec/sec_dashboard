@@ -43,5 +43,23 @@
     "identifier": "3093",
     "title": "当社連結子会社における不正アクセスによる個人情報漏えいに関するお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120260828527649.pdf"
+  },
+  {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-28",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "Qilinのリークサイトに掲載されたATF、侵害を報告：TrendAI™による分析",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/atf-reports-breach-after-qilin-leak-site-appearance-insights-from-trendaitm.html"
+  },
+  {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-28",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "10億ドルを支えるアーキテクチャ：顧客がAWS上でTrendAI Vision One™を運用し、AIワークロードを保護する方法",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/the-architecture-behind-a-billion-dollars-how-customers-run-trendai-vision-one-on-aws-and-secure-their-ai-workloads.html"
   }
 ]

@@ -1,32 +1,12 @@
 [
   {
-    "source": "CISA KEV",
+    "source": "海外公的機関",
     "date": "2026-10-28",
-    "time": null,
-    "organization": "Broadcom",
-    "product": "VMware ESX",
-    "identifier": "CVE-2026-41709",
-    "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-41709&field_cve=&sort_by=field_date_added"
-  },
-  {
-    "source": "CISA KEV",
-    "date": "2026-10-28",
-    "time": null,
-    "organization": "Linux",
-    "product": "Kernel",
-    "identifier": "CVE-2026-46300",
-    "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-46300&field_cve=&sort_by=field_date_added"
-  },
-  {
-    "source": "IPA",
-    "date": "2026-10-28",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "2026年10月28日 SCS評価制度評価用ガイド類等を公開しました",
-    "url": "https://www.ipa.go.jp/security/scs/index.html"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   },
   {
     "source": "適時開示",
@@ -65,6 +45,53 @@
     "url": "https://www.release.tdnet.info/inbs/140120261027557047.pdf"
   },
   {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "08:59",
+    "organization": "ＧＭＯインターネット",
+    "identifier": "4784",
+    "title": "当社が提供するサービスにおける不正アクセスへの対応方針に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261027557106.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-10-28",
+    "time": "08:59",
+    "organization": "ＧＭＯ",
+    "identifier": "9449",
+    "title": "連結子会社GMOインターネット株式会社における不正アクセスへの対応方針に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261027557045.pdf"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "Broadcom",
+    "product": "VMware ESX",
+    "identifier": "CVE-2026-41709",
+    "title": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-41709&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "Linux",
+    "product": "Kernel",
+    "identifier": "CVE-2026-46300",
+    "title": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-46300&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-10-28",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "2026年10月28日 SCS評価制度評価用ガイド類等を公開しました",
+    "url": "https://www.ipa.go.jp/security/scs/index.html"
+  },
+  {
     "source": "IPA",
     "date": "2026-10-28",
     "time": null,
@@ -90,23 +117,5 @@
     "identifier": "試験情報",
     "title": "2026年10月28日 令和8年度 前期特別措置試験受験の方の試験会場・受験番号等がマイページで確認可能となりました",
     "url": "https://www.ipa.go.jp/news/2026/shiken_20261028.html"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-28",
-    "time": "08:59",
-    "organization": "ＧＭＯインターネット",
-    "identifier": "4784",
-    "title": "当社が提供するサービスにおける不正アクセスへの対応方針に関するお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261027557106.pdf"
-  },
-  {
-    "source": "適時開示",
-    "date": "2026-10-28",
-    "time": "08:59",
-    "organization": "ＧＭＯ",
-    "identifier": "9449",
-    "title": "連結子会社GMOインターネット株式会社における不正アクセスへの対応方針に関するお知らせ",
-    "url": "https://www.release.tdnet.info/inbs/140120261027557045.pdf"
   }
 ]

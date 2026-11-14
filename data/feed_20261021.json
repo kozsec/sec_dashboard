@@ -1,5 +1,14 @@
 [
   {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-21",
+    "time": "23:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-21",
     "time": "16:40",
@@ -25,6 +34,15 @@
     "identifier": null,
     "title": "Critical security issue affecting PHP",
     "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-10-21",
+    "time": "05:30",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+    "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
   },
   {
     "source": "IPA",

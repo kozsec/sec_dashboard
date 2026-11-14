@@ -1,5 +1,41 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-10-22",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-22",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens SIMATIC S7-1500 TM MFP",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-22",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens SIMATIC S7 PLCs Web Server",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-10-22",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Capital Embedded AR Classic",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04"
+  },
+  {
     "source": "適時開示",
     "date": "2026-10-22",
     "time": "17:00",

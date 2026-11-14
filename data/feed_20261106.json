@@ -1,13 +1,12 @@
 [
   {
-    "source": "CISA KEV",
+    "source": "海外公的機関",
     "date": "2026-11-06",
-    "time": null,
-    "organization": "SonicWall",
-    "product": "SonicOS SSLVPN",
-    "identifier": "CVE-2026-19868",
-    "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-19868&field_cve=&sort_by=field_date_added"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog"
   },
   {
     "source": "適時開示",
@@ -62,5 +61,42 @@
     "identifier": "9278",
     "title": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第3報）",
     "url": "https://www.release.tdnet.info/inbs/140120261106567372.pdf"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-06",
+    "time": "08:46",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-06",
+    "time": "02:10",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "New investments to reduce on-premises security risk",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-06",
+    "time": "02:00",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "​​​​What’s new in Microsoft Security: November 2026",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-06",
+    "time": null,
+    "organization": "SonicWall",
+    "product": "SonicOS SSLVPN",
+    "identifier": "CVE-2026-19868",
+    "title": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-19868&field_cve=&sort_by=field_date_added"
   }
 ]

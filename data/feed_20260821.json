@@ -1,5 +1,14 @@
 [
   {
+    "source": "セキュリティベンダー",
+    "date": "2026-08-21",
+    "time": "09:00",
+    "organization": "トレンドマイクロ",
+    "identifier": null,
+    "title": "ペイロードをプロンプトで操る：npmサプライチェーン攻撃がAI搭載Linuxインプラント「RedC2」を配布",
+    "url": "https://www.trendmicro.com/ja_jp/research/26/h/redc2-ai-powered-linux-implant.html"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-08-21",
     "time": null,
