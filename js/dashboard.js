@@ -45,6 +45,7 @@ function getDisclosuresPerPage() {
 let disclosures = [];
 let securityArticles = [];
 let vulnerabilities = [];
+let overseaArticles = [];
 
 let currentDisclosurePage = 1;
 let currentSecurityArticlesPage = 1;
@@ -412,8 +413,15 @@ async function loadData() {
             vulnerabilityRequest
         ]);
 
-        disclosures =
-            feedResults.flat();
+        const allFeedItems = feedResults.flat();
+
+        overseaArticles = sortDisclosures(
+            allFeedItems.filter(item => item.source === "海外")
+        );
+
+        disclosures = allFeedItems.filter(
+            item => item.source !== "海外"
+        );
 
         disclosures =
             sortDisclosures(
@@ -470,6 +478,7 @@ function initializeDashboard() {
     renderDisclosures();
     renderSecurityArticles();
     renderVulnerabilities();
+    renderOverseaArticles();
     renderOriginalAd();
 }
 
@@ -907,6 +916,41 @@ function renderDisclosureItem(item) {
     `;
 }
 
+
+
+function renderOverseaArticles() {
+
+    const container = document.getElementById("oversea-items");
+    const count = document.getElementById("oversea-count");
+
+    if (!container || !count) {
+        return;
+    }
+
+    count.textContent = `${overseaArticles.length} items`;
+
+    if (overseaArticles.length === 0) {
+        container.innerHTML = `
+            <div class="empty">該当する情報がありません。</div>
+        `;
+        return;
+    }
+
+    container.innerHTML = overseaArticles
+        .slice(0, 8)
+        .map(item => `
+            <article class="oversea-item">
+                <div class="oversea-item-meta">
+                    <span>${escapeHtml(item.organization)}</span>
+                    <span>${escapeHtml(item.date)}</span>
+                </div>
+                <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+                    ${escapeHtml(item.title)}
+                </a>
+            </article>
+        `)
+        .join("");
+}
 
 function renderVulnerabilities() {
 
