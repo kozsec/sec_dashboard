@@ -6,6 +6,7 @@ from collectors.get_ncsc import main as fetch_ncsc
 from collectors.get_nist import fetch_nist
 from collectors.get_enisa import fetch_enisa
 from collectors.update_epss_cvss import main as update_epss_cvss
+from collectors.rss_sources import fetch_rss_sources
 
 
 def main():
@@ -16,6 +17,7 @@ def main():
     fetch_ncsc()
     fetch_nist()
     fetch_enisa()
+    fetch_rss_sources()
     update_epss_cvss()
 
 
