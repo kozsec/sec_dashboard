@@ -1,7 +1,7 @@
 import json
 import os
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
@@ -75,6 +75,10 @@ def parse_feed(content, source):
 
         published_at = local_datetime(published)
         if not published_at:
+            continue
+
+        now = datetime.now(JST)
+        if published_at < now - timedelta(days=90) or published_at > now:
             continue
 
         articles.append({
