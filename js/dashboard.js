@@ -416,11 +416,11 @@ async function loadData() {
         const allFeedItems = feedResults.flat();
 
         overseaArticles = sortDisclosures(
-            allFeedItems.filter(item => item.source === "海外")
+            allFeedItems.filter(item => (item.source || "").startsWith("海外"))
         );
 
         disclosures = allFeedItems.filter(
-            item => item.source !== "海外"
+            item => !(item.source || "").startsWith("海外")
         );
 
         disclosures =
