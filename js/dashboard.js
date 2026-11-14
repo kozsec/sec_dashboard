@@ -941,7 +941,7 @@ function renderOverseaArticles() {
         .map(item => `
             <article class="oversea-item">
                 <div class="oversea-item-meta">
-                    <span>${escapeHtml(item.organization)}</span>
+                    <span>${escapeHtml(item.source)} / ${escapeHtml(item.organization)}</span>
                     <span>${escapeHtml(item.date)}</span>
                 </div>
                 <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
