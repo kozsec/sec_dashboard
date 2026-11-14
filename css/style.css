@@ -660,12 +660,38 @@ display: flex;
 }
 
 .oversea-body {
-    height: 218px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #a0a8b6;
+    height: 278px;
+    overflow-y: auto;
+    color: #687386;
     font-size: 12px;
+}
+
+.oversea-item {
+    padding: 9px 16px;
+    border-bottom: 1px solid #edf0f4;
+}
+
+.oversea-item:last-child {
+    border-bottom: 0;
+}
+
+.oversea-item-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 4px;
+    color: #8a94a6;
+    font-size: 10px;
+}
+
+.oversea-item a {
+    color: #263142;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+.oversea-item a:hover {
+    color: #2563eb;
 }
 
 
