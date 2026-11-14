@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Japan",
+    "category": "public",
+    "organization": "JPCERT/CC",
+    "url": "https://www.jpcert.or.jp/rss/jpcert.rdf"
+  },
+  {
+    "region": "Japan",
+    "category": "vendor",
+    "organization": "トレンドマイクロ",
+    "url": "http://feeds.feedburner.com/tm-security-blog"
+  },
+  {
+    "region": "Overseas",
+    "category": "public",
+    "organization": "CISA",
+    "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+  },
+  {
+    "region": "Overseas",
+    "category": "vendor",
+    "organization": "Palo Alto Networks Unit 42",
+    "url": "https://unit42.paloaltonetworks.com/feed/"
+  },
+  {
+    "region": "Overseas",
+    "category": "vendor",
+    "organization": "Microsoft Security",
+    "url": "https://www.microsoft.com/en-us/security/blog/feed/"
+  }
+]
