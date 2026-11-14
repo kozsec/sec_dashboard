@@ -5,11 +5,11 @@
     "product": null,
     "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00302,
+    "epss_current": 0.00508,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:H/A:N",
     "published": "2026/11/13",
-    "last_update": "2026/11/13"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2026-123039",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01274,
+    "epss_current": 0.02191,
     "cvss": 7.8,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/13",
-    "last_update": "2026/11/13"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2026-124194",
@@ -305,11 +305,11 @@
     "product": null,
     "title": "Plex Media Server External Control of File Name or Path Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01785,
+    "epss_current": 0.19767,
     "cvss": 8.6,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2026-96655",
@@ -329,11 +329,11 @@
     "product": null,
     "title": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01949,
+    "epss_current": 0.12689,
     "cvss": 6.9,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/20",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2026-96652",
@@ -1949,11 +1949,11 @@
     "product": "Serv-U",
     "title": "SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability",
     "kev": "あり",
-    "epss_current": 0.48001,
+    "epss_current": 0.87267,
     "cvss": 7.5,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
     "published": "2026/06/05",
-    "last_update": "2026/11/07"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2026-45247",
@@ -1985,11 +1985,11 @@
     "product": "Framework",
     "title": "Android Framework Integer Overflow Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01947,
+    "epss_current": 0.01995,
     "cvss": 8.4,
     "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/06/02",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/14"
   },
   {
     "cve": "CVE-2024-21182",

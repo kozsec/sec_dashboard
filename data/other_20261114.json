@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-11-14",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "タイムズカーの 情報漏洩 騒動で注目を集める「ホ方式廃止」とは？ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/3509262ba38fbeb22fd624fddd8da9eb26ff5a33?page=2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "東京海上ダイレクトの 情報漏洩 タイムズカーとは違う 1週間つながらない損保（尾藤克之）",
+    "url": "https://news.yahoo.co.jp/expert/articles/e6cb65c8271ee1ec3873950cd3d0e2f4547dcf60"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "マネックス証券、不正アクセス受け本人確認の画像１５９２件 漏えい 可能性…メールアドレスは ...",
+    "url": "https://news.yahoo.co.jp/articles/d2453ef1b3602ad0f60e59accd0d2e2dd3eb2e5c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "マネックス証券でメール最大113万件が漏えいのおそれ - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1a07e6039f167f665f043c4e1cb210548da9856c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "マネックス証券で 不正アクセス 被害 本人確認の画像データ1592件漏えいの可能性",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3086013"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "不正アクセス",
+    "title": "不正アクセス 被害のマネックス証券 免許証画像や「自撮り」流出か - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/17049900"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "不正アクセス",
+    "title": "京成電鉄3百万件超流出か スカイライナーの座席予約システムに 不正アクセス - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261114-YRINJHBDXJJXZN7VDMFQXT4TBY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "スカイライナー予約が全面停止 京成電鉄で 不正アクセス 、最大337万件の情報漏えいか …",
+    "url": "https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "サイバー攻撃",
+    "title": "AI悪用の サイバー攻撃 の拠点と疑われるサーバー 少なくとも千台前後存在か - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32819368/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "tokyo-np.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＡＩ悪用の 攻撃 拠点、千台発見 サイトの弱点探索、不正侵入疑い - 東京新聞",
+    "url": "https://www.tokyo-np.co.jp/article/528200"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "マイクロソフト大障害、丸1日超で全面復旧 原因は 攻撃 でもAIでもなく過去の増強作業",
+    "url": "https://news.yahoo.co.jp/articles/2b0c644695f883fffef1cd050cdf1b6d44b721e6"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "chibanippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "千葉県の受託事業者に不正アクセス ７件 情報漏えい 可能性",
+    "url": "https://www.chibanippo.co.jp/articles/1692277"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "京成スカイライナーのシステムに不正アクセス、個人 情報 ３３７万件 流出 の可能性…チケットレス ...",
+    "url": "https://www.yomiuri.co.jp/national/20261114-GYT1T00197/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏えい",
+    "title": "相次ぐ 情報漏えい でアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも ...",
+    "url": "https://newspicks.com/news/17910138/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "京阪ホールディングス、LINE顧客 情報流出 か 近鉄不動産でも漏洩 - ｄメニューニュース - NTTドコモ",
+    "url": "https://topics.smt.docomo.ne.jp/article/sankei/business/sankei-_economy_business_RBQTAB4RBBN4HFRDMO3HJCPDLI"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "fr.tradingview.com",
+    "identifier": "サイバー攻撃",
+    "title": "CNN、「FAAによる離陸停止命令、 サイバー攻撃 ではなさそうだ」 - TradingView",
+    "url": "https://fr.tradingview.com/news/dzh_financial:b0ed7a4268457:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "サイバー攻撃",
+    "title": "AI悪用の 攻撃 拠点、千台発見 サイトの弱点探索、不正侵入疑い - 47NEWS",
+    "url": "https://www.47news.jp/15231027.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-14",
+    "time": null,
     "organization": "yomiuri.co.jp",
     "identifier": "システム障害",
     "title": "アメリカの全空港「管制施設の通信 システム障害 」で離陸停止措置、４時間後に通信復旧し運航再開",
