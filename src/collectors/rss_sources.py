@@ -82,7 +82,12 @@ def parse_feed(content, source):
             continue
 
         articles.append({
-            "source": "海外" if source["region"] == "Overseas" else "国内",
+            "source": (
+                "海外公的機関" if source["region"] == "Overseas" and source["category"] == "public"
+                else "海外セキュリティベンダー" if source["region"] == "Overseas"
+                else "公的機関" if source["category"] == "public"
+                else "セキュリティベンダー"
+            ),
             "date": published_at.strftime("%Y-%m-%d"),
             "time": published_at.strftime("%H:%M"),
             "organization": source["organization"],
