@@ -3,6 +3,96 @@
     "source": "Web",
     "date": "2026-11-16",
     "time": null,
+    "organization": "niigata-nippo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "スパコン富岳に不正アクセス 理研、 情報漏えい 有無調査 - 新潟日報",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/943499"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "福井市の開示文書データの「黒塗り」外れる問題…他市町の対応は？ 情報漏えい 防止に腐心",
+    "url": "https://news.yahoo.co.jp/articles/1da118b92c885f669fc8ca3fb3d681973e321ae7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "エンジニア転職のpaiza、最大90万件の個人 情報漏えい のおそれ 退職者などアクセス可能な状態",
+    "url": "https://news.yahoo.co.jp/articles/171caf6e7c91bb1f584753595245882dd236f0a2"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "理研のスパコン「富岳」に不正アクセス 最先端の研究、企業も利用 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCJ246MVCJUTFL00LM.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "オープンロジ、自社システムへの不正アクセスで個人 情報 が 漏洩 … - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/01aab62df475c7f4b6fa0555dfb5259f9613dcf7"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "project.nikkeibp.co.jp",
+    "identifier": "情報漏洩",
+    "title": "AIでサイバー攻撃は「別物」に | 一歩先への道しるべ ビズボヤージュ",
+    "url": "https://project.nikkeibp.co.jp/onestep/casestudy/00130/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "【速報】日清食品が利用するシステムに不正アクセス LINE公式アカウントに友だち登録したLINE ...",
+    "url": "https://news.yahoo.co.jp/articles/e4326c647e8b3cd4624507356ae76b3b3a7c18e9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "スパコン「富岳」運用システム不正アクセス 理研が 情報漏洩 の有無調査 大学なども利用",
+    "url": "https://www.sankei.com/article/20261116-JOWJGVDXTFPFXFCOWOB7OEE4EY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "日清食品、LINE登録者 情報 137万件 漏洩 委託先に不正アクセス",
+    "url": "https://www.nikkei.com/article/DGXZQOUC1651Z0W6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文 情報 が 漏えい",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2156617.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
     "organization": "s.netsecurity.ne.jp",
     "identifier": "ランサムウェア",
     "title": "「Shippio Platform」に不正アクセス、データの一部損傷を確認 - ScanNetSecurity",

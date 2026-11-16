@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "source": "IPA",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年11月16日 実務者向けプログラム 制御システム向けサイバー演習（CyberSTIX）2026年度 第3回 福岡開催の申込み受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/short-pgm/cyberstix/2026-3.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-16",
+    "time": "19:00",
+    "organization": "Ｇ－プレイド",
+    "identifier": "4165",
+    "title": "不正アクセスによる個人情報を含む可能性のある情報の漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261116581661.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-16",
+    "time": "16:30",
+    "organization": "Ｇ－アイキューブド",
+    "identifier": "4495",
+    "title": "当社システムへの不正アクセス及び情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261116580960.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-16",
+    "time": "12:30",
+    "organization": "Ｇ－ヌーラボ",
+    "identifier": "5033",
+    "title": "当社サービス「Cacoo」における不正アクセスの発生について（第一報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261116581044.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-16",
+    "time": "12:30",
+    "organization": "Ｇ－ヌーラボ",
+    "identifier": "5033",
+    "title": "当社サービス「Cacoo」における不正アクセスの「Backlog」その他の当社サービスへの影響について（影響なし・通常どおりご利用可能）",
+    "url": "https://www.release.tdnet.info/inbs/140120261116581049.pdf"
+  }
+]
