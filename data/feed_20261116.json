@@ -1,14 +1,5 @@
 [
   {
-    "source": "IPA",
-    "date": "2026-11-16",
-    "time": null,
-    "organization": "IPA",
-    "identifier": "セキュリティ",
-    "title": "人材育成 2026年11月16日 実務者向けプログラム 制御システム向けサイバー演習（CyberSTIX）2026年度 第3回 福岡開催の申込み受付を開始しました",
-    "url": "https://www.ipa.go.jp/jinzai/ics/short-pgm/cyberstix/2026-3.html"
-  },
-  {
     "source": "適時開示",
     "date": "2026-11-16",
     "time": "19:00",
@@ -43,5 +34,23 @@
     "identifier": "5033",
     "title": "当社サービス「Cacoo」における不正アクセスの「Backlog」その他の当社サービスへの影響について（影響なし・通常どおりご利用可能）",
     "url": "https://www.release.tdnet.info/inbs/140120261116581049.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年11月16日 実務者向けプログラム 制御システム向けサイバー演習（CyberSTIX）2026年度 第3回 福岡開催の申込み受付を開始しました",
+    "url": "https://www.ipa.go.jp/jinzai/ics/short-pgm/cyberstix/2026-3.html"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "NIST",
+    "identifier": "IR 8616 (Final)",
+    "title": "ANSI/NIST-ITL 1-2025 Machine-Readable Specification: Technical Framework and Implementation",
+    "url": "https://csrc.nist.gov/pubs/ir/8616/final"
   }
 ]

@@ -3,6 +3,150 @@
     "source": "Web",
     "date": "2026-11-16",
     "time": null,
+    "organization": "shimotsuke.co.jp",
+    "identifier": "情報漏えい",
+    "title": "交際相手に、佐賀県警 - 女性巡査が捜査 情報漏えい 疑い - 下野新聞",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1460244"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "DIT、インテックス大阪で開催される「\"AI時代の\"情報セキュリティ EXPO」に出展 - Infoseek",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000025_000024265/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "AIが全自動 サイバー攻撃 、Googleが観測 無料ツールを悪用 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN167260W6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "最先端スパコン「富岳」に不正アクセス 企業の最新技術流出の懸念 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "システム障害",
+    "title": "Microsoft 365の システム障害 によりホテル宿泊客15人が塩素ガス中毒に見舞われる",
+    "url": "https://news.livedoor.com/article/detail/32828671/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "米金融大手で システム障害 報告、第三者関与の兆候なしと報道 - Infoseek",
+    "url": "https://news.infoseek.co.jp/article/16reutersJAPAN_KCN3WR2HL/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "システム障害",
+    "title": "米金融大手で システム障害 報告、第三者関与の兆候なしと報道 - ニューズウィーク",
+    "url": "https://www.newsweekjapan.jp/articles/-/340299"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "大阪府の行政システムでメアド10万件超漏洩 アララ 不正アクセス で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF164IH0W6A111C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "システム障害",
+    "title": "米大手銀に相次ぐ システム障害 、JPモルガンは「悪意ある関与なし」 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/510f5704-47d0-4116-9338-1d9eb6160a71"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "情報漏えい",
+    "title": "スーパーコンピューター「富岳」に不正アクセス、機密 情報漏えい の恐れ…理研が調査",
+    "url": "https://article.auone.jp/1f146116-d13d-4d60-bcbf-6cd7f27299b4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "biz.chosun.com",
+    "identifier": "情報漏えい",
+    "title": "ミン・ヒジン背任容疑で送致 否認し 情報漏えい を問題視 - ChosunBiz",
+    "url": "https://biz.chosun.com/jp/jp-industry/2026/11/16/JJEEBFG24FG5XOP67NSXVQODPQ/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "kahoku.news",
+    "identifier": "情報漏えい",
+    "title": "スパコン富岳に不正アクセス 理研、 情報漏えい 有無調査 - 河北新報オンライン",
+    "url": "https://kahoku.news/articles/knp2026111601001002.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "情報漏洩",
+    "title": "【現役学生453名に聞く】Z世代学生の8割超が「 情報漏洩 が不安」と回答 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=000000112.000033964&g=prt"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "dailyshincho.jp",
+    "identifier": "情報漏洩",
+    "title": "「投資のプロ」はどうやって証券会社を選んでいる？ 情報漏洩 時代に安心な会社は？ 各社の ...",
+    "url": "https://www.dailyshincho.jp/article/2026/11170455/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "口座を乗っ取られたのは顧客側のせいという態度」 情報漏洩 時代に証券会社をどうやって選ぶ ...",
+    "url": "https://news.yahoo.co.jp/articles/19c35f98182f44df2fb22732a62e110eb2c7d3a4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「PLAZA」など運営のTBS-HDグループ会社で個人 情報漏洩 か メルマガ配信委託先に不正 ...",
+    "url": "https://news.yahoo.co.jp/articles/5385ccb490f525287d4ada885d7a83b667792ab9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-16",
+    "time": null,
     "organization": "niigata-nippo.co.jp",
     "identifier": "情報漏えい",
     "title": "スパコン富岳に不正アクセス 理研、 情報漏えい 有無調査 - 新潟日報",
