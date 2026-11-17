@@ -1,0 +1,20 @@
+[
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-17",
+    "time": "09:08",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-17",
+    "time": "08:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "url": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/"
+  }
+]
