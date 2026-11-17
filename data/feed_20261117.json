@@ -1,5 +1,41 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-11-17",
+    "time": "18:00",
+    "organization": "ＪＩＮＳＨＤ",
+    "identifier": "3046",
+    "title": "当社子会社の委託先に対する不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261117582109.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-17",
+    "time": "17:30",
+    "organization": "Ｇ－チャットプラス",
+    "identifier": "598A",
+    "title": "当社サービスに対する不正アクセスに関するお知らせ（第一報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261117582334.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-17",
+    "time": "16:00",
+    "organization": "ソフト９９",
+    "identifier": "4464",
+    "title": "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261117582082.pdf"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-17",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Why threat hunting should matter to every board",
+    "url": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board"
+  },
+  {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-17",
     "time": "09:08",
