@@ -1,0 +1,29 @@
+[
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-18",
+    "time": "05:43",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+    "url": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-18",
+    "time": "03:14",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "Security for the agentic era, powered by Microsoft Perception",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-18",
+    "time": "00:00",
+    "organization": "Microsoft Security",
+    "identifier": null,
+    "title": "The risks of device code authentication for AI coding agents",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/"
+  }
+]

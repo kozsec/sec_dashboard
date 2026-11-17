@@ -1,5 +1,113 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Dorsett Controls InfoScan",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Mendix Studio Pro",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens meta-iot2050",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens SIMATIC WinCC",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens RUGGEDCOM APE1808",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Industrial Automation Software Products",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens SIMATIC",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Industrial Software Products",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens ROS#",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Siemens Simcenter Femap",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-17",
     "time": "18:00",
@@ -52,5 +160,15 @@
     "identifier": null,
     "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
     "url": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-17",
+    "time": null,
+    "organization": "Perforce",
+    "product": "Puppet Enterprise",
+    "identifier": "CVE-2026-115731",
+    "title": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-115731&field_cve=&sort_by=field_date_added"
   }
 ]
