@@ -108,6 +108,15 @@
     "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10"
   },
   {
+    "source": "海外公的機関",
+    "date": "2026-11-17",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Critical Java Vulnerability Requires Immediate Patching",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-17",
     "time": "18:00",

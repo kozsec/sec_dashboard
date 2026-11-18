@@ -1,5 +1,248 @@
 [
   {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: N-able N-centralに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#1"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: ImageMagickを利用したアプリケーションに任意のファイルの読み書きなどにつながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#2"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#3"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のApple製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#4"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: PostgreSQLに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#5"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#6"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のIntel製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#7"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Movable Typeにコードインジェクションの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#8"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: OpenSSLに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#9"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: React Server Componentsに任意のコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#10"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Node.jsに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#11"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: MongoDBに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#12"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#13"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Atlassian Confluence Data Centerに任意のコード実行の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#14"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Gitに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#15"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#16"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のIvanti製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#17"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#18"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#19"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#20"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#21"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: WebSAM WinShareにおける複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#22"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#23"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#24"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-18",
+    "time": "09:15",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#25"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-18",
+    "time": "09:00",
+    "organization": "Ｇ－インフキュリオン",
+    "identifier": "438A",
+    "title": "外部委託先への不正アクセスに伴う情報漏えいに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261117582347.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-18",
+    "time": "08:45",
+    "organization": "Ｇ－ペイクラウドＨＤ",
+    "identifier": "4015",
+    "title": "当社連結子会社が提供するシステムへの不正アクセスに関するお知らせ（第2報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261118582408.pdf"
+  },
+  {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-18",
     "time": "05:43",
