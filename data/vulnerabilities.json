@@ -1,15 +1,63 @@
 [
   {
+    "cve": "CVE-2024-10441",
+    "company": "Synology",
+    "product": null,
+    "title": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01251,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/18",
+    "last_update": "2026/11/18"
+  },
+  {
+    "cve": "CVE-2026-40217",
+    "company": "BerriAI",
+    "product": null,
+    "title": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.1702,
+    "cvss": 8.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/18",
+    "last_update": "2026/11/18"
+  },
+  {
+    "cve": "CVE-2026-90817",
+    "company": "Vanderbilt University",
+    "product": null,
+    "title": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.03749,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/18",
+    "last_update": "2026/11/18"
+  },
+  {
+    "cve": "CVE-2026-90436",
+    "company": "Apache",
+    "product": null,
+    "title": "Apache Axis Unsafe Reflection Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01128,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/18",
+    "last_update": "2026/11/18"
+  },
+  {
     "cve": "CVE-2026-115731",
     "company": "Perforce",
     "product": null,
     "title": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00366,
+    "epss_current": 0.00691,
     "cvss": 9.4,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/11/17",
-    "last_update": "2026/11/17"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2026-114713",
@@ -113,11 +161,11 @@
     "product": null,
     "title": "GPUStack Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00517,
+    "epss_current": 0.0573,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/12"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2026-123158",
@@ -137,11 +185,11 @@
     "product": null,
     "title": "SignalWire FreeSwitch Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02473,
+    "epss_current": 0.22081,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/12"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2026-123218",
@@ -257,11 +305,11 @@
     "product": null,
     "title": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
     "kev": "あり",
-    "epss_current": 0.47472,
+    "epss_current": 0.6639,
     "cvss": 9.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:N",
     "published": "2026/10/27",
-    "last_update": "2026/11/04"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2026-111497",
@@ -377,11 +425,11 @@
     "product": null,
     "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
     "kev": "あり",
-    "epss_current": 0.79485,
+    "epss_current": 0.50694,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/16",
-    "last_update": "2026/11/12"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2025-61624",
@@ -521,11 +569,11 @@
     "product": null,
     "title": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.30244,
+    "epss_current": 0.88139,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/08",
-    "last_update": "2026/10/25"
+    "last_update": "2026/11/18"
   },
   {
     "cve": "CVE-2015-3306",
