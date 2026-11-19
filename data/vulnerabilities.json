@@ -5,11 +5,11 @@
     "product": null,
     "title": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01251,
+    "epss_current": 0.0215,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/18"
+    "last_update": "2026/11/19"
   },
   {
     "cve": "CVE-2026-40217",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.1702,
+    "epss_current": 0.61911,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/18"
+    "last_update": "2026/11/19"
   },
   {
     "cve": "CVE-2026-90817",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.03749,
+    "epss_current": 0.25187,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/18"
+    "last_update": "2026/11/19"
   },
   {
     "cve": "CVE-2026-90436",
@@ -41,11 +41,11 @@
     "product": null,
     "title": "Apache Axis Unsafe Reflection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01128,
+    "epss_current": 0.01773,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/18"
+    "last_update": "2026/11/19"
   },
   {
     "cve": "CVE-2026-115731",
@@ -317,11 +317,11 @@
     "product": null,
     "title": "Google Brotli Unchecked Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.82641,
+    "epss_current": 0.8237,
     "cvss": 9.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/27",
-    "last_update": "2026/10/29"
+    "last_update": "2026/11/19"
   },
   {
     "cve": "CVE-2026-114625",

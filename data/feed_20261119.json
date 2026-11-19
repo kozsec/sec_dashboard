@@ -1,5 +1,32 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-11-19",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Elecbrakes EB2, VM1, ELBC2000",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-19",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "libumqtt",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-19",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Autonomy Logic OpenPLC Runtime",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-19",
     "time": "12:00",
