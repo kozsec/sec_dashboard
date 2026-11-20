@@ -1,5 +1,45 @@
 [
   {
+    "source": "CISA KEV",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "Apache",
+    "product": "Roller",
+    "identifier": "CVE-2026-129448",
+    "title": "Apache Roller Deserialization of Untrusted Data Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-129448&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "Broadcom",
+    "product": "VMware vCenter",
+    "identifier": "CVE-2026-123890",
+    "title": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-123890&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "SAP",
+    "product": "NetWeaver",
+    "identifier": "CVE-2025-42884",
+    "title": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2025-42884&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "Cisco",
+    "product": "Expressway Series",
+    "identifier": "CVE-2026-76466",
+    "title": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-76466&field_cve=&sort_by=field_date_added"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-20",
     "time": "17:50",
