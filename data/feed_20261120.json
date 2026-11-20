@@ -2,6 +2,69 @@
   {
     "source": "適時開示",
     "date": "2026-11-20",
+    "time": "17:50",
+    "organization": "Ｇ－インフキュリオン",
+    "identifier": "438A",
+    "title": "「Wallet Station」への不正アクセスによる個人情報漏えいに関するお詫びと緊急点検の実施について（第２報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261120584369.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
+    "time": "17:00",
+    "organization": "大崎電",
+    "identifier": "6644",
+    "title": "ランサムウェアによるサイバー攻撃に伴う生産停止に関するお知らせ （第二報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261120584422.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
+    "time": "16:30",
+    "organization": "手間いらず",
+    "identifier": "2477",
+    "title": "（開示事項の経過）「当社システムへの不正アクセスに関する調査結果のご報告（最終報告）」の公表について",
+    "url": "https://www.release.tdnet.info/inbs/140120261120584383.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
+    "time": "15:45",
+    "organization": "Ｇ－ヌーラボ",
+    "identifier": "5033",
+    "title": "当社サービス「Cacoo」の再開の目処および不正アクセスに関する現在の状況について（第三報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261120584334.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
+    "time": "15:30",
+    "organization": "Ｇ－イオレ",
+    "identifier": "2334",
+    "title": "【開示事項の経過】外部サービス「Notion」のAI機能において発生したセキュリティインシデントに関するお知らせ（第二報・終報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261120584265.pdf"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-20",
+    "time": "13:40",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260033.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
+    "time": "13:00",
+    "organization": "Ｇ－プレイド",
+    "identifier": "4165",
+    "title": "「KARTE」への不正アクセスに関する調査結果およびサービス再開の見通しのお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261119583758.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-20",
     "time": "11:30",
     "organization": "ＳＥ　Ｈ＆Ｉ",
     "identifier": "9478",
@@ -16,5 +79,23 @@
     "identifier": "438A",
     "title": "「Wallet Station」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
     "url": "https://www.release.tdnet.info/inbs/140120261120583076.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "試験情報",
+    "title": "2026年11月20日 ITパスポート試験（令和8年10月実施）の合格者受験番号一覧を掲載しました",
+    "url": "https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pass.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "試験情報 2026年11月20日 情報マネジメント試験・基本情報技術者試験（令和8年10月実施）の合格者受験番号一覧を掲載しました",
+    "url": "https://www.ipa.go.jp/shiken/mousikomi/cbt_sg_fe.html#cbt04"
   }
 ]

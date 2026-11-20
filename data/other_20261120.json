@@ -3,6 +3,213 @@
     "source": "Web",
     "date": "2026-11-20",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "スパコン富岳へ 不正アクセス 、理研が調査委 運転再開の見通し立たず - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOSG203R00Q6A121C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "sekidocorp.com",
+    "identifier": "不正アクセス",
+    "title": "外部メール配信サービスへの 不正アクセス によるメールアドレス流出に関するお詫びとお知らせ",
+    "url": "https://sekidocorp.com/20261120_36084/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "鹿児島の決済アプリ「Payどん」停止 決済委託先に 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOJC201HZ0Q6A121C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "不正アクセス",
+    "title": "Payどん委託先に再び 不正アクセス 利用者らの個人情報約25万件が流出 全サービスも停止",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3099984"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "不正アクセス",
+    "title": "JNSA「情報セキュリティ理解度チェックサービス」に 不正アクセス | ScanNetSecurity",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/20/56855.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "ドコモオンラインショップなどに 不正アクセス 、最大約30万件と一部の口座番号も流出の可能性 ...",
+    "url": "https://news.yahoo.co.jp/articles/242c30777e6134b003de2eaeb4ceb283fe615ef0"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "momono.info",
+    "identifier": "システム障害",
+    "title": "東宝スタジオ見学ツアー、teket システム障害 により応募受付一時停止中です",
+    "url": "https://momono.info/archives/29874"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "システム障害",
+    "title": "米国家サイバー長官が退任へ、相次ぐ システム障害 の中 - Infoseek",
+    "url": "https://news.infoseek.co.jp/article/20reutersJAPAN_KCN3WV02B/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "システム障害",
+    "title": "米政権が国家サイバー長官解任、相次ぐ システム障害 で批判 - NewsPicks",
+    "url": "https://newspicks.com/news/17954926/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "システム障害",
+    "title": "米国で1週間に相次ぐネット 障害 、ホワイトハウスが国家サイバー長官を解任 - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/0014567e-9111-4d4e-9c26-b061df0e6d6c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "台湾有事で日本の鉄道や電力が止まる？ サイバー攻撃 の専門家が警告する「見えない脅威」",
+    "url": "https://www.newsweekjapan.jp/articles/-/340804"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "gigazine.net",
+    "identifier": "サイバー攻撃",
+    "title": "欧州委員会がAIを用いた サイバー攻撃 の標的になったことを発表 - GIGAZINE",
+    "url": "https://gigazine.net/news/20261120-eu-commission-cyberattack/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "ランサム被害のアサヒGHD、135億円を投資 AIで侵入・ 攻撃 検知 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC276AC0X21C26A0000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "日本は 攻撃 者の「カモ」米 サイバー セキュリティー大手トップに聞く “致命的な課題”指摘も",
+    "url": "https://news.yahoo.co.jp/articles/ff67ac5eed6a2beb73ba70004e6b23b9b51dbcaa"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "「情報の扱いがずさん」楽天証券の 情報漏洩 めぐり、弁護士が指摘 - ライブドアニュース",
+    "url": "https://news.livedoor.com/topics/detail/32860516/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "togetter.com",
+    "identifier": "情報漏洩",
+    "title": "北海道の自治体で個人 情報漏洩 の恐れ、委託先PCが『NIKKE』経由で感染…「仕事用PC ... - Togetter",
+    "url": "https://togetter.com/li/2772568"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "楽天証券の 情報漏洩 、集団訴訟に向けたサイトに2万人超登録 「企業側の法的責任追及」",
+    "url": "https://www.sankei.com/article/20261120-KIGHTNLUCJOKPPV7A6LJ4TXLXU/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "情報漏洩",
+    "title": "LCCピーチ、顧客 情報 899万件 漏洩 ユミルリンク不正アクセスで - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF2069C0Q6A121C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "不正アクセス",
+    "title": "NHKニュース on X: \" 不正アクセス 履歴保全チーム『警察庁FFF』発足式 https://t.co/siikGT25oz ...",
+    "url": "https://x.com/nhk_news/status/2123694599235678527"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「サイバー攻撃による 情報漏えい への対応は正に待ったなし」警察庁長官 「ファスト ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3101564"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "情報漏えい",
+    "title": "東京ガス、ウォーターサーバー顧客4.9万人分の 情報漏えい 委託先に不正アクセス",
+    "url": "https://finance.biggo.jp/news/cb1e80f5-35af-48fe-9c34-b427bd3ae78e"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "政府システムに不正アクセス、 情報漏えい か（共同通信） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/f71b47521e17088aafa958b47bb71a6bbe13221b"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "【速報】三井住友銀で 情報漏えい 、最大1400万件 - 47NEWS",
+    "url": "https://www.47news.jp/15262461.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-20",
+    "time": null,
     "organization": "selectra.jp",
     "identifier": "情報漏えい",
     "title": "mineoで最大142万件の 情報漏えい 、カード・パスワードは無事でも「フィッシングメール」に要警戒",
