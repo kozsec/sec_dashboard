@@ -3,6 +3,231 @@
     "source": "Web",
     "date": "2026-11-21",
     "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "「カルテ」 漏洩 、のべ２２００社に影響か - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16592489.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「六花亭」不正アクセス、クレジットカードの不正利用１件確認…客からの申し出により判明",
+    "url": "https://news.yahoo.co.jp/articles/9f609779b25f56e13a3903380cb064f7e73feb74"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "住所・資産など…なぜ“テスト環境”から顧客 情報漏えい 金融庁が楽天証券に報告徴求 - Infoseek",
+    "url": "https://news.infoseek.co.jp/article/tvasahi_900204834/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "digitaltoday.co.kr",
+    "identifier": "サイバー攻撃",
+    "title": "冷蔵設備への サイバー攻撃 拡大 病院向け波及に警戒",
+    "url": "https://www.digitaltoday.co.kr/jp/view/128992/refrigerator-hacking-spreads-beyond-grocers-to-hospitals-vaccines-blood-storage-at-risk"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "PHPの脆弱性公表から1か月、現在も続く日本企業への 攻撃 …停止・終了したサイトも数多く",
+    "url": "https://www.yomiuri.co.jp/national/20261121-GYT1T00033/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "航空会社「ピーチ」個人 情報 が約900万件 漏えい …運航への影響なし・クレカ 情報 など含まれず",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3103033?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "住所・資産など…なぜ“テスト環境”から顧客 情報漏えい 金融庁が楽天証券に報告徴求",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-900204834"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "情報漏えい 相次ぐ中…愛知県警がオンラインでの“セキュリティ診断”を開始 不正アクセス被害 ...",
+    "url": "https://news.yahoo.co.jp/articles/dc45153e96ec3330ee0abdc282f1db98a06658bb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "times.abema.tv",
+    "identifier": "情報漏えい",
+    "title": "【写真・画像】住所・資産など…なぜ“テスト環境”から顧客 情報漏えい 金融庁が楽天証券に報告 ...",
+    "url": "https://times.abema.tv/articles/photo/10291080?pn=8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏えい",
+    "title": "警部補が不適切な交際関係にあった女性に 情報漏えい 、関係終わった後つきまといや不正照会 ...",
+    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261121-GYO1T00012/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "nagasaki-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "長崎市公式観光サイト登録の個人 情報 が 漏えい 「プレイド」（東京）提供のサービスを利用",
+    "url": "https://www.nagasaki-np.co.jp/kijis/?kijiid=6efedcc0fe0940ef8198b3f891d378f4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "hokkaido-np.co.jp",
+    "identifier": "情報漏えい",
+    "title": "留萌・新得 住基 情報漏えい 無断で再委託疑い - 北海道新聞デジタル",
+    "url": "https://www.hokkaido-np.co.jp/article/1412728/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "topics.smt.docomo.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "航空会社「ピーチ」個人 情報 が約900万件 漏えい …運航への影響なし・クレカ 情報 など含まれず",
+    "url": "https://topics.smt.docomo.ne.jp/article/mbs_news/business/mbs_news-3103033"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "情報漏えい",
+    "title": "NHKニュース on X: \"メルカリ AIに入力した個人 情報漏えい か「リスト型攻撃」も https://t.co ...",
+    "url": "https://x.com/nhk_news/status/2124013703054172217"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "アサヒGHDがサイバー攻撃対策に135億円を投資、AIで侵入検知と自動遮断を強化 (ビジネス＋IT)",
+    "url": "https://news.yahoo.co.jp/articles/e97905a7fdb9c28a2aec3fe5a9791540ae764f0c/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "ランサムウェア",
+    "title": "Viettel Cyber​​ Securityは、企業向けサイバーセキュリティ脅威検出サービスを発表しました。",
+    "url": "https://www.vietnam.vn/ja/viettel-cyber-security-gioi-thieu-dich-vu-san-tim-moi-nguy-an-ninh-mang-cho-doanh-nghiep"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "【JX通信社・デジタルデータソリューション共催共催】11月 25日（水）自然災害・サイバー攻撃 ...",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000265_000005993/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "リクルート、個人情報2万1900件が漏えいのおそれ プレイドの「KARTE」 不正アクセス で …",
+    "url": "https://news.yahoo.co.jp/articles/1a296affc614134114d15b49552d4b72f4d340c4"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "リクルート、個人情報2万1900件が漏えいのおそれ プレイドの「KARTE」 不正アクセス で",
+    "url": "https://japan.cnet.com/article/35255249/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "jiji.com",
+    "identifier": "不正アクセス",
+    "title": "ＦＢＩ犯罪情報網に 不正 侵入疑い 農務省もサイバー攻撃被害―米報道 - 時事通信",
+    "url": "https://www.jiji.com/jc/article?k=2026112100350&g=int"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "不正アクセス",
+    "title": "「六花亭」 不正アクセス 、クレジットカードの不正利用１件確認…客からの申し出により判明",
+    "url": "https://www.yomiuri.co.jp/national/20261121-GYT1T00262/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "サイバー攻撃",
+    "title": "相次ぐ サイバー攻撃 に対処 警察の専門部隊「FFF」発足 通信履歴の保全・分析など - X",
+    "url": "https://x.com/tv_asahi_news/status/2123954217509625912"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏洩",
+    "title": "情報漏洩 対策ソリューション「PCFILTER」、ASPIC AI・クラウドアワード2026で先進技術賞を受賞",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000032_000051157/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "togetter.com",
+    "identifier": "情報漏洩",
+    "title": "「黒塗り資料が出たら面白いな」連日 情報漏洩 が話題になる中、ついに政府の基幹ネットワークが ...",
+    "url": "https://togetter.com/li/2773326"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "情報漏洩",
+    "title": "漏洩 対策に「ブロッキング」 法的課題を検討 有識者会議 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/DA3S16592446.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
     "organization": "nikkei.com",
     "identifier": "不正アクセス",
     "title": "メルカリ、顧客の個人情報流出の恐れ 委託先へ 不正アクセス - 日本経済新聞",
