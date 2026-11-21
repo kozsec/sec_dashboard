@@ -2,6 +2,15 @@
   {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-21",
+    "time": "07:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+    "url": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-21",
     "time": "02:00",
     "organization": "Microsoft Security",
     "identifier": null,
