@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-11-21",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "FBIの犯罪 情報 データベースに不正アクセスか トランプ大統領「良くないことだ」 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/13aea6738963996f3584e165f9bb5dc251c250c9"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏えい",
+    "title": "FBIの犯罪 情報 データベースに不正アクセスか トランプ大統領「良くないことだ」 - TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3103679?display=1"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "simplywall.st",
+    "identifier": "ランサムウェア",
+    "title": "AI関連の売上高目標は、シスコ（CSCO）株にとって大きな転機となる可能性がある",
+    "url": "https://simplywall.st/ja/stocks/us/tech/nasdaq-csco/cisco-systems/news/189f5b55afc65615"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "サイバー攻撃 防止策を提供 セキュア社 半年無償 - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1971849"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "vietnam.vn",
+    "identifier": "システム障害",
+    "title": "米国における航空事故の背景にあるセキュリティ上の抜け穴 - Vietnam.vn",
+    "url": "https://www.vietnam.vn/ja/lo-hong-an-ninh-dang-sau-su-co-hang-khong-tai-my"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "nikkei.com",
+    "identifier": "サイバー攻撃",
+    "title": "GMOも被害の サイバー攻撃 AI悪用と対応策を知る10選 - 日経デジタルガバナンス",
+    "url": "https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC206CK0Q6A121C2000000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "Ｒｕｂｙ脆弱性７件公表、島根県内で各社対応に追われる 放置で不正アクセスの危険性",
+    "url": "https://news.yahoo.co.jp/articles/9973e8682c6c8656b41dab1908be8e04a76350bf"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "ブロッキング 情報漏洩 対策の手順を詰めよ - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32866463/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "article.auone.jp",
+    "identifier": "情報漏洩",
+    "title": "北海道「六花亭」8000件流出の深刻度は群を抜いている！「カード番号とセキュリティコードが ...",
+    "url": "https://article.auone.jp/deed2eac-476a-4320-9f6f-372a12541812"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "hashout.jp",
+    "identifier": "不正アクセス",
+    "title": "セガ音ゲー 不正アクセス 障害、3週間ぶり試験稼働へ――店舗更新待ちで遊べない機種も残る",
+    "url": "https://hashout.jp/game/14706/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "不正アクセス",
+    "title": "「ZOZOTOWN」1518万人分の情報流出、退会者も対象 委託先のKARTEに 不正アクセス",
+    "url": "https://japan.cnet.com/article/35255260/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "米農務省にサイバー攻撃 FBIもハッキングか - 47NEWS",
+    "url": "https://www.47news.jp/15265150.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "japan.cnet.com",
+    "identifier": "情報漏えい",
+    "title": "三井住友銀行、顧客 情報 が最大約1400万件 漏えい 「KARTE」に不正アクセス - CNET Japan",
+    "url": "https://japan.cnet.com/article/35255263/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "venture-solution.jp",
+    "identifier": "情報漏えい",
+    "title": "三井住友銀行がKARTEへの不正アクセスで顧客 情報 最大約1400万件の 漏えい を発表",
+    "url": "https://venture-solution.jp/security/cs-118712/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "富岳とＤＢＳ サイバー 対策の脆さ露呈した - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/editorial/20261121-GYT1T00338/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "asahi.com",
+    "identifier": "サイバー攻撃",
+    "title": "不正アクセスの痕跡を見つけよ サイバー 競技大会で実力を競う警察官 - 朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCN34MSVCNUBUB001M.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "venture-solution.jp",
+    "identifier": "不正アクセス",
+    "title": "理研が富岳と理究への 不正アクセス 第2報を公表し秘密鍵430件に持ち出しの痕跡を確認",
+    "url": "https://venture-solution.jp/security/cs-118714/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
     "organization": "asahi.com",
     "identifier": "情報漏洩",
     "title": "「カルテ」 漏洩 、のべ２２００社に影響か - 朝日新聞",
