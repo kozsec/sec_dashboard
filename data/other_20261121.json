@@ -3,6 +3,69 @@
     "source": "Web",
     "date": "2026-11-21",
     "time": null,
+    "organization": "nikkei.com",
+    "identifier": "不正アクセス",
+    "title": "メルカリ、顧客の個人情報流出の恐れ 委託先へ 不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC208RC0Q6A121C2000000/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "okinawatimes.co.jp",
+    "identifier": "情報漏えい",
+    "title": "米農務省にサイバー攻撃 機密 情報漏えい の恐れ | 共同通信 ニュース - 沖縄タイムス＋プラス",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1971555"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "united.jp",
+    "identifier": "情報漏えい",
+    "title": "当社連結子会社における不正アクセスの発生及び個人 情報漏えい の可能性に関するお知らせ",
+    "url": "https://united.jp/news/info/post_170.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "newsweekjapan.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア内陸1300キロの石油拠点にドローン 攻撃 …夜空を照らす激しい閃光、ウクライナが狙った ...",
+    "url": "https://www.newsweekjapan.jp/articles/photo/340891"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "sankei.com",
+    "identifier": "情報漏洩",
+    "title": "米農務省にサイバー攻撃 機密 情報漏洩 の恐れ - 産経ニュース",
+    "url": "https://www.sankei.com/article/20261121-M3RCNSER65NGPM2PGLNCCITQOY/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "情報漏洩",
+    "title": "［社説］ブロッキング 情報漏洩 対策の手順を詰めよ - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/shimen/20261120-GYT9T00388/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
+    "organization": "x.com",
+    "identifier": "サイバー攻撃",
+    "title": "日本経済新聞 電子版（日経電子版） on X: \" サイバー攻撃 で国内病院も被害 患者の病名流出 ...",
+    "url": "https://x.com/nikkei/status/2123960440946340298"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-21",
+    "time": null,
     "organization": "about.goldwin.co.jp",
     "identifier": "情報漏えい",
     "title": "当社業務委託先システムへの不正アクセスによるお客さま 情報漏えい に関するお詫びとお知らせ ...",
