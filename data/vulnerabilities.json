@@ -17,11 +17,11 @@
     "product": null,
     "title": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02985,
+    "epss_current": 0.03526,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/20",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2025-42884",
@@ -77,11 +77,11 @@
     "product": null,
     "title": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.33395,
+    "epss_current": 0.34335,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2026-90436",
@@ -197,11 +197,11 @@
     "product": null,
     "title": "Google Chromium Use-After-Free Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0189,
+    "epss_current": 0.068,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/11/10",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2026-102895",
@@ -221,11 +221,11 @@
     "product": null,
     "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.8768,
+    "epss_current": 0.95538,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2026-116779",
@@ -473,11 +473,11 @@
     "product": null,
     "title": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
     "kev": "あり",
-    "epss_current": 0.55639,
+    "epss_current": 0.57903,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/16",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2025-61624",
@@ -521,11 +521,11 @@
     "product": null,
     "title": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.06227,
+    "epss_current": 0.05715,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/10/14",
-    "last_update": "2026/11/06"
+    "last_update": "2026/11/22"
   },
   {
     "cve": "CVE-2026-105133",

@@ -3,6 +3,123 @@
     "source": "Web",
     "date": "2026-11-22",
     "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "タワーレコードに不正アクセス、1100万件の個人 情報 流出と発表 (朝日新聞) - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/269659d7246adc6239b74120320371d45b6a3f06/images/000"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "情報漏洩",
+    "title": "AIサイバー攻撃で 情報 流出が急増 専門家が語る備え方 - ライブドアニュース - Livedoor",
+    "url": "https://news.livedoor.com/topics/detail/32873044/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "togetter.com",
+    "identifier": "情報漏洩",
+    "title": "Apple辺りがやらかしていないのは流石では？→ 漏洩 させている側がサイバー攻撃用にクラウドを ...",
+    "url": "https://togetter.com/li/2773653"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "innovatopia.jp",
+    "identifier": "不正アクセス",
+    "title": "Payどん委託先のインフキュリオンに 不正アクセス 、個人情報251,172件が漏えい 全サービス停止",
+    "url": "https://innovatopia.jp/cyber-security/cyber-security-news/121476/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "不正アクセス",
+    "title": "三井住友銀行、顧客情報が最大約1400万件漏えい 「KARTE」に 不正アクセス （CNET Japan）",
+    "url": "https://news.yahoo.co.jp/articles/a7477d29e736dc62edf533bcf49473bdd8e01dcb"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "タワーレコードに不正アクセス、1100万件の個人 情報流出 と発表（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/269659d7246adc6239b74120320371d45b6a3f06"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "楽天証券の 情報漏えい 、コメント148件を受けて 当事者として見直す強盗・詐欺への備え …",
+    "url": "https://news.yahoo.co.jp/expert/articles/bae3e1f8325cdbb8878e508f0fe864bc58abff59"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "togetter.com",
+    "identifier": "情報漏洩",
+    "title": "「委託したとこ全部 漏洩 してんじゃんよ  」プレイド『KARTE』の不正アクセスで - Togetter",
+    "url": "https://togetter.com/li/2773732"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "chiba-tv.com",
+    "identifier": "不正アクセス",
+    "title": "タワレコ、 不正アクセス で1千万件超流出 | チバテレ＋プラス",
+    "url": "https://www.chiba-tv.com/plus/detail/2026112249291"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "47news.jp",
+    "identifier": "情報漏えい",
+    "title": "タワーレコードで1千万件超 流出 通販サイトに不正アクセス - 47NEWS",
+    "url": "https://www.47news.jp/15270691.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【画像】京王電鉄、京王プレッソインの ランサムウェア 攻撃で18億円減収 12月にも予約受付再開へ",
+    "url": "https://news.livedoor.com/article/image_detail/32876365/?img_id=57742641"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "finance.biggo.jp",
+    "identifier": "ランサムウェア",
+    "title": "Vercel CEOギレルモ・ラウチ氏：AIハッキングツールが24時間で顧客コード ... - BigGo ファイナンス",
+    "url": "https://finance.biggo.jp/news/17e2227596780f10"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "リビア停泊中のロシア軍艦に 攻撃 ウクライナのドローンによる長距離 攻撃 の指摘も | KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/17072309"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-22",
+    "time": null,
     "organization": "article.auone.jp",
     "identifier": "システム障害",
     "title": "“AI終末論”に揺れるアメリカ社会 相次ぐ重要インフラの機能不全に広がる不安 日本にも迫る脅威",
