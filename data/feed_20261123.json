@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-23",
+    "time": null,
+    "organization": "Project MONAI",
+    "product": "MONAI Label",
+    "identifier": "CVE-2026-133968",
+    "title": "Project MONAI MONAI Label Path Traversal Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-133968&field_cve=&sort_by=field_date_added"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-23",
+    "time": null,
+    "organization": "N-able",
+    "product": "MailAssure",
+    "identifier": "CVE-2026-134624",
+    "title": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-134624&field_cve=&sort_by=field_date_added"
+  }
+]
