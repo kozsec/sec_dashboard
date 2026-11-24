@@ -1,5 +1,14 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-11-23",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  },
+  {
     "source": "CISA KEV",
     "date": "2026-11-23",
     "time": null,
