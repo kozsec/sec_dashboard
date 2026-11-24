@@ -3,6 +3,141 @@
     "source": "Web",
     "date": "2026-11-24",
     "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ロシア軍の死者４９万人超か、 サイバー攻撃 による流出データは「本物」と英報道…「５分に１人 ...",
+    "url": "https://www.yomiuri.co.jp/world/20261124-GYT1T00383/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.ksb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "京王G 顧客など1100万人以上情報漏えいか - KSBニュース",
+    "url": "https://news.ksb.co.jp/ann/article/17076014"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "京王グループ 約1063万件 漏えい か - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6603825"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "netshop.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "決済画面のプログラムが改ざんでカード 情報 が 漏えい の可能性。「六花亭オンラインショップ」へ ...",
+    "url": "https://netshop.impress.co.jp/n/2026/11/24/17081"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "japansecuritysummit.org",
+    "identifier": "情報漏えい",
+    "title": "デジタル庁GSSのファイル共有サービスで 情報漏えい の可能性 正規共有先以外からアクセス",
+    "url": "https://japansecuritysummit.org/2026/11/15438/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "newspicks.com",
+    "identifier": "情報漏洩",
+    "title": "サッカー＝スペインリーグがサイバー攻撃被害、個人 情報 が流出 - NewsPicks",
+    "url": "https://newspicks.com/news/17974218/?ref=picked-news_20191&tabKey=U:20191"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "京王G 顧客など1100万人以上 情報漏えい か - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000550264.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "女性366人の個人 情報 を 漏洩 三原市が自衛隊広島地方協力本部に誤って提供 自衛隊側が ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3108494"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "gekiryu-online.jp",
+    "identifier": "情報漏洩",
+    "title": "京王電鉄、ランサムウェア攻撃で約1063万人の個人 情報漏洩 か - 激流オンライン",
+    "url": "https://gekiryu-online.jp/2026/11/262026"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "newsdig.tbs.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「強盗に狙われる…」楽天証券の個人 情報漏洩 問題 年収・金融資産などはなぜ流出したのか 悪用 ...",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3108455"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "kfb.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "イランの サイバー攻撃 で国交断絶もアルバニア政府高官単独取材「作戦変更」で脅威続く",
+    "url": "https://www.kfb.co.jp/news/article/17076524"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "「強盗に狙われる…」楽天証券の個人 情報 漏洩問題 年収・金融資産などはなぜ 流出 したのか 悪用 ...",
+    "url": "https://news.yahoo.co.jp/articles/bb42dd42df04cdb18f071da6aedc327b9d34711d"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "watch.impress.co.jp",
+    "identifier": "情報漏えい",
+    "title": "京王、最大1108万件の個人 情報漏えい の可能性 一部マイナカードの写しも - Impress Watch",
+    "url": "https://www.watch.impress.co.jp/docs/news/2158875.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏えい",
+    "title": "ヴェレダ公式通販、クレカ 情報 4万件超が 漏えい か 番号・名義・有効期限・セキュリティコードも …",
+    "url": "https://news.yahoo.co.jp/articles/50d6a9fb514caf60ac3b3ab5d83ce91b025bf3f8"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "情報漏洩",
+    "title": "日本へのサイバー攻撃「急増」の意外な実態...相次ぐ被害報道が生む「錯覚」と本当の脅威 …",
+    "url": "https://news.yahoo.co.jp/articles/83dd825041b80d050f29dd9f7a53d8eb64040566"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-24",
+    "time": null,
     "organization": "coki.jp",
     "identifier": "情報漏洩",
     "title": "情報漏洩 の見舞金はいくら？お詫び金ランキング 最高1万円、ニトリ・無印は0円【随時更新】 - coki",

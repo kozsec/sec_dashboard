@@ -1,5 +1,50 @@
 [
   {
+    "source": "海外公的機関",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "Danfoss AK-SM 8xxA Series",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03"
+  },
+  {
+    "source": "海外公的機関",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "AutomationDirect C-More EA9 Programming Software",
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-24",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
+    "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc"
+  },
+  {
+    "source": "海外",
+    "date": "2026-11-24",
+    "time": "12:00",
+    "organization": "NCSC",
+    "identifier": null,
+    "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
+    "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-24",
     "time": "11:00",
@@ -25,5 +70,23 @@
     "identifier": "438A",
     "title": "「Wallet Station」への不正アクセスによる個人情報漏えいに関するお詫びと緊急点検の状況について（第３報）",
     "url": "https://www.release.tdnet.info/inbs/140120261122584562.pdf"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "セキュリティ",
+    "title": "人材育成 2026年11月24日 2026年度「インド太平洋地域向け日米EU産業制御システムサイバーウィーク」を実施",
+    "url": "https://www.ipa.go.jp/jinzai/ics/global/ics20261124.html"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-24",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年11月24日 【2026年12月5日開催】ITスキルが活きる量子コンピューティングセミナーのご案内",
+    "url": "https://www.ipa.go.jp/jinzai/mitou/event/quantum-seminar-20261205.html"
   }
 ]

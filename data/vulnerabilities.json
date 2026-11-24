@@ -5,11 +5,11 @@
     "product": null,
     "title": "Project MONAI MONAI Label Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.03664,
+    "epss_current": 0.49795,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/23",
-    "last_update": "2026/11/23"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-134624",
@@ -17,11 +17,11 @@
     "product": null,
     "title": "N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
     "kev": "あり",
-    "epss_current": 0.00354,
+    "epss_current": 0.00617,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:N/VC:H/VI:H/VA:N/SC:H/SI:H/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/11/23",
-    "last_update": "2026/11/23"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-129448",
@@ -29,11 +29,11 @@
     "product": null,
     "title": "Apache Roller Deserialization of Untrusted Data Vulnerability",
     "kev": "あり",
-    "epss_current": 0.05459,
+    "epss_current": 0.40069,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/20",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-123890",
@@ -137,11 +137,11 @@
     "product": null,
     "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01148,
+    "epss_current": 0.01351,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:H/A:N",
     "published": "2026/11/13",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-123039",
@@ -389,11 +389,11 @@
     "product": null,
     "title": "Google Brotli Unchecked Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.99931,
+    "epss_current": 0.99987,
     "cvss": 9.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/27",
-    "last_update": "2026/11/21"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-114625",
@@ -1397,11 +1397,11 @@
     "product": "VMware vCenter",
     "title": "Broadcom VMware vCenter Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.61668,
+    "epss_current": 0.88458,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/08/18",
-    "last_update": "2026/11/07"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-55040",
@@ -1601,11 +1601,11 @@
     "product": "SharePoint",
     "title": "Microsoft SharePoint Deserialization of Untrusted Data Vulnerability ",
     "kev": "あり",
-    "epss_current": 0.8187,
+    "epss_current": 0.98811,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/07/22",
-    "last_update": "2026/11/16"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-60137",
@@ -1769,11 +1769,11 @@
     "product": "IOS",
     "title": "Cisco IOS Cross-Site Request Forgery Vulnerability",
     "kev": "あり",
-    "epss_current": 0.33871,
+    "epss_current": 0.35238,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N",
     "published": "2026/07/13",
-    "last_update": "2026/09/24"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-56291",
@@ -2021,11 +2021,11 @@
     "product": "Chromium V8",
     "title": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0244,
+    "epss_current": 0.02481,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/06/09",
-    "last_update": "2026/11/16"
+    "last_update": "2026/11/24"
   },
   {
     "cve": "CVE-2026-7473",
