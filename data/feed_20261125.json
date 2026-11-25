@@ -1,5 +1,50 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-11-25",
+    "time": "17:30",
+    "organization": "Ｇ－インフキュリオン",
+    "identifier": "438A",
+    "title": "「Wallet Station」への不正アクセスに関する提供先のサービス再開状況について（第４報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261125586210.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-25",
+    "time": "17:00",
+    "organization": "大崎電",
+    "identifier": "6644",
+    "title": "ランサムウェアによるサイバー攻撃に伴う生産停止に関するお知らせ （第三報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261125586202.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-25",
+    "time": "16:00",
+    "organization": "Ｐ－ヒューマンＡ",
+    "identifier": "249A",
+    "title": "当社委託先のクラウドサービスへの不正アクセスによる個人情報漏えいに関するお知らせ（お詫び）（第二報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261124585501.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-25",
+    "time": "15:30",
+    "organization": "メディアドゥ",
+    "identifier": "3678",
+    "title": "取引先におけるサービス停止（不正アクセス）に伴う当社業績への影響に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261125585727.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-25",
+    "time": "15:30",
+    "organization": "共英製鋼",
+    "identifier": "5440",
+    "title": "当社米国子会社に対するサイバー攻撃に関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261125586067.pdf"
+  },
+  {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-25",
     "time": "08:00",
