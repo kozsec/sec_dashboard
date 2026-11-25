@@ -3,6 +3,159 @@
     "source": "Web",
     "date": "2026-11-25",
     "time": null,
+    "organization": "newspicks.com",
+    "identifier": "ランサムウェア",
+    "title": "アイオーデータ、不正アクセス対策を強化した法人向けNAS - 最大128TB、10GbE×2搭載",
+    "url": "https://newspicks.com/news/17981859/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "情報漏洩",
+    "title": "「タイムズカー」 情報漏えい 見舞金来月から支払い 画像情報の約146万件対象 - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000550485.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "kyoto-np.co.jp",
+    "identifier": "システム障害",
+    "title": "ペイペイ、クレカ決済に 障害 サイバー攻撃は確認されず｜全国の記事｜京都新聞 ON BUSINESS",
+    "url": "https://www.kyoto-np.co.jp/articles/biz/1833172"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "novaist.jp",
+    "identifier": "システム障害",
+    "title": "マイクロソフト、世界的 障害 を受け「コードレッド」宣言 1時間以内の復旧とAI導入を計画",
+    "url": "https://novaist.jp/articles/microsoft-outage-code-red/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.tv-asahi.co.jp",
+    "identifier": "システム障害",
+    "title": "PayPayで システム障害 PayPayクレジットが使用できず - テレ朝NEWS",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000550617.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "システム障害",
+    "title": "ＰａｙＰａｙで システム障害 、クレジットカード連携サービスが利用不可に…サイバー攻撃確認 ...",
+    "url": "https://news.yahoo.co.jp/articles/7a49005e95efded37afe89a15337bb415b54aeff"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "novaist.jp",
+    "identifier": "情報漏えい",
+    "title": "丸井・エポスカードの顧客 情報 、延べ約1,733万件 漏えい 外部サービス「KARTE」に不正アクセス",
+    "url": "https://novaist.jp/articles/marui-epos-data-breach/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "s.netsecurity.ne.jp",
+    "identifier": "情報漏えい",
+    "title": "山善コーポレートサイトに不正アクセス、「お問い合わせフォーム」への登録データ延べ1万508件 ...",
+    "url": "https://s.netsecurity.ne.jp/article/2026/11/25/56894.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "chunichi.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "ＮＺの新聞に サイバー攻撃 地域紙の配達を延期",
+    "url": "https://www.chunichi.co.jp/article/1344287"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "yomiuri.co.jp",
+    "identifier": "サイバー攻撃",
+    "title": "かんぽ生命保険の顧客情報が最大６万件漏えい、顧客特定につながる情報は含まれず - 読売新聞",
+    "url": "https://www.yomiuri.co.jp/economy/20261125-GYT1T00266/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.livedoor.com",
+    "identifier": "ランサムウェア",
+    "title": "【ネット流行語100】漏えいは10か月で約3億5000万件、前年の10倍超 相次いだ「不正アクセス ...",
+    "url": "https://news.livedoor.com/article/detail/32836848/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.yahoo.co.jp",
+    "identifier": "ランサムウェア",
+    "title": "サイバー攻撃をされた企業は本当に「身代金」を払っていないのか アメリカでは「38億円」支払っ ...",
+    "url": "https://news.yahoo.co.jp/articles/95b70973ea91fab86f2feb394d65866839eb731c"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "nippon.com",
+    "identifier": "不正アクセス",
+    "title": "楽天証券、資産情報１６８万件漏えい＝株・投信など商品別残高― 不正アクセス | nippon.com",
+    "url": "https://www.nippon.com/ja/articles/-/57971"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "news.infoseek.co.jp",
+    "identifier": "情報漏えい",
+    "title": "CIAがハッキング被害 機密 情報 の 漏えい は確認されず CNN報道 20日にはFBIも犯罪 情報 の ...",
+    "url": "https://news.infoseek.co.jp/article/tbs_3108706/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "internet.watch.impress.co.jp",
+    "identifier": "情報漏洩",
+    "title": "京王電鉄、ランサムウェア攻撃の調査結果を公表、従業員などの個人 情報漏えい を確認",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2159048.html"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "tradingview.com",
+    "identifier": "システム障害",
+    "title": "FAAの システム障害 と高騰する運賃が、感謝祭の旅行計画を一変させる — TradingView News",
+    "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760WE:0/"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "cybersecurity-jp.com",
+    "identifier": "不正アクセス",
+    "title": "楽天証券が 不正アクセス の第2報を公表、個人情報約441万件の漏えいを確認",
+    "url": "https://cybersecurity-jp.com/news/118896"
+  },
+  {
+    "source": "Web",
+    "date": "2026-11-25",
+    "time": null,
     "organization": "forbesjapan.com",
     "identifier": "システム障害",
     "title": "空港もNSAも止まった米国の 障害 、背景にAIが見つけた脆弱性と「修正ラッシュ」 - Forbes JAPAN",
