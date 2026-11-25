@@ -27,6 +27,15 @@
     "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01"
   },
   {
+    "source": "海外公的機関",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+  },
+  {
     "source": "海外",
     "date": "2026-11-24",
     "time": "12:00",

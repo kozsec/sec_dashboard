@@ -2,6 +2,15 @@
   {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-25",
+    "time": "08:00",
+    "organization": "Palo Alto Networks Unit 42",
+    "identifier": null,
+    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "url": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/"
+  },
+  {
+    "source": "海外セキュリティベンダー",
+    "date": "2026-11-25",
     "time": "00:00",
     "organization": "Palo Alto Networks Unit 42",
     "identifier": null,
