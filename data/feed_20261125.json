@@ -1,13 +1,12 @@
 [
   {
-    "source": "CISA KEV",
+    "source": "海外公的機関",
     "date": "2026-11-25",
-    "time": null,
-    "organization": "Hewlett Packard Enterprise (HPE)",
-    "product": "Juniper Session Smart Conductor and Session Smart Router",
-    "identifier": "CVE-2026-103406",
-    "title": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
-    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-103406&field_cve=&sort_by=field_date_added"
+    "time": "21:00",
+    "organization": "CISA",
+    "identifier": null,
+    "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+    "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
   },
   {
     "source": "適時開示",
@@ -71,5 +70,15 @@
     "identifier": null,
     "title": "Recent Trends and Tactics of Agentic AI Attacks",
     "url": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+  },
+  {
+    "source": "CISA KEV",
+    "date": "2026-11-25",
+    "time": null,
+    "organization": "Hewlett Packard Enterprise (HPE)",
+    "product": "Juniper Session Smart Conductor and Session Smart Router",
+    "identifier": "CVE-2026-103406",
+    "title": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search=CVE-2026-103406&field_cve=&sort_by=field_date_added"
   }
 ]

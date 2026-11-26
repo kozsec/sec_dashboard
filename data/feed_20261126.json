@@ -1,5 +1,221 @@
 [
   {
+    "source": "適時開示",
+    "date": "2026-11-26",
+    "time": "12:00",
+    "organization": "チェンジＨＤ",
+    "identifier": "3962",
+    "title": "当社連結子会社における不正アクセスによる個人情報の外部流出に関するお知らせ（最終報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261126586529.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-26",
+    "time": "11:30",
+    "organization": "サイバーステップＨＤ",
+    "identifier": "3810",
+    "title": "業務委託企業への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261126586608.pdf"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#1"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#2"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#3"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: IBM Guardium Data Protectionに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#4"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: UniFi Access Applicationに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#5"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Rubyに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#6"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Drupal coreに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#7"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#8"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のASUS製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#9"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のF5製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#10"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: ILIASに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#11"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Firefoxに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#12"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: プリザンターに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#13"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: AutoSys Workload Automationに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#14"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#15"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のOracle製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#16"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#17"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: GitLabに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#18"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: ONLYOFFICE Docsに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#19"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: Apache Shiroに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#20"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: nginxにおける複数の脆弱性（CVE-2026-123007など）について",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#21"
+  },
+  {
+    "source": "公的機関",
+    "date": "2026-11-26",
+    "time": "09:24",
+    "organization": "JPCERT/CC",
+    "identifier": null,
+    "title": "Weekly Report: 認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#22"
+  },
+  {
     "source": "海外セキュリティベンダー",
     "date": "2026-11-26",
     "time": "03:09",
@@ -25,5 +241,14 @@
     "identifier": null,
     "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
     "url": "https://unit42.paloaltonetworks.com/ai-threat-horizon/"
+  },
+  {
+    "source": "IPA",
+    "date": "2026-11-26",
+    "time": null,
+    "organization": "IPA",
+    "identifier": "人材育成",
+    "title": "2026年11月26日 【2026年12月15日】TechGALA Japan 2026: BEYOND登壇のご案内",
+    "url": "https://www.ipa.go.jp/jinzai/mitou/event/techgala20261215.html"
   }
 ]
