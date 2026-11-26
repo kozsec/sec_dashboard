@@ -5,11 +5,11 @@
     "product": null,
     "title": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
     "kev": "あり",
-    "epss_current": 0.0086,
+    "epss_current": 0.01535,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/25",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2026-133968",
@@ -149,11 +149,11 @@
     "product": null,
     "title": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01351,
+    "epss_current": 0.10202,
     "cvss": 8.6,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:H/A:N",
     "published": "2026/11/13",
-    "last_update": "2026/11/24"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2026-123039",
@@ -341,11 +341,11 @@
     "product": null,
     "title": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
     "kev": "あり",
-    "epss_current": 0.1184,
+    "epss_current": 0.74315,
     "cvss": 10.0,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H",
     "published": "2026/10/29",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2026-76418",
@@ -869,11 +869,11 @@
     "product": null,
     "title": "Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
     "kev": "あり",
-    "epss_current": 0.02067,
+    "epss_current": 0.02193,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/18",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2025-39964",
@@ -1601,11 +1601,11 @@
     "product": "SmartConsole",
     "title": "Check Point SmartConsole Improper Authentication Vulnerability",
     "kev": "あり",
-    "epss_current": 0.80106,
+    "epss_current": 0.78945,
     "cvss": 9.3,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/07/22",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2026-50522",
@@ -1745,11 +1745,11 @@
     "product": "SharePoint Server",
     "title": "Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01011,
+    "epss_current": 0.07814,
     "cvss": 5.3,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
     "published": "2026/07/14",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/26"
   },
   {
     "cve": "CVE-2026-15409",
