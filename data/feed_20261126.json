@@ -1,5 +1,32 @@
 [
   {
+    "source": "NCO",
+    "date": "2026-11-26",
+    "time": null,
+    "organization": "国家サイバー統括室",
+    "identifier": "新着情報",
+    "title": "シーラー駐日オーストラリア大使による古川サイバー安全保障担当大臣の表敬訪問について",
+    "url": "https://www.cyber.go.jp/news/20261126_press.html"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-26",
+    "time": "19:00",
+    "organization": "Ｇ－シンカ",
+    "identifier": "149A",
+    "title": "弊社社内業務システムへの不正アクセスに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261126586941.pdf"
+  },
+  {
+    "source": "適時開示",
+    "date": "2026-11-26",
+    "time": "18:38",
+    "organization": "Ｇ－インフォネットＧ",
+    "identifier": "4444",
+    "title": "当社子会社が運用するinfoCMSへの不正アクセスに関するお知らせ（第2報）",
+    "url": "https://www.release.tdnet.info/inbs/140120261126587182.pdf"
+  },
+  {
     "source": "適時開示",
     "date": "2026-11-26",
     "time": "12:00",
