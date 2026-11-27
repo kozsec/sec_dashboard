@@ -1,5 +1,41 @@
 [
   {
+    "cve": "CVE-2026-120705",
+    "company": "OSGeo",
+    "product": null,
+    "title": "OSGeo GeoServer XML Injection Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/11/27",
+    "last_update": "2026/11/27"
+  },
+  {
+    "cve": "CVE-2026-129243",
+    "company": "OSGeo",
+    "product": null,
+    "title": "OSGeo GeoServer Incorrect Authorization Vulnerability",
+    "kev": "あり",
+    "epss_current": null,
+    "cvss": null,
+    "cvss_vector": null,
+    "published": "2026/11/27",
+    "last_update": "2026/11/27"
+  },
+  {
+    "cve": "CVE-2026-136716",
+    "company": "Drupal",
+    "product": null,
+    "title": "Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+    "kev": "あり",
+    "epss_current": 0.01212,
+    "cvss": 9.8,
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "published": "2026/11/27",
+    "last_update": "2026/11/27"
+  },
+  {
     "cve": "CVE-2026-103406",
     "company": "Hewlett Packard Enterprise (HPE)",
     "product": null,
@@ -101,11 +137,11 @@
     "product": null,
     "title": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
     "kev": "あり",
-    "epss_current": 0.20215,
+    "epss_current": 0.2063,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/18",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/27"
   },
   {
     "cve": "CVE-2026-90817",
@@ -257,11 +293,11 @@
     "product": null,
     "title": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.14205,
+    "epss_current": 0.89631,
     "cvss": 8.1,
     "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/11/09",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/27"
   },
   {
     "cve": "CVE-2026-116779",
@@ -401,11 +437,11 @@
     "product": null,
     "title": "Google Brotli Unchecked Return Value Vulnerability",
     "kev": "あり",
-    "epss_current": 0.32976,
+    "epss_current": 0.99987,
     "cvss": 9.2,
     "cvss_vector": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X",
     "published": "2026/10/27",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/27"
   },
   {
     "cve": "CVE-2026-114625",
@@ -833,11 +869,11 @@
     "product": null,
     "title": "Check Point Multiple Products Path Traversal Vulnerability",
     "kev": "あり",
-    "epss_current": 0.20905,
+    "epss_current": 0.91605,
     "cvss": 9.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
     "published": "2026/09/22",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/27"
   },
   {
     "cve": "CVE-2026-85102",
@@ -2033,11 +2069,11 @@
     "product": "Chromium V8",
     "title": "Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
     "kev": "あり",
-    "epss_current": 0.01077,
+    "epss_current": 0.00974,
     "cvss": 8.8,
     "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
     "published": "2026/06/09",
-    "last_update": "2026/11/25"
+    "last_update": "2026/11/27"
   },
   {
     "cve": "CVE-2026-7473",
